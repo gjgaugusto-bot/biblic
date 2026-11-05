@@ -28,6 +28,7 @@ jobs:
         run: |
           node --check app.js
           node --check study-data.js
+          node --check book-art.js
           node --check scripts/validate-site.mjs
       - name: Validar estrutura do site
         run: node scripts/validate-site.mjs
