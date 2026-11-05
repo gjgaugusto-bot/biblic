@@ -315,3 +315,14 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Validador agora executa testes funcionais de vínculo de símbolos e testes de importação de backup. Execução do validador em ambiente isolado: aprovada.
 - Nenhum conteúdo bíblico, significado da biblioteca ou ilustração foi alterado.
 - Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; inspeção visual em navegador real pendente.
+
+
+### Integração final do vínculo de simbologias
+
+- PR #20 integrado à main e registrado no diário.
+- PR #21 integrado à main: https://github.com/gjgaugusto-bot/biblic/pull/21.
+- Commit de integração do registro: 241b1a85b098c29b1d4aca1caced3595e9f5c5c5.
+- Workflow Proteção do site, execução 42122506913 (run 68): sucesso; validação aprovada; mirror ignorado no evento de PR.
+- O validador agora executa testes funcionais para correspondência de símbolos e importação de backups, além das verificações estruturais.
+- Inspeção pública do GitHub Pages não foi possível por indisponibilidade de acesso da ferramenta de navegação; não declarar visual publicado como conferido.
+- Estado: CORREÇÕES TÉCNICAS INTEGRADAS; CI APROVADO; TESTE VISUAL EXTERNO PENDENTE.
