@@ -109,6 +109,29 @@ if (existsSync("index.html") && existsSync("app.js")) {
     }
   }
 
+  const saveStart = app.indexOf("function saveChapterEdit");
+  const saveEnd = app.indexOf("$('saveChapter').onclick", saveStart);
+  if (saveStart < 0 || saveEnd < 0) fail("Não foi possível isolar o salvamento transacional de capítulos");
+  else {
+    try {
+      const sandbox = {
+        edits: { "0-1": { title: "Título anterior" } },
+        persist: () => ({ saved: false, backedUp: false })
+      };
+      runInNewContext(app.slice(saveStart, saveEnd), sandbox);
+      const failed = sandbox.saveChapterEdit("0-1", { title: "Título novo" });
+      const restoredExisting = sandbox.edits["0-1"].title === "Título anterior";
+      const failedNew = sandbox.saveChapterEdit("0-2", { title: "Novo capítulo" });
+      const removedNew = !Object.prototype.hasOwnProperty.call(sandbox.edits, "0-2");
+      sandbox.persist = () => ({ saved: true, backedUp: true });
+      const success = sandbox.saveChapterEdit("0-1", { title: "Salvo" });
+      if (failed.saved || !restoredExisting || failedNew.saved || !removedNew || !success.saved || sandbox.edits["0-1"].title !== "Salvo")
+        fail("Falha ao testar rollback e confirmação do salvamento de capítulos");
+    } catch (error) {
+      fail(`Teste de salvamento de capítulos falhou: ${error.message}`);
+    }
+  }
+
   const arrayStart = app.indexOf("function readLocalArray");
   const arrayEnd = app.indexOf("function readLocalObject", arrayStart);
   if (arrayStart < 0 || arrayEnd < 0) fail("Não foi possível isolar a leitura segura de listas locais");
