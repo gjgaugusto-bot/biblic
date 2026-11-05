@@ -85,14 +85,15 @@ function renderStudyText(value){const items=String(value||'').split(/\r?\n/).map
 function renderChapterSymbols(value){
  const names=String(value||'').split(/\r?\n/).map(line=>line.split('|')[0].trim()).filter(Boolean);
  if(!names.length)return '<span class="related-empty">Nenhuma simbologia vinculada à base de dados enviada por você.</span>';
- const library=Array.isArray(window.STUDY_LIBRARY)?window.STUDY_LIBRARY.filter(item=>item&&item.category==='Símbolos'):[];
- const custom=readLocalArray('encBibSymbols').filter(item=>item&&typeof item.name==='string').map(item=>({name:item.name,description:item.text||''}));
  const available=new Map();
- [...library,...custom].forEach(item=>{if(item&&typeof item.name==='string'){const key=item.name.trim().toLocaleLowerCase('pt-BR');if(key&&!available.has(key))available.set(key,item)}});
+ getStudyEntries().filter(item=>item&&item.category==='Símbolos').forEach(item=>{
+  const key=item.name.trim().toLocaleLowerCase('pt-BR');
+  if(key&&!available.has(key))available.set(key,item);
+ });
  const seen=new Set(),matched=[];
  names.forEach(name=>{const key=name.toLocaleLowerCase('pt-BR'),item=available.get(key);if(item&&!seen.has(key)){seen.add(key);matched.push(item)}});
  if(!matched.length)return '<span class="related-empty">Nenhum dos nomes informados foi encontrado na biblioteca de simbologias.</span>';
- return renderStudyItems(matched.map(item=>[item.name,item.description||item.text||'']));
+ return renderStudyItems(matched.map(item=>[item.name,item.description||'']));
 }
 function refreshChapterSymbols(bookIndex,chapter,value){
  if(!String(value||'').trim()||Array.isArray(window.STUDY_LIBRARY)||typeof window.loadStudyLibraryData!=='function')return;
@@ -116,9 +117,23 @@ function readLocalData(storageKey,fallback){
 }
 function readLocalArray(storageKey){
  const value=readLocalData(storageKey,[]);
- if(Array.isArray(value))return value;
- recordAppError('O dado local não é uma lista válida.','Leitura: '+storageKey);
- return [];
+ if(!Array.isArray(value)){
+  recordAppError('O dado local não é uma lista válida.','Leitura: '+storageKey);
+  return [];
+ }
+ const required={encBibGuides:['name'],encBibSymbols:['name'],encBibCharacters:['name']}[storageKey]||[];
+ const defaults={
+  encBibGuides:{description:'',content:''},
+  encBibSymbols:{mark:'',text:'',refs:''},
+  encBibCharacters:{bio:'',refs:''}
+ }[storageKey]||{};
+ const valid=value.filter(item=>item&&typeof item==='object'&&!Array.isArray(item)&&required.every(field=>typeof item[field]==='string'&&item[field].trim()));
+ if(valid.length!==value.length)recordAppError('Registros locais incompletos foram ignorados na exibição; os dados originais permanecem preservados.','Leitura: '+storageKey);
+ return valid.map(item=>{
+  const normalized={...item};
+  Object.entries(defaults).forEach(([field,fallback])=>{if(typeof normalized[field]!=='string')normalized[field]=fallback});
+  return normalized;
+ });
 }
 function readLocalObject(storageKey){
  const value=readLocalData(storageKey,{});
@@ -231,27 +246,62 @@ function loadEdit(){let book=+$('editBook').value,chapter=+$('editChapter').valu
 function persist(){return saveLocalData(key,JSON.stringify(edits))}
 BOOKS.forEach((b,i)=>$('editBook').add(new Option(b.name,i)));
 $('editBook').onchange=fillChapters;$('editChapter').onchange=loadEdit;fillChapters();
-$('saveChapter').onclick=()=>{let k=`${$('editBook').value}-${$('editChapter').value}`;edits[k]={title:$('chapterTitle').value,summary:$('chapterSummary').value,explanation:$('chapterExplanation').value,versesText:$('chapterVerses').value,episodes:$('chapterEpisodes').value,refs:$('chapterRefs').value,characterDetailsText:$('chapterCharacters').value,symbolDetailsText:$('chapterSymbols').value};const result=persist();$('saveStatus').textContent=!result.saved?'Não foi possível salvar o capítulo. Verifique o espaço disponível no navegador.':!result.backedUp?'Capítulo salvo, mas o backup automático falhou. Exporte uma cópia manual.':'Capítulo salvo neste navegador e incluído no backup automático local.'};
+$('saveChapter').onclick=()=>{
+ const k=`${$('editBook').value}-${$('editChapter').value}`;
+ const hadPrevious=Object.prototype.hasOwnProperty.call(edits,k),previous=edits[k];
+ edits[k]={title:$('chapterTitle').value,summary:$('chapterSummary').value,explanation:$('chapterExplanation').value,versesText:$('chapterVerses').value,episodes:$('chapterEpisodes').value,refs:$('chapterRefs').value,characterDetailsText:$('chapterCharacters').value,symbolDetailsText:$('chapterSymbols').value};
+ const result=persist();
+ if(!result.saved){
+  if(hadPrevious)edits[k]=previous;else delete edits[k];
+  $('saveStatus').textContent='Não foi possível salvar o capítulo. Suas informações continuam nos campos; tente novamente ou exporte um backup antes de sair.';
+  return;
+ }
+ $('saveStatus').textContent=!result.backedUp?'Capítulo salvo, mas o backup automático falhou. Exporte uma cópia manual.':'Capítulo salvo neste navegador e incluído no backup automático local.';
+};
 $('addSymbol').onclick=()=>{const name=$('symbolName').value.trim(),meaning=$('symbolText').value.trim();if(!name||!meaning){$('symbolStatus').textContent='Preencha o nome e o significado do símbolo.';return}const items=readLocalArray('encBibSymbols');items.push({name,mark:$('symbolMark').value.trim(),text:meaning,refs:$('symbolRefs').value.trim()});const result=saveLocalData('encBibSymbols',JSON.stringify(items));if(!result.saved){$('symbolStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('symbolName').value='';$('symbolMark').value='';$('symbolText').value='';$('symbolRefs').value='';$('symbolStatus').textContent=result.backedUp?'Simbologia adicionada e incluída no backup automático local.':'Simbologia salva, mas o backup automático falhou. Exporte uma cópia manual.';renderSymbols()};
 let studyCategory='Todos',studyVisibleItems=[],studyCurrentItem=null;
-function getStudyEntries(){const edits=readLocalObject('encBibStudyEdits'),base=(window.STUDY_LIBRARY||[]).map(item=>{const id=item.category+'|'+item.name;return {...item,...(edits[id]||{}),_id:id}}),custom=readLocalArray('encBibSymbols').map((item,i)=>{const id='Símbolos|custom-'+i;return {name:item.name,description:item.text||'',category:'Símbolos',...((edits[id])||{}),_id:id}});return base.concat(custom)}
+function getStudyEntries(){
+ const edits=readLocalObject('encBibStudyEdits');
+ const base=(Array.isArray(window.STUDY_LIBRARY)?window.STUDY_LIBRARY:[])
+  .filter(item=>item&&typeof item==='object'&&!Array.isArray(item)&&typeof item.name==='string'&&item.name.trim()&&typeof item.category==='string'&&item.category.trim())
+  .map(item=>{
+   const id=item.category+'|'+item.name,change=edits[id]&&typeof edits[id]==='object'&&!Array.isArray(edits[id])?edits[id]:{};
+   return {
+    ...item,
+    name:typeof change.name==='string'&&change.name.trim()?change.name:item.name,
+    category:typeof change.category==='string'&&change.category.trim()?change.category:item.category,
+    description:typeof change.description==='string'?change.description:(typeof item.description==='string'?item.description:''),
+    _id:id
+   };
+  });
+ const custom=readLocalArray('encBibSymbols').map((item,i)=>{
+  const id='Símbolos|custom-'+i,change=edits[id]&&typeof edits[id]==='object'&&!Array.isArray(edits[id])?edits[id]:{};
+  return {
+   name:typeof change.name==='string'&&change.name.trim()?change.name:item.name,
+   description:typeof change.description==='string'?change.description:(item.text||''),
+   category:typeof change.category==='string'&&change.category.trim()?change.category:'Símbolos',
+   _id:id
+  };
+ });
+ return base.concat(custom);
+}
 async function renderSymbols(category){if(category)studyCategory=category;try{if(!window.STUDY_LIBRARY)await window.loadStudyLibraryData();}catch(error){$('symbolList').innerHTML='<p>Não foi possível carregar a biblioteca neste navegador. Atualize a página e tente novamente.</p>';return}const q=($('studySearch')?.value||'').trim().toLocaleLowerCase('pt-BR');studyVisibleItems=getStudyEntries().filter(x=>(studyCategory==='Todos'||x.category===studyCategory)&&(!q||(x.name+' '+x.description).toLocaleLowerCase('pt-BR').includes(q)));document.querySelectorAll('.study-category').forEach(b=>b.classList.toggle('active',b.dataset.studyCategory===studyCategory));$('symbolList').innerHTML=studyVisibleItems.length?'<div class="study-library-grid">'+studyVisibleItems.map((x,i)=>`<article class="study-library-card"><button class="study-open" data-study-open="${i}"><span class="study-kind">${esc(x.category)}</span><strong>${esc(x.name)}</strong><span>${esc(x.description.slice(0,155))}${x.description.length>155?'…':''}</span><small>Abrir explicação →</small></button></article>`).join('')+'</div>':'<article class="guidecard"><p>Nenhum item encontrado nesta categoria.</p></article>';document.querySelectorAll('[data-study-open]').forEach(b=>b.onclick=()=>openStudyItem(+b.dataset.studyOpen))}
 function openStudyItem(index){const item=studyVisibleItems[index];if(!item)return;detailOrigin='symbols';studyCurrentItem=item;$('detailContent').innerHTML=`<p class="eyebrow">${esc(item.category.toUpperCase())}</p><h1>${esc(item.name)}</h1><div class="chapterbody">${esc(item.description)}</div><p class="hint">Fonte: material de estudo enviado para a Enciclopédia Bíblica. Interpretações podem variar conforme a tradição e o contexto bíblico.</p><button class="primary" id="editStudyCurrent">Editar este item</button>`;show('detail');$('editStudyCurrent').onclick=()=>{show('admin');$('studyEditName').value=item.name;$('studyEditCategory').value=item.category;$('studyEditDescription').value=item.description;$('studyEditStatus').textContent='Editando: '+item.name;};}
 document.querySelectorAll('.study-category').forEach(b=>b.onclick=()=>renderSymbols(b.dataset.studyCategory));
 document.querySelectorAll('[data-open-study]').forEach(b=>b.onclick=()=>{show('symbols');renderSymbols(b.dataset.openStudy)});
 if($('studySearch'))$('studySearch').oninput=()=>renderSymbols(); 
 $('saveStudyItem').onclick=()=>{if(!studyCurrentItem){$('studyEditStatus').textContent='Abra um item da biblioteca antes de editar.';return}const name=$('studyEditName').value.trim(),category=$('studyEditCategory').value.trim(),description=$('studyEditDescription').value.trim();if(!name||!category||!description){$('studyEditStatus').textContent='Preencha nome, categoria e explicação.';return}const edits=readLocalObject('encBibStudyEdits');edits[studyCurrentItem._id]={name,category,description};const result=saveLocalData('encBibStudyEdits',JSON.stringify(edits));if(!result.saved){$('studyEditStatus').textContent='Não foi possível salvar o item. Tente novamente.';return}studyCurrentItem={...studyCurrentItem,name,category,description};$('studyEditStatus').textContent=result.backedUp?'Item atualizado e incluído no backup automático local.':'Item salvo, mas o backup automático falhou. Exporte uma cópia manual.';renderSymbols(category);};
-function renderCharacters(){const items=readLocalArray('encBibCharacters');$('characterList').innerHTML=items.length?items.map((x,i)=>`<button class="link-card" data-character="${i}"><span>${esc(x.name)}</span><small>Ver biografia →</small></button>`).join(''):'<article class="guidecard"><p>Ainda não há personagens cadastrados. Use o Painel administrativo para adicionar o primeiro.</p></article>';document.querySelectorAll('[data-character]').forEach(b=>b.onclick=()=>openDetail('character',+b.dataset.character))}
-let detailOrigin='characters';function openDetail(type,index,origin){detailOrigin=origin|| (type==='character'?'characters':'symbols');const items=readLocalArray(type==='character'?'encBibCharacters':'encBibSymbols'),x=items[index];if(!x)return;$('detailContent').innerHTML=`<p class="eyebrow">${type==='character'?'PERSONAGEM BÍBLICO':'SIMBOLOGIA BÍBLICA'}</p><h1>${x.mark?esc(x.mark)+' ':''}${esc(x.name)}</h1><div class="chapterbody">${esc(type==='character'?x.bio:x.text)}</div>${x.refs?`<h3>Referências bíblicas</h3><p>${esc(x.refs)}</p>`:''}`;show('detail')}
+function renderCharacters(){const items=readLocalArray('encBibCharacters');$('characterList').innerHTML=items.length?items.map((x,i)=>`<button type="button" class="link-card" data-character="${i}"><span>${esc(x.name)}</span><small>Ver biografia →</small></button>`).join(''):'<article class="guidecard"><p>Ainda não há personagens cadastrados. Use o Painel administrativo para adicionar o primeiro.</p></article>';document.querySelectorAll('[data-character]').forEach(b=>b.onclick=()=>openDetail('character',+b.dataset.character))}
+let detailOrigin='characters';function openDetail(type,index,origin){detailOrigin=origin|| (type==='character'?'characters':'symbols');const items=readLocalArray(type==='character'?'encBibCharacters':'encBibSymbols'),x=items[index];if(!x)return;$('detailContent').innerHTML=`<p class="eyebrow">${type==='character'?'PERSONAGEM BÍBLICO':'SIMBOLOGIA BÍBLICA'}</p><h1>${x.mark?esc(x.mark)+' ':''}${esc(x.name)}</h1><div class="chapterbody">${esc(type==='character'?(x.bio||''):(x.text||''))}</div>${x.refs?'<h3>Referências bíblicas</h3><p>'+esc(x.refs)+'</p>':''}`;show('detail')}
 $('detailBack').onclick=()=>{if(detailOrigin==='reader'){openChapter(currentChapter)}else{show(detailOrigin)}};
 $('addCharacter').onclick=()=>{const name=$('characterName').value.trim(),bio=$('characterBio').value.trim();if(!name||!bio){$('characterStatus').textContent='Preencha o nome e a biografia.';return}const items=readLocalArray('encBibCharacters');items.push({name,bio,refs:$('characterRefs').value.trim()});const result=saveLocalData('encBibCharacters',JSON.stringify(items));if(!result.saved){$('characterStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('characterName').value=$('characterBio').value=$('characterRefs').value='';$('characterStatus').textContent=result.backedUp?'Personagem adicionado e incluído no backup automático local!':'Personagem salvo, mas o backup automático falhou. Exporte uma cópia manual.';renderCharacters() }
 $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('guideStatus').textContent='Informe o nome da guia.';return}let guides=readLocalArray('encBibGuides');guides.push({name,description:$('guideDescription').value,content:$('guideContent').value});const result=saveLocalData('encBibGuides',JSON.stringify(guides));if(!result.saved){$('guideStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('guideName').value=$('guideDescription').value=$('guideContent').value='';$('guideStatus').textContent=result.backedUp?'Nova guia criada! Ela aparece na página inicial.':'Guia salva, mas o backup automático falhou. Exporte uma cópia manual.';renderGuides()};
-function renderGuides(){let g=readLocalArray('encBibGuides');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
+function renderGuides(){let g=readLocalArray('encBibGuides');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description||'')}</p><p>${esc(x.content||'')}</p></article>`).join(''):''}
 $('exportData').onclick=()=>{let blob=new Blob([JSON.stringify({edits,guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters')},null,2)],{type:'application/json'});let url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000)};
 function validateImportedBackup(data){
  if(!data||typeof data!=='object'||Array.isArray(data))return 'O arquivo não contém um objeto de backup válido.';
  const schemas={edits:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array'};
- const present=Object.keys(schemas).filter(k=>Object.prototype.hasOwnProperty.call(data,k));
+ const present=Object.keys(schemas).filter(field=>Object.prototype.hasOwnProperty.call(data,field));
  if(!present.length)return 'O arquivo não contém campos reconhecidos da Enciclopédia Bíblica.';
  for(const field of present){
   const value=data[field],kind=schemas[field];
@@ -260,18 +310,30 @@ function validateImportedBackup(data){
   if(Array.isArray(value)&&value.some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
   if(kind==='object'&&Object.values(value).some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
  }
- if(data.guides&&data.guides.some(item=>typeof item.name!=='string'))return 'Há uma guia sem nome válido.';
- if(data.symbols&&data.symbols.some(item=>typeof item.name!=='string'))return 'Há uma simbologia sem nome válido.';
- if(data.characters&&data.characters.some(item=>typeof item.name!=='string'))return 'Há um personagem sem nome válido.';
+ const optionalStrings=(item,fields)=>fields.every(field=>!Object.prototype.hasOwnProperty.call(item,field)||typeof item[field]==='string');
+ if(data.edits){
+  const textFields=['title','summary','explanation','versesText','episodes','refs','characterDetailsText','symbolDetailsText'];
+  for(const [key,entry] of Object.entries(data.edits)){
+   const parts=/^(\d+)-(\d+)$/.exec(key);
+   if(!parts||!BOOKS[Number(parts[1])]||Number(parts[2])<1||Number(parts[2])>BOOKS[Number(parts[1])].chapters)return 'Há uma edição com identificação de livro ou capítulo inválida.';
+   if(!optionalStrings(entry,textFields))return 'Há campos de capítulo com tipos de dados inválidos.';
+  }
+ }
+ if(data.guides&&data.guides.some(item=>typeof item.name!=='string'||!item.name.trim()||!optionalStrings(item,['description','content'])))return 'Há uma guia com campos inválidos.';
+ if(data.symbols&&data.symbols.some(item=>typeof item.name!=='string'||!item.name.trim()||!optionalStrings(item,['mark','text','refs'])))return 'Há uma simbologia com campos inválidos.';
+ if(data.characters&&data.characters.some(item=>typeof item.name!=='string'||!item.name.trim()||!optionalStrings(item,['bio','refs'])))return 'Há um personagem com campos inválidos.';
+ if(data.studyEdits&&Object.values(data.studyEdits).some(item=>!optionalStrings(item,['name','category','description'])))return 'Há uma edição da biblioteca com campos inválidos.';
  return '';
 }
 $('importData').onchange=async e=>{
  const file=e.target.files&&e.target.files[0];if(!file)return;
  try{
+  if(file.size>10*1024*1024)throw new Error('O arquivo ultrapassa o limite de segurança de 10 MB.');
   const data=JSON.parse(await file.text()),problem=validateImportedBackup(data);
   if(problem)throw new Error(problem);
-  const oldEdits=edits,previous={};
-  BACKUP_KEYS.forEach((storageKey)=>previous[storageKey]=localStorage.getItem(storageKey));
+  const oldEdits=edits,managedKeys=[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY],previous={};
+  managedKeys.forEach(storageKey=>previous[storageKey]=localStorage.getItem(storageKey));
+  // Estado anterior capturado para todos os dados e metadados de backup.
   try{
    if(Object.prototype.hasOwnProperty.call(data,'edits')){edits=data.edits;localStorage.setItem(key,JSON.stringify(edits))}
    for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters']]){
@@ -286,7 +348,12 @@ $('importData').onchange=async e=>{
    localStorage.setItem(AUTO_BACKUP_HISTORY_KEY,JSON.stringify(history.slice(0,8)));
   }catch(storageError){
    edits=oldEdits;
-   BACKUP_KEYS.forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
+   const rollbackErrors=[];
+   managedKeys.forEach(storageKey=>{
+    try{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])}
+    catch(rollbackError){rollbackErrors.push(storageKey);recordAppError(rollbackError,'Falha ao restaurar '+storageKey+' após importação interrompida')}
+   });
+   if(rollbackErrors.length)throw new Error('A importação falhou e a restauração automática ficou incompleta em: '+rollbackErrors.join(', ')+'. Não feche a página; exporte os dados atuais e tente novamente.');
    throw storageError;
   }
   renderGuides();renderSymbols();renderCharacters();loadEdit();
@@ -299,8 +366,21 @@ $('importData').onchange=async e=>{
 }
 $('clearData').onclick=()=>{
  if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
+ const managedKeys=[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY],previous={};
+ try{
+  managedKeys.forEach(storageKey=>previous[storageKey]=localStorage.getItem(storageKey));
+  managedKeys.forEach(storageKey=>localStorage.removeItem(storageKey));
+ }catch(error){
+  const rollbackErrors=[];
+  managedKeys.forEach(storageKey=>{
+   try{if(previous[storageKey]===null||!Object.prototype.hasOwnProperty.call(previous,storageKey))localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])}
+   catch(rollbackError){rollbackErrors.push(storageKey);recordAppError(rollbackError,'Falha ao restaurar '+storageKey+' após limpeza interrompida')}
+  });
+  recordAppError(error,'Falha ao apagar os dados locais');
+  $('saveStatus').textContent=rollbackErrors.length?'A limpeza falhou e a restauração automática ficou incompleta. Não feche a página; exporte os dados atuais.':'Não foi possível apagar os dados. Nenhuma alteração foi confirmada; tente novamente.';
+  return;
+ }
  edits={};
- [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
  renderGuides();renderSymbols();renderCharacters();loadEdit();
  $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
 };
