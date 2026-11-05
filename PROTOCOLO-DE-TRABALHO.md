@@ -48,7 +48,9 @@ A revisão deve deixar um registro claro do que foi conferido e do que não foi 
 - Verificar arquivos essenciais e carregamento correto dos scripts.
 - Validar 66 livros e contagem estrutural de capítulos configurada.
 - Verificar IDs HTML duplicados.
-- Conferir o fluxo afetado no site publicado; teste estático não equivale a teste funcional.
+- Executar a suíte Playwright em Chromium: busca, abertura de livros e capítulos, abas, gravação e persistência, simbologias, personagens, guias, exportação, importação, limpeza e viewport móvel.
+- Executar varreduras automatizadas de acessibilidade (axe-core) nas telas principais; corrigir violações WCAG detectáveis antes da integração.
+- Inspecionar o site publicado após o deploy sempre que o ambiente permitir; teste local não comprova publicação.
 - Se o teste falhar, não promover a alteração como concluída. Corrigir ou reverter usando o commit anterior.
 
 ## 5. Backups em camadas
@@ -67,9 +69,9 @@ Importante: os backups de código não incluem automaticamente o conteúdo local
 - A partir desta decisão, todas as alterações futuras devem ser feitas primeiro em `desenvolvimento` ou em branches derivadas dela; não editar `main` diretamente no fluxo normal.
 - Ao concluir uma etapa, abrir Pull Request de `desenvolvimento` para `main`, revisar o diff, aguardar o workflow `Proteção do site` passar e só então integrar.
 - Mudanças amplas devem usar uma branch própria derivada de `desenvolvimento` e retornar por Pull Request.
-- O workflow executa verificações em Pull Requests, mas só uma regra de proteção configurada no GitHub pode impedir tecnicamente o merge sem os checks exigidos.
-- A integração disponível não tem permissão para gravar regras de proteção/rulesets (a leitura de branch protection retornou HTTP 403). Portanto, a exigência técnica de PR e checks ainda precisa ser ativada manualmente em Settings > Rules > Rulesets ou Settings > Branches.
-- Até a regra ser ativada, `desenvolvimento` é o procedimento obrigatório, mas não uma barreira técnica contra push direto em `main`.
+- O usuário confirmou que o ruleset “Proteção da main” está ativo, exigindo Pull Request, bloqueando exclusões e force push e exigindo resolução de conversas, com zero aprovações obrigatórias.
+- O workflow `Proteção do site` valida sintaxe/estrutura e executa testes reais em Chromium e varreduras axe-core no Pull Request.
+- A exigência de status check obrigatório no ruleset ainda não foi confirmada. Após a primeira execução bem-sucedida, configurar `validate` como check obrigatório no ruleset; a integração atual não tem permissão administrativa para alterar rulesets.
 - Para não bloquear o proprietário que trabalha sozinho, começar exigindo PR e checks aprovados, com zero aprovações obrigatórias. A revisão humana continua obrigatória no protocolo. Se houver outro revisor de confiança, pode-se elevar a exigência para uma aprovação.
 - Nunca declarar que a proteção está ativa antes de confirmar a regra na interface do GitHub.
 
@@ -78,6 +80,8 @@ Importante: os backups de código não incluem automaticamente o conteúdo local
 Antes de iniciar uma nova etapa:
 - Ler este protocolo e `PROGRESSO-DO-PROJETO.md`.
 - Conferir a branch `main` e os arquivos reais antes de editar.
+- Criar snapshot de segurança antes de mudanças técnicas amplas.
+- Nunca remover estilos duplicados ou regras CSS sem confirmar que não sustentam o visual aprovado.
 - Tratar as regras editoriais deste protocolo como restrições fixas.
 - Em caso de conflito entre lembrança de conversa e repositório, conferir o histórico e pedir esclarecimento se o conteúdo do usuário estiver em dúvida.
 
