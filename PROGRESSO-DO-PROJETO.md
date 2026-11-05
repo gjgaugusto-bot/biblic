@@ -123,3 +123,13 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Branch de trabalho: `refino-visual-preto-branco`.
 - Verificação inicial: 66 entradas de ilustração encontradas; foi detectada e corrigida uma definição ausente para a cena da torre de vigia. A validação final de sintaxe/estrutura e a execução visual em navegador ainda dependem do workflow e da inspeção publicada.
 - Estado: IMPLEMENTADO EM BRANCH; AGUARDANDO CI/REVISÃO.
+
+
+### Resultado da verificação visual monocromática — 2026-11-05
+
+- `new Function` (análise de sintaxe sem executar o código) aprovado para `book-art.js`, `app.js` e `study-data.js`.
+- Conferência estrutural: 66 livros na configuração; Gênesis com 50 capítulos; nenhum ID HTML duplicado; 66 entradas de gravura; nenhuma referência a cena sem desenho correspondente.
+- `index.html` carrega os arquivos visuais com versão de cache atualizada.
+- O validador oficial do repositório e o workflow GitHub não retornaram execução/check associado ao commit durante esta revisão; por isso não registrar CI como aprovado.
+- Não foi possível executar teste visual em navegador nesta etapa. A aparência em dispositivos reais permanece pendente de conferência após publicação.
+- Estado: SINTAXE E CONFERÊNCIA ESTRUTURAL MANUAIS APROVADAS; CI E TESTE VISUAL PENDENTES.
