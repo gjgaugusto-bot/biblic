@@ -21,3 +21,5 @@
 .study-open strong{font-size:1.05rem}.study-open>span:not(.study-kind){line-height:1.5;font-size:.9rem}
 .study-kind{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;opacity:.7}
 .study-open small{margin-top:auto;color:var(--accent,#9a8054)}
+
+.chapter-navigation{align-items:center;flex-wrap:wrap}.chapter-jump{display:flex;align-items:center;gap:8px;color:#39465c;font-size:14px;font-weight:700}.chapter-jump select{padding:10px 12px;border:1px solid #d9dee7;border-radius:8px;background:#fff;color:#18243a;font:inherit}.chapter-navigation button:disabled{opacity:.45;cursor:not-allowed}@media(max-width:700px){.chapter-navigation{display:grid;grid-template-columns:1fr 1fr}.chapter-jump{grid-column:1/-1;justify-content:center}.chapter-navigation button{width:100%}}
