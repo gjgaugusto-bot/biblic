@@ -220,3 +220,7 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A ficha continua restrita a Gênesis; demais livros, conteúdo bíblico, personagens e simbologias não foram alterados.
 - Backup de `main` criado antes do ajuste. Sintaxe de `app.js` validada localmente antes do PR.
 - Estado: aguardando workflow automatizado.
+
+
+- PR #12 integrado à `main` (commit `686fb79871b7fdbbff9310f06ab993b8b6f1e37e`). Workflow `Proteção do site`, execução 42119944892 (run 45): job `validate` concluído com sucesso; `mirror` ignorado por evento de PR.
+- Cache-bust do JavaScript atualizado novamente para `20261105-sobre-livro2`, garantindo URL nova após reposicionamento da ficha.
