@@ -61,12 +61,17 @@ A revisão deve deixar um registro claro do que foi conferido e do que não foi 
 
 Importante: os backups de código não incluem automaticamente o conteúdo local do navegador. O JSON exportado precisa ser guardado fora do navegador.
 
-## 6. Política de publicação
+## 6. Política de publicação — fluxo obrigatório
 
-- Mudanças pequenas e claramente isoladas podem seguir o fluxo aprovado após verificações.
-- Mudanças amplas, estruturais, de armazenamento, importação/exportação ou de conteúdo em massa devem ser feitas em branch de trabalho, revisadas e integradas somente depois da validação.
-- O workflow executa verificações após o evento; ele não deve ser descrito como bloqueio prévio de publicação enquanto não houver proteção de branch/regras de repositório confirmadas.
-- Se a configuração de proteção da branch não puder ser verificada, registrar essa limitação e não presumir que existe.
+- Branch de trabalho criada: `desenvolvimento`, derivada de `main`.
+- A partir desta decisão, todas as alterações futuras devem ser feitas primeiro em `desenvolvimento` ou em branches derivadas dela; não editar `main` diretamente no fluxo normal.
+- Ao concluir uma etapa, abrir Pull Request de `desenvolvimento` para `main`, revisar o diff, aguardar o workflow `Proteção do site` passar e só então integrar.
+- Mudanças amplas devem usar uma branch própria derivada de `desenvolvimento` e retornar por Pull Request.
+- O workflow executa verificações em Pull Requests, mas só uma regra de proteção configurada no GitHub pode impedir tecnicamente o merge sem os checks exigidos.
+- A integração disponível não tem permissão para gravar regras de proteção/rulesets (a leitura de branch protection retornou HTTP 403). Portanto, a exigência técnica de PR e checks ainda precisa ser ativada manualmente em Settings > Rules > Rulesets ou Settings > Branches.
+- Até a regra ser ativada, `desenvolvimento` é o procedimento obrigatório, mas não uma barreira técnica contra push direto em `main`.
+- Para não bloquear o proprietário que trabalha sozinho, começar exigindo PR e checks aprovados, com zero aprovações obrigatórias. A revisão humana continua obrigatória no protocolo. Se houver outro revisor de confiança, pode-se elevar a exigência para uma aprovação.
+- Nunca declarar que a proteção está ativa antes de confirmar a regra na interface do GitHub.
 
 ## 7. Continuidade entre conversas
 
