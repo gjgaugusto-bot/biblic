@@ -8,7 +8,7 @@
 - Mudanças maiores devem ser preparadas em branch separada, revisadas e integradas após validação.
 
 ## Verificações automáticas
-O workflow **Proteção do site** verifica a sintaxe de `app.js`, `study-data.js` e do validador, confere os arquivos essenciais, ordem de carregamento dos scripts, IDs duplicados e a configuração dos 66 livros. Essas verificações detectam problemas estruturais, mas não provam que todas as páginas e interações funcionam.
+O workflow **Proteção do site** verifica a sintaxe dos scripts, os arquivos essenciais, ordem de carregamento, IDs duplicados, configuração dos 66 livros, integridade dos backups e vínculos de simbologia. Também instala Playwright/Chromium e executa testes reais de navegação, busca, ficha do livro, capítulo 4, edição e persistência, simbologias, personagens, guias, exportação, importação, limpeza, viewport móvel e varreduras axe-core nas telas principais. As verificações automatizadas não substituem toda a avaliação manual.
 
 ## Dados de estudo no navegador
 O aplicativo mantém backup local e histórico limitado das últimas cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo JSON para outro local.
@@ -16,7 +16,7 @@ O aplicativo mantém backup local e histórico limitado das últimas cópias dos
 ## Limites importantes
 - O workflow valida Pull Requests, mas a integração não tem permissão para ativar regras de proteção/rulesets. Até a regra ser configurada manualmente no GitHub, o fluxo por `desenvolvimento` e Pull Request é obrigatório por procedimento, mas não bloqueia tecnicamente um push direto em `main`.
 - A integração disponível não conseguiu ler a configuração de proteção de `main` (HTTP 403); não presumimos que exista bloqueio.
-- Verificações estáticas não substituem revisão bíblica, inspeção visual, testes funcionais em navegador e confirmação do usuário.
+- Testes automatizados em Chromium verificam os fluxos principais em navegador real, mas não substituem testes manuais em diferentes aparelhos, navegadores e tecnologias assistivas.
 - Erros JavaScript capturados no navegador ficam no dispositivo; não são enviados automaticamente ao GitHub.
 - O espelho automático protege o código versionado, não os dados locais do navegador.
 - Para proteger dados contra perda do aparelho ou limpeza do navegador, exporte o backup JSON regularmente e guarde cópias externas.
