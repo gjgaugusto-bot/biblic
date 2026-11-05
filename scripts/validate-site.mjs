@@ -142,10 +142,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
       runInNewContext(app.slice(entriesStart, entriesEnd), sandbox);
       const entries = sandbox.getStudyEntries();
       const checks = [
-        entries.length === 3,
+        entries.length === 4,
         entries.find((item) => item.name === "Pomba")?.description === "Descrição editada",
         entries.find((item) => item.name === "Arca")?.category === "Símbolos",
-        entries.every((item) => item.name !== "Registro inválido")
+        entries.find((item) => item.name === "Registro inválido")?.description === ""
       ];
       if (checks.some((passed) => !passed)) fail("Falha ao normalizar a biblioteca de estudos");
     } catch (error) {
