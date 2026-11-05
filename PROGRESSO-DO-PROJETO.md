@@ -211,3 +211,12 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A ficha aparece abaixo dos capítulos somente em Gênesis nesta primeira etapa. Cache-bust dos arquivos CSS e JavaScript atualizado para evitar uso de versões antigas pelo navegador.
 - A inspeção visual no GitHub Pages ainda depende de abertura no navegador; a integração e validação automatizada estão confirmadas.
 - Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; INSPEÇÃO VISUAL PUBLICADA PENDENTE.
+
+
+### Ajuste de posição da ficha — Gênesis
+
+- Após retorno do usuário, identificada uma questão de visibilidade: a ficha estava sendo renderizada depois dos 50 botões de capítulos.
+- Reposicionada imediatamente após o título e a apresentação do livro, antes da lista de capítulos.
+- A ficha continua restrita a Gênesis; demais livros, conteúdo bíblico, personagens e simbologias não foram alterados.
+- Backup de `main` criado antes do ajuste. Sintaxe de `app.js` validada localmente antes do PR.
+- Estado: aguardando workflow automatizado.
