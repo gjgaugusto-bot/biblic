@@ -1,5 +1,6 @@
 import { readFileSync, existsSync } from "node:fs";
 import { runInNewContext } from "node:vm";
+import { gunzipSync } from "node:zlib";
 
 const fail = (message) => {
   console.error("FALHA:", message);
@@ -196,5 +197,40 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("Os campos de busca precisam de rótulos acessíveis");
   if (!html.includes('aria-live="polite"'))
     fail("As mensagens de estado precisam ser anunciadas por leitores de tela");
+
+  const referencedIds = [...app.matchAll(/\\$\\('([^']+)'\\)/g)].map((match) => match[1]);
+  const staticIds = new Set(ids);
+  const generatedIds = new Set(["backBook", "chapterList", "chapterJump", "prev", "next", "editThis", "editStudyCurrent"]);
+  const missingIds = [...new Set(referencedIds.filter((id) => !staticIds.has(id) && !generatedIds.has(id)))];
+  if (missingIds.length) fail(`IDs usados pelo aplicativo não encontrados no HTML: ${missingIds.join(", ")}`);
+  const cssBraceBalance = (css.match(/{/g) || []).length - (css.match(/}/g) || []).length;
+  if (cssBraceBalance !== 0) fail("O CSS contém blocos de regras sem fechamento");
+
+  const studyData = readFileSync("study-data.js", "utf8");
+  const compressed = studyData.match(/STUDY_LIBRARY_B64="([^"]+)"/);
+  if (!compressed) fail("A biblioteca compactada de estudos não foi encontrada");
+  else {
+    try {
+      const library = JSON.parse(gunzipSync(Buffer.from(compressed[1], "base64")).toString("utf8"));
+      const categories = new Set(["Símbolos", "Cores", "Números", "Tipologias"]);
+      const keys = library.map((item) => item.category + "|" + item.name);
+      if (!Array.isArray(library) || !library.length) fail("A biblioteca de estudos está vazia ou inválida");
+      if (library.some((item) => !item || typeof item.name !== "string" || !item.name.trim() || typeof item.category !== "string" || !categories.has(item.category) || typeof item.description !== "string"))
+        fail("A biblioteca contém registros com campos ou categorias inválidos");
+      if (keys.length !== new Set(keys).size) fail("A biblioteca contém itens duplicados na mesma categoria");
+    } catch (error) {
+      fail(`A biblioteca compactada não pôde ser descompactada: ${error.message}`);
+    }
+  }
+
+  const artworkSandbox = { window: {} };
+  try {
+    runInNewContext(readFileSync("book-art.js", "utf8"), artworkSandbox);
+    const renders = Array.from({ length: 66 }, (_, index) => artworkSandbox.window.bookArtwork(index));
+    if (renders.some((svg) => typeof svg !== "string" || !svg.includes("<svg") || !svg.includes("aria-label=") || !svg.includes("viewBox=")))
+      fail("Uma ou mais gravuras dos 66 livros não produziram SVG acessível");
+  } catch (error) {
+    fail(`As gravuras dos livros não puderam ser renderizadas: ${error.message}`);
+  }
 }
 if (!process.exitCode) console.log("Validação estrutural aprovada.");
