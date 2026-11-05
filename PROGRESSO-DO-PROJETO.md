@@ -133,3 +133,14 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - O validador oficial do repositório e o workflow GitHub não retornaram execução/check associado ao commit durante esta revisão; por isso não registrar CI como aprovado.
 - Não foi possível executar teste visual em navegador nesta etapa. A aparência em dispositivos reais permanece pendente de conferência após publicação.
 - Estado: SINTAXE E CONFERÊNCIA ESTRUTURAL MANUAIS APROVADAS; CI E TESTE VISUAL PENDENTES.
+
+
+### Publicação do refinamento monocromático — 2026-11-05
+
+- Pull Request #3 integrado à `main`: https://github.com/gjgaugusto-bot/biblic/pull/3
+- Commit de integração: `f8b7466af8a1ffeb507f9369ab76decbfb02838f`.
+- Snapshot de segurança criado: branch `backup-visual-2026-11-05`, apontando para o commit integrado.
+- O espelho `backup-automatico` ainda não refletia este commit na última conferência; o snapshot dedicado preserva esta versão.
+- Código visual e 66 gravuras confirmados na `main`.
+- Acesso público ao GitHub Pages não pôde ser confirmado nesta verificação; não declarar atualização visual do navegador como testada.
+- Estado do código: INTEGRADO À MAIN. Estado da publicação visual no navegador: NÃO VERIFICADO.
