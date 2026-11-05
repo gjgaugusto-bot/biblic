@@ -5,7 +5,7 @@ const fail = (message) => {
   console.error("FALHA:", message);
   process.exitCode = 1;
 };
-const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js"];
+const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js", "scripts/browser-smoke.mjs"];
 for (const file of required) {
   if (!existsSync(file)) fail(`Arquivo obrigatório ausente: ${file}`);
   else if (!readFileSync(file, "utf8").trim()) fail(`Arquivo obrigatório vazio: ${file}`);
@@ -133,5 +133,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
   const css = readFileSync("style.css", "utf8");
   if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
     fail("Os estilos da ficha bibliográfica estão ausentes");
+}
+if (existsSync("scripts/browser-smoke.mjs")) {
+  const browserTests = readFileSync("scripts/browser-smoke.mjs", "utf8");
+  if (!browserTests.includes("new AxeBuilder") || !browserTests.includes("clearData") || !browserTests.includes("exportData"))
+    fail("A suíte de navegador precisa cobrir acessibilidade, limpeza e exportação");
 }
 if (!process.exitCode) console.log("Validação estrutural aprovada.");
