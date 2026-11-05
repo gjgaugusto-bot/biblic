@@ -87,6 +87,8 @@ function renderStudyText(value){const items=String(value||'').split(/\r?\n/).map
 const $=id=>document.getElementById(id);
 const key='enciclopediaBiblicaEditsV1';
 const AUTO_BACKUP_KEY='encBibAutoBackupV1';
+const AUTO_BACKUP_HISTORY_KEY='encBibAutoBackupHistoryV1';
+const ERROR_LOG_KEY='encBibErrorLogV1';
 const BACKUP_KEYS=[key,'encBibGuides','encBibStudyEdits','encBibSymbols','encBibCharacters'];
 function readLocalData(storageKey,fallback){try{const raw=localStorage.getItem(storageKey);return raw===null?fallback:JSON.parse(raw)}catch(error){return fallback}}
 function saveLocalData(storageKey,value){
@@ -95,13 +97,30 @@ function saveLocalData(storageKey,value){
     try{
       const data={};
       BACKUP_KEYS.forEach(k=>{const saved=k===storageKey?value:localStorage.getItem(k);if(saved!==null)data[k]=saved});
-      localStorage.setItem(AUTO_BACKUP_KEY,JSON.stringify({savedAt:new Date().toISOString(),data}));
+      const snapshot={savedAt:new Date().toISOString(),data};
+      localStorage.setItem(AUTO_BACKUP_KEY,JSON.stringify(snapshot));
+      const history=readLocalData(AUTO_BACKUP_HISTORY_KEY,[]);
+      history.unshift(snapshot);
+      localStorage.setItem(AUTO_BACKUP_HISTORY_KEY,JSON.stringify(history.slice(0,8)));
     }catch(error){console.warn('Não foi possível atualizar o backup automático local:',error)}
   }
 }
+function recordAppError(message,source=''){
+  try{
+    const logs=readLocalData(ERROR_LOG_KEY,[]);
+    logs.unshift({at:new Date().toISOString(),message:String(message||'Erro desconhecido').slice(0,500),source:String(source||'').slice(0,300)});
+    localStorage.setItem(ERROR_LOG_KEY,JSON.stringify(logs.slice(0,20)));
+  }catch(error){console.warn('Não foi possível registrar o erro localmente:',error)}
+}
+window.addEventListener('error',event=>recordAppError(event.message,event.filename));
+window.addEventListener('unhandledrejection',event=>recordAppError(event.reason&&event.reason.message?event.reason.message:event.reason,'Promise rejeitada'));
 (function restoreMissingLocalData(){
   try{
-    const backup=JSON.parse(localStorage.getItem(AUTO_BACKUP_KEY)||'null');
+    let backup=JSON.parse(localStorage.getItem(AUTO_BACKUP_KEY)||'null');
+    if(!backup||!backup.data){
+      const history=readLocalData(AUTO_BACKUP_HISTORY_KEY,[]);
+      backup=history.find(item=>item&&item.data)||null;
+    }
     if(!backup||!backup.data)return;
     BACKUP_KEYS.forEach(k=>{if(localStorage.getItem(k)===null&&typeof backup.data[k]==='string')localStorage.setItem(k,backup.data[k])});
   }catch(error){console.warn('Backup automático local indisponível:',error)}
