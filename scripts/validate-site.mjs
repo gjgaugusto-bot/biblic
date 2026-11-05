@@ -41,6 +41,8 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("Proteções de importação e histórico de backup local não foram encontradas");
   if (!app.includes("function readLocalArray") || !app.includes("function readLocalObject"))
     fail("As leituras protegidas dos dados locais estão ausentes");
+  if (!app.includes("function renderChapterSymbols") || !app.includes("refreshChapterSymbols") || !app.includes("symbolDetailsText"))
+    fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
   if (!app.includes("esc(d.title||b.name+' '+c)"))
