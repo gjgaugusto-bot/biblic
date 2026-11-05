@@ -246,13 +246,19 @@ function loadEdit(){let book=+$('editBook').value,chapter=+$('editChapter').valu
 function persist(){return saveLocalData(key,JSON.stringify(edits))}
 BOOKS.forEach((b,i)=>$('editBook').add(new Option(b.name,i)));
 $('editBook').onchange=fillChapters;$('editChapter').onchange=loadEdit;fillChapters();
-$('saveChapter').onclick=()=>{
- const k=`${$('editBook').value}-${$('editChapter').value}`;
+function saveChapterEdit(k,nextValue){
  const hadPrevious=Object.prototype.hasOwnProperty.call(edits,k),previous=edits[k];
- edits[k]={title:$('chapterTitle').value,summary:$('chapterSummary').value,explanation:$('chapterExplanation').value,versesText:$('chapterVerses').value,episodes:$('chapterEpisodes').value,refs:$('chapterRefs').value,characterDetailsText:$('chapterCharacters').value,symbolDetailsText:$('chapterSymbols').value};
+ edits[k]=nextValue;
  const result=persist();
  if(!result.saved){
   if(hadPrevious)edits[k]=previous;else delete edits[k];
+ }
+ return result;
+}
+$('saveChapter').onclick=()=>{
+ const k=`${$('editBook').value}-${$('editChapter').value}`;
+ const result=saveChapterEdit(k,{title:$('chapterTitle').value,summary:$('chapterSummary').value,explanation:$('chapterExplanation').value,versesText:$('chapterVerses').value,episodes:$('chapterEpisodes').value,refs:$('chapterRefs').value,characterDetailsText:$('chapterCharacters').value,symbolDetailsText:$('chapterSymbols').value});
+ if(!result.saved){
   $('saveStatus').textContent='Não foi possível salvar o capítulo. Suas informações continuam nos campos; tente novamente ou exporte um backup antes de sair.';
   return;
  }
