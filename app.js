@@ -145,11 +145,41 @@ window.openChapterFromButton=function(chapter){
   console.error(message,error);
  }
 };
+
+const BOOK_INFO={
+  0:{
+    intro:'Ficha de referência histórica, literária e bibliográfica. Datas e autoria são apresentadas distinguindo a tradição religiosa das discussões acadêmicas.',
+    fields:[
+      ['Nome hebraico','Bereshit (בְּרֵאשִׁית), expressão inicial do livro, geralmente traduzida como “No princípio”.'],
+      ['Nome “Gênesis”','Vem do grego génesis, associado a origem, nascimento ou começo; difundiu-se pela tradição da Septuaginta.'],
+      ['Posição na Bíblia','Primeiro livro da Bíblia e primeiro dos cinco livros do Pentateuco (Torá).'],
+      ['Capítulos','50 capítulos.'],
+      ['Idioma original','Hebraico bíblico.'],
+      ['Autoria — tradição','A tradição judaica e cristã atribui a autoria a Moisés, dentro da tradição dos cinco livros da Lei.'],
+      ['Autoria — estudos acadêmicos','O livro não identifica expressamente seu autor. Na pesquisa acadêmica, sua formação é estudada como um processo que reuniu e editou tradições e materiais de diferentes épocas; não há consenso sobre um único autor.'],
+      ['Data de composição','Não existe uma data consensual. Diferentes modelos propõem etapas de composição ao longo de vários séculos; parte importante da pesquisa situa a edição final no período exílico ou pós-exílico, aproximadamente entre os séculos VI e V a.C., embora haja propostas diferentes.'],
+      ['Época dos acontecimentos narrados','O relato vai das origens do mundo e da humanidade às histórias dos patriarcas e termina com a morte de José no Egito. A cronologia apresentada pelo próprio texto não permite, por si só, fixar datas históricas universalmente aceitas.'],
+      ['Contexto histórico e geográfico','O cenário cultural é o antigo Oriente Próximo, com referências narrativas à Mesopotâmia, à terra de Canaã e ao Egito.'],
+      ['Estrutura do livro','Gênesis 1–11 reúne narrativas sobre as origens; Gênesis 12–50 acompanha as histórias ancestrais de Abraão, Isaque, Jacó e sua família, incluindo José.'],
+      ['Gêneros e formas literárias','Narrativas, genealogias, listas de descendência, diálogos, relatos de viagem e histórias familiares.'],
+      ['Lugar no Pentateuco','Apresenta as origens do mundo e da humanidade e introduz a história da família de Israel, que continua nos livros seguintes do Pentateuco.']
+    ],
+    note:'A atribuição tradicional a Moisés e as hipóteses acadêmicas sobre a composição são informações de naturezas diferentes. A ficha registra ambas sem transformar uma posição debatida em certeza.'
+  }
+};
+function renderBookInfo(){
+ const data=BOOK_INFO[currentBook];
+ if(!data)return '';
+ const rows=data.fields.map(([label,value])=>'<div class="book-info-item"><h3>'+esc(label)+'</h3><p>'+esc(value)+'</p></div>').join('');
+ return '<section class="readerbox book-info"><p class="eyebrow">FICHA DO LIVRO</p><h2>Sobre o livro</h2><p class="book-info-intro">'+esc(data.intro)+'</p><div class="book-info-grid">'+rows+'</div><p class="book-info-note"><strong>Nota:</strong> '+esc(data.note)+'</p></section>';
+}
+
 function renderBook(){
  const b=BOOKS[currentBook];
  let html='<div class="readerbox"><p class="eyebrow">'+(currentBook<39?'ANTIGO TESTAMENTO':'NOVO TESTAMENTO')+'</p><h1>'+esc(b.name)+'</h1><p>Escolha um capítulo para consultar ou editar no painel administrativo.</p><div class="chapterlinks" id="chapterLinks">';
  for(let c=1;c<=b.chapters;c++)html+='<button type="button" data-chapter-number="'+c+'" onclick="openChapterFromButton('+c+')">'+c+'</button>';
  html+='</div></div>';
+ html+=renderBookInfo();
  $('reader').innerHTML=html;
 }
 function openChapter(c){currentChapter=c;let b=BOOKS[currentBook],d={...(currentBook===0?(GENESIS_NOTES[c]||{}):{}),...(edits[`${currentBook}-${c}`]||{})},verses=Object.prototype.hasOwnProperty.call(d,'versesText')?d.versesText.split(/\r?\n/).filter(v=>v.trim()):currentBook===0?GENESIS_TEXT[c]||null:null;let verseHtml=verses?`<section class="scripture"><div class="translation-note"><strong>Tradução literal de trabalho</strong><span>Hebraico bíblico · tradução própria para estudo</span></div>${verses.map((v,i)=>`<p class="verse"><sup>${i+1}</sup>${esc(v)}</p>`).join('')}</section>`:'';const related=(names,type)=>{const records=JSON.parse(localStorage.getItem(type==='character'?'encBibCharacters':'encBibSymbols')||'[]');return String(names||'').split(/[,;\n]+/).map(n=>n.trim()).filter(Boolean).map(n=>{const i=records.findIndex(x=>x.name.trim().toLocaleLowerCase('pt-BR')===n.toLocaleLowerCase('pt-BR'));return i<0?`<span class="related-missing">${esc(n)} <small>(cadastro não encontrado)</small></span>`:`<button class="related-link" data-related-type="${type}" data-related-index="${i}">${esc(records[i].name)} ↗</button>`}).join('')||'<span class="related-empty">Nenhum item associado a este capítulo.</span>'};$('reader').innerHTML=`<div class="readerbox"><button class="back" id="backBook">← ${b.name}</button><p class="eyebrow">${currentBook<39?'ANTIGO TESTAMENTO':'NOVO TESTAMENTO'} · CAPÍTULO ${c}</p><h1>${d.title||b.name+' '+c}</h1>${verseHtml}<h3>Resumo</h3><div class="chapterbody">${esc(d.summary||'Este capítulo está preparado para receber um resumo. Você pode acrescentar conteúdo pelo Painel administrativo.')}</div><h3>Explicação e estudo</h3><div class="chapterbody">${esc(d.explanation||'O conteúdo detalhado deste capítulo ainda será desenvolvido. Use o painel administrativo para adicionar sua explicação.')}</div><h3>Referências relacionadas</h3><p>${esc(d.refs||'Adicione referências cruzadas pelo painel administrativo.')}</p><section class="chapter-sections"><div class="chapter-tabs" role="tablist" aria-label="Conteúdo do capítulo"><button class="chapter-tab active" data-section="episodes">Episódios</button><button class="chapter-tab" data-section="characters">Personagens</button><button class="chapter-tab" data-section="symbols">Simbologias</button></div><div class="chapter-panel" data-panel="episodes"><h3>Episódios do capítulo</h3><div class="chapterbody">${d.episodes?esc(d.episodes):'Nenhum episódio adicionado ainda. Esta área está reservada para você organizar e detalhar os acontecimentos deste capítulo.'}</div></div><div class="chapter-panel hidden" data-panel="characters"><h3>Personagens deste capítulo</h3><div class="related-items">${Object.prototype.hasOwnProperty.call(d,'characterDetailsText')?renderStudyText(d.characterDetailsText):currentBook===0&&(GENESIS_DETAILS[c]||GENESIS_NOTES[c])?renderStudyItems((GENESIS_DETAILS[c]||GENESIS_NOTES[c]).characters):d.characters?related(d.characters,'character'):related('','character')}</div></div><div class="chapter-panel hidden" data-panel="symbols"><h3>Simbologias deste capítulo</h3><div class="related-items">${'<span class="related-empty">Nenhuma simbologia vinculada à base de dados enviada por você.</span>'}</div></div></section><div class="readercontrols chapter-navigation"><button type="button" id="chapterList">← Lista de capítulos</button><button type="button" id="prev" ${c===1?'disabled':''}>← Capítulo anterior</button><label class="chapter-jump">Ir para <select id="chapterJump">${Array.from({length:b.chapters},(_,i)=>`<option value="${i+1}" ${i+1===c?'selected':''}>Capítulo ${i+1}</option>`).join('')}</select></label><button type="button" id="next" ${c===b.chapters?'disabled':''}>Próximo capítulo →</button><button type="button" id="editThis">Editar no painel</button></div></div>`;$('backBook').onclick=renderBook;$('chapterList').onclick=renderBook;$('chapterJump').onchange=e=>openChapter(Number(e.target.value));document.querySelectorAll('.chapter-tab').forEach(tab=>tab.onclick=()=>{document.querySelectorAll('.chapter-tab').forEach(t=>t.classList.toggle('active',t===tab));document.querySelectorAll('.chapter-panel').forEach(panel=>panel.classList.toggle('hidden',panel.dataset.panel!==tab.dataset.section))});document.querySelectorAll('[data-related-type]').forEach(el=>el.onclick=()=>openDetail(el.dataset.relatedType,+el.dataset.relatedIndex,'reader'));$('prev').onclick=()=>openChapter(c-1);$('next').onclick=()=>openChapter(c+1);$('editThis').onclick=()=>{show('admin');$('editBook').value=currentBook;fillChapters();$('editChapter').value=c;loadEdit()}}
