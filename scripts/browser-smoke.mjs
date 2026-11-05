@@ -108,7 +108,8 @@ try {
   await page.locator("#clearData").click();
   assert.equal(await page.evaluate(() => localStorage.getItem("enciclopediaBiblicaEditsV1")), null, "Limpeza deve remover os dados locais após confirmação");
 
-  const mobile = await context.newPage({ viewport: { width: 390, height: 844 } });
+  const mobile = await context.newPage();
+  await mobile.setViewportSize({ width: 390, height: 844 });
   mobile.on("pageerror", error => pageErrors.push(error.message));
   await mobile.goto(baseURL, { waitUntil: "networkidle" });
   const overflow = await mobile.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
