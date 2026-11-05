@@ -116,14 +116,15 @@ if (existsSync("index.html") && existsSync("app.js")) {
     try {
       const sandbox = {
         edits: { "0-1": { title: "Título anterior" } },
-        persist: () => ({ saved: false, backedUp: false })
+        persistState: { result: { saved: false, backedUp: false } },
+        persist: function () { return this.persistState.result; }
       };
       runInNewContext(app.slice(saveStart, saveEnd), sandbox);
       const failed = sandbox.saveChapterEdit("0-1", { title: "Título novo" });
       const restoredExisting = sandbox.edits["0-1"].title === "Título anterior";
       const failedNew = sandbox.saveChapterEdit("0-2", { title: "Novo capítulo" });
       const removedNew = !Object.prototype.hasOwnProperty.call(sandbox.edits, "0-2");
-      sandbox.persist = () => ({ saved: true, backedUp: true });
+      sandbox.persistState.result = { saved: true, backedUp: true };
       const success = sandbox.saveChapterEdit("0-1", { title: "Salvo" });
       if (failed.saved || !restoredExisting || failedNew.saved || !removedNew || !success.saved || sandbox.edits["0-1"].title !== "Salvo")
         fail("Falha ao testar rollback e confirmação do salvamento de capítulos");
@@ -147,12 +148,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
       const validSandbox = { readLocalArray: () => source, recordAppError: (...args) => errors.push(args) };
       runInNewContext(app.slice(validStart, updateStart), validSandbox);
       const visibleItems = validSandbox.readValidLocalArray("encBibCharacters");
-      const invalidStorage = { getItem: () => '{"not":"a list"}' };
-      const updateSandbox = { localStorage: invalidStorage, recordAppError: (...args) => errors.push(args) };
+      const storageState = { raw: '{"not":"a list"}' };
+      const updateSandbox = { localStorage: { getItem: () => storageState.raw }, recordAppError: (...args) => errors.push(args) };
       runInNewContext(app.slice(updateStart, objectStart), updateSandbox);
       const blockedUpdate = updateSandbox.readLocalArrayForUpdate("encBibSymbols");
-      const validStorage = { getItem: () => JSON.stringify(source) };
-      updateSandbox.localStorage = validStorage;
+      storageState.raw = JSON.stringify(source);
       const preservedUpdate = updateSandbox.readLocalArrayForUpdate("encBibSymbols");
       if (rawItems.length !== 4 || visibleItems.length !== 2 || visibleItems[1].bio !== "" || source.length !== 4 ||
           blockedUpdate !== null || preservedUpdate.length !== 4 || !errors.length)
