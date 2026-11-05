@@ -1,16 +1,24 @@
 # Proteção e backups
 
-## Backup automático do código
-A branch `backup-automatico` recebe um espelho do código de `main` sempre que há um push na branch principal. O histórico de commits do GitHub também permanece disponível para recuperar versões anteriores.
+## Camadas de proteção do código
+- O GitHub mantém o histórico de commits da branch `main`.
+- A branch `backup-automatico` recebe o espelho de `main` somente depois que o job de validação passa.
+- A branch `backup-site-2026-11-05` é um snapshot manual de referência.
+- Mudanças maiores devem ser preparadas em branch separada, revisadas e integradas após validação.
 
 ## Verificações automáticas
-O workflow **Proteção do site** verifica a sintaxe de `app.js` e `study-data.js` e confirma a presença dos arquivos essenciais. Em pull requests, executa as verificações sem alterar o site publicado.
+O workflow **Proteção do site** verifica a sintaxe de `app.js`, `study-data.js` e do validador, confere os arquivos essenciais, ordem de carregamento dos scripts, IDs duplicados e a configuração dos 66 livros. Essas verificações detectam problemas estruturais, mas não provam que todas as páginas e interações funcionam.
 
-## Backup dos estudos no navegador
-O aplicativo mantém uma cópia local e um histórico limitado das últimas oito cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo de backup para outro local.
+## Dados de estudo no navegador
+O aplicativo mantém backup local e histórico limitado das últimas cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo JSON para outro local.
 
 ## Limites importantes
-- O espelho de código é executado pelo GitHub Actions depois de um push; ele não impede que uma alteração com erro chegue ao Pages antes da verificação.
-- A verificação detecta erros de sintaxe e ausência de arquivos, mas não substitui testes visuais e funcionais completos.
-- Erros JavaScript capturados no navegador são registrados localmente no dispositivo; não são enviados automaticamente ao GitHub.
-- Para proteção contra perda do aparelho ou limpeza do navegador, exporte o backup e guarde-o fora do dispositivo.
+- O workflow é acionado por push/PR; sem regras de proteção configuradas e confirmadas no GitHub, ele não impede por si só um push direto com falha de validação na branch publicada.
+- A integração disponível não conseguiu ler a configuração de proteção de `main` (HTTP 403); não presumimos que exista bloqueio.
+- Verificações estáticas não substituem revisão bíblica, inspeção visual, testes funcionais em navegador e confirmação do usuário.
+- Erros JavaScript capturados no navegador ficam no dispositivo; não são enviados automaticamente ao GitHub.
+- O espelho automático protege o código versionado, não os dados locais do navegador.
+- Para proteger dados contra perda do aparelho ou limpeza do navegador, exporte o backup JSON regularmente e guarde cópias externas.
+
+## Procedimento
+Consulte `PROTOCOLO-DE-TRABALHO.md` para o fluxo obrigatório de inspeção, alteração, revisão, teste, publicação e recuperação. Consulte `PROGRESSO-DO-PROJETO.md` para o estado atual e o histórico de decisões.
