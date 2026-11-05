@@ -198,7 +198,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
   if (!html.includes('aria-live="polite"'))
     fail("As mensagens de estado precisam ser anunciadas por leitores de tela");
 
-  const referencedIds = [...app.matchAll(/\\$\\('([^']+)'\\)/g)].map((match) => match[1]);
+  const referencedIds = [...app.matchAll(/\$\('([^']+)'\)/g)].map((match) => match[1]);
   const staticIds = new Set(ids);
   const generatedIds = new Set(["backBook", "chapterList", "chapterJump", "prev", "next", "editThis", "editStudyCurrent"]);
   const missingIds = [...new Set(referencedIds.filter((id) => !staticIds.has(id) && !generatedIds.has(id)))];
