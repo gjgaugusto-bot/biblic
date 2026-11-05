@@ -60,6 +60,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
           { name: "Azul", category: "Cores", description: "Não é símbolo" }
         ] },
         readLocalArray: () => [{ name: "Arca", text: "Descrição personalizada" }],
+        getStudyEntries: () => [
+          { name: "Pomba", category: "Símbolos", description: "Descrição cadastrada" },
+          { name: "Arca", category: "Símbolos", description: "Descrição personalizada" },
+          { name: "Azul", category: "Cores", description: "Não é símbolo" }
+        ],
         renderStudyItems,
         esc,
         document: { querySelector: () => target },
@@ -86,6 +91,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
       const asyncSandbox = {
         window: asyncWindow,
         readLocalArray: () => [],
+        getStudyEntries: () => (asyncWindow.STUDY_LIBRARY || []).filter((item) => item.category === "Símbolos"),
         renderStudyItems,
         esc,
         document: { querySelector: () => asyncTarget },
@@ -102,23 +108,74 @@ if (existsSync("index.html") && existsSync("app.js")) {
     }
   }
 
+  const arrayStart = app.indexOf("function readLocalArray");
+  const arrayEnd = app.indexOf("function readLocalObject", arrayStart);
+  if (arrayStart < 0 || arrayEnd < 0) fail("Não foi possível isolar a leitura segura de listas locais");
+  else {
+    try {
+      const errors = [];
+      const source = [{ name: "Moisés", bio: "Biografia" }, null, { bio: "Sem nome" }, { name: "Arão", bio: 4 }];
+      const sandbox = { readLocalData: () => source, recordAppError: (...args) => errors.push(args) };
+      runInNewContext(app.slice(arrayStart, arrayEnd), sandbox);
+      const items = sandbox.readLocalArray("encBibCharacters");
+      if (items.length !== 2 || items[1].bio !== "" || source.length !== 4 || !errors.length)
+        fail("A leitura protegida de listas não filtrou registros inválidos sem alterar os dados originais");
+    } catch (error) {
+      fail(`Teste de listas locais falhou: ${error.message}`);
+    }
+  }
+
+  const entriesStart = app.indexOf("function getStudyEntries");
+  const entriesEnd = app.indexOf("async function renderSymbols", entriesStart);
+  if (entriesStart < 0 || entriesEnd < 0) fail("Não foi possível isolar a composição da biblioteca de estudos");
+  else {
+    try {
+      const sandbox = {
+        window: { STUDY_LIBRARY: [
+          { name: "Pomba", category: "Símbolos", description: "Descrição original" },
+          { name: "Registro inválido", category: "Símbolos" },
+          { name: "Azul", category: "Cores", description: "Cor" }
+        ] },
+        readLocalObject: () => ({ "Símbolos|Pomba": { description: "Descrição editada" } }),
+        readLocalArray: () => [{ name: "Arca", text: "Descrição personalizada" }]
+      };
+      runInNewContext(app.slice(entriesStart, entriesEnd), sandbox);
+      const entries = sandbox.getStudyEntries();
+      const checks = [
+        entries.length === 3,
+        entries.find((item) => item.name === "Pomba")?.description === "Descrição editada",
+        entries.find((item) => item.name === "Arca")?.category === "Símbolos",
+        entries.every((item) => item.name !== "Registro inválido")
+      ];
+      if (checks.some((passed) => !passed)) fail("Falha ao normalizar a biblioteca de estudos");
+    } catch (error) {
+      fail(`Teste da biblioteca de estudos falhou: ${error.message}`);
+    }
+  }
+
   const importStart = app.indexOf("function validateImportedBackup");
   const importEnd = app.indexOf("\n$('importData').onchange", importStart);
   if (importStart < 0 || importEnd < 0) fail("Não foi possível isolar o validador de backups importados");
   else {
     try {
-      const importSandbox = {};
+      const booksMatch = app.match(/const BOOKS=(\\[[\\s\\S]*?\\]);/);
+      const importSandbox = { BOOKS: booksMatch ? JSON.parse(booksMatch[1]) : [] };
       runInNewContext(app.slice(importStart, importEnd), importSandbox);
       const validate = importSandbox.validateImportedBackup;
       const checks = [
         validate({ edits: {}, guides: [], studyEdits: {}, symbols: [], characters: [] }) === "",
+        validate({ edits: { "0-1": { title: "Criação", versesText: "Texto" } } }) === "",
         validate({ symbols: [{ name: "Pomba", text: "Descrição" }] }) === "",
         Boolean(validate([])),
         Boolean(validate({ symbols: {} })),
         Boolean(validate({ characters: [null] })),
-        Boolean(validate({ characters: [{ bio: "Sem nome" }] }))
+        Boolean(validate({ characters: [{ bio: "Sem nome" }] })),
+        Boolean(validate({ edits: { "0-999": { title: "Inválido" } } })),
+        Boolean(validate({ edits: { "0-1": { versesText: { texto: "inválido" } } } })),
+        Boolean(validate({ symbols: [{ name: "Pomba", text: 123 }] })),
+        Boolean(validate({ guides: [{ name: "Guia", content: [] }] }))
       ];
-      if (checks.some((passed) => !passed)) fail("Falha nos testes de validação de backups importados");
+      if (checks.some((passed) => !passed)) fail("Falha nos testes de validação profunda de backups importados");
     } catch (error) {
       fail(`Teste de importação de backup falhou: ${error.message}`);
     }
@@ -133,5 +190,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
   const css = readFileSync("style.css", "utf8");
   if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
     fail("Os estilos da ficha bibliográfica estão ausentes");
+  if (!css.includes("prefers-reduced-motion") || !css.includes("forced-colors"))
+    fail("As preferências de movimento reduzido e alto contraste precisam ser respeitadas");
+  if (!html.includes('aria-label="Buscar um livro bíblico"') || !html.includes('aria-label="Buscar na biblioteca de estudos"'))
+    fail("Os campos de busca precisam de rótulos acessíveis");
+  if (!html.includes('aria-live="polite"'))
+    fail("As mensagens de estado precisam ser anunciadas por leitores de tela");
 }
 if (!process.exitCode) console.log("Validação estrutural aprovada.");
