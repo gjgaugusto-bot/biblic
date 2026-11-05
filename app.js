@@ -82,6 +82,26 @@ GENESIS_NOTES[8]={"summary":"Deus lembra-se de Noé e dos seres vivos que estão
 function renderStudyItems(items){return '<div class="study-catalog">'+items.map(([name,description])=>'<article class="guidecard"><h4>'+esc(name)+'</h4><p>'+esc(description)+'</p></article>').join('')+'</div>';}
 function studyText(items){return (items||[]).map(([name,description])=>name+' | '+description).join('\n');}
 function renderStudyText(value){const items=String(value||'').split(/\r?\n/).map(line=>line.trim()).filter(Boolean).map(line=>{const p=line.split('|');return [p.shift().trim(),p.join('|').trim()||'Sem descrição adicionada.']});return items.length?renderStudyItems(items):'<span class="related-empty">Nenhum item cadastrado neste capítulo.</span>';}
+function renderChapterSymbols(value){
+ const names=String(value||'').split(/\r?\n/).map(line=>line.split('|')[0].trim()).filter(Boolean);
+ if(!names.length)return '<span class="related-empty">Nenhuma simbologia vinculada à base de dados enviada por você.</span>';
+ const library=Array.isArray(window.STUDY_LIBRARY)?window.STUDY_LIBRARY.filter(item=>item&&item.category==='Símbolos'):[];
+ const custom=readLocalArray('encBibSymbols').filter(item=>item&&typeof item.name==='string').map(item=>({name:item.name,description:item.text||''}));
+ const available=new Map();
+ [...library,...custom].forEach(item=>{if(item&&typeof item.name==='string'){const key=item.name.trim().toLocaleLowerCase('pt-BR');if(key&&!available.has(key))available.set(key,item)}});
+ const seen=new Set(),matched=[];
+ names.forEach(name=>{const key=name.toLocaleLowerCase('pt-BR'),item=available.get(key);if(item&&!seen.has(key)){seen.add(key);matched.push(item)}});
+ if(!matched.length)return '<span class="related-empty">Nenhum dos nomes informados foi encontrado na biblioteca de simbologias.</span>';
+ return renderStudyItems(matched.map(item=>[item.name,item.description||item.text||'']));
+}
+function refreshChapterSymbols(bookIndex,chapter,value){
+ if(!String(value||'').trim()||Array.isArray(window.STUDY_LIBRARY)||typeof window.loadStudyLibraryData!=='function')return;
+ window.loadStudyLibraryData().then(()=>{
+  if(currentBook!==bookIndex||currentChapter!==chapter)return;
+  const target=document.querySelector('#reader [data-panel="symbols"] .related-items');
+  if(target)target.innerHTML=renderChapterSymbols(value);
+ }).catch(error=>recordAppError(error,'Falha ao carregar a biblioteca para vincular simbologias ao capítulo'));
+}
 
 
 const $=id=>document.getElementById(id);
