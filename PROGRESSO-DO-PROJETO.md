@@ -326,3 +326,18 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - O validador agora executa testes funcionais para correspondência de símbolos e importação de backups, além das verificações estruturais.
 - Inspeção pública do GitHub Pages não foi possível por indisponibilidade de acesso da ferramenta de navegação; não declarar visual publicado como conferido.
 - Estado: CORREÇÕES TÉCNICAS INTEGRADAS; CI APROVADO; TESTE VISUAL EXTERNO PENDENTE.
+
+
+## Auditoria operacional e testes de navegador — 2026-11-05
+
+- Snapshot criado antes da etapa: `backup-antes-hardening-operacional-2026-11-05`.
+- Branch de trabalho: `hardening-operacional-final-2026-11-05` (derivada da cópia de trabalho técnica).
+- Adicionada suíte Playwright/Chromium com verificação de busca, 66 livros, ficha bibliográfica, abertura do capítulo 4, abas por mouse/teclado, persistência de edição, simbologias, personagens, guias, exportação, importação, limpeza e viewport móvel.
+- Adicionadas varreduras axe-core nas telas inicial, ficha do livro, capítulo e painel administrativo.
+- Workflow `Proteção do site` ampliado para instalar dependências fixadas e executar testes de navegador em cada PR.
+- Reforçada tolerância a registros locais incompletos; importação agora valida campos textuais, limita arquivos a 15 MB e preserva rollback dos dados e dos dois níveis de backup.
+- Exportação e limpeza passaram a tratar falhas de armazenamento sem afirmar sucesso indevido.
+- Abas do capítulo receberam semântica ARIA e navegação por teclado.
+- Campos de busca receberam nomes acessíveis.
+- Estado: implementação preparada; resultados de Chromium/axe e revisão do diff pendentes.
+- Nenhum conteúdo bíblico, interpretação, significado da biblioteca, personagem ou gravura foi intencionalmente alterado.

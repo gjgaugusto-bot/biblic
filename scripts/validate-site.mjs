@@ -5,7 +5,7 @@ const fail = (message) => {
   console.error("FALHA:", message);
   process.exitCode = 1;
 };
-const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js"];
+const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js", "scripts/browser-smoke.mjs"];
 for (const file of required) {
   if (!existsSync(file)) fail(`Arquivo obrigatório ausente: ${file}`);
   else if (!readFileSync(file, "utf8").trim()) fail(`Arquivo obrigatório vazio: ${file}`);
@@ -44,6 +44,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("As leituras protegidas dos dados locais estão ausentes");
   if (!app.includes("function renderChapterSymbols") || !app.includes("refreshChapterSymbols") || !app.includes("symbolDetailsText"))
     fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
+  if (!app.includes('role="tab"') || !app.includes('aria-selected="true"') || !app.includes("tab.onkeydown"))
+    fail("As abas do capítulo precisam oferecer semântica acessível e navegação por teclado");
+  const artwork = readFileSync("book-art.js", "utf8");
+  if (!artwork.includes('aria-hidden="true" focusable="false"') || artwork.includes('role="img" aria-label="Gravura de '))
+    fail("As gravuras decorativas devem ser ocultadas de leitores de tela para evitar rótulos redundantes");
 
   const symbolStart = app.indexOf("function renderChapterSymbols");
   const symbolEnd = app.indexOf("\n\nconst $=", symbolStart);
@@ -126,6 +131,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
 
   if (!app.includes("[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY]"))
     fail("A limpeza de dados locais precisa remover também o histórico de backups automáticos");
+  if (!app.includes("file.size>15*1024*1024") || !app.includes("[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach((storageKey)=>previous[storageKey]"))
+    fail("A importação precisa limitar o tamanho do arquivo e preservar rollback completo");
+  if (!app.includes("typeof d.versesText==='string'") || !app.includes("typeof x.name==='string'"))
+    fail("A leitura de conteúdo local precisa tolerar registros incompletos");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
   if (!app.includes("esc(d.title||b.name+' '+c)"))
@@ -133,5 +142,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
   const css = readFileSync("style.css", "utf8");
   if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
     fail("Os estilos da ficha bibliográfica estão ausentes");
+}
+if (existsSync("scripts/browser-smoke.mjs")) {
+  const browserTests = readFileSync("scripts/browser-smoke.mjs", "utf8");
+  if (!browserTests.includes("new AxeBuilder") || !browserTests.includes("clearData") || !browserTests.includes("exportData"))
+    fail("A suíte de navegador precisa cobrir acessibilidade, limpeza e exportação");
 }
 if (!process.exitCode) console.log("Validação estrutural aprovada.");
