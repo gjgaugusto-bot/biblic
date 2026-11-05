@@ -54,7 +54,7 @@ try {
   assert.equal(await page.locator('[data-section="symbols"]').getAttribute("aria-selected"), "true");
   await page.locator('[data-section="symbols"]').press("ArrowLeft");
   assert.equal(await page.locator('[data-section="characters"]').getAttribute("aria-selected"), "true", "As abas devem funcionar pelo teclado");
-  console.log("ESTILOS_DAS_ABAS", JSON.stringify(await page.locator(".chapter-tab").evaluateAll(tabs => tabs.map(tab => ({ id: tab.id, background: getComputedStyle(tab).backgroundColor, color: getComputedStyle(tab).color, opacity: getComputedStyle(tab).opacity, selected: tab.getAttribute("aria-selected"), focused: tab === document.activeElement })))));
+  console.log("ESTILOS_DAS_ABAS", JSON.stringify(await page.locator(".chapter-tab").evaluateAll(tabs => tabs.map(tab => ({ id: tab.id, background: getComputedStyle(tab).backgroundColor, color: getComputedStyle(tab).color, inlineStyle: tab.getAttribute('style'), opacity: getComputedStyle(tab).opacity, selected: tab.getAttribute("aria-selected"), focused: tab === document.activeElement })))));
   await scanAccessibility(page, "leitor de capítulo");
 
   await page.locator("#chapterList").click();
