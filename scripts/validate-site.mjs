@@ -114,10 +114,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
   if (saveStart < 0 || saveEnd < 0) fail("Não foi possível isolar o salvamento transacional de capítulos");
   else {
     try {
+      const persistState = { result: { saved: false, backedUp: false } };
       const sandbox = {
         edits: { "0-1": { title: "Título anterior" } },
-        persistState: { result: { saved: false, backedUp: false } },
-        persist: function () { return this.persistState.result; }
+        persistState,
+        persist: () => persistState.result
       };
       runInNewContext(app.slice(saveStart, saveEnd), sandbox);
       const failed = sandbox.saveChapterEdit("0-1", { title: "Título novo" });
