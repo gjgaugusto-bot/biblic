@@ -224,3 +224,16 @@ Verificação estática independente após as gravações: arquivos presentes; s
 
 - PR #12 integrado à `main` (commit `686fb79871b7fdbbff9310f06ab993b8b6f1e37e`). Workflow `Proteção do site`, execução 42119944892 (run 45): job `validate` concluído com sucesso; `mirror` ignorado por evento de PR.
 - Cache-bust do JavaScript atualizado novamente para `20261105-sobre-livro2`, garantindo URL nova após reposicionamento da ficha.
+
+
+## Auditoria técnica inicial — 2026-11-05
+
+- Criado snapshot pré-auditoria: `backup-auditoria-tecnica-2026-11-05`.
+- Criada branch de trabalho: `auditoria-tecnica-2026-11-05`.
+- Achado crítico: a ação "Apagar edições locais" removia os dados atuais e o backup mais recente, mas deixava o histórico automático. Na próxima inicialização, o mecanismo de recuperação podia restaurar os dados que o usuário acabara de apagar.
+- Achado de integridade: a importação aceitava estruturas sem validação de tipo e substituía campos ausentes por listas/objetos vazios, podendo apagar dados locais válidos ao importar um backup parcial.
+- Achado de cobertura: o workflow não verificava a sintaxe de `book-art.js); o validador também não exigia esse arquivo nem conferia a ordem completa dos três scripts.
+- Correções nesta branch: limpar também o histórico ao apagar dados; validar o formato do backup antes de gravar; preservar campos ausentes em backups parciais; reverter os dados locais anteriores se a gravação da importação falhar; reforçar o validador estrutural e a checagem de sintaxe.
+- Preservado: conteúdo bíblico, fichas editoriais, base de simbologias, personagens, ilustrações e identidade visual.
+- Limite: não há teste de navegador real disponível nesta etapa; a validação automatizada continua estática/estrutural.
+- Estado: correções preparadas nesta branch, aguardando execução das validações e revisão do diff; nada foi publicado ainda.
