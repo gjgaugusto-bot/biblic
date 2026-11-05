@@ -144,3 +144,14 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Código visual e 66 gravuras confirmados na `main`.
 - Acesso público ao GitHub Pages não pôde ser confirmado nesta verificação; não declarar atualização visual do navegador como testada.
 - Estado do código: INTEGRADO À MAIN. Estado da publicação visual no navegador: NÃO VERIFICADO.
+
+
+### 2026-11-05 — Aprofundamento das gravuras e acabamento geral (em revisão)
+
+- Nova etapa iniciada na branch `redesign-preto-branco`, preservando a `main` até a revisão.
+- Refinado o renderizador das 66 ilustrações com moldura dupla, textura de gravura, hachuras, raios de fundo e detalhes ornamentais em preto e branco; mantidas as cenas descritivas já associadas aos livros.
+- Ampliado o acabamento ornamental global: espaçamento, divisórias, molduras internas, detalhes tipográficos, foco acessível e responsividade.
+- Atualizados os identificadores de cache para evitar que o navegador continue exibindo CSS/gravuras antigos.
+- Nenhum texto bíblico, anotação ou registro de simbologia foi alterado.
+- Verificações nesta etapa: integridade do conteúdo original dos scripts e presença de 66 entradas serão conferidas antes do PR; execução visual em navegador permanece uma etapa separada.
+- Estado: ALTERAÇÕES EM BRANCH; AGUARDANDO VALIDAÇÃO ESTÁTICA E CI.

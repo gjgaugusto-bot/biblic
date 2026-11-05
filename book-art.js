@@ -41,5 +41,22 @@ net:'<path d="M15 35 Q60 20 105 35 L94 87 H26 Z M15 35 L94 87 M105 35 L26 87 M37
 letter:'<path d="M22 24 H98 V94 H22 Z M22 24 L60 62 L98 24 M35 75 H85 M35 84 H75"/>',
 throne:'<path d="M30 25 H90 V55 H30 Z M25 55 H95 V82 H25 Z M35 82 V96 M85 82 V96 M20 96 H100 M40 25 V14 H80 V25"/>',
 };
-window.bookArtwork=function(index){const item=BOOK_ART[index]||{scene:'scroll',label:'Ilustração'};const scene=shapes[item.scene]||shapes.scroll;return '<svg class="book-illustration" viewBox="0 0 130 120" role="img" aria-label="Gravura: '+item.label+'" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="hatch'+index+'" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 5L5 0" stroke="#999" stroke-width=".35"/></pattern></defs><rect x="2" y="2" width="126" height="116" fill="#f8f8f6" stroke="#222" stroke-width="1.5"/><rect x="7" y="7" width="116" height="106" fill="none" stroke="#777" stroke-width=".8"/><rect x="11" y="11" width="108" height="98" fill="url(#hatch'+index+')" opacity=".12"/><path d="M13 20Q20 10 29 15Q23 24 13 20M117 20Q110 10 101 15Q107 24 117 20M13 100Q20 90 29 95Q23 104 13 100M117 100Q110 90 101 95Q107 104 117 100M34 13Q65 2 96 13M34 107Q65 118 96 107" fill="none" stroke="#666" stroke-width="1"/><g fill="none" stroke="#171717" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">'+scene+'</g><path d="M45 103H85" stroke="#555" stroke-width=".8"/><text x="65" y="112" text-anchor="middle" font-size="5.5" fill="#333" letter-spacing="1">'+String(Number(index)+1).padStart(2,"0")+'</text></svg>'};
+window.bookArtwork=function(index){
+ const item=BOOK_ART[index]||{scene:'scroll',label:'Gravura'};
+ const scene=shapes[item.scene]||shapes.scroll;
+ const n=Number(index)||0;
+ const motifs=[
+  '<path d="M16 83Q31 67 46 83T76 83T106 83M20 90H110"/>',
+  '<path d="M18 78Q31 54 44 78T70 78T96 78T116 78M24 88Q42 78 60 88T96 88"/>',
+  '<path d="M18 84L34 68L49 84L66 61L83 84L101 67L116 84M18 92H116"/>',
+  '<path d="M20 80Q37 62 54 80T88 80T116 80M25 91H105"/>',
+  '<path d="M22 86V70M30 86V63M38 86V72M92 86V69M100 86V62M108 86V72M17 91H113"/>',
+  '<path d="M18 80Q33 61 48 80Q63 61 78 80Q93 61 108 80M18 91H108"/>'
+ ];
+ const motif=motifs[n%motifs.length];
+ const rays=Array.from({length:12},(_,k)=>{const a=(Math.PI*2*k)/12;const x1=65+Math.cos(a)*43,y1=57+Math.sin(a)*34,x2=65+Math.cos(a)*49,y2=57+Math.sin(a)*40;return '<path d="M'+x1.toFixed(1)+' '+y1.toFixed(1)+'L'+x2.toFixed(1)+' '+y2.toFixed(1)+'"/>'}).join('');
+ const hatches=Array.from({length:9},(_,k)=>'<path d="M'+(16+k*11)+' 98l9 -9"/>').join('');
+ const star=(x,y)=>'<path d="M'+x+' '+(y-4)+'l1.2 2.8L'+(x+4)+' '+y+'l-2.8 1.2L'+x+' '+(y+4)+'l-1.2 -2.8L'+(x-4)+' '+y+'l2.8 -1.2Z"/>';
+ return '<svg class="book-illustration" viewBox="0 0 130 120" role="img" aria-label="Gravura de '+item.label+'" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="engrave'+n+'" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 4L4 0" stroke="#555" stroke-width=".35"/></pattern><linearGradient id="paper'+n+'" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e9e9e6"/></linearGradient></defs><rect x="1.5" y="1.5" width="127" height="117" fill="url(#paper'+n+')" stroke="#171717" stroke-width="1.7"/><rect x="5" y="5" width="120" height="110" fill="none" stroke="#555" stroke-width=".65"/><path d="M9 20Q18 7 31 13Q21 26 9 20M121 20Q112 7 99 13Q109 26 121 20M9 100Q18 87 31 93Q21 106 9 100M121 100Q112 87 99 93Q109 106 121 100" fill="none" stroke="#333" stroke-width="1"/><g fill="none" stroke="#777" stroke-width=".65" opacity=".7">'+rays+'</g><circle cx="65" cy="56" r="46" fill="url(#engrave'+n+')" opacity=".12"/><g fill="none" stroke="#171717" stroke-width="2.05" stroke-linecap="round" stroke-linejoin="round">'+scene+motif+'</g><g fill="none" stroke="#444" stroke-width=".7" opacity=".8">'+hatches+star(20,35)+star(110,35)+'</g><path d="M35 105H95M42 108H88" stroke="#333" stroke-width=".7"/><text x="65" y="113" text-anchor="middle" font-family="Georgia,serif" font-size="5.5" fill="#222" letter-spacing="1.2">'+String(n+1).padStart(2,"0")+'</text></svg>';
+};
 })();
