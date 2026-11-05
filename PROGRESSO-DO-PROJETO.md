@@ -186,5 +186,8 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Conferência automatizada em memória: 66 livros, 66 entradas, 45 formas vetoriais, nenhuma cena sem forma correspondente; as 66 chamadas de renderização produziram SVG com rótulo acessível.
 - Sintaxe de `book-art.js`, `app.js` e `study-data.js` aprovada por análise sintática; ordem de carregamento no HTML confirmada.
 - Nenhum texto bíblico, interpretação, personagem cadastrado ou simbologia foi alterado.
-- CI do GitHub e inspeção visual em navegador continuam pendentes de confirmação.
-- Estado: REVISÃO ESTÁTICA CONCLUÍDA; AGUARDANDO REVISÃO DO PR E VERIFICAÇÃO DE PUBLICAÇÃO.
+- Pull Request #8 integrado à `main`: https://github.com/gjgaugusto-bot/biblic/pull/8.
+- Commit de integração: `6c75d822c8c29dd53b3c3945ef8dbac04020b92e`.
+- Workflow `Proteção do site` (execução 42118561618) concluído com sucesso; etapa `validate` aprovada. A etapa `mirror` foi ignorada por se tratar de evento de PR.
+- A inspeção visual em navegador e a confirmação de atualização do GitHub Pages continuam pendentes; não declarar a renderização publicada como conferida.
+- Estado: ALTERAÇÕES INTEGRADAS À MAIN; VALIDAÇÃO AUTOMÁTICA APROVADA; INSPEÇÃO VISUAL PUBLICADA PENDENTE.
