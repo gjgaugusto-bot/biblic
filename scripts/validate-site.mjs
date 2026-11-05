@@ -44,6 +44,11 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("As leituras protegidas dos dados locais estão ausentes");
   if (!app.includes("function renderChapterSymbols") || !app.includes("refreshChapterSymbols") || !app.includes("symbolDetailsText"))
     fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
+  if (!app.includes('role="tab"') || !app.includes('aria-selected="true"') || !app.includes("tab.onkeydown"))
+    fail("As abas do capítulo precisam oferecer semântica acessível e navegação por teclado");
+  const artwork = readFileSync("book-art.js", "utf8");
+  if (!artwork.includes('aria-hidden="true" focusable="false"') || artwork.includes('role="img" aria-label="Gravura de '))
+    fail("As gravuras decorativas devem ser ocultadas de leitores de tela para evitar rótulos redundantes");
 
   const symbolStart = app.indexOf("function renderChapterSymbols");
   const symbolEnd = app.indexOf("\n\nconst $=", symbolStart);
