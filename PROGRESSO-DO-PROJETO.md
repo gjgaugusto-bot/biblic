@@ -104,3 +104,11 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Workflow `Proteção do site` executado no commit `63002d2adde12c8fd60c1e169a501fff2828f1fd`: job `validate` concluído com sucesso e job `mirror` concluído com sucesso.
 - Espelho de segurança atualizado depois da validação.
 - A proteção nativa da branch ainda não foi ativada, pois a integração não tem permissão para alterar rulesets/branch protection. Configuração manual pendente no GitHub.
+
+
+## 2026-11-05 — Identidade visual ilustrada clássica (em revisão)
+- Definido com o usuário o estilo ilustrado clássico para a enciclopédia: pergaminho, molduras ornamentais, detalhes dourados e ilustrações vetoriais relacionadas ao conteúdo dos 66 livros.
+- Implementação inicial em branch `design-ilustrado-classico`, sem alterar a `main` nem publicar no site ao vivo.
+- As ilustrações são decorativas e descritivas; não acrescentam interpretações nem simbologias ao banco do usuário.
+- Alterações previstas: cartões ilustrados dos 66 livros, paleta visual clássica e revisão responsiva.
+- Status: implementação inicial; validar sintaxe, estrutura, aparência em navegador e diff antes de abrir PR.
