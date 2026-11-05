@@ -50,6 +50,9 @@ try {
   assert.ok((await page.locator("#reader").innerText()).includes("Caim"));
   await page.locator('[data-section="symbols"]').click();
   assert.ok((await page.locator('[data-panel="symbols"]').innerText()).includes("Simbologias deste capítulo"));
+  assert.equal(await page.locator('[data-section="symbols"]').getAttribute("aria-selected"), "true");
+  await page.locator('[data-section="symbols"]').press("ArrowLeft");
+  assert.equal(await page.locator('[data-section="characters"]').getAttribute("aria-selected"), "true", "As abas devem funcionar pelo teclado");
   await scanAccessibility(page, "leitor de capítulo");
 
   await page.locator("#chapterList").click();
