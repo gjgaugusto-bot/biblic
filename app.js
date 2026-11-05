@@ -207,7 +207,55 @@ $('addCharacter').onclick=()=>{const name=$('characterName').value.trim(),bio=$(
 $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('guideStatus').textContent='Informe o nome da guia.';return}let guides=JSON.parse(localStorage.getItem('encBibGuides')||'[]');guides.push({name,description:$('guideDescription').value,content:$('guideContent').value});saveLocalData('encBibGuides',JSON.stringify(guides));$('guideName').value=$('guideDescription').value=$('guideContent').value='';$('guideStatus').textContent='Nova guia criada! Ela aparece na página inicial.';renderGuides()};
 function renderGuides(){let g=JSON.parse(localStorage.getItem('encBibGuides')||'[]');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
 $('exportData').onclick=()=>{let blob=new Blob([JSON.stringify({edits,guides:JSON.parse(localStorage.getItem('encBibGuides')||'[]'),studyEdits:JSON.parse(localStorage.getItem('encBibStudyEdits')||'{}'),symbols:JSON.parse(localStorage.getItem('encBibSymbols')||'[]'),characters:JSON.parse(localStorage.getItem('encBibCharacters')||'[]')},null,2)],{type:'application/json'});let a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='backup-enciclopedia-biblica.json';a.click();URL.revokeObjectURL(a.href)};
-$('importData').onchange=async e=>{let f=e.target.files[0];if(!f)return;try{let d=JSON.parse(await f.text());edits=d.edits||{};persist();saveLocalData('encBibGuides',JSON.stringify(d.guides||[]));saveLocalData('encBibStudyEdits',JSON.stringify(d.studyEdits||{}));saveLocalData('encBibSymbols',JSON.stringify(d.symbols||[]));saveLocalData('encBibCharacters',JSON.stringify(d.characters||[]));renderGuides();renderSymbols();renderCharacters();$('saveStatus').textContent='Backup importado com sucesso.'}catch{alert('Não foi possível ler esse arquivo de backup.')}};
+function validateImportedBackup(data){
+ if(!data||typeof data!=='object'||Array.isArray(data))return 'O arquivo não contém um objeto de backup válido.';
+ const schemas={edits:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array'};
+ const present=Object.keys(schemas).filter(k=>Object.prototype.hasOwnProperty.call(data,k));
+ if(!present.length)return 'O arquivo não contém campos reconhecidos da Enciclopédia Bíblica.';
+ for(const field of present){
+  const value=data[field],kind=schemas[field];
+  if(kind==='array'&&!Array.isArray(value))return 'O campo '+field+' deveria ser uma lista.';
+  if(kind==='object'&&(!value||typeof value!=='object'||Array.isArray(value)))return 'O campo '+field+' deveria ser um objeto.';
+  if(Array.isArray(value)&&value.some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
+  if(kind==='object'&&Object.values(value).some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
+ }
+ if(data.guides&&data.guides.some(item=>typeof item.name!=='string'))return 'Há uma guia sem nome válido.';
+ if(data.symbols&&data.symbols.some(item=>typeof item.name!=='string'))return 'Há uma simbologia sem nome válido.';
+ if(data.characters&&data.characters.some(item=>typeof item.name!=='string'))return 'Há um personagem sem nome válido.';
+ return '';
+}
+$('importData').onchange=async e=>{
+ const file=e.target.files&&e.target.files[0];if(!file)return;
+ try{
+  const data=JSON.parse(await file.text()),problem=validateImportedBackup(data);
+  if(problem)throw new Error(problem);
+  const oldEdits=edits,previous={};
+  BACKUP_KEYS.forEach((storageKey)=>previous[storageKey]=localStorage.getItem(storageKey));
+  try{
+   if(Object.prototype.hasOwnProperty.call(data,'edits')){edits=data.edits;localStorage.setItem(key,JSON.stringify(edits))}
+   for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters']]){
+    if(Object.prototype.hasOwnProperty.call(data,field))localStorage.setItem(storageKey,JSON.stringify(data[field]));
+   }
+   const backupData={};
+   BACKUP_KEYS.forEach(storageKey=>{const saved=localStorage.getItem(storageKey);if(saved!==null)backupData[storageKey]=saved});
+   const snapshot={savedAt:new Date().toISOString(),data:backupData};
+   localStorage.setItem(AUTO_BACKUP_KEY,JSON.stringify(snapshot));
+   const history=readLocalData(AUTO_BACKUP_HISTORY_KEY,[]);
+   history.unshift(snapshot);
+   localStorage.setItem(AUTO_BACKUP_HISTORY_KEY,JSON.stringify(history.slice(0,8)));
+  }catch(storageError){
+   edits=oldEdits;
+   BACKUP_KEYS.forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
+   throw storageError;
+  }
+  renderGuides();renderSymbols();renderCharacters();loadEdit();
+  $('saveStatus').textContent='Backup importado e validado. Campos ausentes foram mantidos como estavam.';
+ }catch(error){
+  const message=error&&error.message?error.message:'Não foi possível ler esse arquivo de backup.';
+  $('saveStatus').textContent='Importação não realizada: '+message;
+  alert('Backup não importado: '+message);
+ }finally{e.target.value=''}
+}
 $('clearData').onclick=()=>{
  if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
  edits={};
