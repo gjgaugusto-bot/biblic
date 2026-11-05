@@ -160,3 +160,31 @@ footer{padding-top:25px;padding-bottom:34px}
 .book-info-item p{margin:0;line-height:1.6;color:var(--ink-soft);}
 .book-info-note{margin-top:16px;padding:12px 14px;border-left:3px solid var(--accent);background:#eeeeec;line-height:1.6;color:var(--ink-soft);}
 @media(max-width:700px){.book-info-grid{grid-template-columns:1fr}.book-info-item{padding:12px}}
+
+
+/* Acessibilidade e preferências de movimento */
+.navbtn:focus-visible,.bottom-tab:focus-visible,.primary:focus-visible,.readercontrols button:focus-visible{
+ outline:2px solid #fff;
+ outline-offset:3px;
+ box-shadow:0 0 0 5px #171717;
+}
+@media(prefers-reduced-motion:reduce){
+ *,*::before,*::after{
+  scroll-behavior:auto!important;
+  animation-duration:.01ms!important;
+  animation-iteration-count:1!important;
+  transition-duration:.01ms!important;
+ }
+ .book:hover,.study-home-card:hover,.study-library-card:hover,.link-card:hover{
+  transform:none!important;
+ }
+}
+@media(forced-colors:active){
+ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{
+  outline:2px solid Highlight;
+  outline-offset:3px;
+ }
+ .book,.readerbox,.panel,.guidecard,.study-library-card{
+  border:1px solid CanvasText;
+ }
+}
