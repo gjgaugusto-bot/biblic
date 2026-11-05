@@ -261,3 +261,14 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - O validador estrutural foi ampliado para impedir regressão dessa proteção.
 - Nenhum conteúdo existente foi alterado; a correção afeta somente a forma segura de exibir títulos.
 - Estado: correção preparada; aguardando validação automatizada e integração.
+
+
+### Atualização da auditoria técnica
+
+- A correção de renderização dos títulos dos capítulos foi integrada no PR #16.
+- Commit: 009875b4bc45843ba3c1de03888a5b9a0c72ca39.
+- Workflow 42121524042: sucesso; validação aprovada.
+- Os títulos editáveis agora passam por escape de HTML antes da exibição.
+- O validador verifica a proteção e o cache do app foi atualizado.
+- Nenhum texto bíblico, símbolo, personagem ou ilustração foi modificado.
+- A inspeção em navegador real continua pendente.
