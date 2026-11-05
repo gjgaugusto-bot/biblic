@@ -96,7 +96,7 @@ function renderChapterSymbols(value){
 }
 function refreshChapterSymbols(bookIndex,chapter,value){
  if(!String(value||'').trim()||Array.isArray(window.STUDY_LIBRARY)||typeof window.loadStudyLibraryData!=='function')return;
- window.loadStudyLibraryData().then(()=>{
+ return window.loadStudyLibraryData().then(()=>{
   if(currentBook!==bookIndex||currentChapter!==chapter)return;
   const target=document.querySelector('#reader [data-panel="symbols"] .related-items');
   if(target)target.innerHTML=renderChapterSymbols(value);
