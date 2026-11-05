@@ -41,6 +41,8 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("Proteções de importação e histórico de backup local não foram encontradas");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
+  if (!app.includes("esc(d.title||b.name+' '+c)"))
+    fail("O título editável do capítulo precisa ser escapado antes de entrar no HTML");
   const css = readFileSync("style.css", "utf8");
   if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
     fail("Os estilos da ficha bibliográfica estão ausentes");
