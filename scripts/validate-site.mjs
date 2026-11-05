@@ -1,4 +1,5 @@
 import { readFileSync, existsSync } from "node:fs";
+import { runInNewContext } from "node:vm";
 
 const fail = (message) => {
   console.error("FALHA:", message);
@@ -43,6 +44,88 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("As leituras protegidas dos dados locais estão ausentes");
   if (!app.includes("function renderChapterSymbols") || !app.includes("refreshChapterSymbols") || !app.includes("symbolDetailsText"))
     fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
+
+  const symbolStart = app.indexOf("function renderChapterSymbols");
+  const symbolEnd = app.indexOf("\\n\\nconst $=", symbolStart);
+  if (symbolStart < 0 || symbolEnd < 0) fail("Não foi possível isolar as funções de vínculo de simbologias");
+  else {
+    try {
+      const helperSource = app.slice(symbolStart, symbolEnd);
+      const renderStudyItems = (items) => items.map(([name, description]) => name + ":" + description).join("|");
+      const esc = (value) => String(value);
+      const target = { innerHTML: "" };
+      const sandbox = {
+        window: { STUDY_LIBRARY: [
+          { name: "Pomba", category: "Símbolos", description: "Descrição cadastrada" },
+          { name: "Azul", category: "Cores", description: "Não é símbolo" }
+        ] },
+        readLocalArray: () => [{ name: "Arca", text: "Descrição personalizada" }],
+        renderStudyItems,
+        esc,
+        document: { querySelector: () => target },
+        recordAppError: () => {},
+        currentBook: 0,
+        currentChapter: 1
+      };
+      runInNewContext(helperSource, sandbox);
+      const checks = [
+        sandbox.renderChapterSymbols("Pomba").includes("Pomba"),
+        sandbox.renderChapterSymbols("Arca").includes("Arca"),
+        sandbox.renderChapterSymbols("Azul").includes("Nenhum dos nomes"),
+        sandbox.renderChapterSymbols("Nome inexistente").includes("Nenhum dos nomes"),
+        sandbox.renderChapterSymbols("").includes("Nenhuma simbologia vinculada"),
+        (sandbox.renderChapterSymbols("Pomba\\nPomba").match(/Pomba/g) || []).length === 1
+      ];
+      const asyncTarget = { innerHTML: "" };
+      const asyncWindow = {
+        loadStudyLibraryData: async function () {
+          this.STUDY_LIBRARY = [{ name: "Pomba", category: "Símbolos", description: "Carregado" }];
+          return this.STUDY_LIBRARY;
+        }
+      };
+      const asyncSandbox = {
+        window: asyncWindow,
+        readLocalArray: () => [],
+        renderStudyItems,
+        esc,
+        document: { querySelector: () => asyncTarget },
+        recordAppError: () => {},
+        currentBook: 0,
+        currentChapter: 1
+      };
+      runInNewContext(helperSource, asyncSandbox);
+      await asyncSandbox.refreshChapterSymbols(0, 1, "Pomba");
+      checks.push(asyncTarget.innerHTML.includes("Pomba"));
+      if (checks.some((passed) => !passed)) fail("Falha nos testes funcionais de vínculo de simbologias");
+    } catch (error) {
+      fail(`Teste de vínculo de simbologias falhou: ${error.message}`);
+    }
+  }
+
+  const importStart = app.indexOf("function validateImportedBackup");
+  const importEnd = app.indexOf("\\n$('importData').onchange", importStart);
+  if (importStart < 0 || importEnd < 0) fail("Não foi possível isolar o validador de backups importados");
+  else {
+    try {
+      const importSandbox = {};
+      runInNewContext(app.slice(importStart, importEnd), importSandbox);
+      const validate = importSandbox.validateImportedBackup;
+      const checks = [
+        validate({ edits: {}, guides: [], studyEdits: {}, symbols: [], characters: [] }) === "",
+        validate({ symbols: [{ name: "Pomba", text: "Descrição" }] }) === "",
+        Boolean(validate([])),
+        Boolean(validate({ symbols: {} })),
+        Boolean(validate({ characters: [null] })),
+        Boolean(validate({ characters: [{ bio: "Sem nome" }] }))
+      ];
+      if (checks.some((passed) => !passed)) fail("Falha nos testes de validação de backups importados");
+    } catch (error) {
+      fail(`Teste de importação de backup falhou: ${error.message}`);
+    }
+  }
+
+  if (!app.includes("[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY]"))
+    fail("A limpeza de dados locais precisa remover também o histórico de backups automáticos");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
   if (!app.includes("esc(d.title||b.name+' '+c)"))
