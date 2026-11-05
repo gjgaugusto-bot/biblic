@@ -170,3 +170,6 @@ footer{padding-top:25px;padding-bottom:34px}
 .hint{color:#5b6574}
 .chapter-tab{background:#f1f1f0;color:#222;border-color:#777}
 .chapter-tab.active{background:#3f3f3f;color:#fff;border-color:#3f3f3f}
+
+/* Mantém contraste AA também nos estados hover e foco do teclado. */
+.chapter-tab:hover,.chapter-tab:focus-visible{background:#3f3f3f;color:#fff;border-color:#3f3f3f}
