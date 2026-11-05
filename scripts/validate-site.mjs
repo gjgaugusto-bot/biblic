@@ -174,7 +174,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
           { name: "Azul", category: "Cores", description: "Cor" }
         ] },
         readLocalObject: () => ({ "Símbolos|Pomba": { description: "Descrição editada" } }),
-        readLocalArray: () => [{ name: "Arca", text: "Descrição personalizada" }]
+        readValidLocalArray: () => [{ name: "Arca", text: "Descrição personalizada" }]
       };
       runInNewContext(app.slice(entriesStart, entriesEnd), sandbox);
       const entries = sandbox.getStudyEntries();
