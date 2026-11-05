@@ -46,7 +46,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
 
   const symbolStart = app.indexOf("function renderChapterSymbols");
-  const symbolEnd = app.indexOf("\\n\\nconst $=", symbolStart);
+  const symbolEnd = app.indexOf("\n\nconst $=", symbolStart);
   if (symbolStart < 0 || symbolEnd < 0) fail("Não foi possível isolar as funções de vínculo de simbologias");
   else {
     try {
@@ -74,7 +74,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
         sandbox.renderChapterSymbols("Azul").includes("Nenhum dos nomes"),
         sandbox.renderChapterSymbols("Nome inexistente").includes("Nenhum dos nomes"),
         sandbox.renderChapterSymbols("").includes("Nenhuma simbologia vinculada"),
-        (sandbox.renderChapterSymbols("Pomba\\nPomba").match(/Pomba/g) || []).length === 1
+        (sandbox.renderChapterSymbols("Pomba\nPomba").match(/Pomba/g) || []).length === 1
       ];
       const asyncTarget = { innerHTML: "" };
       const asyncWindow = {
@@ -103,7 +103,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
   }
 
   const importStart = app.indexOf("function validateImportedBackup");
-  const importEnd = app.indexOf("\\n$('importData').onchange", importStart);
+  const importEnd = app.indexOf("\n$('importData').onchange", importStart);
   if (importStart < 0 || importEnd < 0) fail("Não foi possível isolar o validador de backups importados");
   else {
     try {
