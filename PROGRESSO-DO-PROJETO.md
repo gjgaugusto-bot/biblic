@@ -1,0 +1,75 @@
+# Controle de progresso — Enciclopédia Bíblica
+
+Última atualização: 2026-11-05
+
+## Estado atual confirmado
+
+- Repositório oficial: https://github.com/gjgaugusto-bot/biblic
+- Branch de publicação: `main`
+- Site: https://gjgaugusto-bot.github.io/biblic/
+- Espelho automático de código: `backup-automatico`
+- Snapshot inicial de segurança: `backup-site-2026-11-05`
+- Estrutura do projeto: site estático em HTML, CSS e JavaScript.
+- O usuário confirmou que a correção de abertura dos capítulos funcionou.
+- A correção mais recente de abertura usa botões com chamada direta a `openChapterFromButton`; os arquivos foram atualizados e publicados na branch principal.
+
+## Próxima etapa de conteúdo
+
+- Retomar o estudo em Gênesis 5, respeitando integralmente as regras editoriais abaixo.
+- Não marcar capítulo como concluído até passar pela revisão textual, conferência das referências/dados e confirmação do usuário quando aplicável.
+
+## Regras editoriais obrigatórias
+
+1. Não interferir na interpretação do texto nem acrescentar conclusões teológicas não solicitadas.
+2. Quando o usuário fornecer o texto bíblico, preservá-lo integralmente, sem resumir, reescrever ou omitir partes.
+3. Não inventar personagens, símbolos, significados, episódios ou referências.
+4. Na seção de simbologias dos capítulos, incluir exclusivamente itens que existam na base de dados fornecida pelo usuário e que estejam associados ao capítulo.
+5. Não apagar, alterar ou reinterpretar símbolos fornecidos pelo usuário sem autorização explícita.
+6. Se não houver símbolo da base do usuário associado ao capítulo, deixar a seção vazia ou informar que não há itens vinculados à base fornecida.
+7. Distinguir claramente texto bíblico, dados fornecidos pelo usuário, conteúdo editorial e informação ainda não verificada.
+8. A tradução de trabalho de Gênesis no site é material próprio de estudo; não apresentá-la como tradução bíblica publicada ou versão oficial.
+9. Se for necessária uma tradução portuguesa protegida por direitos autorais, pedir ao usuário que forneça o texto ou trabalhar com referência/resumo permitido.
+
+## Protocolo de conclusão por capítulo
+
+Um capítulo só pode receber status **REVISADO** quando:
+- [ ] O texto foi conferido linha por linha com a fonte fornecida/definida.
+- [ ] Nenhum trecho foi resumido, omitido ou alterado sem autorização.
+- [ ] Personagens e episódios correspondem ao texto e aos dados aprovados.
+- [ ] Simbologias foram comparadas com a base do usuário; nenhum item foi inventado.
+- [ ] Referências foram conferidas e não foram fabricadas.
+- [ ] Campos vazios ou pendências estão identificados, sem preenchimento especulativo.
+- [ ] A página abre e as abas/controles relevantes funcionam.
+- [ ] A alteração passou pelas verificações automáticas.
+- [ ] O resultado foi registrado neste arquivo com data, arquivos/commit e estado.
+
+Status permitidos: **RASCUNHO**, **EM REVISÃO**, **REVISADO**, **PUBLICADO**. Publicado não significa automaticamente revisado: os dois estados devem ser registrados separadamente.
+
+## Registro de alterações e decisões
+
+| Data | Área | Alteração/decisão | Verificação | Estado |
+|---|---|---|---|---|
+| 2026-11-05 | Site | Corrigida a abertura dos capítulos por chamada direta nos botões e atualização dos scripts publicados | Usuário confirmou que funcionou | PUBLICADO |
+| 2026-11-05 | Proteção | Criado espelho de código e workflow de validação; histórico de backup local no navegador já existente | Workflow e escopo devem ser conferidos a cada mudança de proteção | EM ACOMPANHAMENTO |
+| 2026-11-05 | Conteúdo | Definida a regra de usar somente simbologias presentes na base do usuário | Regra editorial obrigatória | ATIVO |
+
+## Pendências conhecidas e limites
+
+- O backup do GitHub protege o código versionado, não os dados guardados apenas no navegador.
+- O backup local depende do armazenamento do navegador e pode ser perdido se os dados do navegador forem apagados ou o dispositivo for perdido.
+- Exportar o JSON e guardar cópias externas continua obrigatório para proteger edições locais.
+- A validação automática verifica estrutura/sintaxe e consistência básica; não substitui a revisão bíblica, a inspeção visual e os testes reais no navegador.
+- A integração disponível não permitiu consultar as regras de proteção da branch `main` (resposta 403). Portanto, não afirmar que a branch está bloqueada contra push direto.
+- Não existe, neste momento, evidência registrada de teste automatizado completo em navegador real.
+
+## Regra de atualização deste documento
+
+Toda sessão que alterar conteúdo, código ou estrutura deve atualizar este arquivo no mesmo conjunto de trabalho, registrando:
+1. o que mudou;
+2. por que mudou;
+3. arquivos e commit;
+4. verificações executadas e seus resultados;
+5. pendências e próximo passo;
+6. status correto, sem declarar sucesso não verificado.
+
+Se houver divergência entre este registro e o estado real do repositório, prevalece o estado real após inspeção; corrigir este documento antes de continuar o trabalho.
