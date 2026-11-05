@@ -158,7 +158,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
   if (importStart < 0 || importEnd < 0) fail("Não foi possível isolar o validador de backups importados");
   else {
     try {
-      const booksMatch = app.match(/const BOOKS=(\\[[\\s\\S]*?\\]);/);
+      const booksMatch = app.match(/const BOOKS=(\[[\s\S]*?\]);/);
       const importSandbox = { BOOKS: booksMatch ? JSON.parse(booksMatch[1]) : [] };
       runInNewContext(app.slice(importStart, importEnd), importSandbox);
       const validate = importSandbox.validateImportedBackup;
