@@ -1,0 +1,10 @@
+ENCICLOPÉDIA BÍBLICA — VERSÃO COM PAINEL ADMINISTRATIVO
+
+1. Extraia todo o conteúdo do ZIP para uma pasta.
+2. Abra index.html no navegador (Chrome, Edge ou Firefox).
+3. Use o Painel administrativo para editar capítulos e criar guias.
+4. Clique em Exportar backup para guardar suas alterações.
+
+As alterações são salvas no armazenamento local do navegador. Não limpe os dados do navegador sem antes exportar um backup. Para transferir para outro computador, exporte o backup e importe-o no outro navegador.
+
+Todas as 66 entradas de livros e 1.189 capítulos estão navegáveis. Os capítulos ainda sem texto próprio exibem um aviso para desenvolvimento futuro. O conteúdo pode ser preenchido aos poucos pelo painel.
