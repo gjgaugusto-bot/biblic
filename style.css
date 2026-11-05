@@ -173,3 +173,6 @@ footer{padding-top:25px;padding-bottom:34px}
 
 /* Mantém contraste AA também nos estados hover e foco do teclado. */
 .chapter-tab:hover,.chapter-tab:focus-visible{background:#3f3f3f;color:#fff;border-color:#3f3f3f}
+
+/* Estado selecionado e foco das abas: contraste AA explícito em qualquer navegador. */
+.chapter-tab[aria-selected="true"],.chapter-tab[aria-selected="true"]:hover,.chapter-tab[aria-selected="true"]:focus-visible,.chapter-tab[aria-selected="false"]:hover,.chapter-tab[aria-selected="false"]:focus-visible{background-color:#333!important;color:#fff!important;border-color:#333!important}
