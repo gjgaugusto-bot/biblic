@@ -247,31 +247,46 @@ $('detailBack').onclick=()=>{if(detailOrigin==='reader'){openChapter(currentChap
 $('addCharacter').onclick=()=>{const name=$('characterName').value.trim(),bio=$('characterBio').value.trim();if(!name||!bio){$('characterStatus').textContent='Preencha o nome e a biografia.';return}const items=readLocalArray('encBibCharacters');items.push({name,bio,refs:$('characterRefs').value.trim()});const result=saveLocalData('encBibCharacters',JSON.stringify(items));if(!result.saved){$('characterStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('characterName').value=$('characterBio').value=$('characterRefs').value='';$('characterStatus').textContent=result.backedUp?'Personagem adicionado e incluído no backup automático local!':'Personagem salvo, mas o backup automático falhou. Exporte uma cópia manual.';renderCharacters() }
 $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('guideStatus').textContent='Informe o nome da guia.';return}let guides=readLocalArray('encBibGuides');guides.push({name,description:$('guideDescription').value,content:$('guideContent').value});const result=saveLocalData('encBibGuides',JSON.stringify(guides));if(!result.saved){$('guideStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('guideName').value=$('guideDescription').value=$('guideContent').value='';$('guideStatus').textContent=result.backedUp?'Nova guia criada! Ela aparece na página inicial.':'Guia salva, mas o backup automático falhou. Exporte uma cópia manual.';renderGuides()};
 function renderGuides(){let g=readLocalArray('encBibGuides').filter(x=>x&&typeof x.name==='string');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
-$('exportData').onclick=()=>{let blob=new Blob([JSON.stringify({edits,guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters')},null,2)],{type:'application/json'});let url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+$('exportData').onclick=()=>{let url='';try{const payload={edits,guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters')},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);$('saveStatus').textContent='Arquivo de backup preparado para download.'}catch(error){if(url)URL.revokeObjectURL(url);recordAppError(error,'Falha ao exportar backup');$('saveStatus').textContent='Não foi possível exportar o backup. Seus dados locais não foram apagados.'}};
 function validateImportedBackup(data){
  if(!data||typeof data!=='object'||Array.isArray(data))return 'O arquivo não contém um objeto de backup válido.';
  const schemas={edits:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array'};
  const present=Object.keys(schemas).filter(k=>Object.prototype.hasOwnProperty.call(data,k));
  if(!present.length)return 'O arquivo não contém campos reconhecidos da Enciclopédia Bíblica.';
+ const stringFields={
+  edits:['title','summary','explanation','versesText','episodes','refs','characterDetailsText','symbolDetailsText'],
+  guides:['name','description','content'],
+  studyEdits:['name','category','description'],
+  symbols:['name','mark','text','refs'],
+  characters:['name','bio','refs']
+ };
  for(const field of present){
   const value=data[field],kind=schemas[field];
   if(kind==='array'&&!Array.isArray(value))return 'O campo '+field+' deveria ser uma lista.';
   if(kind==='object'&&(!value||typeof value!=='object'||Array.isArray(value)))return 'O campo '+field+' deveria ser um objeto.';
-  if(Array.isArray(value)&&value.some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
-  if(kind==='object'&&Object.values(value).some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
+  const records=kind==='array'?value:Object.values(value);
+  if(records.some(item=>!item||typeof item!=='object'||Array.isArray(item)))return 'O campo '+field+' contém registros inválidos.';
+  for(const item of records){
+   for(const property of stringFields[field]){
+    if(Object.prototype.hasOwnProperty.call(item,property)&&typeof item[property]!=='string')
+     return 'O campo '+field+' contém um valor inválido em '+property+'.';
+   }
+  }
  }
- if(data.guides&&data.guides.some(item=>typeof item.name!=='string'))return 'Há uma guia sem nome válido.';
- if(data.symbols&&data.symbols.some(item=>typeof item.name!=='string'))return 'Há uma simbologia sem nome válido.';
- if(data.characters&&data.characters.some(item=>typeof item.name!=='string'))return 'Há um personagem sem nome válido.';
+ for(const field of ['guides','symbols','characters']){
+  if(data[field]&&data[field].some(item=>typeof item.name!=='string'||!item.name.trim()))
+   return 'Há um registro sem nome válido em '+field+'.';
+ }
  return '';
 }
 $('importData').onchange=async e=>{
  const file=e.target.files&&e.target.files[0];if(!file)return;
  try{
+  if(file.size>15*1024*1024)throw new Error('O arquivo excede o limite de 15 MB.');
   const data=JSON.parse(await file.text()),problem=validateImportedBackup(data);
   if(problem)throw new Error(problem);
   const oldEdits=edits,previous={};
-  BACKUP_KEYS.forEach((storageKey)=>previous[storageKey]=localStorage.getItem(storageKey));
+  [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach((storageKey)=>previous[storageKey]=localStorage.getItem(storageKey));
   try{
    if(Object.prototype.hasOwnProperty.call(data,'edits')){edits=data.edits;localStorage.setItem(key,JSON.stringify(edits))}
    for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters']]){
@@ -286,7 +301,7 @@ $('importData').onchange=async e=>{
    localStorage.setItem(AUTO_BACKUP_HISTORY_KEY,JSON.stringify(history.slice(0,8)));
   }catch(storageError){
    edits=oldEdits;
-   BACKUP_KEYS.forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
+   [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
    throw storageError;
   }
   renderGuides();renderSymbols();renderCharacters();loadEdit();
@@ -299,10 +314,14 @@ $('importData').onchange=async e=>{
 }
 $('clearData').onclick=()=>{
  if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
- edits={};
- [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
- renderGuides();renderSymbols();renderCharacters();loadEdit();
- $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
+ try{
+  [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
+  edits={};renderGuides();renderSymbols();renderCharacters();loadEdit();
+  $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
+ }catch(error){
+  recordAppError(error,'Falha ao limpar dados locais');
+  $('saveStatus').textContent='Não foi possível concluir a limpeza dos dados locais. Verifique as permissões de armazenamento do navegador.';
+ }
 };
 document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');$('search').oninput=e=>renderBooks(e.target.value);
 renderBooks();renderGuides();renderSymbols();renderCharacters();
