@@ -272,3 +272,12 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - O validador verifica a proteção e o cache do app foi atualizado.
 - Nenhum texto bíblico, símbolo, personagem ou ilustração foi modificado.
 - A inspeção em navegador real continua pendente.
+
+
+## Reforço de armazenamento local — 2026-11-05
+
+- Padronizadas as leituras de listas e objetos do armazenamento local, com fallback seguro quando o JSON estiver corrompido ou tiver tipo incorreto.
+- As gravações agora distinguem falha ao salvar do dado principal e falha ao atualizar o backup automático; as mensagens do painel não afirmam backup concluído quando ele falhou.
+- A exportação usa os leitores protegidos e mantém o URL temporário ativo até o navegador iniciar o download.
+- O validador agora exige os leitores protegidos de dados locais.
+- Estado: implementação preparada para testes e integração; nenhum conteúdo editorial foi alterado.
