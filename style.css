@@ -148,3 +148,15 @@ button{transition:background-color .18s ease,border-color .18s ease,box-shadow .
 button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid #111;outline-offset:3px}
 footer{padding-top:25px;padding-bottom:34px}
 @media(max-width:700px){main:before,main:after{display:none}.hero:after{font-size:11px;letter-spacing:4px}.book-art{max-width:142px}}
+
+
+/* Ficha bibliográfica exibida abaixo da lista de capítulos */
+.book-info{margin-top:22px;border-top:3px double var(--line);}
+.book-info>h2{font-family:Georgia,'Times New Roman',serif;font-weight:normal;margin:4px 0 8px;font-size:1.65rem;}
+.book-info-intro{line-height:1.65;color:var(--ink-soft);max-width:900px;}
+.book-info-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:18px;}
+.book-info-item{padding:13px 15px;border:1px solid var(--line);background:linear-gradient(145deg,#fff,#f1f1ef);border-radius:4px;}
+.book-info-item h3{font-size:.98rem;margin:0 0 6px;color:var(--ink);}
+.book-info-item p{margin:0;line-height:1.6;color:var(--ink-soft);}
+.book-info-note{margin-top:16px;padding:12px 14px;border-left:3px solid var(--accent);background:#eeeeec;line-height:1.6;color:var(--ink-soft);}
+@media(max-width:700px){.book-info-grid{grid-template-columns:1fr}.book-info-item{padding:12px}}
