@@ -131,8 +131,8 @@ function readValidLocalArray(storageKey){
  }[storageKey]||{};
  const valid=value.filter(item=>item&&typeof item==='object'&&!Array.isArray(item)&&required.every(field=>typeof item[field]==='string'&&item[field].trim()));
  if(valid.length!==value.length)recordAppError('Registros locais incompletos foram ignorados na exibição; os dados originais permanecem preservados.','Leitura: '+storageKey);
- return valid.map(item=>{
-  const normalized={...item};
+ return value.map((item,index)=>({item,index})).filter(({item})=>item&&typeof item==='object'&&!Array.isArray(item)&&required.every(field=>typeof item[field]==='string'&&item[field].trim())).map(({item,index})=>{
+  const normalized={...item,_storageIndex:index};
   Object.entries(defaults).forEach(([field,fallback])=>{if(typeof normalized[field]!=='string')normalized[field]=fallback});
   return normalized;
  });
@@ -296,7 +296,7 @@ function getStudyEntries(){
    };
   });
  const custom=readValidLocalArray('encBibSymbols').map((item,i)=>{
-  const id='Símbolos|custom-'+i,change=edits[id]&&typeof edits[id]==='object'&&!Array.isArray(edits[id])?edits[id]:{};
+  const storageIndex=Number.isInteger(item._storageIndex)?item._storageIndex:i,id='Símbolos|custom-'+storageIndex,change=edits[id]&&typeof edits[id]==='object'&&!Array.isArray(edits[id])?edits[id]:{};
   return {
    name:typeof change.name==='string'&&change.name.trim()?change.name:item.name,
    description:typeof change.description==='string'?change.description:(item.text||''),
