@@ -144,3 +144,15 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Código visual e 66 gravuras confirmados na `main`.
 - Acesso público ao GitHub Pages não pôde ser confirmado nesta verificação; não declarar atualização visual do navegador como testada.
 - Estado do código: INTEGRADO À MAIN. Estado da publicação visual no navegador: NÃO VERIFICADO.
+
+
+### Publicação do refinamento visual — 2026-11-05
+
+- Pull Request #5 integrado à `main` por squash: https://github.com/gjgaugusto-bot/biblic/pull/5
+- Commit integrado: `f020937094a382f3d4064b0a5a55f70e5c65b6bd`.
+- Snapshot de segurança anterior à integração: branch `backup-visual-monocromatico-2026-11-05`, apontando para o commit da proposta `fd98e0bbd8da5dbe94440eba99a78a636e145b61`.
+- Conferência posterior confirmou os novos recursos de gravura em `book-art.js`, os ornamentos em `style.css` e a atualização dos identificadores de cache em `index.html`.
+- Os arquivos `app.js` e `study-data.js` foram preservados nesta alteração.
+- A consulta de execução do GitHub Actions não retornou workflow associado ao commit e o status combinado não apresentou checks. Portanto, CI não foi declarado aprovado.
+- A abertura pública do GitHub Pages não pôde ser confirmada nesta verificação. A integração na `main` está confirmada; a atualização visual no navegador ainda precisa de verificação externa.
+- Estado: INTEGRADO À MAIN; PUBLICAÇÃO VISUAL EXTERNA NÃO VERIFICADA.
