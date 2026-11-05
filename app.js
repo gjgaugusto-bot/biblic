@@ -208,6 +208,12 @@ $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('gui
 function renderGuides(){let g=JSON.parse(localStorage.getItem('encBibGuides')||'[]');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
 $('exportData').onclick=()=>{let blob=new Blob([JSON.stringify({edits,guides:JSON.parse(localStorage.getItem('encBibGuides')||'[]'),studyEdits:JSON.parse(localStorage.getItem('encBibStudyEdits')||'{}'),symbols:JSON.parse(localStorage.getItem('encBibSymbols')||'[]'),characters:JSON.parse(localStorage.getItem('encBibCharacters')||'[]')},null,2)],{type:'application/json'});let a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='backup-enciclopedia-biblica.json';a.click();URL.revokeObjectURL(a.href)};
 $('importData').onchange=async e=>{let f=e.target.files[0];if(!f)return;try{let d=JSON.parse(await f.text());edits=d.edits||{};persist();saveLocalData('encBibGuides',JSON.stringify(d.guides||[]));saveLocalData('encBibStudyEdits',JSON.stringify(d.studyEdits||{}));saveLocalData('encBibSymbols',JSON.stringify(d.symbols||[]));saveLocalData('encBibCharacters',JSON.stringify(d.characters||[]));renderGuides();renderSymbols();renderCharacters();$('saveStatus').textContent='Backup importado com sucesso.'}catch{alert('Não foi possível ler esse arquivo de backup.')}};
-$('clearData').onclick=()=>{if(confirm('Apagar todas as edições e guias salvas neste navegador? Exporte um backup antes, se quiser guardá-las.')){edits={};persist();localStorage.removeItem('encBibGuides');localStorage.removeItem('encBibStudyEdits');localStorage.removeItem('encBibSymbols');localStorage.removeItem('encBibCharacters');localStorage.removeItem(AUTO_BACKUP_KEY);renderGuides();renderSymbols();renderCharacters();loadEdit()}};
+$('clearData').onclick=()=>{
+ if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
+ edits={};
+ [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
+ renderGuides();renderSymbols();renderCharacters();loadEdit();
+ $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
+};
 document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');$('search').oninput=e=>renderBooks(e.target.value);
 renderBooks();renderGuides();renderSymbols();renderCharacters();
