@@ -367,17 +367,19 @@ $('importData').onchange=async e=>{
 $('clearData').onclick=()=>{
  if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
  const managedKeys=[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY],previous={};
+ let snapshotComplete=false;
  try{
   managedKeys.forEach(storageKey=>previous[storageKey]=localStorage.getItem(storageKey));
+  snapshotComplete=true;
   managedKeys.forEach(storageKey=>localStorage.removeItem(storageKey));
  }catch(error){
   const rollbackErrors=[];
-  managedKeys.forEach(storageKey=>{
-   try{if(previous[storageKey]===null||!Object.prototype.hasOwnProperty.call(previous,storageKey))localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])}
+  if(snapshotComplete)managedKeys.forEach(storageKey=>{
+   try{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])}
    catch(rollbackError){rollbackErrors.push(storageKey);recordAppError(rollbackError,'Falha ao restaurar '+storageKey+' após limpeza interrompida')}
   });
   recordAppError(error,'Falha ao apagar os dados locais');
-  $('saveStatus').textContent=rollbackErrors.length?'A limpeza falhou e a restauração automática ficou incompleta. Não feche a página; exporte os dados atuais.':'Não foi possível apagar os dados. Nenhuma alteração foi confirmada; tente novamente.';
+  $('saveStatus').textContent=rollbackErrors.length?'A limpeza falhou e a restauração automática ficou incompleta. Não feche a página; exporte os dados atuais.':snapshotComplete?'Não foi possível apagar os dados. Nenhuma alteração foi confirmada; tente novamente.':'O navegador não permitiu acessar o armazenamento. Nenhum dado foi apagado.';
   return;
  }
  edits={};
