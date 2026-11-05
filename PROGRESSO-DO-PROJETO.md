@@ -294,3 +294,12 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Testes isolados de armazenamento: 8/8 aprovados.
 - Nenhum texto bíblico, símbolo, personagem, gravura ou estilo foi alterado.
 - Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; inspeção em navegador real pendente.
+
+
+## Correção do vínculo de simbologias por capítulo — 2026-11-05
+
+- O campo de simbologias do painel administrativo salvava texto, mas o leitor ignorava esse valor e a edição era reaberta vazia.
+- A edição agora preserva a lista de nomes informada pelo usuário e o leitor procura correspondências exatas na biblioteca de simbologias e nos itens personalizados do navegador.
+- Somente registros encontrados na base são exibidos; nomes sem correspondência não recebem descrições inventadas.
+- A biblioteca é carregada sob demanda quando necessário. O campo foi ajustado para pedir um nome por linha, conforme o cadastro existente.
+- Estado: correção preparada; aguardando testes e validação automatizada.
