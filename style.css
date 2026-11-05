@@ -160,3 +160,7 @@ footer{padding-top:25px;padding-bottom:34px}
 .book-info-item p{margin:0;line-height:1.6;color:var(--ink-soft);}
 .book-info-note{margin-top:16px;padding:12px 14px;border-left:3px solid var(--accent);background:#eeeeec;line-height:1.6;color:var(--ink-soft);}
 @media(max-width:700px){.book-info-grid{grid-template-columns:1fr}.book-info-item{padding:12px}}
+
+/* Contraste acessível: o dourado claro permanece reservado aos fundos escuros. */
+.eyebrow{color:#725016}
+.hero .eyebrow{color:#e5c77f}
