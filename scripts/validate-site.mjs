@@ -46,6 +46,8 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("O vínculo de simbologias dos capítulos com a biblioteca do usuário está ausente");
   if (!app.includes('role="tab"') || !app.includes('aria-selected="true"') || !app.includes("tab.onkeydown"))
     fail("As abas do capítulo precisam oferecer semântica acessível e navegação por teclado");
+  if (!app.includes("t.style.backgroundColor=active?'#333':'#f1f1f0'") || !app.includes("t.style.color=active?'#fff':'#222'"))
+    fail("O estado visual das abas precisa acompanhar sua seleção acessível");
   const styles = readFileSync("style.css", "utf8");
   if (!styles.includes(".chapter-tab:hover,.chapter-tab:focus-visible"))
     fail("As abas precisam manter contraste adequado também em hover e foco do teclado");
