@@ -50,7 +50,7 @@ Status permitidos: **RASCUNHO**, **EM REVISÃO**, **REVISADO**, **PUBLICADO**. P
 | Data | Área | Alteração/decisão | Verificação | Estado |
 |---|---|---|---|---|
 | 2026-11-05 | Site | Corrigida a abertura dos capítulos por chamada direta nos botões e atualização dos scripts publicados | Usuário confirmou que funcionou | PUBLICADO |
-| 2026-11-05 | Proteção | Criado espelho de código e workflow de validação; histórico de backup local no navegador já existente | Workflow e escopo devem ser conferidos a cada mudança de proteção | EM ACOMPANHAMENTO |
+| 2026-11-05 | Proteção | Adicionados protocolo, diário, checklist de PR, validador estrutural e workflow que só espelha após validação | Conferência dos arquivos confirmou 66 livros, Gênesis com 50 capítulos, ordem correta dos scripts e nenhum ID duplicado; execução do GitHub Actions ainda precisa ser confirmada | IMPLEMENTADO; EXECUÇÃO PENDENTE |
 | 2026-11-05 | Conteúdo | Definida a regra de usar somente simbologias presentes na base do usuário | Regra editorial obrigatória | ATIVO |
 
 ## Pendências conhecidas e limites
@@ -73,3 +73,16 @@ Toda sessão que alterar conteúdo, código ou estrutura deve atualizar este arq
 6. status correto, sem declarar sucesso não verificado.
 
 Se houver divergência entre este registro e o estado real do repositório, prevalece o estado real após inspeção; corrigir este documento antes de continuar o trabalho.
+
+
+## Registro técnico — reforço de proteção (2026-11-05)
+
+Arquivos criados/atualizados:
+- `PROGRESSO-DO-PROJETO.md` — commit `da3079174da896ee5645303c0ee372295e96a4b8` (registro inicial).
+- `PROTOCOLO-DE-TRABALHO.md` — commit `ebaf2b2f5d6aeb6501e6567522c20fd69b74a5c6`.
+- `.github/PULL_REQUEST_TEMPLATE.md` — commit `02adf60c07ab5c3758274c009d582b82b6a00138`.
+- `scripts/validate-site.mjs` — commit `29c3c32f45eb4ee56608848e36b9bf8bbe62b0e9`.
+- `.github/workflows/site-safety.yml` — commit `027145632eb3f7a53694790431c427ad4c55ad11`.
+- `BACKUPS.md` — commit `156e38c71536af906b49c1a00c9de77516b89856`.
+
+Verificação estática independente após as gravações: arquivos presentes; scripts em ordem; 66 livros; Gênesis com 50 capítulos; registros de livros válidos; nenhum ID HTML duplicado. Isso não equivale à execução confirmada do workflow nem a teste funcional em navegador.
