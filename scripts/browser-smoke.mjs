@@ -18,7 +18,7 @@ async function scanAccessibility(page, label) {
       id: violation.id,
       impact: violation.impact,
       description: violation.help,
-      elements: violation.nodes.length
+      nodes: violation.nodes.map(node => ({ target: node.target, html: node.html, failureSummary: node.failureSummary }))
     });
   }
 }
