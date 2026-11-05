@@ -303,3 +303,15 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Somente registros encontrados na base são exibidos; nomes sem correspondência não recebem descrições inventadas.
 - A biblioteca é carregada sob demanda quando necessário. O campo foi ajustado para pedir um nome por linha, conforme o cadastro existente.
 - Estado: correção preparada; inclui testes funcionais no validador e aguarda a execução do workflow.
+
+
+### Integração do vínculo de simbologias por capítulo
+
+- PR #20 integrado à main: https://github.com/gjgaugusto-bot/biblic/pull/20.
+- Commit de integração: 6c01304f271a91577a83c0ef8e3d06d6ec86abcc.
+- Workflow Proteção do site, execução 42122398910 (run 66): sucesso; validação aprovada; mirror ignorado no evento de PR.
+- O campo de simbologias preserva os nomes digitados e o leitor exibe somente correspondências encontradas na categoria Símbolos da biblioteca ou nos símbolos personalizados do usuário.
+- Nomes desconhecidos não recebem significado; categorias diferentes não são aceitas como símbolos; a biblioteca pode ser carregada sob demanda.
+- Validador agora executa testes funcionais de vínculo de símbolos e testes de importação de backup. Execução do validador em ambiente isolado: aprovada.
+- Nenhum conteúdo bíblico, significado da biblioteca ou ilustração foi alterado.
+- Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; inspeção visual em navegador real pendente.
