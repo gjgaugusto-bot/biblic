@@ -201,3 +201,13 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A ficha é exibida somente para Gênesis nesta primeira etapa; os outros livros permanecem sem alterações e poderão receber fichas próprias depois.
 - Nenhum texto bíblico, resumo de capítulo, personagem, símbolo ou dado localStorage foi alterado.
 - Estado inicial: implementado em branch própria, aguardando validação automatizada pelo workflow do PR.
+
+
+### Integração da ficha de Gênesis
+
+- Pull Request #10: https://github.com/gjgaugusto-bot/biblic/pull/10 — integrado à `main`.
+- Commit de integração: `12bf5a8b5648183021b6efe8a640aa50e59e11fd`.
+- Workflow `Proteção do site`, execução 42119572250 (run 41): sucesso; job `validate` aprovado; job `mirror` ignorado por ser evento de PR.
+- A ficha aparece abaixo dos capítulos somente em Gênesis nesta primeira etapa. Cache-bust dos arquivos CSS e JavaScript atualizado para evitar uso de versões antigas pelo navegador.
+- A inspeção visual no GitHub Pages ainda depende de abertura no navegador; a integração e validação automatizada estão confirmadas.
+- Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; INSPEÇÃO VISUAL PUBLICADA PENDENTE.
