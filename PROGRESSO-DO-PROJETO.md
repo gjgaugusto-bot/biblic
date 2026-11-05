@@ -167,3 +167,24 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A consulta de execução do GitHub Actions não retornou workflow associado ao commit e o status combinado não apresentou checks. Portanto, CI não foi declarado aprovado.
 - A abertura pública do GitHub Pages não pôde ser confirmada nesta verificação. A integração na `main` está confirmada; a atualização visual no navegador ainda precisa de verificação externa.
 - Estado: INTEGRADO À MAIN; PUBLICAÇÃO VISUAL EXTERNA NÃO VERIFICADA.
+
+
+### Revisão de correspondência das 66 gravuras — 2026-11-05
+
+- Criado snapshot anterior à revisão: `backup-antes-revisao-gravuras-2026-11-05`.
+- Ajustadas cenas específicas para corresponder melhor aos títulos/temas descritivos já cadastrados:
+  - 1 Samuel: funda de Davi.
+  - 2 Samuel: coroa e harpa.
+  - 2 Reis: carro de fogo de Elias.
+  - Oseias: família.
+  - Lucas: rolo e instrumento de escrita.
+  - 1 Tessalonicenses: carta à comunidade.
+  - Filemom: correntes abertas.
+  - Zacarias: cavaleiro montado.
+  - Apocalipse: sete lâmpadas junto ao trono.
+- Removida uma definição duplicada de desenho de barco no catálogo de formas.
+- Conferência automatizada em memória: 66 livros, 66 entradas, 45 formas vetoriais, nenhuma cena sem forma correspondente; as 66 chamadas de renderização produziram SVG com rótulo acessível.
+- Sintaxe de `book-art.js`, `app.js` e `study-data.js` aprovada por análise sintática; ordem de carregamento no HTML confirmada.
+- Nenhum texto bíblico, interpretação, personagem cadastrado ou simbologia foi alterado.
+- CI do GitHub e inspeção visual em navegador continuam pendentes de confirmação.
+- Estado: REVISÃO ESTÁTICA CONCLUÍDA; AGUARDANDO REVISÃO DO PR E VERIFICAÇÃO DE PUBLICAÇÃO.
