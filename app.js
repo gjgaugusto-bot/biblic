@@ -169,7 +169,7 @@ window.addEventListener('unhandledrejection',event=>recordAppError(event.reason&
 let edits=readLocalObject(key);
 let currentBook=0,currentChapter=1;
 const old=$('oldBooks'), neo=$('newBooks');
-function renderBooks(filter=''){old.innerHTML='';neo.innerHTML='';BOOKS.forEach((b,i)=>{if(!b.name.toLowerCase().includes(filter.toLowerCase()))return;let el=document.createElement('button');el.className='book';el.setAttribute('aria-label',b.name+', '+b.chapters+' capítulos');el.innerHTML=`<span class="book-art">${window.bookArtwork?window.bookArtwork(i):''}</span><span class="book-name">${b.name}</span><small>${b.chapters} capítulos</small>`;el.onclick=()=>openBook(i);(i<39?old:neo).appendChild(el)})}
+function renderBooks(filter=''){old.innerHTML='';neo.innerHTML='';BOOKS.forEach((b,i)=>{if(!b.name.toLowerCase().includes(filter.toLowerCase()))return;let el=document.createElement('button');el.className='book';el.innerHTML=`<span class="book-art">${window.bookArtwork?window.bookArtwork(i):''}</span><span class="book-name">${b.name}</span><small>${b.chapters} capítulos</small>`;el.onclick=()=>openBook(i);(i<39?old:neo).appendChild(el)})}
 function show(view){['homeView','readerView','adminView','symbolsView','charactersView','detailView'].forEach(id=>$(id).classList.add('hidden'));$(view+'View').classList.remove('hidden');document.querySelectorAll('.navbtn').forEach(b=>b.classList.toggle('active',b.dataset.view===view));document.querySelectorAll('.bottom-tab').forEach(b=>b.classList.toggle('active',b.dataset.view===view));}
 function openBook(i){currentBook=i;show('reader');renderBook()}
 window.openChapterFromButton=function(chapter){
