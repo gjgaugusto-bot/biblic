@@ -5,7 +5,7 @@
 - Nunca substituir arquivos sem buscar primeiro a versão atual e o SHA vigente.
 - Nunca fazer duas gravações simultâneas no mesmo arquivo.
 - Antes de mudanças estruturais, registrar o estado atual e garantir que exista commit recuperável.
-- Trabalhar em branch separada para mudanças maiores; revisar o diff e só então integrar em `main`.
+- Trabalhar em branch separada; revisar o diff e só então integrar em `main`.
 - Não apagar dados do usuário, localStorage, símbolos, textos ou histórico sem pedido explícito.
 - Nunca afirmar que algo foi salvo, publicado, testado ou corrigido sem confirmação do serviço ou teste correspondente.
 
@@ -13,12 +13,12 @@
 
 1. **Inspecionar:** buscar os arquivos atuais e identificar dependências e dados relacionados.
 2. **Definir escopo:** listar exatamente o que será alterado e o que não pode ser tocado.
-3. **Preservar:** guardar referência ao commit anterior; não editar com base em cópia antiga.
+3. **Preservar:** criar ou confirmar snapshot recuperável; nunca editar com base em cópia antiga.
 4. **Alterar minimamente:** evitar reescrever arquivos inteiros quando uma mudança pequena resolver.
 5. **Verificar sintaxe e estrutura:** executar os testes automáticos do repositório.
 6. **Revisar conteúdo:** comparar com a fonte/base aprovada pelo usuário, sem preencher lacunas por suposição.
-7. **Testar no site:** abrir páginas, capítulos, abas, formulários e fluxos afetados sempre que possível.
-8. **Publicar com rastreabilidade:** registrar commit, arquivos e resultado.
+7. **Testar no site:** abrir páginas, capítulos, abas, formulários e fluxos afetados sempre que houver navegador disponível.
+8. **Publicar com rastreabilidade:** integrar por PR somente depois da validação; registrar commit, arquivos e resultado.
 9. **Atualizar o progresso:** atualizar `PROGRESSO-DO-PROJETO.md` no mesmo trabalho.
 10. **Relatar honestamente:** separar o que foi verificado, o que foi apenas inspecionado e o que ainda depende de teste manual.
 
@@ -44,18 +44,25 @@ A revisão deve deixar um registro claro do que foi conferido e do que não foi 
 
 ## 4. Revisão técnica
 
-- `node --check app.js` e `node --check study-data.js`.
-- Verificar arquivos essenciais e carregamento correto dos scripts.
-- Validar 66 livros e contagem estrutural de capítulos configurada.
-- Verificar IDs HTML duplicados.
-- Conferir o fluxo afetado no site publicado; teste estático não equivale a teste funcional.
-- Se o teste falhar, não promover a alteração como concluída. Corrigir ou reverter usando o commit anterior.
+O workflow `Proteção do site` executa:
+- `node --check` nos arquivos JavaScript e no validador.
+- Verificação dos arquivos essenciais, ordem dos scripts, 66 livros e Gênesis com 50 capítulos.
+- Detecção de IDs HTML duplicados e referências a IDs ausentes.
+- Testes da biblioteca compactada, dos 66 SVGs e do vínculo de simbologias.
+- Testes de validação profunda de backup, rollback de salvamento e preservação de listas locais.
+- Verificações básicas de CSS, rótulos acessíveis, regiões de status, movimento reduzido e alto contraste.
+
+Regras para promover mudanças:
+- Não integrar se o workflow falhar ou estiver em execução.
+- Se o teste falhar, corrigir ou reverter usando o commit anterior.
+- Um teste estrutural não equivale a teste de navegador real.
+- Se o navegador real não estiver disponível, registrar explicitamente essa limitação; não afirmar que o site publicado foi visualmente conferido.
 
 ## 5. Backups em camadas
 
 1. **Git:** histórico de commits na branch principal.
 2. **Espelho:** branch `backup-automatico`, atualizada após a validação do workflow.
-3. **Snapshot manual:** branch `backup-site-2026-11-05` como marco inicial de segurança.
+3. **Snapshot manual:** branch `backup-site-2026-11-05` e snapshot `backup-antes-estabilizacao-2026-11-05`.
 4. **Dados locais:** backup automático e histórico limitado mantidos no navegador.
 5. **Exportação externa:** exportar o JSON regularmente e guardar em outro dispositivo ou serviço confiável.
 
@@ -63,15 +70,12 @@ Importante: os backups de código não incluem automaticamente o conteúdo local
 
 ## 6. Política de publicação — fluxo obrigatório
 
-- Branch de trabalho criada: `desenvolvimento`, derivada de `main`.
-- A partir desta decisão, todas as alterações futuras devem ser feitas primeiro em `desenvolvimento` ou em branches derivadas dela; não editar `main` diretamente no fluxo normal.
-- Ao concluir uma etapa, abrir Pull Request de `desenvolvimento` para `main`, revisar o diff, aguardar o workflow `Proteção do site` passar e só então integrar.
-- Mudanças amplas devem usar uma branch própria derivada de `desenvolvimento` e retornar por Pull Request.
-- O workflow executa verificações em Pull Requests, mas só uma regra de proteção configurada no GitHub pode impedir tecnicamente o merge sem os checks exigidos.
-- A integração disponível não tem permissão para gravar regras de proteção/rulesets (a leitura de branch protection retornou HTTP 403). Portanto, a exigência técnica de PR e checks ainda precisa ser ativada manualmente em Settings > Rules > Rulesets ou Settings > Branches.
-- Até a regra ser ativada, `desenvolvimento` é o procedimento obrigatório, mas não uma barreira técnica contra push direto em `main`.
-- Para não bloquear o proprietário que trabalha sozinho, começar exigindo PR e checks aprovados, com zero aprovações obrigatórias. A revisão humana continua obrigatória no protocolo. Se houver outro revisor de confiança, pode-se elevar a exigência para uma aprovação.
-- Nunca declarar que a proteção está ativa antes de confirmar a regra na interface do GitHub.
+- O ruleset **Proteção da main** está ativo e direcionado à branch padrão, conforme leitura da API do GitHub em 2026-11-05.
+- O ruleset exige Pull Request, impede exclusão e force push e exige resolução das conversas; aprovações obrigatórias estão em zero para permitir manutenção individual.
+- Todas as alterações devem ser feitas em branches de trabalho e integradas por Pull Request; não editar `main` diretamente.
+- Aguardar o workflow `Proteção do site` terminar com sucesso antes de integrar.
+- O ruleset ainda não tem um status check obrigatório configurado. Até isso ser configurado, o protocolo exige a aprovação do workflow antes do merge, mesmo que o GitHub não bloqueie tecnicamente um merge com check pendente.
+- A ausência de aprovações obrigatórias não elimina a revisão técnica: diff, validações e testes continuam obrigatórios.
 
 ## 7. Continuidade entre conversas
 

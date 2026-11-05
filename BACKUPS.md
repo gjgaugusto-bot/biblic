@@ -1,24 +1,33 @@
 # Proteção e backups
 
-## Camadas de proteção do código
-- Branch de trabalho `desenvolvimento` criada a partir de `main`; novas alterações devem seguir por Pull Request.
-- O GitHub mantém o histórico de commits da branch `main`.
-- A branch `backup-automatico` recebe o espelho de `main` somente depois que o job de validação passa.
-- A branch `backup-site-2026-11-05` é um snapshot manual de referência.
-- Mudanças maiores devem ser preparadas em branch separada, revisadas e integradas após validação.
+## Código e histórico
+- A branch principal é `main`; mudanças técnicas devem entrar por Pull Request, nunca por edição direta de `main`.
+- O ruleset **Proteção da main** foi consultado na API do GitHub em 2026-11-05 e está ativo, direcionado à branch padrão.
+- O ruleset impede exclusão e force push, exige Pull Request e resolução das conversas; aprovações obrigatórias estão em zero para permitir manutenção individual.
+- O workflow **Proteção do site** executa verificações em Pull Requests, em pushes para `main` e manualmente.
+- O ruleset ainda não exige formalmente o status check como condição de merge. Por procedimento, não integrar PR antes de o workflow terminar com sucesso.
+- A branch `backup-automatico` recebe o espelho de `main` após o job de validação passar.
+- Snapshot anterior à estabilização técnica: `backup-antes-estabilizacao-2026-11-05`.
+- Outros snapshots manuais de referência: `backup-site-2026-11-05`, `backup-visual-2026-11-05`, `backup-visual-monocromatico-2026-11-05` e `backup-antes-revisao-gravuras-2026-11-05`.
 
 ## Verificações automáticas
-O workflow **Proteção do site** verifica a sintaxe de `app.js`, `study-data.js` e do validador, confere os arquivos essenciais, ordem de carregamento dos scripts, IDs duplicados e a configuração dos 66 livros. Essas verificações detectam problemas estruturais, mas não provam que todas as páginas e interações funcionam.
+O workflow **Proteção do site** verifica a sintaxe dos arquivos JavaScript, estrutura dos 66 livros, IDs HTML, referências de elementos usados pelo aplicativo, integridade da biblioteca compactada, renderização SVG das 66 gravuras, validação profunda de backups, rollback de salvamento e preservação de registros locais. Também verifica requisitos básicos de acessibilidade e integridade do CSS.
+
+Essas verificações reduzem regressões, mas não substituem inspeção visual em navegador real, teste em diferentes dispositivos ou revisão editorial.
 
 ## Dados de estudo no navegador
-O aplicativo mantém backup local e histórico limitado das últimas cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo JSON para outro local.
+- As edições, guias, símbolos e personagens ficam no armazenamento local do navegador.
+- O aplicativo mantém snapshots automáticos locais e um histórico limitado às últimas oito cópias.
+- O log local conserva até vinte erros recentes.
+- A recuperação automática restaura chaves ausentes; não substitui exportação externa nem sincroniza aparelhos.
+- Registros incompletos podem ser ocultados da interface para evitar falhas, mas não são removidos do armazenamento ao serem exibidos ou exportados.
+- Operações de inclusão são bloqueadas se a lista existente não puder ser validada, evitando sobrescrever dados que possam ser recuperáveis.
 
 ## Limites importantes
-- O workflow valida Pull Requests, mas a integração não tem permissão para ativar regras de proteção/rulesets. Até a regra ser configurada manualmente no GitHub, o fluxo por `desenvolvimento` e Pull Request é obrigatório por procedimento, mas não bloqueia tecnicamente um push direto em `main`.
-- A integração disponível não conseguiu ler a configuração de proteção de `main` (HTTP 403); não presumimos que exista bloqueio.
-- Verificações estáticas não substituem revisão bíblica, inspeção visual, testes funcionais em navegador e confirmação do usuário.
-- Erros JavaScript capturados no navegador ficam no dispositivo; não são enviados automaticamente ao GitHub.
+- O armazenamento do navegador é de melhor esforço: limpeza de dados, perda do dispositivo, modo privado ou restrições do navegador podem remover ou impedir gravações.
 - O espelho automático protege o código versionado, não os dados locais do navegador.
+- Erros capturados no navegador ficam no dispositivo; não são enviados automaticamente ao GitHub.
+- A integração pública do GitHub Pages não pôde ser aberta pela ferramenta de navegação durante esta auditoria; a publicação visual precisa ser conferida em navegador real.
 - Para proteger dados contra perda do aparelho ou limpeza do navegador, exporte o backup JSON regularmente e guarde cópias externas.
 
 ## Procedimento

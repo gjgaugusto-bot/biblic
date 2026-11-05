@@ -326,3 +326,20 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - O validador agora executa testes funcionais para correspondência de símbolos e importação de backups, além das verificações estruturais.
 - Inspeção pública do GitHub Pages não foi possível por indisponibilidade de acesso da ferramenta de navegação; não declarar visual publicado como conferido.
 - Estado: CORREÇÕES TÉCNICAS INTEGRADAS; CI APROVADO; TESTE VISUAL EXTERNO PENDENTE.
+
+
+## Auditoria de estabilização técnica — 2026-11-05
+
+- Criado snapshot anterior às mudanças: `backup-antes-estabilizacao-2026-11-05`.
+- Trabalho executado na branch `estabilizacao-tecnica-2026-11-05`; nenhuma alteração foi feita diretamente em `main`.
+- Salvamento de capítulo isolado em operação transacional: se a gravação principal falhar, a edição em memória volta ao valor anterior e o texto digitado permanece nos campos para nova tentativa.
+- Importação de backup valida campos textuais e identificadores de livro/capítulo; o rollback inclui dados principais, snapshot automático e histórico.
+- Limpeza de dados locais agora captura o estado anterior antes de remover chaves; se o navegador bloquear a leitura, a operação não começa.
+- Listas locais distinguem dados brutos de registros válidos para exibição. Registros incompletos são omitidos da interface sem serem apagados; operações de inclusão são bloqueadas se a lista original não puder ser validada.
+- Biblioteca de estudos valida suporte do navegador e a estrutura dos registros antes de expor os dados; recarrega quando a lista está vazia.
+- Acessibilidade: rótulos nos campos de busca, anúncios de status, foco visível, movimento reduzido e modo de alto contraste.
+- Cache dos três recursos atualizado para a versão `20261105-estavel1`.
+- Validador ampliado: testes de rollback, preservação de listas locais, normalização da biblioteca, importação profunda, vínculos de simbologias, IDs HTML, CSS, biblioteca compactada e renderização SVG dos 66 livros.
+- Conteúdo bíblico, significados, símbolos, personagens e mapeamento das gravuras não foram editados nesta etapa.
+- Limites: teste visual em navegador real e confirmação da publicação no GitHub Pages continuam pendentes; a ferramenta de navegação não conseguiu abrir o site público.
+- Estado: alterações técnicas preparadas e testes isolados do validador aprovados com ambiente simulado; aguardando execução real do workflow do GitHub antes da integração.
