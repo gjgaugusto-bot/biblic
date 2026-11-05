@@ -35,6 +35,7 @@ try {
   assert.equal(await page.locator(".book").count(), 66, "A página deve exibir os 66 livros");
 
   await scanAccessibility(page, "início");
+  assert.equal(await page.locator(".book-illustration[aria-hidden=\"true\"]").count(), 66, "As gravuras são decorativas e não devem duplicar os nomes dos livros");
 
   await page.locator("#search").fill("Gênesis");
   assert.equal(await page.locator(".book").count(), 1, "A busca deve filtrar Gênesis");
