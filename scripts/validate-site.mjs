@@ -133,17 +133,30 @@ if (existsSync("index.html") && existsSync("app.js")) {
   }
 
   const arrayStart = app.indexOf("function readLocalArray");
-  const arrayEnd = app.indexOf("function readLocalObject", arrayStart);
-  if (arrayStart < 0 || arrayEnd < 0) fail("Não foi possível isolar a leitura segura de listas locais");
+  const validStart = app.indexOf("function readValidLocalArray");
+  const updateStart = app.indexOf("function readLocalArrayForUpdate");
+  const objectStart = app.indexOf("function readLocalObject", updateStart);
+  if (arrayStart < 0 || validStart < 0 || updateStart < 0 || objectStart < 0) fail("Não foi possível isolar as leituras seguras de listas locais");
   else {
     try {
       const errors = [];
       const source = [{ name: "Moisés", bio: "Biografia" }, null, { bio: "Sem nome" }, { name: "Arão", bio: 4 }];
-      const sandbox = { readLocalData: () => source, recordAppError: (...args) => errors.push(args) };
-      runInNewContext(app.slice(arrayStart, arrayEnd), sandbox);
-      const items = sandbox.readLocalArray("encBibCharacters");
-      if (items.length !== 2 || items[1].bio !== "" || source.length !== 4 || !errors.length)
-        fail("A leitura protegida de listas não filtrou registros inválidos sem alterar os dados originais");
+      const rawSandbox = { readLocalData: () => source, recordAppError: (...args) => errors.push(args) };
+      runInNewContext(app.slice(arrayStart, validStart), rawSandbox);
+      const rawItems = rawSandbox.readLocalArray("encBibCharacters");
+      const validSandbox = { readLocalArray: () => source, recordAppError: (...args) => errors.push(args) };
+      runInNewContext(app.slice(validStart, updateStart), validSandbox);
+      const visibleItems = validSandbox.readValidLocalArray("encBibCharacters");
+      const invalidStorage = { getItem: () => '{"not":"a list"}' };
+      const updateSandbox = { localStorage: invalidStorage, recordAppError: (...args) => errors.push(args) };
+      runInNewContext(app.slice(updateStart, objectStart), updateSandbox);
+      const blockedUpdate = updateSandbox.readLocalArrayForUpdate("encBibSymbols");
+      const validStorage = { getItem: () => JSON.stringify(source) };
+      updateSandbox.localStorage = validStorage;
+      const preservedUpdate = updateSandbox.readLocalArrayForUpdate("encBibSymbols");
+      if (rawItems.length !== 4 || visibleItems.length !== 2 || visibleItems[1].bio !== "" || source.length !== 4 ||
+          blockedUpdate !== null || preservedUpdate.length !== 4 || !errors.length)
+        fail("As listas locais não preservaram dados originais ou não filtraram registros inválidos com segurança");
     } catch (error) {
       fail(`Teste de listas locais falhou: ${error.message}`);
     }
