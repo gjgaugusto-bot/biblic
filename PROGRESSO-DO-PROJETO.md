@@ -96,3 +96,11 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A exigência técnica de proteção da branch ainda não foi ativada: a integração não possui permissão para gravar regras de branch/rulesets. O proprietário precisa ativar a regra pela interface do GitHub.
 - Configuração recomendada para não bloquear o mantenedor solo: exigir Pull Request e o check `validate`, exigir resolução de conversas, permitir zero aprovações obrigatórias enquanto não houver segundo revisor. Se houver segundo revisor de confiança, exigir uma aprovação.
 - Não afirmar que a branch está protegida até verificar a regra ativa no GitHub.
+
+
+## Verificação do reforço de segurança — 2026-11-05
+
+- Branch `desenvolvimento` criada a partir da versão atual de `main`; cabeça confirmada em `63002d2adde12c8fd60c1e169a501fff2828f1fd`.
+- Workflow `Proteção do site` executado no commit `63002d2adde12c8fd60c1e169a501fff2828f1fd`: job `validate` concluído com sucesso e job `mirror` concluído com sucesso.
+- Espelho de segurança atualizado depois da validação.
+- A proteção nativa da branch ainda não foi ativada, pois a integração não tem permissão para alterar rulesets/branch protection. Configuração manual pendente no GitHub.
