@@ -4,7 +4,7 @@ const fail = (message) => {
   console.error("FALHA:", message);
   process.exitCode = 1;
 };
-const required = ["index.html", "style.css", "app.js", "study-data.js"];
+const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js"];
 for (const file of required) {
   if (!existsSync(file)) fail(`Arquivo obrigatório ausente: ${file}`);
   else if (!readFileSync(file, "utf8").trim()) fail(`Arquivo obrigatório vazio: ${file}`);
@@ -13,10 +13,11 @@ for (const file of required) {
 if (existsSync("index.html") && existsSync("app.js")) {
   const html = readFileSync("index.html", "utf8");
   const app = readFileSync("app.js", "utf8");
-  const studyPos = html.indexOf("study-data.js");
-  const appPos = html.indexOf("app.js");
-  if (studyPos < 0 || appPos < 0) fail("index.html precisa carregar study-data.js e app.js");
-  else if (studyPos > appPos) fail("study-data.js deve ser carregado antes de app.js");
+  const scripts = ["study-data.js", "book-art.js", "app.js"];
+  const positions = scripts.map((name) => html.indexOf(name));
+  if (positions.some((position) => position < 0)) fail("index.html precisa carregar study-data.js, book-art.js e app.js");
+  else if (!(positions[0] < positions[1] && positions[1] < positions[2]))
+    fail("A ordem dos scripts deve ser study-data.js, book-art.js e app.js");
 
   const ids = [...html.matchAll(/\bid=["']([^"']+)["']/g)].map((m) => m[1]);
   const duplicates = ids.filter((id, i) => ids.indexOf(id) !== i);
@@ -36,5 +37,12 @@ if (existsSync("index.html") && existsSync("app.js")) {
       fail(`Configuração BOOKS não pôde ser validada: ${error.message}`);
     }
   }
+  if (!app.includes("function validateImportedBackup") || !app.includes("AUTO_BACKUP_HISTORY_KEY"))
+    fail("Proteções de importação e histórico de backup local não foram encontradas");
+  if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
+    fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
+  const css = readFileSync("style.css", "utf8");
+  if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
+    fail("Os estilos da ficha bibliográfica estão ausentes");
 }
 if (!process.exitCode) console.log("Validação estrutural aprovada.");
