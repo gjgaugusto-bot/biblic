@@ -32,6 +32,21 @@ jobs:
           node --check scripts/validate-site.mjs
       - name: Validar estrutura do site
         run: node scripts/validate-site.mjs
+      - name: Instalar ferramentas de teste em navegador
+        run: npm install --no-save --package-lock=false playwright@1.64.1 @axe-core/playwright@4.14.0
+      - name: Instalar Chromium para testes
+        run: npx playwright install --with-deps chromium
+      - name: Iniciar servidor local do site
+        run: |
+          nohup python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/biblic-http.log 2>&1 &
+          for attempt in {1..20}; do
+            if curl --fail --silent http://127.0.0.1:4173/ >/dev/null; then exit 0; fi
+            sleep 1
+          done
+          cat /tmp/biblic-http.log
+          exit 1
+      - name: Testar navegação, edição, backups e acessibilidade
+        run: node scripts/browser-smoke.mjs
 
   mirror:
     needs: validate
