@@ -302,4 +302,4 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A edição agora preserva a lista de nomes informada pelo usuário e o leitor procura correspondências exatas na biblioteca de simbologias e nos itens personalizados do navegador.
 - Somente registros encontrados na base são exibidos; nomes sem correspondência não recebem descrições inventadas.
 - A biblioteca é carregada sob demanda quando necessário. O campo foi ajustado para pedir um nome por linha, conforme o cadastro existente.
-- Estado: correção preparada; aguardando testes e validação automatizada.
+- Estado: correção preparada; inclui testes funcionais no validador e aguarda a execução do workflow.
