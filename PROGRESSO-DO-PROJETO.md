@@ -237,3 +237,12 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Preservado: conteúdo bíblico, fichas editoriais, base de simbologias, personagens, ilustrações e identidade visual.
 - Limite: não há teste de navegador real disponível nesta etapa; a validação automatizada continua estática/estrutural.
 - Estado: correções preparadas nesta branch, aguardando execução das validações e revisão do diff; nada foi publicado ainda.
+
+
+## Revisão adicional de segurança — 2026-11-05
+
+- Identificado um ponto de injeção HTML: o título de capítulo editável/importável era inserido no leitor sem passar pela função de escape, ao contrário dos demais campos dinâmicos revisados.
+- Corrigido em branch própria: o título agora passa por `esc()` antes de ser renderizado.
+- O validador estrutural foi ampliado para impedir regressão dessa proteção.
+- Nenhum conteúdo existente foi alterado; a correção afeta somente a forma segura de exibir títulos.
+- Estado: correção preparada; aguardando validação automatizada e integração.
