@@ -237,3 +237,18 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Preservado: conteúdo bíblico, fichas editoriais, base de simbologias, personagens, ilustrações e identidade visual.
 - Limite: não há teste de navegador real disponível nesta etapa; a validação automatizada continua estática/estrutural.
 - Estado: correções preparadas nesta branch, aguardando execução das validações e revisão do diff; nada foi publicado ainda.
+
+
+### Integração da primeira etapa da auditoria técnica
+
+- PR #14 integrado à `main`: https://github.com/gjgaugusto-bot/biblic/pull/14.
+- Commit de integração: `dbbf60bccd948c17d13262ae880ceefb8d2379ce`.
+- Workflow `Proteção do site`, execução 42121194291 (run 49): sucesso; job `validate` aprovado; `mirror` ignorado por evento de PR.
+- Corrigida a ação de apagar dados locais: agora remove também o histórico de backups automáticos, impedindo que a rotina de restauração recupere os dados apagados.
+- Importação de backups agora valida tipos e estrutura antes de gravar; arquivos parciais preservam os campos locais que não trouxerem; se uma gravação falhar, os dados anteriores são restaurados.
+- Workflow passou a verificar a sintaxe de `book-art.js`; validador exige os três scripts e a ordem `study-data.js` → `book-art.js` → `app.js), além de conferir a presença da ficha "Sobre o livro".
+- Testes isolados da validação de backup: 6/6 aprovados. Sintaxe dos três scripts: aprovada. HTML: 53 IDs, nenhum duplicado; ordem de scripts aprovada.
+- Snapshot pré-auditoria preservado em `backup-auditoria-tecnica-2026-11-05`.
+- Nenhum conteúdo bíblico, interpretação, simbologia, personagem, ilustração ou estilo visual foi alterado.
+- Limite mantido: não houve inspeção em navegador real; a aprovação CI é estrutural e não prova todos os fluxos de interface.
+- Estado: PRIMEIRA ETAPA INTEGRADA; VALIDAÇÃO AUTOMÁTICA APROVADA; AUDITORIA FUNCIONAL AMPLA CONTINUA.
