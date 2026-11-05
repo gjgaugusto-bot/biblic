@@ -126,6 +126,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
 
   if (!app.includes("[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY]"))
     fail("A limpeza de dados locais precisa remover também o histórico de backups automáticos");
+  if (!app.includes("file.size>15*1024*1024") || !app.includes("[...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach((storageKey)=>previous[storageKey]"))
+    fail("A importação precisa limitar o tamanho do arquivo e preservar rollback completo");
+  if (!app.includes("typeof d.versesText==='string'") || !app.includes("typeof x.name==='string'"))
+    fail("A leitura de conteúdo local precisa tolerar registros incompletos");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
   if (!app.includes("esc(d.title||b.name+' '+c)"))
