@@ -75,7 +75,6 @@ Toda sessão que alterar conteúdo, código ou estrutura deve atualizar este arq
 
 Se houver divergência entre este registro e o estado real do repositório, prevalece o estado real após inspeção; corrigir este documento antes de continuar o trabalho.
 
-
 ## Registro técnico — reforço de proteção (2026-11-05)
 
 Arquivos criados/atualizados:
@@ -88,7 +87,6 @@ Arquivos criados/atualizados:
 
 Verificação estática independente após as gravações: arquivos presentes; scripts em ordem; 66 livros; Gênesis com 50 capítulos; registros de livros válidos; nenhum ID HTML duplicado. Isso não equivale à execução confirmada do workflow nem a teste funcional em navegador.
 
-
 ## Reforço do fluxo de publicação — 2026-11-05
 
 - Criada a branch `desenvolvimento` a partir de `main` para receber as próximas alterações antes da publicação.
@@ -97,10 +95,21 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Configuração recomendada para não bloquear o mantenedor solo: exigir Pull Request e o check `validate`, exigir resolução de conversas, permitir zero aprovações obrigatórias enquanto não houver segundo revisor. Se houver segundo revisor de confiança, exigir uma aprovação.
 - Não afirmar que a branch está protegida até verificar a regra ativa no GitHub.
 
-
 ## Verificação do reforço de segurança — 2026-11-05
 
 - Branch `desenvolvimento` criada a partir da versão atual de `main`; cabeça confirmada em `63002d2adde12c8fd60c1e169a501fff2828f1fd`.
 - Workflow `Proteção do site` executado no commit `63002d2adde12c8fd60c1e169a501fff2828f1fd`: job `validate` concluído com sucesso e job `mirror` concluído com sucesso.
 - Espelho de segurança atualizado depois da validação.
 - A proteção nativa da branch ainda não foi ativada, pois a integração não tem permissão para alterar rulesets/branch protection. Configuração manual pendente no GitHub.
+
+## Atualização de segurança e sincronização — 2026-11-05
+
+- O usuário criou pela interface do GitHub o ruleset **Proteção da main** e confirmou que ele aparece como ativo.
+- O ruleset foi configurado para a branch padrão (**Default**), correspondente à branch principal do repositório.
+- Regras ativadas conforme confirmação do usuário: **Restrict deletions**, **Require a pull request before merging**, **Block force pushes** e **Require conversation resolution before merging**.
+- Aprovações obrigatórias permaneceram em zero para não bloquear o mantenedor solo.
+- A opção **Require status checks to pass** não foi ativada porque o GitHub não apresentou verificações disponíveis na lista durante a configuração. A execução anterior do workflow não substitui a exigência de check no ruleset; essa configuração continua pendente.
+- Comparação direta de `main` com `desenvolvimento` em 2026-11-05: status `identical`, 0 commits à frente, 0 atrás e nenhum arquivo divergente; ambas apontavam para `0fd8709f814e806bed0503536edc08a7021a74af`.
+- Próximo teste controlado: registrar esta verificação na branch `desenvolvimento`, abrir Pull Request para `main` e observar o workflow disparado por PR. Não mesclar durante o teste.
+- Ainda não foi feito teste funcional completo em navegador real nem confirmada a exigência de status check no ruleset.
+- Estado: ruleset ativo confirmado pelo usuário; alinhamento das branches confirmado pela comparação; teste de Pull Request pendente.
