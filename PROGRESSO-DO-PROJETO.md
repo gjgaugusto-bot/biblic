@@ -112,3 +112,14 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - As ilustrações são decorativas e descritivas; não acrescentam interpretações nem simbologias ao banco do usuário.
 - Alterações previstas: cartões ilustrados dos 66 livros, paleta visual clássica e revisão responsiva.
 - Status: implementação inicial; validar sintaxe, estrutura, aparência em navegador e diff antes de abrir PR.
+
+
+## 2026-11-05 — Revisão visual monocromática (em validação)
+
+- Pedido do usuário: substituir as ilustrações simples/genéricas e ampliar os ornamentos no site inteiro, usando preto e branco.
+- Atualizado `style.css`: paleta monocromática, fundos claros, cabeçalho preto, molduras duplas, detalhes ornamentais, cartões com bordas de gravura, painéis e leitor com molduras, botões e navegação coerentes; ajustes responsivos preservados.
+- Atualizado `book-art.js`: 66 gravuras vetoriais com cenas/objetos relacionados a cada livro; substituídos rótulos genéricos por descrições específicas. As imagens são decorativas e não criam significados simbólicos para a base de estudos.
+- Atualizado `index.html`: versões de cache dos estilos e ilustrações.
+- Branch de trabalho: `refino-visual-preto-branco`.
+- Verificação inicial: 66 entradas de ilustração encontradas; foi detectada e corrigida uma definição ausente para a cena da torre de vigia. A validação final de sintaxe/estrutura e a execução visual em navegador ainda dependem do workflow e da inspeção publicada.
+- Estado: IMPLEMENTADO EM BRANCH; AGUARDANDO CI/REVISÃO.
