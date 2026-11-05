@@ -164,3 +164,9 @@ footer{padding-top:25px;padding-bottom:34px}
 /* Contraste acessível: o dourado claro permanece reservado aos fundos escuros. */
 .eyebrow{color:#725016}
 .hero .eyebrow{color:#e5c77f}
+
+/* Contraste WCAG AA para botões de retorno, abas e textos auxiliares. */
+.back{color:#76531a}
+.hint{color:#5b6574}
+.chapter-tab{background:#f1f1f0;color:#222;border-color:#777}
+.chapter-tab.active{background:#3f3f3f;color:#fff;border-color:#3f3f3f}
