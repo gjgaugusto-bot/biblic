@@ -23,3 +23,36 @@
 .study-open small{margin-top:auto;color:var(--accent,#9a8054)}
 
 .chapter-navigation{align-items:center;flex-wrap:wrap}.chapter-jump{display:flex;align-items:center;gap:8px;color:#39465c;font-size:14px;font-weight:700}.chapter-jump select{padding:10px 12px;border:1px solid #d9dee7;border-radius:8px;background:#fff;color:#18243a;font:inherit}.chapter-navigation button:disabled{opacity:.45;cursor:not-allowed}@media(max-width:700px){.chapter-navigation{display:grid;grid-template-columns:1fr 1fr}.chapter-jump{grid-column:1/-1;justify-content:center}.chapter-navigation button{width:100%}}
+
+/* Identidade visual: manuscrito ilustrado clássico */
+:root{--ink:#382d22;--ink-soft:#6f5b43;--paper:#f5eedf;--paper-light:#fffaf0;--gold:#a88345;--gold-light:#d8bd83;--line:#d8c9aa;--surface:#fffaf0;--accent:#94713d}
+body{background:radial-gradient(ellipse at top,#fbf6ea 0%,#eee4d0 72%,#e8dcc4 100%);color:var(--ink);font-family:Georgia,'Times New Roman',serif}
+header{background:linear-gradient(110deg,#2b211b,#4b3828 55%,#30251d);border-bottom:3px double #b89457;box-shadow:0 5px 18px #33241424}
+.brand span{color:#e0c27d;text-shadow:0 1px 8px #e5c77a55}
+.brand strong{font-family:Georgia,serif;letter-spacing:2px}
+.navbtn{border-color:#8f744d;color:#f5ead3}.navbtn.active,.navbtn:hover{background:#c6a467;color:#30251d;border-color:#e1c78f}
+main{max-width:1200px}
+.hero{position:relative;overflow:hidden;background:linear-gradient(115deg,#35271d,#654a30 58%,#3d3025);border:1px solid #a9854c;border-radius:4px;box-shadow:inset 0 0 0 6px #ffffff0b,inset 0 0 0 8px #c9a86c55,0 12px 30px #49351f24}
+.hero:after{content:"✦  ❧  ✦";position:absolute;right:30px;bottom:16px;color:#d5b675;font-size:22px;letter-spacing:10px;opacity:.8}
+.hero h1,.adminintro h1{font-family:Georgia,'Times New Roman',serif;font-weight:normal;letter-spacing:.3px}
+.eyebrow{color:#d7bb7d}
+.hero input{border:1px solid #c6a66b;background:#fff8e9;color:#392d20}
+.sectionhead{border-bottom:1px solid #cbb993;padding-bottom:9px}
+.sectionhead h2,.panel h2{font-family:Georgia,serif;font-weight:normal;color:#4a3828}
+.books{grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:17px}
+.book{position:relative;display:flex;min-height:206px;flex-direction:column;align-items:center;justify-content:flex-start;gap:7px;padding:12px 12px 15px;background:linear-gradient(145deg,#fffaf0,#f2e7cf);border:1px solid #c9b58d;border-radius:5px;color:#443323;box-shadow:0 3px 8px #5b45251a,inset 0 0 0 3px #fff9ed}
+.book:before{content:"";position:absolute;inset:5px;border:1px solid #dfcda7;pointer-events:none}
+.book:hover{transform:translateY(-3px);border-color:#a47b3d;box-shadow:0 8px 18px #5b45252a}
+.book-art{display:block;width:100%;max-width:148px;margin:1px auto 3px}
+.book-illustration{display:block;width:100%;height:auto;filter:drop-shadow(0 2px 1px #604a2415)}
+.book-name{font-family:Georgia,serif;font-size:17px;text-align:center;font-weight:bold}
+.book small{margin-top:0;color:#806b4d;font-family:Arial,sans-serif;font-size:11px}
+.readerbox,.panel,.home-study,.guidecard{background:#fffaf0;border-color:#d6c5a2;border-radius:5px;box-shadow:0 4px 16px #5b452510}
+.scripture{background:#fff9eb;border-color:#ddcfb2}
+.verse{font-family:Georgia,serif;color:#382d22}
+.chapter-tab.active,.chapter-tab:hover,.readercontrols button,.primary{background:#59432d;border-color:#59432d}
+.bottom-nav{background:#2e241d;border-top:2px solid #a98750}
+.bottom-tab{border-color:#8b7047}
+.bottom-tab:hover,.bottom-tab.active{background:#c5a367;border-color:#e0c58c;color:#30251d}
+footer{color:#7c684b}
+@media(max-width:700px){.books{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.book{min-height:180px;padding:9px}.book-art{max-width:128px}}
