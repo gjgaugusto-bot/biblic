@@ -1,6 +1,7 @@
 # Proteção e backups
 
 ## Camadas de proteção do código
+- Branch de trabalho `desenvolvimento` criada a partir de `main`; novas alterações devem seguir por Pull Request.
 - O GitHub mantém o histórico de commits da branch `main`.
 - A branch `backup-automatico` recebe o espelho de `main` somente depois que o job de validação passa.
 - A branch `backup-site-2026-11-05` é um snapshot manual de referência.
@@ -13,7 +14,7 @@ O workflow **Proteção do site** verifica a sintaxe de `app.js`, `study-data.js
 O aplicativo mantém backup local e histórico limitado das últimas cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo JSON para outro local.
 
 ## Limites importantes
-- O workflow é acionado por push/PR; sem regras de proteção configuradas e confirmadas no GitHub, ele não impede por si só um push direto com falha de validação na branch publicada.
+- O workflow valida Pull Requests, mas a integração não tem permissão para ativar regras de proteção/rulesets. Até a regra ser configurada manualmente no GitHub, o fluxo por `desenvolvimento` e Pull Request é obrigatório por procedimento, mas não bloqueia tecnicamente um push direto em `main`.
 - A integração disponível não conseguiu ler a configuração de proteção de `main` (HTTP 403); não presumimos que exista bloqueio.
 - Verificações estáticas não substituem revisão bíblica, inspeção visual, testes funcionais em navegador e confirmação do usuário.
 - Erros JavaScript capturados no navegador ficam no dispositivo; não são enviados automaticamente ao GitHub.
