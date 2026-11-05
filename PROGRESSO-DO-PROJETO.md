@@ -7,6 +7,7 @@
 - Repositório oficial: https://github.com/gjgaugusto-bot/biblic
 - Branch de publicação: `main`
 - Site: https://gjgaugusto-bot.github.io/biblic/
+- Branch de trabalho: `desenvolvimento` (novas alterações devem passar por Pull Request)
 - Espelho automático de código: `backup-automatico`
 - Snapshot inicial de segurança: `backup-site-2026-11-05`
 - Estrutura do projeto: site estático em HTML, CSS e JavaScript.
@@ -86,3 +87,12 @@ Arquivos criados/atualizados:
 - `BACKUPS.md` — commit `156e38c71536af906b49c1a00c9de77516b89856`.
 
 Verificação estática independente após as gravações: arquivos presentes; scripts em ordem; 66 livros; Gênesis com 50 capítulos; registros de livros válidos; nenhum ID HTML duplicado. Isso não equivale à execução confirmada do workflow nem a teste funcional em navegador.
+
+
+## Reforço do fluxo de publicação — 2026-11-05
+
+- Criada a branch `desenvolvimento` a partir de `main` para receber as próximas alterações antes da publicação.
+- Regra operacional definida: não editar `main` diretamente; usar branch de trabalho, Pull Request, revisão do diff e workflow aprovado.
+- A exigência técnica de proteção da branch ainda não foi ativada: a integração não possui permissão para gravar regras de branch/rulesets. O proprietário precisa ativar a regra pela interface do GitHub.
+- Configuração recomendada para não bloquear o mantenedor solo: exigir Pull Request e o check `validate`, exigir resolução de conversas, permitir zero aprovações obrigatórias enquanto não houver segundo revisor. Se houver segundo revisor de confiança, exigir uma aprovação.
+- Não afirmar que a branch está protegida até verificar a regra ativa no GitHub.
