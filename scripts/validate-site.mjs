@@ -39,6 +39,8 @@ if (existsSync("index.html") && existsSync("app.js")) {
   }
   if (!app.includes("function validateImportedBackup") || !app.includes("AUTO_BACKUP_HISTORY_KEY"))
     fail("Proteções de importação e histórico de backup local não foram encontradas");
+  if (!app.includes("function readLocalArray") || !app.includes("function readLocalObject"))
+    fail("As leituras protegidas dos dados locais estão ausentes");
   if (!app.includes("renderBookInfo()") || !app.includes("Sobre o livro"))
     fail("A ficha bibliográfica dos livros não foi localizada no aplicativo");
   if (!app.includes("esc(d.title||b.name+' '+c)"))
