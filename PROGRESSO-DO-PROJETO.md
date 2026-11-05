@@ -191,3 +191,13 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Workflow `Proteção do site` (execução 42118561618) concluído com sucesso; etapa `validate` aprovada. A etapa `mirror` foi ignorada por se tratar de evento de PR.
 - A inspeção visual em navegador e a confirmação de atualização do GitHub Pages continuam pendentes; não declarar a renderização publicada como conferida.
 - Estado: ALTERAÇÕES INTEGRADAS À MAIN; VALIDAÇÃO AUTOMÁTICA APROVADA; INSPEÇÃO VISUAL PUBLICADA PENDENTE.
+
+
+## Ficha “Sobre o livro” — Gênesis
+
+- Criada a primeira ficha bibliográfica exibida abaixo da lista de capítulos ao abrir Gênesis.
+- Campos: nome hebraico, origem do nome Gênesis, posição no cânon, capítulos, idioma, autoria tradicional e discussão acadêmica, datação da composição, período dos acontecimentos narrados, contexto geográfico-cultural, estrutura, formas literárias e relação com o Pentateuco.
+- Autoria e datação foram redigidas com ressalvas explícitas; a ficha diferencia tradição religiosa de hipóteses acadêmicas e não apresenta datas controversas como fatos estabelecidos.
+- A ficha é exibida somente para Gênesis nesta primeira etapa; os outros livros permanecem sem alterações e poderão receber fichas próprias depois.
+- Nenhum texto bíblico, resumo de capítulo, personagem, símbolo ou dado localStorage foi alterado.
+- Estado inicial: implementado em branch própria, aguardando validação automatizada pelo workflow do PR.
