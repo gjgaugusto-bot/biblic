@@ -281,3 +281,16 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - A exportação usa os leitores protegidos e mantém o URL temporário ativo até o navegador iniciar o download.
 - O validador agora exige os leitores protegidos de dados locais.
 - Estado: implementação preparada para testes e integração; nenhum conteúdo editorial foi alterado.
+
+
+### Integração do reforço de armazenamento local
+
+- PR #18 integrado à main: https://github.com/gjgaugusto-bot/biblic/pull/18.
+- Commit de integração: caa9e21f799dd72af6c04742f0ad676d46020d4e.
+- Workflow Proteção do site, execução 42121866525 (run 58): sucesso; validação aprovada; mirror ignorado no evento de PR.
+- Leituras de listas e objetos agora usam funções protegidas contra JSON corrompido e tipos inesperados.
+- As mensagens do painel distinguem falha de gravação do dado principal e falha de backup automático.
+- Exportação usa dados validados e revoga o URL temporário somente depois do início do download.
+- Testes isolados de armazenamento: 8/8 aprovados.
+- Nenhum texto bíblico, símbolo, personagem, gravura ou estilo foi alterado.
+- Estado: INTEGRADO; VALIDAÇÃO AUTOMÁTICA APROVADA; inspeção em navegador real pendente.
