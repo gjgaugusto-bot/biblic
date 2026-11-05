@@ -118,3 +118,33 @@ main{max-width:1240px}
 footer{position:relative;color:#555;border-top:1px solid #aaa;margin-top:30px}
 footer:before{content:"❧  ✦  ❧";display:block;margin-bottom:9px;color:#777;letter-spacing:8px}
 @media(max-width:700px){.books{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.book{min-height:194px;padding:9px}.book-art{max-width:132px}.hero:after{right:18px;font-size:13px}}
+
+
+/* ACABAMENTO ORNAMENTAL — aplicação coerente em todas as áreas */
+:root{--mono-ink:#111;--mono-mid:#555;--mono-line:#aaa;--mono-paper:#f7f7f5}
+body{background-image:radial-gradient(ellipse at 50% 0%,#fff 0%,#f0f0ee 64%,#e1e1de 100%)}
+header{padding-top:25px;padding-bottom:25px}
+header nav{gap:9px}
+main{position:relative}
+main:before,main:after{content:"❧";position:fixed;z-index:-1;top:42%;color:#777;opacity:.10;font-size:clamp(50px,8vw,110px);pointer-events:none}
+main:before{left:1.5vw}main:after{right:1.5vw;transform:scaleX(-1)}
+.sectionhead{margin-top:30px}
+.sectionhead h2{letter-spacing:1px}
+.sectionhead span{font-family:Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;font-size:10px;color:#666}
+.hero{padding:clamp(28px,5vw,58px)}
+.hero:before{inset:12px;border:1px solid #aaa}
+.hero:after{content:"✦  ❧  ✦  ❧  ✦";left:50%;right:auto;transform:translateX(-50%);bottom:10px;font-size:14px;letter-spacing:7px}
+.book{background:linear-gradient(145deg,#fff 0%,#f0f0ed 100%);border:1px solid #777;box-shadow:0 5px 14px #00000012,inset 0 0 0 3px #fff,inset 0 0 0 4px #ddd}
+.book:before{inset:7px;border:1px solid #b8b8b4}
+.book-art{max-width:166px;margin:6px auto 7px}
+.book-illustration{filter:grayscale(1) contrast(1.18) drop-shadow(0 3px 2px #0002)}
+.readerbox,.panel,.home-study,.guidecard{padding:clamp(18px,3vw,30px)}
+.readerbox:after,.panel:after,.home-study:after,.guidecard:after{content:"✦";display:block;text-align:center;margin-top:14px;color:#777;font-size:13px;letter-spacing:8px;pointer-events:none}
+.chapter-sections,.chapter-related{border-color:#999}
+.chapter-panel{background:linear-gradient(145deg,#fff,#f4f4f1);border:1px solid #aaa}
+.symbolcard,.link-card,.study-home-card,.study-library-card{box-shadow:0 4px 12px #0000000c}
+button,input,textarea,select{accent-color:#171717}
+button{transition:background-color .18s ease,border-color .18s ease,box-shadow .18s ease,transform .18s ease}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid #111;outline-offset:3px}
+footer{padding-top:25px;padding-bottom:34px}
+@media(max-width:700px){main:before,main:after{display:none}.hero:after{font-size:11px;letter-spacing:4px}.book-art{max-width:142px}}
