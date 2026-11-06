@@ -312,3 +312,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 27:1–21.
+
+
+### Êxodo 27:1–21
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais em 27:5 e 27:9; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 28:1–43.
