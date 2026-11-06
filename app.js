@@ -231,6 +231,7 @@ const BOOK_INFO={
 /* Fichas de referência dos demais livros bíblicos.
    Mantém a mesma estrutura visual de Gênesis e distingue tradição de pesquisa acadêmica. */
 const BOOK_INFO_EXTRA={
+1:['Shemot (Nomes)','O titulo portugues Exodo vem do grego e significa saida; o nome hebraico Shemot significa nomes.','Exodo 1-6: opressao no Egito e chamado de Moises; 7-15: pragas, Pascoa e saida; 16-18: deserto; 19-24: alianca no Sinai; 25-40: tabernaculo.','Libertacao, alianca, presenca divina, lei e formacao de Israel como povo.','Exodo 3:14; 12:13'],
 2:['Vayiqra (“E chamou”)','O nome português vem do grego/latim e se refere aos levitas e ao serviço sacerdotal.','Levítico 1–7: ofertas; 8–10: sacerdócio; 11–16: pureza e expiação; 17–26: santidade; 27: votos.','Santidade, culto, expiação, pureza ritual e vida comunitária.','Levítico 19:2'],
 3:['Bemidbar (“No deserto”)','O título português deriva da contagem do povo; o hebraico significa “no deserto”.','Números 1–10: organização no Sinai; 11–21: jornada e rebeliões; 22–36: planícies de Moabe e preparação para entrar em Canaã.','Jornada, fidelidade, murmuração, liderança e preparação para a terra prometida.','Números 6:24–26'],
 4:['Devarim (“Palavras”)','“Deuteronômio” vem do grego e significa “segunda lei” ou repetição da Lei.','Discursos de Moisés: retrospectiva da jornada (1–4), renovação da aliança e leis (5–26), bênçãos, advertências e despedida (27–34).','Aliança, memória, obediência e amor a Deus.','Deuteronômio 6:4–5'],
