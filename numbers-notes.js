@@ -183,7 +183,7 @@ window.TRANSLATION_NOTES[3][18] = {
 window.TRANSLATION_NOTES[3][19] = {
   2:{term:"פָּרָה אֲדֻמָּה (parah adumah)",text:"“Vaca vermelha”. Animal sem defeito e nunca submetido ao jugo, usado no rito singular de purificação das impurezas associadas à morte."},
   9:{term:"מֵי נִדָּה (mei niddah)",text:"Água de purificação ou de remoção da impureza. O termo nomeia a água preparada com as cinzas da vaca."},
-  17:{term:"מַיִם חַיִּים (mayim chayyim)",text:"“Água viva/corrente”. Água fresca, não estagnada, acrescentada às cinzas para preparar a água ritual."},
+  17:{term:"מַיִם חַיִּים (mayim chayyim) e עֲפַר שְׂרֵפַת הַחַטָּאת (afar srefat hachattat)",text:"“Água corrente” e “cinzas da queima da oferta de purificação”. חַטָּאת, neste rito, designa a oferta que remove a impureza; “oferta pelo pecado” é uma tradução tradicional, mas pode sugerir indevidamente que o rito trata apenas de culpa moral."},
   18:{term:"אֵזוֹב (ezov)",text:"Hissopo, planta usada para aspergir em ritos de purificação. A identificação botânica exata é debatida."},
   20:{term:"טָמֵא (tame)",text:"“Impuro”. A impureza aqui é ritual, ligada ao contato com a morte, e não implica automaticamente culpa moral."}
 };
@@ -212,7 +212,7 @@ window.TRANSLATION_NOTES[3][22] = {
   5:{term:"פְּתוֹר (Petor)",text:"Localidade associada a Balaão, junto ao rio, geralmente situada na região do Eufrates."},
   6:{term:"אָרָה לִּי (arah li)",text:"“Amaldiçoa por mim”. O verbo expressa a tentativa de invocar dano sobre Israel por meio da palavra ritual."},
   7:{term:"קְסָמִים (qesamim)",text:"“Adivinhações/presságios”. O pagamento levado pelos mensageiros é associado à prática divinatória."},
-  20:{term:"קוּם לֵךְ אִתָּם (qum lekh ittam)",text:"“Levanta-te e vai com eles”. A permissão divina é limitada pela ordem seguinte: Balaão só poderá dizer o que Deus lhe ordenar."},
+  20:{term:"קוּם לֵךְ אִתָּם (qum lekh ittam)",text:"“Levanta-te e vai com eles”. A permissão é imediatamente limitada: Balaão só poderá dizer o que Deus lhe ordenar. O versículo seguinte, porém, afirma que a ira divina se acende porque ele foi; a tensão narrativa deve ser preservada, sem inventar uma explicação que o hebraico não oferece."},
   22:{term:"לְשָׂטָן לוֹ (lesatan lo)",text:"“Para se opor a ele”. שָׂטָן significa adversário/opositor; aqui descreve a função do mensageiro no caminho."},
   28:{term:"וַיִּפְתַּח יְהוָה אֶת־פִּי הָאָתוֹן (vayyiftach YHWH et pi ha'aton)",text:"“YHWH abriu a boca da jumenta”. A fala do animal é apresentada como intervenção extraordinária divina."},
   31:{term:"וַיְגַל יְהוָה אֶת־עֵינֵי בִלְעָם (vayegal YHWH et einei Bil'am)",text:"“YHWH descobriu os olhos de Balaão”. A visão do mensageiro depende de revelação, não da percepção comum."}
