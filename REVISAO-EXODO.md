@@ -51,7 +51,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 ### Êxodo 11–15 — primeira passada
 
 - **Êxodo 12:40:** removida uma frase duplicada na nota cronológica; a observação sobre a leitura massorética foi preservada.
-- **Êxodo 14:20:** acrescentada nota sobre o sujeito implícito de “iluminou a noite”. A tradução evita resolver a ambiguidade por conjectura.
+- **Êxodo 14:20:** acrescentada nota sobre o sujeito implícito de “iluminou a noite” e ajustada a frase para “a noite era iluminada”, evitando atribuir o verbo diretamente à coluna de nuvem.
 - As notas já existentes sobre *pesach*, *bein ha'arbayim*, *chamushim* e a expressão “mão erguida” foram mantidas após a primeira conferência.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 12 e 14; Sefaria, Êxodo 12:40; texto hebraico massorético e comentários tradicionais sobre Êxodo 14:20.
