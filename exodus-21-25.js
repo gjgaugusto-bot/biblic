@@ -94,7 +94,7 @@ window.EXODUS_TEXT[23] = [
   "Guardarás a Festa da Colheita, dos primeiros frutos do teu trabalho, daquilo que semeaste no campo; e a Festa da Recolha, no fim do ano, quando recolheres do campo o fruto do teu trabalho.",
   "Três vezes por ano todos os teus homens comparecerão diante do Senhor YHWH.",
   "Não oferecerás o sangue do meu sacrifício com pão fermentado; nem a gordura da minha festa ficará até a manhã.",
-  "Trarás à casa de YHWH, teu Deus, os primeiros frutos da tua terra. Não cozinharás o cabrito no leite de sua mãe.",
+  "Trarás à casa de YHWH, teu Deus, a primeira parte dos primeiros frutos da tua terra. Não cozinharás o cabrito no leite de sua mãe.",
   "Eis que envio um mensageiro diante de ti, para te guardar pelo caminho e te levar ao lugar que preparei.",
   "Presta atenção a ele e ouve sua voz; não te rebeles contra ele, pois não perdoará tua transgressão, porque meu nome está nele.",
   "Mas, se ouvires atentamente sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos e adversário dos teus adversários.",
