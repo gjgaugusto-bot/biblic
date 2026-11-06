@@ -198,4 +198,34 @@ Demais versículos (3:1, 3:5–13, 3:15–18 e 3:20–22): conferidos quanto à 
 - Ellen J. van Wolde, “Not the Name Alone: A Linguistic Study of Exodus 3:14–15”, *Vetus Testamentum* 71 (2021): https://doi.org/10.1163/15685330-00001121
 - NET Bible, Êxodo 3:19, análise da expressão וְלֹא בְּיָד חֲזָקָה e alternativas de leitura: https://classic.net.bible.org/verse.php?book=Exo&chapter=3&tab=commentaries&verse=19
 
-**Próximo ponto:** Êxodo 4:1–31. Não repetir a conferência de Êxodo 3 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 5:1–23. Não repetir a conferência de Êxodo 3 sem evidência concreta de erro novo.
+
+
+### Êxodo 4 — conferência textual e lexical integral (4:1–31)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** A revisão preservou as notas existentes sobre a expressão de 4:13, as formas Yeter/Yitro em 4:18 e os referentes ambíguos de 4:24–26.
+
+Correção no texto:
+- **4:11:** “Quem fez a boca do homem?” foi ajustado para **“Quem deu ao ser humano uma boca?”**, acompanhando o verbo שׂים (*sim*), “pôr/colocar”, em construção que comunica a ideia de conceder ao ser humano a capacidade de falar. A sequência seguinte também foi ajustada para manter paralelismo natural em português.
+
+Notas lexicais acrescentadas:
+- **4:6:** מְצֹרַעַת (*metzora'at*) deriva de צָרַעַת (*tsara'at*), categoria bíblica de afecções de pele, que não corresponde necessariamente à hanseníase moderna. “Afecção cutânea” foi mantido como tradução cautelosa.
+- **4:10:** כְבַד־פֶּה וּכְבַד לָשׁוֹן (*kevad peh u-kevad lashon*) significa literalmente “pesado de boca e pesado de língua”, idiomatismo para dificuldade/lentidão de fala. O texto não define a natureza exata da dificuldade de Moisés.
+- **4:11:** registrada a nuance de שׂים (*sim*), “pôr/colocar”, na expressão sobre a boca humana; a tradução usa “deu” para transmitir o sentido idiomático em português.
+- **4:31:** פָּקַד (*paqad*) pode significar visitar, atentar para, cuidar ou tomar conhecimento. “Visitou” mantém a ligação lexical com Êxodo 3:16.
+
+Notas anteriores preservadas:
+- **4:13:** שְׁלַח נָא בְּיַד תִּשְׁלָח (*shelach na beyad tishlach*), expressão idiomática difícil, sem solução única.
+- **4:18:** Yeter aparece na primeira ocorrência e Yitro na segunda; a tradução mantém a variação formal sem sugerir duas pessoas.
+- **4:24–26:** YHWH é o sujeito explícito de “procurou matá-lo”; os referentes dos pronomes, “pés” e “noivo de sangue” permanecem discutidos. A tradução não resolve a ambiguidade por conjectura.
+
+Demais versículos (4:1–5, 4:7–9, 4:12, 4:14–17 e 4:19–30): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 4: https://www.mechon-mamre.org/p/pt/pt0204.htm
+- NET Bible, Êxodo 4:10–15, sobre “pesado de boca/língua” e a dificuldade de fala: https://classic.net.bible.org/passage.php?passage=Exo+4%3A10-15
+- NET Bible, Êxodo 4:11, sobre שׂים (*sim*), “pôr/colocar”: https://classic.net.bible.org/passage.php?passage=Exo+4%3A11
+- NET Bible e léxicos sobre צָרַעַת (*tsara'at*), termo amplo para afecções de pele, não equivalente seguro à hanseníase moderna: https://classic.net.bible.org/search.php?in=notes&mode=notes&page=3&search=skin
+- Adam J. Howell, “The Firstborn Son of Moses as the ‘Relative of Blood’ in Exodus 4.24–26”, *Journal for the Study of the Old Testament* 35/1 (2010), 63–76: https://doi.org/10.1177/0309089210378962
+
+**Próximo ponto:** Êxodo 5:1–23. Não repetir a conferência de Êxodo 4 sem evidência concreta de erro novo.
