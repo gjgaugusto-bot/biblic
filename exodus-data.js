@@ -14,7 +14,7 @@ window.EXODUS_TEXT = {
 "Ele disse ao seu povo: «Vejam: o povo dos filhos de Israel é mais numeroso e mais forte do que nós.",
 "Vamos agir com astúcia em relação a ele, para que não se multiplique; caso haja guerra, ele também poderá juntar-se aos nossos inimigos, lutar contra nós e sair da terra».",
 "Então puseram sobre ele chefes de trabalhos forçados, para oprimi-lo com suas cargas. E ele construiu para o faraó cidades-armazéns: Pitom e Ramessés.",
-"Mas, quanto mais o oprimiam, tanto mais ele se multiplicava e se espalhava; e os egípcios passaram a detestar os filhos de Israel.",
+"Mas, quanto mais o oprimiam, tanto mais ele se multiplicava e se espalhava; e os egípcios sentiam aversão aos filhos de Israel.",
 "Os egípcios submeteram os filhos de Israel a trabalho pesado, com rigor.",
 "Tornaram amarga a vida deles com trabalho duro: argamassa, tijolos e todo tipo de trabalho no campo; em todos os trabalhos a que os submetiam, agiam com rigor.",
 "O rei do Egito falou às parteiras das hebreias — o nome de uma era Sifrá e o da outra, Puá —",
