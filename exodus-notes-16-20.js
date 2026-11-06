@@ -24,7 +24,9 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     1: {term:"כֹּהֵן (kohen)",text:"“Sacerdote” ou oficiante cultual. Jetro é identificado como sacerdote de Midiã; o texto não detalha aqui suas funções."},
     3: {term:"גֵּרְשֹׁם (Gershom)",text:"O próprio versículo faz um jogo entre גֵּר (ger, “residente estrangeiro”) e שָׁם (sham, “ali”): “fui estrangeiro ali, em terra alheia”. É uma explicação narrativa do nome, não necessariamente sua etimologia histórica."},
     11: {term:"זָדוּ (zadu)",text:"Forma verbal ligada a agir arrogantemente ou tratar alguém com insolência. O final do versículo é sintaticamente difícil e admite diferentes traduções."},
-    21: {term:"אַנְשֵׁי־חַיִל (anshei-chayil)",text:"Literalmente “homens de força/capacidade”. No contexto administrativo, descreve pessoas competentes, não apenas força física; o mesmo versículo também exige que rejeitem o ganho desonesto (betsa)."}
+    19: {term:"הֱיֵה אַתָּה לָעָם מוּל הָאֱלֹהִים (heyeh attah la'am mul haElohim)",text:"Literalmente, “sê tu pelo povo diante de Deus”. A frase pode indicar representação/intercessão: Moisés apresenta os assuntos do povo a Deus e leva as decisões de Deus ao povo. “Representa o povo diante de Deus” explicita essa função."},
+    21: {term:"אַנְשֵׁי־חַיִל (anshei-chayil)",text:"Literalmente “homens de força/capacidade”. No contexto administrativo, descreve pessoas competentes, não apenas força física; o mesmo versículo também exige que rejeitem o ganho desonesto (betsa)."},
+    23: {term:"וְצִוְּךָ אֱלֹהִים (vetsivvekha Elohim)",text:"A expressão significa “e Deus te ordenar”. Ela se coordena com a condição iniciada por אִם (*im*, “se”) no começo do versículo. A tradução pode explicitar a condição global (“se fizeres isso e Deus te ordenar”), sem tratar o segundo verbo como uma condição independente."}
   },
   19: {
     5: {term:"סְגֻלָּה (segullah)",text:"Propriedade particular, tesouro especial ou posse preciosa. A palavra descreve uma relação especial, sem significar que os demais povos deixem de pertencer a Deus."},
