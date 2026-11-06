@@ -125,7 +125,7 @@ window.EXODUS_TEXT[20] = [
   "Não faça para si imagem esculpida, nem representação alguma do que há no céu acima, na terra abaixo ou nas águas debaixo da terra.",
   "Não se curve diante delas nem as sirva, pois eu, YHWH, seu Deus, sou Deus zeloso, que visito a culpa dos pais nos filhos, até a terceira e a quarta geração dos que me rejeitam,",
   "mas faço misericórdia a milhares dos que me amam e guardam meus mandamentos.",
-  "Não pronuncie o nome de YHWH, seu Deus, em vão, pois YHWH não considerará inocente quem pronunciar seu nome em vão.",
+  "Não tome o nome de YHWH, seu Deus, em vão, pois YHWH não considerará inocente quem tomar seu nome em vão.",
   "Lembre-se do dia de sábado, para santificá-lo.",
   "Durante seis dias trabalhará e fará toda a sua obra,",
   "mas o sétimo dia é sábado para YHWH, seu Deus. Não fará trabalho algum: nem você, nem seu filho, nem sua filha, nem seu servo, nem sua serva, nem seu animal, nem o estrangeiro que está dentro de suas portas.",
