@@ -292,3 +292,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas anteriores de 24:7, 24:8 e 24:10 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 25:1–40.
+
+
+### Continuidade de conteúdo — Êxodo 25 (2026-11-06)
+
+- Êxodo 25:1–40 conferido integralmente contra o Texto Massorético.
+- Ajustes em 25:29 para a ordem dos utensílios e em 25:38 para distinguir pinças de bandejas de cinzas.
+- Notas lexicais acrescentadas em 25:29 e 25:38; notas anteriores preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 26:1–37.
