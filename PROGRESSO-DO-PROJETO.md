@@ -506,3 +506,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais em 5:3, 5:7, 5:8, 5:16 e 5:21.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 6:1–30.
+
+
+## 2026-11-06 — revisão de Êxodo 6:1–30
+
+- Conferência integral do capítulo 6 contra o Texto Massorético.
+- Ajuste em 6:3 para refletir a forma nifal “não fui conhecido por eles”.
+- Ajuste em 6:26 para “Estes são Arão e Moisés”.
+- Notas lexicais e gramaticais em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota anterior de 6:9 preservada.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 7:1–29.
