@@ -49,6 +49,8 @@ Em seguida, foram conferidos integralmente os 45 versículos de Números 14 e os
 
 Na sequência, foram conferidos os 50 versículos do capítulo 16 e os 13 versículos do capítulo 17 do projeto. A numeração foi alinhada cuidadosamente: os versículos 1–35 do capítulo 16 do projeto correspondem a Números 16:1–35 no Mechon-Mamre; os versículos 36–50 correspondem a Números 17:1–15; e o capítulo 17 do projeto corresponde a Números 17:16–28. Essa diferença de divisão foi preservada, sem deslocar versículos entre capítulos no site. Foi refinada a redação de 16:41 e corrigida a transliteração do termo hebraico na nota de 16:38. Ambos os capítulos ficam registrados como conferidos com base no texto massorético completo do Mechon-Mamre.
 
+Foram então conferidos integralmente os 32 versículos de Números 18 e os 22 versículos de Números 19 com o texto hebraico do Mechon-Mamre. Em 19:2, “prescrição da instrução” foi refinado para “prescrição da Torá”, preservando o termo hebraico תּוֹרָה. As notas lexicais existentes de 19:2, 19:9, 19:15, 19:17, 19:18 e 19:20 foram mantidas após a conferência. Os capítulos 18 e 19 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
