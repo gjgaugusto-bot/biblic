@@ -4,7 +4,7 @@ window.TRANSLATION_NOTES[1] = window.TRANSLATION_NOTES[1] || {};
 Object.assign(window.TRANSLATION_NOTES[1], {
 31: {
   3:{term:"רוּחַ אֱלֹהִים (ruach Elohim)",text:"Literalmente, “espírito de Deus”. No contexto, descreve capacitação para a obra artística e artesanal do santuário."},
-  5:{term:"לְמַלֹּאת (lemallot)",text:"Verbo ligado a preencher/engastar pedras; aqui descreve a colocação de pedras em montagens ou engastes."},
+  5:{term:"לְמַלֹּאת (lemallot) / חֲרֹשֶׁת אֶבֶן (charoshet even)",text:"A expressão descreve o trabalho de pedras destinadas a serem engastadas, isto é, colocadas em montagens/engastes. “Lapidar” pode sugerir apenas polimento; “trabalhar pedras e engastá-las” preserva melhor a função artesanal indicada pelo contexto."},
   13:{term:"אוֹת (ot)",text:"“Sinal”. O sábado é apresentado como sinal de aliança e de santificação entre YHWH e Israel."},
   15:{term:"שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)",text:"Expressão intensiva: “sábado de descanso completo” ou “descanso solene”."},
   17:{term:"וַיִּנָּפַשׁ (vayinnafash)",text:"Verbo ligado a נפש (nefesh), podendo transmitir a ideia de recuperar o fôlego ou renovar-se. “Descansou” é tradicional, mas o termo acrescenta a imagem de revigoramento após cessar o trabalho."}
