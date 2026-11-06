@@ -160,3 +160,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Registradas a tensão narrativa sobre “todo o rebanho”, as fases agrícolas e a diferença entre חזק (*chazaq*) e כבד (*kaved*).
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 10:1–29.
+
+
+### Continuidade de conteúdo — Êxodo 10 (2026-11-06)
+
+- Êxodo 10:1–29 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas/acrescentadas em 10:2, 10:10, 10:13, 10:19 e 10:21.
+- Registradas a nuance de hit'allalti, a possível alusão a Rá em 10:10, a direção dos ventos e a escuridão palpável.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 11:1–10.
