@@ -265,8 +265,7 @@ window.TRANSLATION_NOTES[3][24] = {
   3:{term:"שְׁתֻם הָעָיִן (shetum ha'ayin)",text:"Expressão obscura, tradicionalmente entendida como “olhos abertos” ou “olhos descobertos”. A tradução conserva a ideia de percepção revelada sem impor certeza lexical."},
   5:{term:"מַה־טֹּבוּ (mah tovu)",text:"“Como são belas”. A fórmula abre o terceiro oráculo com uma exclamação de admiração pelo acampamento de Israel."},
   7:{term:"אֲגַג (Agag)",text:"Nome/título associado a reis amalequitas. A referência anuncia a elevação do rei de Israel acima de seus adversários."},
-  17:{term:"דָּרַךְ כּוֹכָב (darakh kokhav)",text:"“Uma estrela avançou/surgiu”. Imagem régia de vitória e autoridade; sua interpretação messiânica pertence a leituras posteriores e não esgota o sentido no contexto antigo."},
-  17:{term:"בְּנֵי־שֵׁת (bene-shet)",text:"Literalmente, “filhos de Sete”. A expressão pode designar um grupo humano mais amplo; a identificação exata é discutida. “Filhos de tumulto” não é tradução segura do nome próprio שֵׁת."},
+  17:{term:"דָּרַךְ כּוֹכָב / בְּנֵי־שֵׁת (darakh kokhav / bene-shet)",text:"“Uma estrela avançou/surgiu” é imagem régia de vitória e autoridade, cuja leitura messiânica posterior não esgota o sentido antigo. “Filhos de Sete” traduz בני שת; a expressão pode designar um grupo humano mais amplo, mas sua identificação exata é discutida. “Filhos de tumulto” não é tradução segura do nome próprio שֵׁת."},
   18:{term:"יְרֵשָׁה (yereshah)",text:"“Possessão/herança”. O oráculo descreve Edom e Seir como territórios que passarão ao domínio anunciado; a construção poética do verso permite mais de uma segmentação sintática."},
   20:{term:"רֵאשִׁית גּוֹיִם (reshit goyim)",text:"“Primeiro entre as nações”. Pode indicar primazia histórica ou militar de Amaleque, seguida de anúncio de seu fim."},
   23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."}
@@ -277,9 +276,8 @@ window.TRANSLATION_NOTES[3][25] = {
   1:{term:"בַּעַל פְּעוֹר (Baal-Peor)",text:"Divindade cultuada na região de Peor; a expressão designa a vinculação cultual de Israel a esse culto."},
   3:{term:"וַיִּצָּמֶד (vayyitsamed)",text:"“Apegou-se/vinculou-se”. O verbo descreve adesão estreita, aqui em contexto de infidelidade cultual."},
   4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a suspender, enforcar ou empalar publicamente; o modo exato da execução é discutido. A tradução explicita a execução pública sem afirmar um método além do que a forma permite determinar."},
-  11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao demonstrar meu zelo”. A repetição da raiz קנא destaca o zelo de Fineias pela aliança."},
   6:{term:"וַיַּקְרֵב אֶל־אֶחָיו (vayyaqrev el-echav)",text:"“Aproximou-se de seus irmãos/trouxe para junto deles”. O verbo קרב descreve trazer alguém para perto; não exige a ideia de apresentar formalmente a mulher."},
-  11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao ser zeloso com o meu zelo”. A repetição da raiz קנא (qana) enfatiza que Fineias age com zelo correspondente ao zelo divino, e não apenas com indignação pessoal."},
+  11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao ser zeloso com o meu zelo”. A repetição da raiz קנא (qana) enfatiza que Fineias age com zelo correspondente ao zelo divino e à aliança."},
   12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
 };
 /* Notas lexicais — Números 26. */
