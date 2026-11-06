@@ -309,3 +309,38 @@ window.TRANSLATION_NOTES[4][30] = {
   15:{term:"הַחַיִּים וְהַטּוֹב ... הַמָּוֶת וְהָרָע",text:"“A vida e o bem ... a morte e o mal”. A escolha é apresentada como resposta concreta à aliança."},
   19:{term:"וּבָחַרְתָּ בַּחַיִּים",text:"“Escolhe a vida”. A exortação resume o chamado à fidelidade que preserva a vida da comunidade e de sua descendência."}
 };
+
+window.TRANSLATION_NOTES[4][31] = {
+  2:{term:"לֹא אוּכַל עוֹד לָצֵאת וְלָבוֹא",text:"Expressão idiomática para a capacidade de conduzir atividades e exercer liderança; o contexto também menciona a idade avançada de Moisés."},
+  6:{term:"לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָ",text:"“Não te deixará nem te abandonará”. Fórmula de garantia da presença e fidelidade de YHWH."},
+  10:{term:"מִקֵּץ שֶׁבַע שָׁנִים",text:"“Ao fim de cada sete anos”. A leitura pública está vinculada ao ciclo de remissão e à Festa das Cabanas."},
+  19:{term:"שִׂימוֹ בְּפִיהֶם",text:"“Colocai-o em sua boca”. O cântico deve ser memorizado e transmitido oralmente."},
+  26:{term:"לְעֵד",text:"“Como testemunha”. O livro da instrução é colocado ao lado da arca como testemunho contra a infidelidade."}
+};
+window.TRANSLATION_NOTES[4][32] = {
+  4:{term:"הַצּוּר (hatstsur)",text:"“A Rocha”. Metáfora da estabilidade, fidelidade e proteção de Deus; reaparece ao longo do cântico."},
+  8:{term:"לְמִסְפַּר בְּנֵי יִשְׂרָאֵל",text:"“Segundo o número dos filhos de Israel”. A leitura desta expressão apresenta variantes antigas; a tradução segue a forma do texto massorético."},
+  10:{term:"אִישׁוֹן עֵינוֹ",text:"Literalmente, “a pupila de seu olho”; imagem de cuidado precioso e proteção atenta."},
+  15:{term:"יְשֻׁרוּן (Jeshurum)",text:"Nome poético de Israel, provavelmente relacionado à ideia de retidão; aqui aparece ironicamente junto à prosperidade e rebeldia."},
+  17:{term:"שֵׁדִים (shedim)",text:"Termo para seres espirituais ou divindades subordinadas; o cântico os contrapõe ao Deus de Israel."},
+  21:{term:"לֹא־עָם ... גּוֹי נָבָל",text:"“Povo que não é povo ... nação insensata”. A linguagem anuncia a inversão pela qual Israel será provocado por outro povo."},
+  35:{term:"לִי נָקָם וְשִׁלֵּם",text:"“A mim pertence a vingança e a retribuição”. A declaração reserva a justiça final a YHWH."},
+  39:{term:"אֲנִי אֲנִי הוּא",text:"“Eu, eu mesmo, sou ele”. Fórmula enfática de identidade e soberania divina."},
+  43:{term:"וְכִפֶּר אַדְמָתוֹ עַמּוֹ",text:"A frase final pode ser entendida como expiação/limpeza da terra e do povo; preserva a ligação entre restauração e justiça."}
+};
+window.TRANSLATION_NOTES[4][33] = {
+  2:{term:"אֵשׁ דָּת (esh dat)",text:"Expressão difícil, tradicionalmente associada a “fogo de lei”. A tradução mantém a imagem de fogo ligada à manifestação divina e à instrução."},
+  6:{term:"אַל־יָמֹת",text:"“Que não morra”. A bênção de Rúben pede preservação e continuidade da tribo."},
+  8:{term:"תֻּמֶּיךָ וְאוּרֶיךָ",text:"Tumim e Urim eram objetos sacerdotais associados à consulta e ao discernimento de decisões divinas."},
+  12:{term:"בֵּין כְּתֵפָיו",text:"“Entre seus ombros”. Imagem poética de abrigo e proteção junto a YHWH."},
+  16:{term:"נְזִיר אֶחָיו",text:"“Separado dentre seus irmãos”. Designação de José como alguém distinguido entre os irmãos."},
+  17:{term:"רְאֵם (re'em)",text:"Animal de grande força, geralmente identificado com o auroque ou boi selvagem; não é necessariamente o rinoceronte."},
+  25:{term:"וּכְיָמֶיךָ דָּבְאֶךָ",text:"A expressão final é difícil; pode relacionar a força à duração dos dias. A tradução adota “tua força dure todos os teus dias”."}
+};
+window.TRANSLATION_NOTES[4][34] = {
+  1:{term:"רֹאשׁ הַפִּסְגָּה",text:"“Cume do Pisga”. Pisga designa a elevação montanhosa de onde Moisés contempla a terra."},
+  5:{term:"עֶבֶד יְהוָה",text:"“Servo de YHWH”. Título honorífico que caracteriza Moisés no encerramento do livro."},
+  6:{term:"וְלֹא־יָדַע אִישׁ אֶת־קְבֻרָתוֹ",text:"“Ninguém conhece seu túmulo”. O texto destaca que o local do sepultamento permaneceu desconhecido."},
+  7:{term:"לֹא־כָהֲתָה עֵינוֹ",text:"“Seus olhos não haviam enfraquecido”. A descrição sublinha a vitalidade de Moisés mesmo aos 120 anos."},
+  10:{term:"פָּנִים אֶל־פָּנִים",text:"“Face a face”. Expressão que caracteriza a relação singular de Moisés com YHWH."}
+};
