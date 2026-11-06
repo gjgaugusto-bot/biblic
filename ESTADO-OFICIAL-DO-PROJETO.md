@@ -78,3 +78,41 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Workflow GitHub Actions `42269297633` (run 270): sintaxe, validação estrutural, instalação Chromium, servidor local, testes Playwright funcionais e varredura axe-core concluídos com sucesso. Resultado: “TESTES DE NAVEGADOR APROVADOS”.
 - O PR #36 continua sem integração/publicação; `main` e o site público não foram alterados.
 - Próximo trabalho de conteúdo: Êxodo, revisão acadêmica verso a verso a partir do ponto registrado em `REVISAO-EXODO.md`, sem refazer a integração dos capítulos 1–40.
+
+
+---
+
+## ADENDO DE CONTINUIDADE — 2026-11-06 (SUBSTITUI ESTADOS TÉCNICOS ANTIGOS)
+
+Este adendo é a referência mais recente e prevalece sobre trechos anteriores deste documento que ainda mencionem PR #36 pendente, site não publicado ou estado técnico anterior. O histórico antigo foi preservado apenas como histórico.
+
+### Estado atual do repositório e do site
+
+- Repositório canônico: `gjgaugusto-bot/biblic`, branch `main`.
+- Site: https://gjgaugusto-bot.github.io/biblic/
+- Último commit verificado nesta sessão: `f1a9cf6712be759834749f04a8ee9acab8652a59`.
+- O selo de cotejo de Números está publicado. Seu texto e tooltip delimitam corretamente o escopo: colação massorética dos 36 capítulos; não afirma cotejo direto integral com a BHS.
+- Gênesis: fechado definitivamente conforme registro editorial e decisão do responsável.
+- Êxodo: texto e notas dos 40 capítulos integrados. O responsável confirmou em conversa que considera o livro revisado; entretanto, os arquivos atuais `editorial-review.js` e `index.html` ainda exibem Êxodo como em revisão. Reconciliar a divergência com o relatório e a evidência do livro antes de alterar estados por versículo ou publicar selo. Não presumir cotejo BHS integral.
+- Levítico: revisão editorial interna concluída; 27 capítulos e 859 versículos.
+- Números: revisão editorial interna concluída; 36 capítulos e 1.288 versículos; ressalvas sobre BHS e revisão independente mantidas no relatório.
+- Deuteronômio: 34 capítulos, 959 versículos e 261 notas lexicais integrados; auditoria estrutural concluída; cotejo BHS versículo a versículo e revisão acadêmica independente pendentes. Continua em revisão.
+- Próximo livro na sequência de integração: Josué, salvo se o responsável escolher primeiro reconciliar as divergências editoriais já apontadas.
+
+### Check-up funcional do site
+
+O check-up de 2026-11-06 foi registrado em `CHECKUP-FUNCIONAL-2026-11-06.md`.
+
+- Workflow de proteção do site: [42307301590](https://github.com/gjgaugusto-bot/biblic/actions/runs/42307301590) — **sucesso** no commit atual.
+- Workflow de publicação GitHub Pages: [42307301519](https://github.com/gjgaugusto-bot/biblic/actions/runs/42307301519) — **sucesso** no commit atual.
+- Passaram: sintaxe JS, validação estrutural, testes Playwright/Chromium, varredura axe-core, testes de navegação, leitor, abas, controle editorial, persistência, biblioteca, criação de conteúdo, exportação/importação/limpeza de backup, responsividade em 390 px e 320 px e movimento reduzido.
+- O espelho `backup-automatico` foi atualizado após a aprovação do workflow.
+- Limite: a aprovação comprova os fluxos automatizados listados, não revisão manual de todos os versículos/conteúdos nem teste humano de cada combinação de interface.
+
+### Próximas melhorias técnicas sugeridas
+
+Expandir `scripts/browser-smoke.mjs` para testar explicitamente busca e filtros da biblioteca, edição de notas lexicais, ficha “Sobre o livro”, navegação anterior/próximo capítulo, referências relacionadas e restauração de backup sobre dados locais preexistentes. Manter os workflows de proteção e publicação ativos.
+
+### Instrução para a próxima sessão/modelo
+
+Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, `PROTOCOLO-DE-TRABALHO.md`, `REGISTRO-EDITORIAL.md` e os relatórios do livro em andamento. Não confiar em memória da conversa para decidir o estado do repositório; verificar a branch `main` e preservar todo trabalho existente. Não reiniciar Gênesis nem reconstruir livros já integrados. Continuar com lotes grandes, registrar alterações e validar antes de publicar.
