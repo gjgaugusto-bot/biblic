@@ -911,3 +911,28 @@ Demais versículos (30:1–6, 30:8–22, 30:24–31 e 30:33–38): conferidos qu
 - Mechon-Mamre, Êxodo 30:23–35, para a formulação dos ingredientes do óleo e do incenso: https://mechon-mamre.org/p/pt/pt0230.htm
 
 **Próximo ponto:** Êxodo 31:1–18. Não repetir a conferência de Êxodo 30 sem evidência concreta de erro novo.
+
+
+### Êxodo 31 — conferência textual e lexical integral (31:1–18)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do texto hebraico e de traduções de referência. Uma formulação artesanal foi refinada; as demais escolhas foram mantidas, com as nuances relevantes registradas.
+
+Correção no texto:
+- **31:5:** “lapidar pedras de engaste” foi ajustado para **“trabalhar pedras e engastá-las”**. A expressão חֲרֹשֶׁת אֶבֶן לְמַלֹּאת (*charoshet even le-mallot*) descreve o trabalho de pedras destinadas a serem engastadas; “lapidar” pode restringir indevidamente a operação ao polimento.
+
+Notas lexicais acrescentadas/ampliadas:
+- **31:3:** רוּחַ אֱלֹהִים (*ruach Elohim*) é literalmente “espírito de Deus”; no contexto, descreve capacitação para o trabalho artesanal. A tradução mantém a expressão sem reduzir a habilidade a mero talento técnico.
+- **31:5:** לְמַלֹּאת (*lemallot*) está ligado a preencher/engastar; a nota distingue o processo de montagem da ideia mais restrita de polimento.
+- **31:6:** חֲכַם־לֵב (*chacham-lev*, “sábio de coração”) é expressão para competência e discernimento prático, particularmente no trabalho especializado.
+- **31:13–17:** o sábado é apresentado como sinal de aliança e santificação; שַׁבַּת שַׁבָּתוֹן (*shabbat shabbaton*) intensifica a ideia de descanso solene. וַיִּנָּפַשׁ (*vayinnafash*) pode evocar recuperar o fôlego/renovar-se após cessar o trabalho, além da tradução tradicional “descansou”.
+- **31:18:** לֻחֹת הָעֵדֻת (*luchot ha'edut*) são as tábuas do Testemunho; “escritas pelo dedo de Deus” foi mantido como imagem do próprio texto.
+
+Demais versículos (31:1–4, 31:6–18): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 31: https://mechon-mamre.org/p/pt/pt0231.htm
+- Sefaria, Êxodo 31, texto hebraico e tradução JPS (2023): https://www.sefaria.org/Exodus.31
+- Chabad, Êxodo 31 e comentário de Rashi sobre a capacitação artesanal de Bezalel: https://www.chabad.org/library/bible_cdo/aid/9892
+- Cambridge Bible for Schools and Colleges, Êxodo 31:1–18, estrutura da nomeação dos artesãos e do mandamento do sábado: https://biblehub.com/commentaries/cambridge/exodus/31.htm
+
+**Próximo ponto:** Êxodo 32:1–35. Não repetir a conferência de Êxodo 31 sem evidência concreta de erro novo.
