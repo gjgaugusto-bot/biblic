@@ -469,4 +469,4 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Corrigida a orientação do painel lexical: as notas não se limitam a Êxodo; a instrução agora se aplica aos livros que possuem notas lexicais.
 - Ampliado `scripts/browser-smoke.mjs` para verificar o aviso inicial, os nomes padrão das categorias e a orientação do editor lexical.
 - Arquivos alterados: `index.html`, `app.js`, `scripts/browser-smoke.mjs` e este registro.
-- Verificação: alterações registradas na branch de trabalho; execução do workflow e teste em navegador ainda pendentes. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+- Pull Request #38 aberto para revisão: https://github.com/gjgaugusto-bot/biblic/pull/38. Workflow `Proteção do site` iniciado no commit `6f0ffb876a97611affb541b3953035d78b74ae09`; sintaxe e validação estrutural já passaram, enquanto a instalação/teste Chromium ainda estavam em execução na última consulta. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
