@@ -18,7 +18,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 26–30 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
-| 31–35 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
+| 31–35 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 36–40 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 
 ## Achados registrados
@@ -80,3 +80,11 @@ Fontes consultadas: Mechon-Mamre, Êxodo 21–23; texto hebraico massorético.
 - **Êxodo 30:24 e 30:34:** ampliadas as notas sobre cássia, estoraque e ônica, cujas identificações antigas não são inteiramente seguras.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 28 e 30; referências lexicais para as pedras e especiarias antigas.
+
+### Êxodo 31–35 — primeira passada
+
+- **Êxodo 31:17:** acrescentada nota para וַיִּנָּפַשׁ (*vayinnafash*), verbo que pode transmitir a ideia de recuperar o fôlego ou renovar-se, além de “descansar”.
+- **Êxodo 34:26 e 23:19:** padronizada a expressão das primícias como “a primeira parte dos primeiros frutos”, procurando refletir ראשית בכורי (*reshit bikkurei*).
+- **Êxodo 35:7 e 35:23:** padronizado תְּחָשִׁים (*techashim*) como “peles de tahash”, mantendo a identificação material em aberto.
+
+Fontes consultadas: Mechon-Mamre, Êxodo 31 e 34; texto hebraico massorético.
