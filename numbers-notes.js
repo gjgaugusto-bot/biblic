@@ -327,8 +327,8 @@ window.TRANSLATION_NOTES[3][29] = {
 window.TRANSLATION_NOTES[3][30] = {
   1:{term:"לֶאְסֹר אִסָּר (le'esor issar)",text:"“Obrigar-se por compromisso”. A construção reforça a natureza vinculante do voto ou juramento."},
   2:{term:"לֹא יַחֵל דְּבָרוֹ (lo yachel devaro)",text:"“Não profanará/quebrará sua palavra”. O voto exige cumprimento do que foi pronunciado."},
-  5:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
-  13:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
+  5:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão/declaração de seus lábios”. O termo designa a formulação verbal que cria uma obrigação, sem exigir a ideia de impulsividade."},
+  13:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."},
   6:{term:"וְהָיוּ נְדָרֶיהָ עָלֶיהָ (vehayu nedareha aleha)",text:"“Seus votos estarão sobre ela”. A expressão indica que as obrigações assumidas permanecem vigentes quando ela se casa."},
 };
 
@@ -340,7 +340,7 @@ window.TRANSLATION_NOTES[3][31] = {
   19:{term:"תִּתְחַטְּאוּ (titchatte'u)",text:"Forma reflexiva de חטא no uso ritual: submeter-se à purificação. O contato com cadáveres produz impureza cerimonial."},
   28:{term:"מֶכֶס (mekhes)",text:"“Tributo/contribuição”. Aqui designa a parcela retirada da metade dos combatentes e entregue a YHWH por meio do sacerdote."},
   32:{term:"מַלְקוֹחַ (malqoach)",text:"“Presa capturada”. O termo distingue os cativos e animais tomados do restante do despojo."},
-  50:{term:"אֶצְעָדָה, צָמִיד, טַבַּעַת, עָגִיל, כּוּמָז (ets’adah, tsamid, taba’at, agil, kumaz)",text:"Lista de adornos de ouro: peças usadas no tornozelo ou braço, anel, brinco e um último ornamento corporal cuja identificação exata (pingente ou joia nasal) é discutida. A tradução mantém termos gerais sem fixar uma forma arqueológica específica."}
+  50:{term:"אֶצְעָדָה, צָמִיד, טַבַּעַת, עָגִיל, כּוּמָז (ets’adah, tsamid, taba’at, agil, kumaz)",text:"Lista de adornos de ouro: peças usadas no tornozelo ou braço, anel, brinco e um último ornamento corporal cuja identificação exata (pingente ou joia nasal) é discutida. A tradução mantém termos gerais sem fixar uma forma arqueológica específica."},
   49:{term:"וְלֹא־נִפְקַד מִמֶּנּוּ אִישׁ (velo-nifqad mimmennu ish)",text:"“Nenhum de nós falta”. O verbo פקד pode significar contar/registrar; os oficiais declaram que todos os homens enviados retornaram."},
 };
 
