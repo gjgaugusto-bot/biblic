@@ -892,7 +892,7 @@ window.NUMBERS_TEXT[22] = [
   "Balac disse a Balaão: Não te mandei chamar com insistência? Por que não vieste a mim? Acaso não posso honrar-te?",
   "Balaão respondeu a Balac: Eis que vim a ti. Mas agora tenho poder para dizer qualquer coisa? A palavra que Deus puser em minha boca, essa falarei.",
   "Balaão foi com Balac, e chegaram a Quiriate-Huzote.",
-  "Balac sacrificou bois e ovelhas e enviou porções a Balaão e aos chefes que estavam com ele.",
+  "Balac sacrificou bois e ovelhas e enviou a Balaão e aos chefes que estavam com ele.",
   "Na manhã seguinte, Balac tomou Balaão e o fez subir a Bamote-Baal; dali ele pôde ver uma parte do povo."
 ];
 window.NUMBERS_TEXT[23] = [
@@ -907,7 +907,7 @@ window.NUMBERS_TEXT[23] = [
   "Pois do alto das rochas o vejo, e das colinas o contemplo. Eis um povo que habita à parte e não é contado entre as nações.",
   "Quem pode contar o pó de Jacó ou enumerar a quarta parte de Israel? Que eu morra a morte dos justos, e que meu fim seja como o deles!",
   "Balac disse a Balaão: Que fizeste comigo? Eu te trouxe para amaldiçoar meus inimigos, mas tu os abençoaste completamente.",
-  "Ele respondeu: Não devo cuidar de falar aquilo que YHWH põe em minha boca?",
+  "Ele respondeu: Não devo ter o cuidado de falar aquilo que YHWH põe em minha boca?",
   "Balac lhe disse: Vem comigo a outro lugar, de onde poderás vê-los; verás apenas uma parte deles, não todos, e dali amaldiçoa-os por mim.",
   "Levou-o ao campo de Zofim, ao cume do Pisga; construiu sete altares e ofereceu um novilho e um carneiro sobre cada altar.",
   "Balaão disse a Balac: Fica aqui junto ao teu holocausto, enquanto eu vou ao encontro de YHWH ali.",
