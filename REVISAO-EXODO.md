@@ -13,7 +13,8 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 
 | Capítulos | Estado | Observações |
 |---|---|---|
-| 1–5 | Revisado | Segunda conferência comparativa concluída; 122 versículos registrados como Revisados, com fonte e observação no controle editorial. |\n| 6–10 | Em revisão | Primeira passada registrada; segunda conferência comparativa pendente. |
+| 1–5 | Revisado | Segunda conferência comparativa concluída; 122 versículos registrados como Revisados, com fonte e observação no controle editorial. |
+| 6–10 | Revisado | Segunda conferência comparativa concluída; 151 versículos registrados como Revisados, com fonte e observação no controle editorial. |
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
@@ -37,7 +38,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 
 ## Próximas etapas
 
-1. Concluir a conferência versículo por versículo dos capítulos 1–10 e revisar todas as notas de Êxodo nesse intervalo.
+1. Conferência comparativa dos capítulos 1–10 concluída; iniciar a segunda conferência do lote 11–15.
 2. Registrar correções com referências e commits próprios.
 3. Repetir o processo para 11–15, 16–20 e os demais lotes até 40.
 4. Ao final, conferir consistência de nomes, transliteração, termos recorrentes, contagem de versículos e carregamento no site.
@@ -134,3 +135,23 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - Adam J. Howell, “The Firstborn Son of Moses as the ‘Relative of Blood’ in Exodus 4.24–26”, *Journal for the Study of the Old Testament* 35/1 (2010), 63–76, DOI: [10.1177/0309089210378962](https://doi.org/10.1177/0309089210378962).
 - David Pettit, “When the LORD Seeks to Kill Moses: Reading Exodus 4.24–26 in its Literary Context”, *Journal for the Study of the Old Testament* 40/2 (2015), 163–177, DOI: [10.1177/0309089215621239](https://doi.org/10.1177/0309089215621239).
 - OpenBible, texto hebraico e análise morfológica de Êxodo 5:16: [Exodus 5:16](https://openbible.com/text/exodus/5-16.htm).
+
+
+### Êxodo 6–10 — segunda conferência comparativa (2026-11-06)
+
+- Conferidos novamente os capítulos 6–10, versículo por versículo, com o texto hebraico massorético de Mechon-Mamre e a apresentação de Sefaria.
+- **Êxodo 7:20:** acrescentada nota sobre o sujeito singular não expresso de וַיָּרֶם (*vayarem*). O contexto da ordem de 7:19 favorece Arão como agente, mas a tradução mantém o pronome e a nota identifica a inferência.
+- **Êxodo 8:5:** acrescentada nota para הִתְפָּאֵר עָלַי (*hitpa'er alai*), expressão idiomática literalmente próxima de “gloria-te sobre mim”. A tradução “Digna-te a indicar-me quando...” foi mantida como interpretação contextual; a nota registra a distância em relação à forma literal.
+- **Êxodo 9:6:** ampliada a nota de מִקְנֵה (*miqneh*) para explicitar seu alcance coletivo, que inclui cavalos, jumentos, camelos, gado e ovelhas em 9:3, e a delimitação dos animais no campo.
+- **Êxodo 9:14:** acrescentada nota para אֶל־לִבְּךָ (*el-libbekha*, “ao teu coração”), expressão incomum que algumas traduções interpretam como “sobre tua pessoa”; a versão mantém a imagem literal.
+- **Êxodo 10:24:** “ovelhas” foi substituído por “rebanhos” para traduzir צֹאנְכֶם (*tsonkhem*) como coletivo de pequenos animais, sem restringir a referência a ovelhas apenas.
+- Nos demais versículos dos capítulos 6–10 não foi identificada, nesta segunda conferência, omissão ou alteração objetiva que exigisse mudança no texto.
+- **Estado editorial:** capítulos 6–10 estão **Revisados** no controle por versículo (151 registros), com fonte, observação e histórico. Somados aos capítulos 1–5, são 273 versículos de Êxodo 1–10 com segunda conferência registrada. Isso não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente.
+
+#### Fontes desta segunda conferência
+
+- Mechon-Mamre, Texto Massorético e tradução de referência: [Êxodo 6](https://www.mechon-mamre.org/p/pt/pt0206.htm), [Êxodo 7](https://www.mechon-mamre.org/p/pt/pt0207.htm), [Êxodo 8](https://www.mechon-mamre.org/p/pt/pt0208.htm), [Êxodo 9](https://www.mechon-mamre.org/p/pt/pt0209.htm), [Êxodo 10](https://www.mechon-mamre.org/p/pt/pt0210.htm).
+- Sefaria, texto hebraico e traduções paralelas: [Êxodo 6–10](https://www.sefaria.org/Exodus.6-10).
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary* (Baker Academic, 2011), discussão da expressão de Êxodo 8:5: [texto de consulta](https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf).
+- NET Bible, nota de tradução de Êxodo 9:14: [Exodus 9:14](https://classic.net.bible.org/verse.php?book=Exo&chapter=9&tab=commentaries&verse=14).
+- Brown–Driver–Briggs, verbete מִקְנֶה (*miqneh*), consultado via BibleHub: [Strong’s Hebrew 4735](https://biblehub.com/hebrew/4735.htm).
