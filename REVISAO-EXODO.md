@@ -285,4 +285,26 @@ Demais versículos (6:2, 6:4–8, 6:10–11, 6:13–19, 6:21–25 e 6:27–29): 
 - Jewish Virtual Library / *Encyclopaedia Judaica*, verbete “Jochebed”, sobre Êxodo 6:20 e Números 26:59: https://jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0011_0_10183.html
 - New American Bible Revised Edition, nota a Êxodo 6:20 sobre “irmã do pai” e a variante antiga “prima”: https://www.biblegateway.com/passage/?search=Exodus+6%3A20%2CNumbers+26%3A59-60&version=NABRE
 
-**Próximo ponto:** Êxodo 7:1–29. Não repetir a conferência de Êxodo 6 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 8:1–28. Não repetir a conferência de Êxodo 6 sem evidência concreta de erro novo.
+
+
+### Êxodo 7 — conferência textual e lexical integral (7:1–29)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; foram acrescentadas notas para preservar distinções lexicais relevantes.
+
+Notas lexicais acrescentadas:
+- **7:3:** אַקְשֶׁה (*aqsheh*, raiz קשה, *qashah*) está no hifil: “endurecerei”. A nota distingue essa raiz de חזק (*chazaq*, fortalecer/tornar firme) em 7:13 e 7:22 e de כבד (*kaved*, estar pesado) em 7:14.
+- **7:9–12:** תַּנִּין (*tannin*) designa uma criatura grande/ameaçadora, que pode ser serpente, monstro ou grande réptil. “Grande réptil” foi mantido para não impor uma espécie zoológica não identificada pelo hebraico.
+- **7:13:** חזק (*chazaq*) descreve o coração do faraó como tornando-se forte/firme; a tradução “se fortaleceu” preserva a raiz distinta de 7:3.
+- **7:14:** כבד (*kaved*) significa “pesado”; “o coração do faraó está pesado” preserva a imagem própria deste versículo.
+- **7:15:** נָחָשׁ (*nachash*) é o termo comum para serpente, diferente de תַּנִּין (*tannin*) em 7:9–12. A tradução mantém “serpente” em 7:15 e “grande réptil” no sinal diante do faraó.
+
+Demais versículos (7:1–2, 7:4–8, 7:10–12, 7:16–29): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 7: https://www.mechon-mamre.org/p/pt/pt0207.htm
+- NET Bible, Êxodo 7:3 e 7:13, distinção entre קשה (*qashah*) e חזק (*chazaq*): https://classic.net.bible.org/passage.php?passage=exo+7%3A3%2C13
+- Brown–Driver–Briggs, verbete תַּנִּין (*tannin*), sentidos “serpente/dragão/monstro marinho”: https://stronger.encyclopaediabiblica.com/en/lexeme/H8577N
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, seção “Taming and Transforming the Tannin” (Êxodo 7:8–13), que distingue תַּנִּין (*tannin*) de נָחָשׁ (*nachash*): https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+
+**Próximo ponto:** Êxodo 8:1–28. Não repetir a conferência de Êxodo 7 sem evidência concreta de erro novo.
