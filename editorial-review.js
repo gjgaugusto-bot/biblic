@@ -101,7 +101,7 @@
     if (!bookSelect || !chapterSelect) return null;
     const book = Number(bookSelect.value);
     const chapter = Number(chapterSelect.value);
-    if (!Number.isInteger(book) || !Number.isInteger(chapter) || !window.BOOKS && typeof BOOKS === "undefined") return null;
+    if (!Number.isInteger(book) || !Number.isInteger(chapter) || typeof BOOKS === "undefined") return null;
     return { book: book, chapter: chapter };
   }
 
