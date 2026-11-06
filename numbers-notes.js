@@ -211,6 +211,7 @@ window.TRANSLATION_NOTES[3][19] = {
   9:{term:"חַטָּאת הִוא (chatat hi) e מֵי נִדָּה (mei niddah)",text:"“É oferta de purificação” e “água de purificação”. חַטָּאת, neste rito, designa a oferta que remove a impureza associada à morte; a expressão não deve ser reduzida à ideia de culpa moral."},
   17:{term:"מַיִם חַיִּים (mayim chayyim) e עֲפַר שְׂרֵפַת הַחַטָּאת (afar srefat hachattat)",text:"“Água corrente” e “cinzas da queima da oferta de purificação”. חַטָּאת, neste rito, designa a oferta que remove a impureza; “oferta pelo pecado” é uma tradução tradicional, mas pode sugerir indevidamente que o rito trata apenas de culpa moral."},
   18:{term:"אֵזוֹב (ezov)",text:"Hissopo, planta usada para aspergir em ritos de purificação. A identificação botânica exata é debatida."},
+  15:{term:"צָמִיד פָּתִיל (tsamid patil)",text:"Expressão para uma tampa ou cobertura firmemente ajustada/atada ao recipiente. O texto trata da proteção do conteúdo contra a impureza."},
   20:{term:"טָמֵא (tame)",text:"“Impuro”. A impureza aqui é ritual, ligada ao contato com a morte, e não implica automaticamente culpa moral."}
 };
 /* Notas lexicais — Números 20. */
@@ -220,6 +221,7 @@ window.TRANSLATION_NOTES[3][20] = {
   12:{term:"לְהַקְדִּישֵׁנִי (lehaqdisheni)",text:"“Santificar-me”. Moisés e Arão deveriam manifestar publicamente a santidade e a confiança em YHWH diante do povo."},
   13:{term:"מְרִיבָה (Merivah)",text:"“Contenda”. O nome das águas recorda o conflito de Israel com YHWH."},
   24:{term:"נֶאֱסַף אֶל־עַמָּיו (ne'esaf el-ammav)",text:"“Reunido ao seu povo”. Fórmula para a morte, com a imagem de reunião aos antepassados."},
+  19:{term:"רַק אֵין־דָּבָר בְּרַגְלַי (raq ein davar beraglay)",text:"Expressão difícil, literalmente próxima de “nada há em meus pés”. No contexto da passagem por Edom, indica que Israel não pretende causar dano nem desviar-se da rota; a tradução conserva a ideia de passagem pacífica."},
   26:{term:"בִּגְדֵי הַקֹּדֶשׁ (bigdei haqqodesh)",text:"“Vestes sagradas”. A transferência das vestes de Arão para Eleazar simboliza a continuidade do sacerdócio."}
 };
 
