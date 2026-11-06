@@ -320,3 +320,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 28:1–43.
+
+
+### Êxodo 28:1–43
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 28:41 para “os investirás no sacerdócio”, distinguindo “encher a mão” de “santificar”.
+- Notas lexicais em 28:32, 28:38 e 28:41; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 29:1–46.
