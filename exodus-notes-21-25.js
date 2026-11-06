@@ -17,6 +17,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     20: {term:"יָחֳרָם (yochoram)",text:"Forma de חרם, ligada a colocar sob interdito ou consagrar à destruição; termo jurídico-cultual específico."},
     24: {term:"נֶשֶׁךְ (neshekh)",text:"“Juro” ou cobrança de interesse, pertencente ao vocabulário de empréstimos e obrigações econômicas."},
     28: {term:"אֱלֹהִים (elohim)",text:"O termo pode designar Deus ou autoridades judiciais, conforme a leitura e a tradição interpretativa. A tradução “Deus” segue uma opção possível, mas a ambiguidade lexical deve permanecer registrada."},
+    29: {term:"מְלֵאָתְךָ וְדִמְעֲךָ (mele'atekha vedim'akha)",text:"מְלֵאָתְךָ (*mele'atekha*) indica a plenitude/abundância da produção agrícola; וְדִמְעֲךָ (*vedim'akha*) significa literalmente “teu gotejar/tuas gotas”, entendido como o produto líquido dos lagares (vinho e possivelmente azeite). A instrução é não atrasar a entrega das ofertas da colheita e das prensas. “A abundância de tua colheita e o produto de teus lagares” mantém a imagem sem reduzir a expressão a celeiros e recipientes."},
   },
   23: {
     2: {term:"רַבִּים (rabbim)",text:"“Muitos” ou “maioria”. O versículo alerta contra a pressão coletiva quando ela conduz à injustiça."},
