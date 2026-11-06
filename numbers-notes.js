@@ -144,6 +144,7 @@ window.TRANSLATION_NOTES[3][12] = {
 window.TRANSLATION_NOTES[3][13] = {
   2:{term:"וְיָתֻרוּ (veyaturu)",text:"“Explorar/percorrer para observar”. O verbo sugere reconhecimento da terra, não uma conquista militar imediata."},
   16:{term:"יְהוֹשֻׁעַ (Yehoshua)",text:"Nome de Josué, relacionado à ideia de YHWH salvar. O texto registra a mudança do nome de Oseias por Moisés."},
+  20:{term:"הַשְּׁמֵנָה ... אִם-רָזָה (hashshemenah ... im-razah)",text:"Literalmente, pergunta se a terra é “gorda/fértil” ou “magra/pobre”. A imagem descreve a produtividade do solo, não o peso físico da terra."},
   22:{term:"יַלִּידֵי הָעֲנָק (yelidei ha'anak)",text:"“Nascidos de Anaque” ou descendentes dos anaquins. A expressão identifica um grupo associado à grande estatura."},
   23:{term:"אֶשְׁכּוֹל (eshkol)",text:"“Cacho”. O nome do vale é explicado pelo grande cacho de uvas levado pelos exploradores."},
   30:{term:"וַיַּהַס (vayyahas)",text:"“Fez calar/silenciou”. Calebe procura conter o tumulto para responder ao relatório alarmista."},
