@@ -109,3 +109,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 4:1–31.
+
+
+### Êxodo 4:1–31
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 4:11 para refletir שׂים (*sim*), “pôr/colocar”, em formulação idiomática.
+- Notas lexicais em 4:6, 4:10, 4:11 e 4:31; notas de 4:13, 4:18 e 4:24–26 preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 5:1–23.
