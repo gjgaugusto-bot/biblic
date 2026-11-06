@@ -227,3 +227,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 17:1–16.
+
+
+### Êxodo 17:1–16
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 17:16 para “uma mão está sobre o trono de Yah”, mais próximo de עַל (*al*).
+- Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 18:1–27.
