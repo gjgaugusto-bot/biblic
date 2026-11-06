@@ -153,7 +153,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   18: {
     3: {term:"גֵּרְשֹׁם (Gershom)",text:"O nome é associado à frase “fui estrangeiro (ger) em terra alheia”. Trata-se de uma explicação narrativa por jogo sonoro, não necessariamente de uma etimologia histórica."},
     4: {term:"אֱלִיעֶזֶר (Eliezer)",text:"Nome composto por elementos que significam “meu Deus é auxílio” ou “Deus é meu auxílio”, conforme a análise da construção."},
-    21: {term:"אַנְשֵׁי־חַיִל (anshei chayil)",text:"Expressão para homens capazes, competentes ou valorosos. O contexto acrescenta critérios éticos e de temor a Deus; não se limita à força física."}
+    21: {term:"אַנְשֵׁי־חַיִל / אַנְשֵׁי אֱמֶת (anshei chayil / anshei emet)",text:"A primeira expressão designa homens capazes ou valorosos; a segunda, homens de verdade, íntegros ou confiáveis. O contexto acrescenta temor a Deus e rejeição ao ganho desonesto; não se trata apenas de força física."}
   },
   19: {
     5: {term:"סְגֻלָּה (segullah)",text:"Significa propriedade especial, tesouro particular ou bem precioso. A imagem expressa a relação particular de aliança, embora toda a terra pertença a Deus."},
