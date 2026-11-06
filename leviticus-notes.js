@@ -63,3 +63,37 @@ Object.assign(window.TRANSLATION_NOTES[2], {
     18:{term:"כְּעֶרְכְּךָ (ke'erkekha)",text:"“Segundo tua avaliação”, referência ao valor estabelecido para o carneiro da oferta pela culpa, conforme a norma sacerdotal."}
   }
 });
+
+Object.assign(window.TRANSLATION_NOTES[2], {
+  6: {
+    2:{term:"מַעַל (ma'al)",text:"Infidelidade ou quebra de confiança. Aqui o dano ao próximo é descrito também como ofensa contra YHWH."},
+    5:{term:"חֹמֶשׁ (ḥomesh)",text:"A quinta parte acrescentada à restituição corresponde a vinte por cento do valor devido."},
+    9:{term:"תּוֹרַת הָעֹלָה (torat ha'olah)",text:"“Lei do holocausto”: instrução ritual dirigida aos sacerdotes, especialmente sobre a manutenção contínua do fogo e a remoção das cinzas."},
+    10:{term:"דֶּשֶׁן (deshen)",text:"Cinzas e resíduos do sacrifício consumido. Sua remoção segue um procedimento de vestes e local próprios."},
+    13:{term:"אֵשׁ תָּמִיד (esh tamid)",text:"“Fogo contínuo”. A expressão enfatiza que o fogo do altar não deveria se apagar."},
+    15:{term:"קֹמֶץ (qomets)",text:"Punhado retirado pelo sacerdote como porção memorial da oferta de cereal."},
+    20:{term:"עֲשִׂירִית הָאֵפָה (asirit ha'efah)",text:"Um décimo de efa, medida de volume para produtos secos. A oferta diária do sacerdote é dividida entre manhã e tarde."},
+    27:{term:"כָּל אֲשֶׁר יִגַּע (kol asher yigga)",text:"“Tudo o que tocar”. O contato com a oferta santíssima comunica condição de santidade no quadro ritual do texto."}
+  },
+  7: {
+    2:{term:"זָרַק (zaraq)",text:"O sangue da oferta pela culpa é lançado/aspergido ao redor do altar, conforme o procedimento sacrificial."},
+    8:{term:"עוֹר הָעֹלָה (or ha'olah)",text:"O couro do holocausto fica com o sacerdote que o apresenta; a regra define uma parte sacerdotal específica."},
+    12:{term:"תּוֹדָה (todah)",text:"Ação de graças ou agradecimento. O sacrifício de comunhão pode expressar gratidão e vem acompanhado de pães."},
+    16:{term:"נֶדֶר / נְדָבָה ( neder / nedavah)",text:"Voto e oferta voluntária. O texto diferencia a motivação da oferta e estabelece prazos para consumir sua carne."},
+    20:{term:"טָמֵא (tame)",text:"Impureza ritual, condição incompatível com a participação na refeição sagrada enquanto persistir."},
+    30:{term:"תְּנוּפָה (tenufah)",text:"Oferta movida/apresentada com gesto ritual diante de YHWH; o termo descreve o modo de apresentação, não necessariamente um movimento específico reconstruível."},
+    32:{term:"שׁוֹק הַיָּמִין (shoq hayamin)",text:"Coxa direita, porção de contribuição reservada ao sacerdote nos sacrifícios de comunhão."},
+    34:{term:"חָזֶה הַתְּנוּפָה (ḥazeh hattenufah)",text:"Peito da oferta movida. Junto com a coxa, constitui parte da porção sacerdotal."}
+  },
+  8: {
+    2:{term:"מִלֻּאִים (millu'im)",text:"Consagração ou investidura sacerdotal. O cesto dos pães e os animais fazem parte do rito de instalação de Arão e seus filhos."},
+    7:{term:"אֵפוֹד (efod)",text:"Peça sacerdotal semelhante a um colete ou avental elaborado, presa por faixa trabalhada."},
+    8:{term:"אוּרִים וְתֻמִּים (Urim veTumim)",text:"Objetos associados ao peitoral sacerdotal e à consulta da vontade divina. Sua forma material e funcionamento exatos não são conhecidos."},
+    9:{term:"צִיץ (tsits)",text:"Lâmina ou flor de ouro presa à frente do turbante, com inscrição de santidade, parte das vestes do sumo sacerdote."},
+    11:{term:"שֶׁבַע פְּעָמִים (sheva pe'amim)",text:"Sete vezes. O número aparece em atos de purificação e consagração, marcando completude ritual."},
+    14:{term:"סָמַךְ יָדוֹ (samakh yado)",text:"Imposição da mão sobre a cabeça do animal antes do abate, gesto ritual de apresentação da oferta."},
+    23:{term:"תְּנוּךְ (tenukh)",text:"Lóbulo da orelha. O sangue é aplicado também ao polegar e ao dedo maior do pé, sinalizando consagração do sacerdote."},
+    27:{term:"תְּנוּפָה (tenufah)",text:"Gesto de apresentação da oferta diante de YHWH. Nesta cerimônia, os sacerdotes participam do gesto antes de Moisés queimar a porção."},
+    33:{term:"שִׁבְעַת יָמִים (shiv'at yamim)",text:"Sete dias de consagração. O período de permanência à entrada da Tenda do Encontro completa a instalação sacerdotal."}
+  }
+});
