@@ -118,3 +118,24 @@ window.TRANSLATION_NOTES[3][12] = {
   10:{term:"מְצֹרָעַת (metsora'at)",text:"Pessoa atingida por afecção cutânea ritual. Não é seguro equiparar automaticamente o termo ao diagnóstico moderno de hanseníase."},
   14:{term:"תִּסָּגֵר (tissager)",text:"“Ficará isolada/fechada”. A forma verbal indica exclusão temporária do acampamento, seguida de reintegração."}
 };
+
+/* Notas lexicais — Números 13. */
+window.TRANSLATION_NOTES[3][13] = {
+  2:{term:"וְיָתֻרוּ (veyaturu)",text:"“Explorar/percorrer para observar”. O verbo sugere reconhecimento da terra, não uma conquista militar imediata."},
+  16:{term:"יְהוֹשֻׁעַ (Yehoshua)",text:"Nome de Josué, relacionado à ideia de YHWH salvar. O texto registra a mudança do nome de Oseias por Moisés."},
+  22:{term:"יַלִּידֵי הָעֲנָק (yelidei ha'anak)",text:"“Nascidos de Anaque” ou descendentes dos anaquins. A expressão identifica um grupo associado à grande estatura."},
+  23:{term:"אֶשְׁכּוֹל (eshkol)",text:"“Cacho”. O nome do vale é explicado pelo grande cacho de uvas levado pelos exploradores."},
+  30:{term:"וַיַּהַס (vayyahas)",text:"“Fez calar/silenciou”. Calebe procura conter o tumulto para responder ao relatório alarmista."},
+  32:{term:"דִּבָּה (dibbah)",text:"Relato desfavorável, difamação ou calúnia. O termo indica que os exploradores não apenas relataram fatos, mas os apresentaram de modo desmoralizador."},
+  33:{term:"נְפִילִים (nefilim)",text:"“Nefilins”. O texto associa os anaquins a essa figura; a natureza histórica e genealógica dessa relação permanece incerta."}
+};
+/* Notas lexicais — Números 14. */
+window.TRANSLATION_NOTES[3][14] = {
+  4:{term:"נִתְּנָה רֹאשׁ (nittenah rosh)",text:"Literalmente, “coloquemos uma cabeça”. Expressão para escolher um líder e organizar o retorno ao Egito."},
+  9:{term:"צֵל (tsel)",text:"“Sombra/proteção”. A metáfora descreve a proteção que, segundo Josué e Calebe, se retirou dos habitantes da terra."},
+  18:{term:"וְנַקֵּה לֹא יְנַקֶּה (venaqeh lo yenaqqeh)",text:"Fórmula enfática: “de modo algum deixa impune”. A misericórdia proclamada não elimina a responsabilidade pelo mal."},
+  22:{term:"עֶשֶׂר פְּעָמִים (eser pe'amim)",text:"“Dez vezes”. Número que funciona como expressão de repetidas provas e rebeliões; não exige que se identifiquem dez episódios isolados na narrativa."},
+  24:{term:"רוּחַ אַחֶרֶת (ruach acheret)",text:"“Outro espírito”. Caracteriza a disposição diferente de Calebe, que permanece fiel em vez de aderir ao medo coletivo."},
+  34:{term:"תִּנְאוּאֵת (tinnu'u et)",text:"Forma verbal ligada à experiência de oposição/hostilidade divina. A tradução procura preservar a ideia de que a comunidade experimentará a consequência de sua rebeldia."},
+  45:{term:"חָרְמָה (Chormah)",text:"Hormá, topônimo associado à raiz חרם (cherem), “consagrar à destruição”. A relação etimológica não deve ser tomada como certeza sobre a origem histórica do nome."}
+};
