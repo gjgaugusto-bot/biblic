@@ -43,6 +43,8 @@ Em 6 de novembro de 2026, foi realizada a conferência integral dos 36 versícul
 
 A leitura dos dois capítulos resultou em refinamentos de tradução em Números 10:13 e 10:31, e em Números 11:1, 11:10, 11:12 e 11:30. Foram acrescentadas notas lexicais para 11:12 (הָאֹמֵן, “cuidador/tutor”) e 11:30 (וַיֵּאָסֵף, “recolheu-se/retirou-se”). Os capítulos 10 e 11 ficam registrados como conferidos nesta etapa, com base no texto massorético completo acessível, sem que isso implique certificação acadêmica independente.
 
+Na mesma etapa, foram conferidos integralmente os 16 versículos de Números 12 e os 33 versículos de Números 13 com o texto hebraico completo do Mechon-Mamre. Foram refinadas as traduções de 12:8, 13:20 e 13:24, e acrescentada uma nota lexical em 13:20. Os capítulos 12 e 13 ficam registrados como conferidos com base nesse testemunho do Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
