@@ -16,9 +16,9 @@ if (existsSync("index.html") && existsSync("app.js")) {
   const app = readFileSync("app.js", "utf8");
   const scripts = ["study-data.js", "book-art.js", "exodus-data.js", "exodus-11-15.js", "exodus-16-20.js", "exodus-21-25.js", "exodus-26-30.js", "exodus-31-35.js", "exodus-36-40.js", "translation-notes.js", "app.js", "editorial-review.js"];
   const positions = scripts.map((name) => html.indexOf(name));
-  if (positions.some((position) => position < 0)) fail("index.html precisa carregar study-data.js, book-art.js e app.js");
-  else if (!(positions[0] < positions[1] && positions[1] < positions[2]))
-    fail("A ordem dos scripts deve ser study-data.js, book-art.js e app.js");
+  if (positions.some((position) => position < 0)) fail("index.html precisa carregar todos os módulos de dados, o aplicativo e o controle editorial");
+  else if (!positions.every((position, index) => index === 0 || positions[index - 1] < position))
+    fail("Os módulos de dados devem carregar antes do aplicativo; o controle editorial deve carregar por último");
 
   if (html.includes('id="search"') || app.includes("ensureSearchInput")) fail("A busca de livros da página inicial foi removida e não deve ser recriada pelo JavaScript");
   for (const id of ["studyCategoryTitleSymbols","studyCategoryTitleColors","studyCategoryTitleNumbers","studyCategoryTitleTypes","saveStudyCategories","resetStudyCategories"]) {
