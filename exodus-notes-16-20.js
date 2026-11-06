@@ -5,10 +5,13 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   16: {
     1: {term:"מִדְבַּר־סִין (midbar-Sin)",text:"Topônimo tradicionalmente transliterado “deserto de Sin”. Não deve ser confundido com o Sinai; o texto distingue a região e o monte."},
     4: {term:"לֶחֶם (lechem)",text:"“Pão” pode designar alimento em sentido amplo. A narrativa usa a imagem de pão vindo do céu para o maná."},
-    15: {term:"מָן הוּא (man hu)",text:"A expressão é associada à pergunta “que é isto?”. O próprio texto populariza a designação maná; a etimologia exata é discutida."},
+    14: {term:"דַּק מְחֻסְפָּס (daq mechuspas)",text:"Expressão rara, tradicionalmente entendida como algo fino, em flocos/escamas. O termo aparece apenas aqui; “em flocos” evita a ideia de grãos arredondados, que não é exigida pelo hebraico."},
+    15: {term:"מָן הוּא (man hu)",text:"A expressão é associada à pergunta “que é isto?”. O próprio texto populariza a designação maná; a etimologia exata é discutida. A forma מָן (*man*) não é a palavra hebraica usual para “o quê” (מַה, *mah*); propostas incluem empréstimo aramaico/siríaco, egípcio ou uma etimologia popular baseada no som."},
     16: {term:"עֹמֶר (omer)",text:"Medida de capacidade para cereais e alimentos secos. O versículo a relaciona à porção individual; não equivale a uma medida moderna exata sem contexto."},
     23: {term:"שַׁבָּתוֹן (shabbaton)",text:"Termo que indica repouso solene ou observância sabática. Aqui aparece ligado ao sétimo dia."},
-    31: {term:"מָן (man)",text:"O maná é descrito por cor, aparência e sabor. A descrição não permite identificá-lo com segurança com uma substância natural específica."}
+    31: {term:"מָן (man)",text:"O maná é descrito por cor, aparência e sabor. A descrição não permite identificá-lo com segurança com uma substância natural específica."},
+    33: {term:"צִנְצֶנֶת (tsintsenet)",text:"Substantivo raro que ocorre apenas aqui. Designa um recipiente/jarro; a tradição targúmica e Rashi o entendem como vaso de barro. “Recipiente” é uma tradução neutra, sem impor material ou formato exato."},
+    36: {term:"עֹמֶר עֲשִׂרִית הָאֵיפָה (omer asirit ha'efah)",text:"O versículo define a relação entre as medidas: um ômer corresponde a um décimo de efá. A proporção é explícita, mas a conversão para litros varia conforme a reconstrução histórica das medidas antigas."}
   },
   17: {
     2: {term:"רִיב (riv)",text:"Verbo de disputar, contender ou apresentar uma queixa. A narrativa faz jogo com o nome Meribá, ligado à contenda."},
