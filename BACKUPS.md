@@ -8,7 +8,7 @@
 - Mudanças maiores devem ser preparadas em branch separada, revisadas e integradas após validação.
 
 ## Verificações automáticas
-O workflow **Proteção do site** verifica a sintaxe dos scripts, arquivos essenciais, ordem de carregamento, IDs duplicados, configuração dos 66 livros, integridade dos backups e vínculos de simbologia. Também instala Playwright/Chromium e executa testes reais de navegação, busca, ficha do livro, capítulo 4, edição e persistência, simbologias, personagens, guias, exportação, importação, limpeza, viewport móvel e varreduras axe-core nas telas principais. As verificações automatizadas não substituem toda a avaliação manual.
+O workflow **Proteção do site** verifica a sintaxe dos scripts, arquivos essenciais, ordem de carregamento, IDs duplicados, configuração dos 66 livros, integridade dos backups e vínculos de simbologia. Também instala Playwright/Chromium e executa testes reais de navegação, ausência do campo de busca removido, ficha do livro, capítulo 4, edição e persistência, categorias personalizadas da biblioteca, simbologias, personagens, guias, exportação/importação de backup incluindo as categorias, limpeza, viewport móvel e varreduras axe-core nas telas principais. As verificações automatizadas não substituem toda a avaliação manual.
 
 ## Dados de estudo no navegador
 O aplicativo mantém backup local e histórico limitado das últimas cópias dos dados de estudo. Esse mecanismo depende do armazenamento do navegador e não substitui exportar o arquivo JSON para outro local.
