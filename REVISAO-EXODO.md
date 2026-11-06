@@ -804,4 +804,32 @@ Demais versículos (27:1, 27:4, 27:6–8, 27:10–19): conferidos quanto à corr
 - UBS Handbook on Exodus, Êxodo 27:5, posição da rede em relação à moldura: https://tips.translation.bible/tip_verse/exod-275/
 - NET Bible, Êxodo 27:9, sobre קְלָעִים (*qela'im*) como cortinas do pátio: https://classic.net.bible.org/verse.php?book=Exo&chapter=27&verse=9
 
-**Próximo ponto:** Êxodo 28:1–43. Não repetir a conferência de Êxodo 27 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 29:1–46. Não repetir a conferência de Êxodo 27 sem evidência concreta de erro novo.
+
+
+### Êxodo 28 — conferência textual e lexical integral (28:1–43)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma expressão técnica de investidura sacerdotal foi traduzida de modo mais distinto; notas foram ampliadas para registrar a dificuldade de algumas peças e fórmulas.
+
+Correção no texto:
+- **28:41:** “os ungirás, os consagrarás e os santificarás” foi ajustado para **“os ungirás, os investirás no sacerdócio e os santificarás”**, refletindo וּמִלֵּאתָ אֶת־יָדָם (*umille'ta et-yadam*), literalmente “encherás a mão deles”, expressão técnica de instalação/investidura sacerdotal. A mudança evita fundir esse ato com o verbo seguinte, קִדַּשְׁתָּם (*qiddashtam*, santificar).
+
+Notas lexicais acrescentadas:
+- **28:32:** כְּפִי תַחְרָא (*kefi tachra*) é expressão rara para o acabamento da abertura do manto. Tradicionalmente comparada à abertura de uma couraça/armadura; outras versões entendem gola ou colarinho reforçado. A finalidade explícita é impedir que o tecido se rasgue.
+- **28:38:** עֲוֹן הַקֳּדָשִׁים (*avon haqodashim*) significa literalmente “culpa/iniquidade das coisas sagradas”. A nota registra a responsabilidade de Arão pelas falhas ligadas às ofertas consagradas e a leitura de Rashi de נשא (*nasa*, “carregar”) também como obter perdão.
+- **28:41:** וּמִלֵּאתָ אֶת־יָדָם (*umille'ta et-yadam*), literalmente “encherás a mão deles”, é expressão técnica de investir/instalar no ofício sacerdotal.
+
+Notas anteriores preservadas:
+- **28:4, 28:15, 28:17, 28:30 e 28:36:** mantidas, incluindo a forma incerta do éfode, o peitoral do juízo, a identificação mineral incerta das pedras, os Urim e Tumim e a inscrição “Consagrado a YHWH”.
+
+Demais versículos (28:1–31, 28:33–37 e 28:39–43): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 28: https://mechon-mamre.org/p/pt/pt0228.htm
+- NET Bible, Êxodo 28:32, sobre כְּפִי תַחְרָא (*kefi tachra*) e as leituras “abertura de couraça/gola”: https://classic.net.bible.org/verse.php?book=Exo&chapter=28&verse=32
+- NET Bible, Êxodo 28:38, sobre עֲוֹן הַקֳּדָשִׁים (*avon haqodashim*): https://classic.net.bible.org/verse.php?book=Exo&chapter=28&verse=38
+- Rashi sobre Êxodo 28:38, sobre Arão carregar a culpa das coisas sagradas e a ideia de perdão: https://www.chabad.org/library/bible_cdo/aid/9889/jewish/Chapter-28.htm
+- NET Bible, Êxodo 28:41, sobre “encher a mão” como investidura/instalação sacerdotal: https://classic.net.bible.org/passage.php?passage=Exo+28%3A40-41
+- UBS Handbook on Exodus, Êxodo 28:41, sobre o idiomatismo “encher as mãos”: https://tips.translation.bible/story/translation-commentary-on-exod-2841/
+
+**Próximo ponto:** Êxodo 29:1–46. Não repetir a conferência de Êxodo 28 sem evidência concreta de erro novo.
