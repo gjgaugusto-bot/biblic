@@ -275,9 +275,9 @@ function refreshChapterSymbols(bookIndex,chapter,value){
 const $=id=>document.getElementById(id);
 const STUDY_CATEGORY_DEFAULTS={
  'Símbolos':{title:'Simbologias bíblicas',description:'Objetos, elementos, animais e imagens',icon:'✦ '},
- 'Cores':{title:'Simbologia das cores',description:'Cores e seus sentidos no material de estudo',icon:'◈ '},
+ 'Cores':{title:'Cores bíblicas',description:'Cores e seus sentidos no material de estudo',icon:'◈ '},
  'Números':{title:'Numerologia bíblica',description:'Números e interpretações apresentadas',icon:'№ '},
- 'Tipologias':{title:'Tipologias',description:'Personagens e acontecimentos como tipos',icon:'⌘ '}
+ 'Tipologias':{title:'Tipologias bíblicas',description:'Personagens e acontecimentos como tipos',icon:'⌘ '}
 };
 const STUDY_CATEGORY_FIELDS={
  'Símbolos':['studyCategoryTitleSymbols','studyCategoryDescriptionSymbols'],
