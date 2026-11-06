@@ -1,0 +1,111 @@
+/* Notas lexicais — Gênesis. Notas selecionadas, não uma nota por versículo. */
+window.TRANSLATION_NOTES = window.TRANSLATION_NOTES || {};
+window.TRANSLATION_NOTES[0] = {
+    1: {
+      1: {term:"בְּרֵאשִׁית (bereshit)",text:"A forma pode ser entendida como “no princípio” ou, em construção ligada ao versículo seguinte, “no começo de...”. A tradução tradicional “No princípio” foi mantida, sem encerrar a discussão sintática."},
+      5: {term:"יוֹם אֶחָד (yom echad)",text:"A expressão é literalmente “um dia”, não “primeiro dia” (que seria uma forma ordinal). Por isso, o versículo foi ajustado para “um dia”, preservando a formulação hebraica."},
+      2: {term:"רוּחַ אֱלֹהִים (ruach Elohim)",text:"Ruach pode significar “sopro”, “vento” ou “espírito”. A expressão admite discussão sobre a relação entre os termos; “sopro de Deus” preserva uma possibilidade lexical sem impor uma leitura teológica."},
+      6: {term:"רָקִיעַ (raqia)",text:"Termo para algo expandido ou estendido. “Expansão” procura conservar a imagem do texto sem identificar o elemento com uma descrição científica moderna."},
+      21: {term:"תַּנִּינִם (tanninim)",text:"Designa grandes criaturas aquáticas ou monstros marinhos. “Grandes animais marinhos” é uma opção contextual; o termo hebraico não determina uma espécie zoológica."}
+    },
+    2: {
+      7: {term:"נֶפֶשׁ חַיָּה (nefesh chayyah)",text:"Expressão literalmente próxima de “ser vivente”. Não significa necessariamente uma alma separada do corpo; por isso, a tradução “ser vivente” evita acrescentar essa distinção."},
+      18: {term:"עֵזֶר כְּנֶגְדּוֹ (ezer kenegdo)",text:"Ezer é “auxílio/ajuda” e kenegdo indica algo correspondente ou diante dele. “Auxiliadora que lhe corresponda” tenta preservar os dois elementos; a expressão não define, por si só, inferioridade."},
+      21: {term:"צֵלָע (tsela)",text:"Pode significar “costela” ou “lado”. “Costela” é tradicional, mas “lado” permanece uma possibilidade lexical relevante para a passagem."}
+    },
+    3: {
+      15: {term:"זֶרַע (zera)",text:"Significa “semente” e, por extensão, “descendência”. O hebraico usa um substantivo coletivo; a tradução não decide aqui se a referência é individual ou coletiva."},
+      16: {term:"תְּשׁוּקָה (teshuqah)",text:"Palavra rara, também encontrada em Gênesis 4:7 e Cântico dos Cânticos 7:10. Seu sentido exato é debatido; “desejo” é uma tradução possível, mas não resolve todas as nuances."}
+    },
+    4: {
+      7: {term:"חַטָּאת (chatat)",text:"Pode significar “pecado” e também “oferta pelo pecado”, conforme o contexto. A imagem seguinte — algo à espreita à porta — é incomum e admite diferentes análises gramaticais."},
+      8: {term:"Fala de Caim",text:"O texto massorético registra “Caim disse a Abel, seu irmão” sem preservar o conteúdo da fala. Algumas tradições textuais antigas acrescentam palavras; a tradução aqui não preenche a lacuna."},
+      26: {term:"לִקְרֹא בְּשֵׁם יְהוָה",text:"A expressão pode ser traduzida como “invocar/chamar pelo nome de YHWH”. O versículo não explica se descreve o início de uma prática pública, uma forma de culto ou outro uso do nome."}
+    },
+    6: {
+      3: {term:"לֹא יָדוֹן רוּחִי (lo-yadon ruchi)",text:"O verbo yadon é raro e sua interpretação é incerta. As traduções variam entre ideias como permanecer, contender ou agir/julgar. A frase tradicional “meu espírito não permanecerá...” é uma opção, não uma certeza lexical."},
+      4: {term:"נְפִלִים (nefilim)",text:"Termo de etimologia e sentido discutidos. “Nephilim” pode ser mantido como transliteração; “gigantes” é uma interpretação tradicional, não uma equivalência comprovada."}
+    },
+    8: {
+      21: {term:"רֵיחַ הַנִּיחֹחַ (reach ha-nichoach)",text:"Expressão idiomática para “odor agradável/apaziguador”. A formulação descreve a linguagem sacrificial do texto; não exige uma leitura literalista sobre uma necessidade física divina."}
+    },
+    9: {
+      5: {term:"דָּרֹשׁ אֶדְרְשֶׁנּוּ (darosh edreshennu)",text:"Construção enfática do verbo “requerer/exigir contas”. O versículo trata da responsabilidade pelo sangue derramado; a nota não amplia a regra para além do que o próprio contexto afirma."}
+    },
+    14: {
+      18: {term:"אֵל עֶלְיוֹן (El Elyon)",text:"Título geralmente traduzido “Deus Altíssimo”. A passagem identifica Melquisedeque como sacerdote de El Elyon e apresenta a bênção em nome dessa divindade."}
+    },
+    15: {
+      6: {term:"וְהֶאֱמִן (he'emin)",text:"Forma do verbo aman, ligado a firmeza, confiança e fidelidade. “Creu/confiou em YHWH” é adequado; a frase seguinte associa essa confiança à consideração como justiça."}
+    },
+    16: {
+      12: {term:"פֶּרֶא אָדָם (pere adam)",text:"Expressão difícil: literalmente algo como “jumento selvagem de homem” ou “homem-jumento selvagem”. Traduções variam entre liberdade indomável e comportamento combativo; “homem indomável” é interpretativo."}
+    },
+    22: {
+      2: {term:"אֶרֶץ הַמֹּרִיָּה (erets ha-moriyyah)",text:"“Terra de Moriá”. A identificação geográfica e a relação do nome com o monte mencionado no versículo são debatidas; a tradução conserva o topônimo."}
+    },
+    25: {
+      23: {term:"רַב יַעֲבֹד צָעִיר (rav ya'avod tsa'ir)",text:"A frase pode ser lida como “o mais velho servirá ao mais novo”. A ordem e a forma verbal foram tradicionalmente entendidas assim, embora a construção seja concisa."}
+    },
+    27: {
+      39: {term:"מִשְׁמַנֵּי הָאָרֶץ (mishmanei ha'aretz)",text:"A expressão pode significar “das terras férteis” ou, conforme a leitura sintática, “longe da fertilidade da terra”. O versículo seguinte e a poesia do oráculo influenciam a tradução."}
+    },
+    32: {
+      29: {term:"וַיְבָרֶךְ אֹתוֹ (vayevarech oto)",text:"O texto diz que o personagem o abençoou, mas não registra as palavras da bênção. A identidade do interlocutor e o alcance do nome dado a Jacó são tratados no próprio contexto narrativo."}
+    },
+    49: {
+      10: {term:"שִׁילֹה (Shiloh)",text:"A expressão “até que venha Shiloh” é uma das passagens mais discutidas do poema. Há propostas que entendem Shiloh como nome, título, topônimo ou uma construção ligada à ideia de autoridade; a tradução deve evitar apresentar uma solução como indiscutível."}
+    }
+  };
+Object.assign((window.TRANSLATION_NOTES[0][2] ||= {}), {
+  22:{term:"וַיִּבֶן (vayyiven, de banah)",text:"O verbo vem da raiz בנה, “construir/edificar”. O hebraico descreve Deus como quem constrói a parte retirada do ser humano em mulher. “Formou” comunica o resultado, mas não preserva a imagem verbal de construção; “fez da costela uma mulher” é uma alternativa natural."},
+  23:{term:"אִישׁ / אִשָּׁה (ish / ishah)",text:"O versículo constrói um jogo sonoro entre ish (“homem”) e ishah (“mulher”). A frase explica a designação por meio de um jogo de palavras hebraico, não de uma etimologia histórica."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][3] ||= {}), {
+  8:{term:"לְרוּחַ הַיּוֹם (leruach hayom)",text:"A expressão pode ser entendida como “à brisa do dia”, “ao vento do dia” ou “na hora fresca do dia”. A tradução escolhe uma imagem natural, sem definir uma hora exata."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][4] ||= {}), {
+  7:{term:"הֲלוֹא אִם־תֵּיטִיב שְׂאֵת (halo im-teitiv se'et)",text:"A palavra se'et pode remeter a levantar o rosto/cabeça ou a ser aceito. Por isso, o início da resposta divina a Caim recebe traduções diferentes; a pergunta retórica não é totalmente transparente."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][6] ||= {}), {
+  14:{term:"תֵּבָה (tevah)",text:"Termo usado para a embarcação de Noé e, em Êxodo 2, para a arca de papiro de Moisés. Não é o termo hebraico mais comum para navio; “arca” preserva essa escolha lexical."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][12] ||= {}), {
+  1:{term:"לֶךְ־לְךָ (lech-lecha)",text:"Expressão enfática que pode ser traduzida literalmente “vai para ti” e idiomaticamente “vai-te/vai”. “Vai” é natural em português, mas não reproduz a repetição da forma hebraica."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][22] ||= {}), {
+  2:{term:"יָחִיד (yachid)",text:"Significa “único”, “singular” ou “muito precioso”. Isaque não é o único filho biológico de Abraão no enredo, mas é o filho único no sentido específico da promessa e da relação destacada pela narrativa."},
+  14:{term:"יְהוָה יִרְאֶה (YHWH yir'eh)",text:"Pode ser entendido como “YHWH verá/proverá”. O nome do lugar faz um jogo com o verbo ver e com a provisão mencionada na narrativa."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][29] ||= {}), {
+  17:{term:"רַכּוֹת (rakot)",text:"Adjetivo de sentido discutido: pode indicar olhos delicados, suaves, fracos ou sem brilho. “Delicados” é uma opção possível, mas não elimina a ambiguidade."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][30] ||= {}), {
+  8:{term:"נַפְתּוּלֵי אֱלֹהִים (naftulei Elohim)",text:"Expressão rara e difícil, ligada ao nome Naftali. Pode ser entendida como “lutas extraordinárias/de Deus” ou “lutas divinas”; a frase contém um jogo de palavras com o nome."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][32] ||= {}), {
+  29:{term:"יִשְׂרָאֵל (Yisra'el)",text:"A explicação narrativa associa o nome a lutar/contender com Deus e com seres humanos. A etimologia exata é discutida; a frase do texto funciona como explicação literária do nome."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][41] ||= {}), {
+  43:{term:"אַבְרֵךְ (avrek)",text:"Palavra de origem e significado incertos, preservada em transliteração em algumas traduções. As propostas incluem uma aclamação de honra ou uma ordem para ajoelhar-se; não há consenso."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][43] ||= {}), {
+  14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
+});
+
+Object.assign((window.TRANSLATION_NOTES[0][5] ||= {}), {
+  1:{term:"תּוֹלְדֹת (toledot)",text:"“Gerações”, “descendência” ou “registro das origens”. A fórmula organiza seções do livro de Gênesis e pode introduzir tanto uma genealogia quanto a história de uma linhagem."},
+  22:{term:"וַיִּתְהַלֵּךְ (vayyithallekh)",text:"Forma verbal de הלך (halakh), “andar”. “Andar com Deus” descreve uma relação de vida e conduta; a expressão não especifica por si só um rito ou experiência isolada."},
+  24:{term:"וְאֵינֶנּוּ (ve'einennu)",text:"Literalmente, “e ele não estava / já não estava”. O texto acrescenta que Deus o tomou; não descreve o processo, e a tradução evita completar a narrativa."},
+  29:{term:"נֹחַ (Noach) / יְנַחֲמֵנוּ (yenachamenu)",text:"O nome Noé é associado por meio de jogo sonoro ao verbo “consolar” (נחם, nicham). A associação narrativa não é uma etimologia linguística simples; preserva a explicação dada pelo próprio texto."}
+});
