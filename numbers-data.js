@@ -212,7 +212,7 @@ window.NUMBERS_TEXT[4] = [
 /* Números 5 — tradução de trabalho baseada no hebraico massorético; em revisão. */
 window.NUMBERS_TEXT[5] = [
   "YHWH falou a Moisés, dizendo:",
-  "Ordena aos filhos de Israel que mandem para fora do acampamento todo leproso, todo aquele que sofre de fluxo e todo aquele que se tornou impuro por tocar num morto.",
+  "Ordena aos filhos de Israel que mandem para fora do acampamento toda pessoa atingida por afecção cutânea ritual, todo aquele que sofre de fluxo e todo aquele que se tornou impuro por contato com um morto.",
   "Mandareis para fora tanto homem como mulher; mandá-los-eis para fora do acampamento, para que não contaminem os acampamentos daqueles em cujo meio habito.",
   "Os filhos de Israel assim fizeram: mandaram-nos para fora do acampamento. Fizeram conforme YHWH havia falado a Moisés.",
   "YHWH falou a Moisés, dizendo:",
@@ -253,7 +253,7 @@ window.NUMBERS_TEXT[6] = [
   "Durante todos os dias de seu nazireado, não comerá coisa alguma que venha da videira, desde as sementes até as cascas.",
   "Durante todos os dias do voto de seu nazireado, navalha não passará sobre sua cabeça. Até que se completem os dias pelos quais se consagrou a YHWH, será santo; deixará crescer livremente o cabelo de sua cabeça.",
   "Durante todos os dias de sua consagração a YHWH, não se aproximará de pessoa morta.",
-  "Não se tornará impuro nem mesmo por seu pai, por sua mãe, por seu irmão ou por sua irmã, quando morrerem, pois traz sobre a cabeça o sinal de sua consagração a Deus.",
+  "Não se tornará impuro nem mesmo por seu pai, por sua mãe, por seu irmão ou por sua irmã, quando morrerem, pois traz sobre a cabeça a consagração de seu Deus.",
   "Durante todos os dias de seu nazireado, será consagrado a YHWH.",
   "Se alguém morrer de repente junto dele e contaminar sua cabeça consagrada, raspará a cabeça no dia de sua purificação; no sétimo dia a raspará.",
   "No oitavo dia levará duas rolas ou dois pombinhos ao sacerdote, à entrada da Tenda do Encontro.",
