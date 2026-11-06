@@ -80,6 +80,8 @@ window.TRANSLATION_NOTES = {
       25: {term:"וַיֵּדַע אֱלֹהִים (vayyeda Elohim)",text:"Literalmente, “e Deus conheceu/soube”. O hebraico não expressa um objeto direto nessa última oração; algumas traduções o acrescentam (“tomou conhecimento deles”) para explicitar o sentido contextual. O verbo pode indicar que Deus tomou conhecimento, atentou ou se importou com a situação descrita nos versículos 23–24."}
     },
     3: {
+      2: {term:"מַלְאַךְ יְהוָה (mal'akh YHWH)",text:"מַלְאָךְ (*mal'akh*) significa “mensageiro”. “Mensageiro de YHWH” preserva o sentido lexical sem antecipar uma identificação teológica específica; no próprio episódio, YHWH e Deus são mencionados como sujeitos da fala e do chamado."},
+      3: {term:"אָסֻרָה־נָּא (asurah na, de סור)",text:"A forma verbal expressa a intenção de “desviar-se/afastar-se do caminho”, com נָּא (*na*) como partícula de solicitação ou ênfase. “Vou me desviar” preserva melhor esse movimento do que “vou me aproximar”; o contexto mostra que Moisés se desvia para observar a sarça."},
       14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."},
       19: {term:"וְלֹא בְּיָד חֲזָקָה",text:"A relação lógica da expressão é ambígua. Pode ser entendida como “a não ser por mão forte” — a resistência do faraó cederia diante da força — ou como “nem mesmo por mão forte”. A tradução de trabalho escolhe a primeira leitura."}
     },
