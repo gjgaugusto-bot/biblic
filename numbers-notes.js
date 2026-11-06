@@ -139,3 +139,28 @@ window.TRANSLATION_NOTES[3][14] = {
   34:{term:"תִּנְאוּאֵת (tinnu'u et)",text:"Forma verbal ligada à experiência de oposição/hostilidade divina. A tradução procura preservar a ideia de que a comunidade experimentará a consequência de sua rebeldia."},
   45:{term:"חָרְמָה (Chormah)",text:"Hormá, topônimo associado à raiz חרם (cherem), “consagrar à destruição”. A relação etimológica não deve ser tomada como certeza sobre a origem histórica do nome."}
 };
+
+/* Notas lexicais — Números 15. */
+window.TRANSLATION_NOTES[3][15] = {
+  3:{term:"אִשֵּׁה רֵיחַ נִיחֹחַ (ishsheh reach nichoach)",text:"Oferta queimada de aroma apaziguador/agradável. Fórmula cultual que descreve a aceitação ritual da oferta."},
+  20:{term:"רֵאשִׁית עֲרִסֹתֵכֶם (reshit arisoteikhem)",text:"“Primícias de vossas massas”. Refere-se à contribuição retirada da massa de cereal, posteriormente conhecida na tradição como separação da chalá."},
+  24:{term:"בִּשְׁגָגָה (bishgagah)",text:"“Por erro/sem intenção”. A seção distingue a transgressão involuntária da ação deliberada descrita nos versículos 30–31."},
+  30:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. Idioma para agir deliberadamente e com desafio, em contraste com o pecado por inadvertência."},
+  31:{term:"הִכָּרֵת תִּכָּרֵת (hikkaret tikkaret)",text:"Infinitivo absoluto seguido do verbo finito, intensificando a sentença: “certamente será eliminada”. A forma não determina por si só o mecanismo da sanção."},
+  38:{term:"צִיצִת (tsitsit)",text:"Franjas/tufos nas extremidades da veste. O texto lhes atribui função memorial para lembrar os mandamentos."},
+  38:{term:"פְּתִיל תְּכֵלֶת (petil tekhelet)",text:"Cordão de azul-violeta (tekhelet), corante antigo de identificação difícil. A tradução conserva a referência cromática sem fixar uma tonalidade moderna exata."},
+  39:{term:"וְלֹא תָתוּרוּ (velo taturu)",text:"“Não exploreis/não sigais”. O verbo retoma o campo lexical da exploração da terra no capítulo 13; aqui descreve seguir desejos do coração e dos olhos."}
+};
+/* Notas lexicais — Números 16. */
+window.TRANSLATION_NOTES[3][16] = {
+  3:{term:"רַב־לָכֶם (rav lakhem)",text:"“Basta-vos/já é demais”. Fórmula de contestação; Moisés a retoma no versículo 7 em resposta aos levitas."},
+  5:{term:"וְאֵת אֲשֶׁר יִבְחַר־בּוֹ (ve'et asher yivchar bo)",text:"“Aquele que escolher”. A prova proposta por Moisés deixa a decisão sobre o serviço sagrado a cargo de YHWH."},
+  7:{term:"קְטֹרֶת (qetoret)",text:"Incenso aromático queimado no culto. O episódio transforma um ato sacerdotal em teste da legitimidade da reivindicação."},
+  9:{term:"הַמְעַט מִכֶּם (hame'at mikem)",text:"“É pouco para vós?”. Pergunta retórica que destaca o privilégio já concedido aos levitas."},
+  13:{term:"אֶרֶץ זָבַת חָלָב וּדְבַשׁ (erets zavat chalav udevash)",text:"“Terra que mana leite e mel”. Datã e Abirão usam ironicamente a fórmula tradicional para o Egito, invertendo a avaliação da libertação."},
+  30:{term:"בְּרִיאָה יִבְרָא (beri'ah yivra)",text:"Construção enfática: “YHWH criará uma criação/coisa nova”. Anuncia um acontecimento extraordinário como sinal judicial."},
+  32:{term:"שְׁאוֹל (She'ol)",text:"Mundo dos mortos, domínio dos falecidos na linguagem hebraica antiga; não deve ser automaticamente equiparado a uma descrição sistemática posterior do inferno."},
+  38:{term:"פִּחוּתִים (pichutim)",text:"Lâminas/placas batidas. Os incensários são remodelados como revestimento do altar e memorial contra a usurpação do serviço sacerdotal."},
+  46:{term:"כִּפֶּר (kipper)",text:"“Fazer expiação”. Neste episódio, o rito de incenso atua para interromper a praga e restaurar a relação entre a comunidade e Deus."},
+  48:{term:"בֵּין־הַמֵּתִים וּבֵין הַחַיִּים (bein hametim uvein hachayyim)",text:"“Entre os mortos e os vivos”. A imagem apresenta Arão como aquele que se interpõe para deter a propagação da praga."}
+};
