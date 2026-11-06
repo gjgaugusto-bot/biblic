@@ -414,4 +414,32 @@ Demais versículos (11:3, 11:6, 11:9–10): conferidos quanto à correspondênci
 - Ibn Ezra sobre Êxodo 11:4, análise de כַּחֲצֹת (*kachatsot*): https://www.sefaria.org/Ibn_Ezra_on_Exodus.11.4?lang=bi
 - Léxico de וְיִשְׁתַּחֲווּ (*hishtachavu*), “prostrar-se/prestar homenagem”: https://www.kjvstudy.kennethreitz.org/book/Exodus/chapter/11/verse/8
 
-**Próximo ponto:** Êxodo 12:1–51. Não repetir a conferência de Êxodo 11 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 13:1–22. Não repetir a conferência de Êxodo 11 sem evidência concreta de erro novo.
+
+
+### Êxodo 12 — conferência textual e lexical integral (12:1–51)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma correção lexical foi feita; as notas existentes sobre o calendário, o cordeiro pascal, o fermento, a Páscoa, o hissopo, o destruidor, a multidão mista, a cronologia e as categorias de estrangeiros foram preservadas.
+
+Correção no texto:
+- **12:21:** “Escolhei e tomai cordeiros” foi ajustado para **“Retirai e tomai cordeiros”**, refletindo os dois imperativos מִשְׁכוּ וּקְחוּ (*mishchu uqehu*): משך (*mashakh*, puxar/retirar) e לקח (*laqach*, tomar). A nova formulação conserva os dois movimentos verbais.
+
+Notas lexicais acrescentadas:
+- **12:3 e 12:5:** שֶׂה (*seh*) designa um animal do rebanho miúdo, que pode ser ovelha ou cabra. “Cordeiro” foi mantido como tradução tradicional; a nota esclarece que o hebraico não restringe o animal a um cordeiro ovino.
+- **12:21:** registrada a distinção entre “retirar/puxar” e “tomar” em מִשְׁכוּ וּקְחוּ (*mishchu uqehu*).
+- **12:42:** לֵיל שִׁמֻּרִים (*leil shimurim*) significa “noite de vigília/guarda”. A primeira parte pode descrever YHWH velando para tirar Israel do Egito; a segunda atribui a Israel a observância dessa noite ao longo das gerações. A tradução conserva a repetição.
+
+Notas anteriores preservadas:
+- **12:2, 12:6, 12:8, 12:11, 12:13, 12:15–17, 12:22–23, 12:27, 12:37–38, 12:40, 12:43, 12:45–46:** mantidas, incluindo as incertezas de “entre os dois entardeceres”, *pesach*, *erev rav*, os 430 anos e as categorias de estrangeiros.
+
+Demais versículos (12:1, 12:4, 12:7, 12:9–10, 12:12, 12:14, 12:18–20, 12:22–41 e 12:43–51): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 12: https://mechon-mamre.org/p/pt/pt0212.htm
+- NET Bible, Êxodo 12:3 e 12:5, sobre שֶׂה (*seh*) como animal do rebanho miúdo, ovelha ou cabra: https://classic.net.bible.org/passage.php?passage=Exo+12%3A3-5
+- Cambridge Bible for Schools and Colleges, Êxodo 12:3, sobre o alcance de שֶׂה (*seh*): https://lemma.gebible.app/v/exodus/12/3
+- Interlinear hebraico, Êxodo 12:21, para מִשְׁכוּ וּקְחוּ (*mishchu uqehu*): https://search.nepebrasil.org/interlinear/?chapter=12&livro=2&verse=21
+- NET Bible, Êxodo 12:42, sobre a ambiguidade de לֵיל שִׁמֻּרִים (*leil shimurim*): https://classic.net.bible.org/passage.php?passage=Exo+12%3A42
+- Rashi sobre Êxodo 12:42, interpretação da noite como vigília/proteção: https://www.sefaria.org/Rashi_on_Exodus.12.42
+
+**Próximo ponto:** Êxodo 13:1–22. Não repetir a conferência de Êxodo 12 sem evidência concreta de erro novo.
