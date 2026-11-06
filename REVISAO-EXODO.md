@@ -171,4 +171,31 @@ Demais versículos (2:1, 2:4–11, 2:13–16 e 2:18–24): conferidos quanto à 
 - NET Bible, Êxodo 2:17, sobre וַיּוֹשִׁעָן (*vayyoshi'an*): https://classic.net.bible.org/passage.php/xml/passage.php?passage=Exo+2%3A16%2C17
 - NET Bible, Êxodo 2:25, sobre יָדַע (*yada*) sem objeto expresso: https://classic.net.bible.org/verse.php?book=Exo&chapter=2&verse=25
 
-**Próximo ponto:** Êxodo 3:1–22. Não repetir a conferência de Êxodo 2 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 4:1–31. Não repetir a conferência de Êxodo 2 sem evidência concreta de erro novo.
+
+
+### Êxodo 3 — conferência textual e lexical integral (3:1–22)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Duas ocorrências do mesmo verbo exigiram ajuste para preservar o movimento descrito no hebraico.
+
+Correções no texto:
+- **3:3:** “Vou me aproximar” foi ajustado para **“Vou me desviar”**, correspondente a אָסֻרָה־נָּא (*asurah na*), da raiz סור (*sur*), “desviar-se/afastar-se do caminho”.
+- **3:4:** “se aproximava para observar” foi ajustado para **“se desviara para olhar”**, mantendo a repetição da raiz סור no encadeamento narrativo.
+
+Notas lexicais acrescentadas:
+- **3:2:** מַלְאַךְ יְהוָה (*mal'akh YHWH*) significa literalmente “mensageiro de YHWH”. “Mensageiro” foi mantido como opção lexicalmente neutra, sem impor uma identificação teológica específica para a figura.
+- **3:3:** registrada a forma volitiva אָסֻרָה־נָּא (*asurah na*) e a partícula נָּא (*na*), que reforça o pedido/intenção.
+
+Notas anteriores preservadas:
+- **3:14:** אֶהְיֶה אֲשֶׁר אֶהְיֶה (*ehyeh asher ehyeh*): a forma de היה (*hayah*) permite discussão entre valor presente e futuro; “EU SEREI O QUE SEREI” foi mantido, sem apagar “EU SOU O QUE SOU” como alternativa.
+- **3:19:** וְלֹא בְּיָד חֲזָקָה (*velo beyad chazakah*) permanece ambíguo; a tradução de trabalho mantém “a não ser por mão forte”, com a alternativa “nem mesmo por mão forte” registrada.
+
+Demais versículos (3:1, 3:5–13, 3:15–18 e 3:20–22): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 3: https://www.mechon-mamre.org/p/pt/pt0203.htm
+- NET Bible, Êxodo 3:14, forma verbal אֶהְיֶה (*ehyeh*): https://classic.net.bible.org/passage.php?passage=ex+3%3A14
+- Ellen J. van Wolde, “Not the Name Alone: A Linguistic Study of Exodus 3:14–15”, *Vetus Testamentum* 71 (2021): https://doi.org/10.1163/15685330-00001121
+- NET Bible, Êxodo 3:19, análise da expressão וְלֹא בְּיָד חֲזָקָה e alternativas de leitura: https://classic.net.bible.org/verse.php?book=Exo&chapter=3&tab=commentaries&verse=19
+
+**Próximo ponto:** Êxodo 4:1–31. Não repetir a conferência de Êxodo 3 sem evidência concreta de erro novo.
