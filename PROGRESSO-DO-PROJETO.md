@@ -438,3 +438,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 1. Conferir a conferência final de abertura de Gênesis sem rebaixar os versículos já aprovados.
 2. Retomar Êxodo com revisão hebraica versículo por versículo, atualizando estados somente após a conferência real.
 3. Depois de estabilizado o fluxo, avançar livro por livro até Apocalipse, registrando correções, fontes, pendências e reaberturas.
+
+
+## Estado oficial e continuidade obrigatória — 2026-11-06
+
+- Criado `ESTADO-OFICIAL-DO-PROJETO.md` no commit `584d64108eadb4f7eadbd9b47e78a87698b0427a`. Esse arquivo é o ponto de retomada obrigatório de novas conversas; consultar antes de sugerir qualquer revisão.
+- Gênesis: não reiniciar revisão geral. O usuário informou que o livro já foi revisado várias vezes; resta somente a conferência final da abertura, uma única vez. Após concluí-la e registrá-la, fechar Gênesis definitivamente. Reabertura futura somente com evidência objetiva de erro relevante.
+- Êxodo 1–40: integração preservada; revisão acadêmica hebraica verso a verso segue como trabalho pendente, sem refazer a integração.
+- PR #36 / branch `feat/controle-editorial-versiculos-2026-11-06`: último workflow conhecido `42267847733` terminou com falha no passo Playwright “Testar navegação, edição, backups e acessibilidade”; sintaxe, validação estrutural, instalação do Chromium e servidor local passaram. Investigar e corrigir o teste antes de considerar a infraestrutura concluída.
+- Nenhuma alteração foi integrada em `main` ou publicada. O PR continua aguardando validação e decisão do proprietário.
+- Próxima sequência: corrigir o teste do PR #36; conferir uma única vez a abertura de Gênesis e registrar fechamento definitivo; prosseguir em Êxodo; depois seguir em ordem até Apocalipse.
