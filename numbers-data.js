@@ -636,7 +636,7 @@ window.NUMBERS_TEXT[15] = [
   "Das primícias de vossa massa dareis a YHWH uma contribuição por vossas gerações.",
   "Quando pecardes por erro e não cumprirdes todos estes mandamentos que YHWH falou a Moisés,",
   "tudo o que YHWH vos ordenou por meio de Moisés, desde o dia em que YHWH ordenou e pelas vossas gerações,",
-  "se a comunidade cometer o erro sem intenção, toda a comunidade oferecerá um novilho como holocausto de aroma agradável a YHWH, com sua oferta de cereal e libação conforme a norma, e um bode como oferta pelo pecado.",
+  "se o erro for cometido sem que a comunidade o perceba, toda a comunidade oferecerá um novilho como holocausto de aroma agradável a YHWH, com sua oferta de cereal e libação conforme a norma, e um bode como oferta pelo pecado.",
   "O sacerdote fará expiação por toda a comunidade dos filhos de Israel, e lhes será perdoado, pois foi um erro; eles trouxeram sua oferta, uma oferta feita pelo fogo a YHWH, e sua oferta pelo pecado diante de YHWH por causa do erro.",
   "Será perdoada toda a comunidade dos filhos de Israel, assim como o estrangeiro que reside entre eles, pois todo o povo agiu por erro.",
   "Se uma pessoa pecar por erro, oferecerá uma cabra de um ano como oferta pelo pecado.",
