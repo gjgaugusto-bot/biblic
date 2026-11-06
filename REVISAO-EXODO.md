@@ -547,4 +547,29 @@ Demais versículos (16:1–13, 16:15–33 e 16:34–36): conferidos quanto à co
 - Rashi sobre Êxodo 16:33, צִנְצֶנֶת (*tsintsenet*) como vaso de barro: https://www.chabad.org/library/bible_cdo/aid/9877/jewish/Chapter-16.htm
 - Interlinear hebraico, Êxodo 16:36, proporção entre ômer e efá: https://search.nepebrasil.org/interlinear/?chapter=16&livro=2&verse=36
 
-**Próximo ponto:** Êxodo 17:1–16. Não repetir a conferência de Êxodo 16 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 18:1–27. Não repetir a conferência de Êxodo 16 sem evidência concreta de erro novo.
+
+
+### Êxodo 17 — conferência textual e lexical integral (17:1–16)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma formulação foi ajustada para preservar a construção literal e a ambiguidade do último versículo.
+
+Correção no texto:
+- **17:16:** “uma mão se levantou contra o trono de Yah” foi ajustado para **“uma mão está sobre o trono de Yah”**, correspondendo mais diretamente a כִּי־יָד עַל־כֵּס יָהּ (*ki-yad al-kes Yah*). A frase é obscura; a tradução agora evita introduzir a ideia de “levantar-se contra”, que não está expressa na preposição עַל (*al*, “sobre”). A interpretação como juramento ou declaração de guerra permanece em nota.
+
+Notas anteriores preservadas:
+- **17:2:** רִיב (*riv*), disputar/contender, relacionado ao nome Meribá.
+- **17:6:** צוּר (*tsur*), rocha.
+- **17:7:** מַסָּה וּמְרִיבָה (*Massah u-Merivah*), provação e contenda.
+- **17:15:** יְהוָה נִסִּי (*YHWH nissi*), “YHWH é meu estandarte”.
+- **17:16:** a frase “uma mão sobre o trono de Yah” continua de interpretação difícil; as possibilidades de fórmula de juramento e de guerra permanente contra Amaleque são mantidas sem escolher uma explicação como certa.
+
+Demais versículos (17:1, 17:3–5, 17:8–14): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 17: https://mechon-mamre.org/p/pt/pt0217.htm
+- NET Bible, Êxodo 17:16, sobre a expressão obscura כִּי־יָד עַל־כֵּס יָהּ (*ki-yad al-kes Yah*): https://classic.net.bible.org/verse.php?book=Exo&chapter=17&verse=16
+- Rashi sobre Êxodo 17:16, discussão da mão sobre o trono e da guerra contra Amaleque: https://www.sefaria.org/Rashi_on_Exodus.17.16?lang=bi
+- NET Bible, Êxodo 17:15, sobre יְהוָה נִסִּי (*YHWH nissi*): https://classic.net.bible.org/verse.php?book=Exo&chapter=17&verse=15
+
+**Próximo ponto:** Êxodo 18:1–27. Não repetir a conferência de Êxodo 17 sem evidência concreta de erro novo.
