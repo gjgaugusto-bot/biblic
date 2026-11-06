@@ -95,7 +95,7 @@ window.EXODUS_TEXT = {
 "Tu lhe falarás e porás as palavras em sua boca. Eu estarei com a tua boca e com a boca dele e vos ensinarei o que deveis fazer.",
 "Ele falará por ti ao povo; ele será para ti como boca, e tu serás para ele como Deus.",
 "Levarás na mão este cajado, com o qual farás os sinais».",
-"Moisés foi e voltou a Jéter, seu sogro, e lhe disse: «Deixa-me ir, por favor, voltar aos meus irmãos que estão no Egito, para ver se ainda vivem». Jéter disse a Moisés: «Vai em paz».",
+"Moisés foi e voltou a Jéter, seu sogro, e lhe disse: «Deixa-me ir, por favor, voltar aos meus irmãos que estão no Egito, para ver se ainda vivem». Jetro disse a Moisés: «Vai em paz».",
 "YHWH disse a Moisés em Midiã: «Vai, volta ao Egito, pois morreram todos os homens que procuravam tirar tua vida».",
 "Moisés tomou sua mulher e seus filhos, colocou-os sobre o jumento e voltou à terra do Egito. Moisés levou na mão o cajado de Deus.",
 "YHWH disse a Moisés: «Quando fores voltar ao Egito, vê que faças diante do faraó todos os prodígios que pus em tua mão. Eu, porém, endurecerei o coração dele, e ele não deixará o povo ir.",
