@@ -273,12 +273,43 @@ function refreshChapterSymbols(bookIndex,chapter,value){
 
 
 const $=id=>document.getElementById(id);
+const STUDY_CATEGORY_DEFAULTS={
+ 'Símbolos':{title:'Simbologias bíblicas',description:'Objetos, elementos, animais e imagens',icon:'✦ '},
+ 'Cores':{title:'Simbologia das cores',description:'Cores e seus sentidos no material de estudo',icon:'◈ '},
+ 'Números':{title:'Numerologia bíblica',description:'Números e interpretações apresentadas',icon:'№ '},
+ 'Tipologias':{title:'Tipologias',description:'Personagens e acontecimentos como tipos',icon:'⌘ '}
+};
+const STUDY_CATEGORY_FIELDS={
+ 'Símbolos':['studyCategoryTitleSymbols','studyCategoryDescriptionSymbols'],
+ 'Cores':['studyCategoryTitleColors','studyCategoryDescriptionColors'],
+ 'Números':['studyCategoryTitleNumbers','studyCategoryDescriptionNumbers'],
+ 'Tipologias':['studyCategoryTitleTypes','studyCategoryDescriptionTypes']
+};
+function getStudyCategorySettings(){const saved=readLocalObject(STUDY_CATEGORIES_KEY);return Object.fromEntries(Object.entries(STUDY_CATEGORY_DEFAULTS).map(([key,base])=>[key,{...base,...(saved[key]||{})}]));}
+function renderStudyCategorySettings(){
+ const settings=getStudyCategorySettings();
+ Object.entries(STUDY_CATEGORY_FIELDS).forEach(([category,ids])=>{const item=settings[category];if($(ids[0]))$(ids[0]).value=item.title;if($(ids[1]))$(ids[1]).value=item.description;});
+ document.querySelectorAll('[data-open-study]').forEach(button=>{const item=settings[button.dataset.openStudy];if(!item)return;const strong=button.querySelector('strong'),description=button.querySelector('span');if(strong)strong.textContent=item.icon+item.title;if(description)description.textContent=item.description;});
+ document.querySelectorAll('.study-category[data-study-category]').forEach(button=>{const item=settings[button.dataset.studyCategory];if(item)button.textContent=item.title;});
+}
+function saveStudyCategorySettings(){
+ const settings={};
+ for(const [category,ids] of Object.entries(STUDY_CATEGORY_FIELDS)){
+  const title=$(ids[0]).value.trim(),description=$(ids[1]).value.trim();
+  if(!title||!description){$('studyCategoriesStatus').textContent='Preencha o nome e a descrição das quatro categorias.';return;}
+  settings[category]={title,description};
+ }
+ const result=saveLocalData(STUDY_CATEGORIES_KEY,JSON.stringify(settings));
+ $('studyCategoriesStatus').textContent=!result.saved?'Não foi possível salvar. Verifique o espaço disponível no navegador.':!result.backedUp?'Abas salvas, mas o backup automático falhou. Exporte uma cópia manual.':'Abas atualizadas e salvas neste navegador, com backup automático.';
+ renderStudyCategorySettings();
+}
 const key='enciclopediaBiblicaEditsV1';
 const AUTO_BACKUP_KEY='encBibAutoBackupV1';
 const AUTO_BACKUP_HISTORY_KEY='encBibAutoBackupHistoryV1';
 const ERROR_LOG_KEY='encBibErrorLogV1';
 const BOOK_INFO_EDITS_KEY='encBibBookInfoEdits';
-const BACKUP_KEYS=[key,'encBibGuides','encBibStudyEdits','encBibSymbols','encBibCharacters',BOOK_INFO_EDITS_KEY];
+const STUDY_CATEGORIES_KEY='encBibStudyCategories';
+const BACKUP_KEYS=[key,'encBibGuides','encBibStudyEdits','encBibSymbols','encBibCharacters',BOOK_INFO_EDITS_KEY,STUDY_CATEGORIES_KEY];
 function readLocalData(storageKey,fallback){
  try{const raw=localStorage.getItem(storageKey);return raw===null?fallback:JSON.parse(raw)}
  catch(error){if(storageKey!==ERROR_LOG_KEY)recordAppError(error,'Falha ao ler dados locais: '+storageKey);return fallback}
@@ -521,10 +552,10 @@ $('detailBack').onclick=()=>{if(detailOrigin==='reader'){openChapter(currentChap
 $('addCharacter').onclick=()=>{const name=$('characterName').value.trim(),bio=$('characterBio').value.trim();if(!name||!bio){$('characterStatus').textContent='Preencha o nome e a biografia.';return}const items=readLocalArray('encBibCharacters');items.push({name,bio,refs:$('characterRefs').value.trim()});const result=saveLocalData('encBibCharacters',JSON.stringify(items));if(!result.saved){$('characterStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('characterName').value=$('characterBio').value=$('characterRefs').value='';$('characterStatus').textContent=result.backedUp?'Personagem adicionado e incluído no backup automático local!':'Personagem salvo, mas o backup automático falhou. Exporte uma cópia manual.';renderCharacters() }
 $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('guideStatus').textContent='Informe o nome da guia.';return}let guides=readLocalArray('encBibGuides');guides.push({name,description:$('guideDescription').value,content:$('guideContent').value});const result=saveLocalData('encBibGuides',JSON.stringify(guides));if(!result.saved){$('guideStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('guideName').value=$('guideDescription').value=$('guideContent').value='';$('guideStatus').textContent=result.backedUp?'Nova guia criada! Ela aparece na página inicial.':'Guia salva, mas o backup automático falhou. Exporte uma cópia manual.';renderGuides()};
 function renderGuides(){let g=readLocalArray('encBibGuides').filter(x=>x&&typeof x.name==='string');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
-$('exportData').onclick=()=>{let url='';try{const payload={edits,guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters'),bookInfoEdits:readLocalObject(BOOK_INFO_EDITS_KEY)},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);$('saveStatus').textContent='Arquivo de backup preparado para download.'}catch(error){if(url)URL.revokeObjectURL(url);recordAppError(error,'Falha ao exportar backup');$('saveStatus').textContent='Não foi possível exportar o backup. Seus dados locais não foram apagados.'}};
+$('exportData').onclick=()=>{let url='';try{const payload={edits,guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters'),bookInfoEdits:readLocalObject(BOOK_INFO_EDITS_KEY),studyCategories:readLocalObject(STUDY_CATEGORIES_KEY)},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);$('saveStatus').textContent='Arquivo de backup preparado para download.'}catch(error){if(url)URL.revokeObjectURL(url);recordAppError(error,'Falha ao exportar backup');$('saveStatus').textContent='Não foi possível exportar o backup. Seus dados locais não foram apagados.'}};
 function validateImportedBackup(data){
  if(!data||typeof data!=='object'||Array.isArray(data))return 'O arquivo não contém um objeto de backup válido.';
- const schemas={edits:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array',bookInfoEdits:'object'};
+ const schemas={edits:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array',bookInfoEdits:'object',studyCategories:'object'};
  const present=Object.keys(schemas).filter(k=>Object.prototype.hasOwnProperty.call(data,k));
  if(!present.length)return 'O arquivo não contém campos reconhecidos da Enciclopédia Bíblica.';
  const stringFields={
@@ -533,7 +564,8 @@ function validateImportedBackup(data){
   studyEdits:['name','category','description'],
   symbols:['name','mark','text','refs'],
   characters:['name','bio','refs'],
-  bookInfoEdits:['intro','note']
+  bookInfoEdits:['intro','note'],
+  studyCategories:['title','description']
  };
  for(const field of present){
   const value=data[field],kind=schemas[field];
@@ -564,7 +596,7 @@ $('importData').onchange=async e=>{
   [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach((storageKey)=>previous[storageKey]=localStorage.getItem(storageKey));
   try{
    if(Object.prototype.hasOwnProperty.call(data,'edits')){edits=data.edits;localStorage.setItem(key,JSON.stringify(edits))}
-   for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters'],['bookInfoEdits',BOOK_INFO_EDITS_KEY]]){
+   for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters'],['bookInfoEdits',BOOK_INFO_EDITS_KEY],['studyCategories',STUDY_CATEGORIES_KEY]]){
     if(Object.prototype.hasOwnProperty.call(data,field))localStorage.setItem(storageKey,JSON.stringify(data[field]));
    }
    const backupData={};
@@ -579,7 +611,7 @@ $('importData').onchange=async e=>{
    [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
    throw storageError;
   }
-  renderGuides();renderSymbols();renderCharacters();fillBookInfoEditor();loadEdit();
+  renderGuides();renderSymbols();renderCharacters();renderStudyCategorySettings();fillBookInfoEditor();loadEdit();
   $('saveStatus').textContent='Backup importado e validado. Campos ausentes foram mantidos como estavam.';
  }catch(error){
   const message=error&&error.message?error.message:'Não foi possível ler esse arquivo de backup.';
@@ -591,7 +623,7 @@ $('clearData').onclick=()=>{
  if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
  try{
   [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
-  edits={};renderGuides();renderSymbols();renderCharacters();fillBookInfoEditor();loadEdit();
+  edits={};renderGuides();renderSymbols();renderCharacters();renderStudyCategorySettings();fillBookInfoEditor();loadEdit();
   $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
  }catch(error){
   recordAppError(error,'Falha ao limpar dados locais');
@@ -630,5 +662,7 @@ $('resetBookInfo').onclick=()=>{
  if(currentBook===index)renderBook();
 };
 fillBookInfoEditor();
-document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');$('search').oninput=e=>renderBooks(e.target.value);
-renderBooks();renderGuides();renderSymbols();renderCharacters();
+document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');
+$('saveStudyCategories').onclick=saveStudyCategorySettings;
+$('resetStudyCategories').onclick=()=>{if(!confirm('Restaurar os nomes e descrições padrão das abas?'))return;const result=saveLocalData(STUDY_CATEGORIES_KEY,JSON.stringify({}));$('studyCategoriesStatus').textContent=result.saved?'Nomes e descrições padrão restaurados.':'Não foi possível restaurar as abas.';renderStudyCategorySettings();};
+renderBooks();renderGuides();renderStudyCategorySettings();renderSymbols();renderCharacters();
