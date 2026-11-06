@@ -286,3 +286,13 @@ window.TRANSLATION_NOTES[3][30] = {
   5:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
   13:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
 };
+
+/* Notas lexicais — Números 31. */
+window.TRANSLATION_NOTES[3][31] = {
+  2:{term:"נְקֹם נִקְמַת (neqom niqmat)",text:"Infinitivo absoluto seguido de forma verbal da mesma raiz: construção enfática, “executa a vingança”. O capítulo apresenta a guerra como juízo narrativo, sem apagar a gravidade de suas ações."},
+  6:{term:"כְּלֵי הַקֹּדֶשׁ (kele haqodesh)",text:"“Objetos sagrados”. A expressão aponta para os utensílios cultuais levados à campanha, junto às trombetas."},
+  19:{term:"תִּתְחַטְּאוּ (titchatte'u)",text:"Forma reflexiva de חטא no uso ritual: submeter-se à purificação. O contato com cadáveres produz impureza cerimonial."},
+  28:{term:"מֶכֶס (mekhes)",text:"“Tributo/contribuição”. Aqui designa a parcela retirada da metade dos combatentes e entregue a YHWH por meio do sacerdote."},
+  32:{term:"מַלְקוֹחַ (malqoach)",text:"“Presa capturada”. O termo distingue os cativos e animais tomados do restante do despojo."},
+  50:{term:"כּוּמָז (kumaz)",text:"Pingente ou joia corporal; o objeto é listado entre os artigos de ouro oferecidos como contribuição."}
+};
