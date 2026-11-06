@@ -808,7 +808,7 @@ window.NUMBERS_TEXT[20] = [
   "YHWH falou a Moisés e a Arão no monte Hor, junto à fronteira da terra de Edom, dizendo:",
   "Arão será reunido ao seu povo, pois não entrará na terra que dei aos filhos de Israel, porque vos rebelastes contra minha ordem nas águas de Meribá.",
   "Toma Arão e Eleazar, seu filho, e faze-os subir ao monte Hor.",
-  "Tira de Arão suas vestes sacerdotais e veste-as em Eleazar, seu filho; Arão será reunido ao seu povo e morrerá ali.",
+  "Tira de Arão suas vestes e veste-as em Eleazar, seu filho; Arão será reunido ao seu povo e morrerá ali.",
   "Moisés fez como YHWH havia ordenado; subiram ao monte Hor diante dos olhos de toda a comunidade.",
   "Moisés tirou de Arão as vestes e as colocou em Eleazar, seu filho. Arão morreu ali, no alto do monte. Moisés e Eleazar desceram do monte.",
   "Toda a comunidade viu que Arão havia morrido, e toda a casa de Israel chorou Arão por trinta dias."
