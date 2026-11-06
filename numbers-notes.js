@@ -182,7 +182,7 @@ window.TRANSLATION_NOTES[3][18] = {
 /* Notas lexicais — Números 19. */
 window.TRANSLATION_NOTES[3][19] = {
   2:{term:"פָּרָה אֲדֻמָּה (parah adumah)",text:"“Vaca vermelha”. Animal sem defeito e nunca submetido ao jugo, usado no rito singular de purificação das impurezas associadas à morte."},
-  9:{term:"מֵי נִדָּה (mei niddah)",text:"Água de purificação ou de remoção da impureza. O termo nomeia a água preparada com as cinzas da vaca."},
+  9:{term:"חַטָּאת הִוא (chatat hi) e מֵי נִדָּה (mei niddah)",text:"“É oferta de purificação” e “água de purificação”. חַטָּאת, neste rito, designa a oferta que remove a impureza associada à morte; a expressão não deve ser reduzida à ideia de culpa moral."},
   17:{term:"מַיִם חַיִּים (mayim chayyim) e עֲפַר שְׂרֵפַת הַחַטָּאת (afar srefat hachattat)",text:"“Água corrente” e “cinzas da queima da oferta de purificação”. חַטָּאת, neste rito, designa a oferta que remove a impureza; “oferta pelo pecado” é uma tradução tradicional, mas pode sugerir indevidamente que o rito trata apenas de culpa moral."},
   18:{term:"אֵזוֹב (ezov)",text:"Hissopo, planta usada para aspergir em ritos de purificação. A identificação botânica exata é debatida."},
   20:{term:"טָמֵא (tame)",text:"“Impuro”. A impureza aqui é ritual, ligada ao contato com a morte, e não implica automaticamente culpa moral."}
