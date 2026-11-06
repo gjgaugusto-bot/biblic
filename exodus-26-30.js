@@ -83,7 +83,7 @@ window.EXODUS_TEXT[28] = [
   "Farás o peitoral do juízo, obra de artesão habilidoso, como o éfode: de ouro, tecido azul, púrpura e escarlate e linho fino torcido.",
   "Será quadrado e dobrado, com um palmo de comprimento e um palmo de largura.",
   "Colocarás nele quatro fileiras de pedras. Na primeira: sárdio, topázio e carbúnculo;",
-  "na segunda: esmeralda, safira e diamante;",
+  "na segunda: carbúnculo, safira e diamante;",
   "na terceira: jacinto, ágata e ametista;",
   "na quarta: berilo, ônix e jaspe. Serão montadas em engastes de ouro.",
   "As pedras corresponderão aos nomes dos filhos de Israel, doze ao todo; cada pedra terá gravado, como num selo, o nome de uma das doze tribos.",
