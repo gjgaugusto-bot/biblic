@@ -1140,12 +1140,12 @@ window.NUMBERS_TEXT[29] = [
   "Oferecereis em holocausto, oferta queimada de aroma agradável a YHWH, um novilho, um carneiro e sete cordeiros de um ano, sem defeito,",
   "com as ofertas de cereal e libações correspondentes ao novilho, ao carneiro e aos cordeiros, segundo o número deles e conforme a prescrição;",
   "e um bode como oferta pelo pecado, além do holocausto contínuo, de sua oferta de cereal e de sua libação.",
-  "Essas ofertas fareis a YHWH nas vossas festas determinadas, além dos vossos votos e ofertas voluntárias, sejam holocaustos, ofertas de cereal, libações ou sacrifícios de comunhão."
+  "Essas ofertas fareis a YHWH nas vossas festas determinadas, além dos vossos votos e ofertas voluntárias, sejam holocaustos, ofertas de cereal, libações ou sacrifícios de comunhão.",
+  "Moisés falou aos filhos de Israel conforme tudo o que YHWH lhe havia ordenado."
 ];
 
 /* Números 30 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
 window.NUMBERS_TEXT[30] = [
-  "Moisés falou aos filhos de Israel conforme tudo o que YHWH lhe havia ordenado.",
   "Moisés falou aos chefes das tribos dos filhos de Israel, dizendo: Esta é a palavra que YHWH ordenou:",
   "Quando um homem fizer voto a YHWH ou jurar obrigando-se por compromisso, não violará sua palavra; fará conforme tudo o que saiu de sua boca.",
   "Quando uma mulher fizer voto a YHWH e se obrigar por compromisso na casa de seu pai, durante sua juventude,",
