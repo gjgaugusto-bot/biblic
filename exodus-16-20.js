@@ -143,6 +143,6 @@ window.EXODUS_TEXT[20] = [
   "YHWH disse a Moisés: «Assim dirá aos filhos de Israel: Vocês viram que falei com vocês desde os céus.",
   "Não façam deuses de prata para estar comigo, nem façam para si deuses de ouro.",
   "Faça para mim um altar de terra e ofereça sobre ele seus holocaustos e suas ofertas de comunhão, suas ovelhas e seus bois. Em todo lugar onde eu fizer com que meu nome seja lembrado, virei a você e o abençoarei.",
-  "Se fizer para mim um altar de pedras, não o construa com pedras lavradas; pois, se passar sua ferramenta sobre elas, você as profanará.",
+  "Se fizer para mim um altar de pedras, não o construa com pedras lavradas; pois, se erguer sua ferramenta sobre ele, você o profanará.",
   "Não suba ao meu altar por degraus, para que sua nudez não seja exposta sobre ele»."
 ];
