@@ -267,7 +267,7 @@ window.EXODUS_TEXT = {
 ],
 10: [
 "YHWH disse a Moisés: «Vai ao faraó, pois eu tornei pesado o coração dele e o coração de seus servos, para colocar estes meus sinais no meio deles,",
-"e para que contes aos ouvidos de teu filho e do filho de teu filho como tratei os egípcios e os sinais que realizei entre eles. Assim sabereis que eu sou YHWH».",
+"e para que contes aos ouvidos de teu filho e do filho de teu filho como tratei duramente os egípcios e os sinais que realizei entre eles. Assim sabereis que eu sou YHWH».",
 "Moisés e Arão foram ao faraó e lhe disseram: «Assim diz YHWH, Deus dos hebreus: Até quando te recusarás a humilhar-te diante de mim? Deixa meu povo ir, para que me sirva.",
 "Pois, se te recusares a deixar meu povo ir, eis que amanhã trarei gafanhotos ao teu território.",
 "Eles cobrirão a superfície da terra, de modo que não será possível ver o chão; comerão o que restou, aquilo que vos sobrou do granizo, e comerão toda árvore que cresce no campo.",
