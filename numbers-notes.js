@@ -233,6 +233,7 @@ window.TRANSLATION_NOTES[3][21] = {
   9:{term:"נְחֹשֶׁת (nechoshet)",text:"“Bronze” ou cobre/bronze. A serpente de metal é chamada נְחַשׁ נְחֹשֶׁת, com jogo sonoro entre “serpente” e “bronze”."},
   14:{term:"סֵפֶר מִלְחֲמֹת יְהוָה (sefer milchamot YHWH)",text:"“Livro das Guerras de YHWH”, coleção poética antiga citada pelo texto bíblico e não preservada integralmente."},
   17:{term:"עֲלִי בְאֵר (ali ve'er)",text:"“Brota, ó poço”. Cântico que celebra a água concedida no deserto."},
+  30:{term:"וַנִּירָם (vanniram)",text:"Forma poética de interpretação difícil, ligada ao verbo ירה (“lançar/atirar”). A tradução “nós os atingimos” conserva a imagem de ataque sem decidir se o sentido é disparar projéteis ou derrotar em combate."},
   27:{term:"מֹשְׁלִים (moshelim)",text:"“Poetas/provérbios” ou “os que proferem ditos”. Introduz uma composição proverbial sobre Hesbom."}
 };
 /* Notas lexicais — Números 22. */
@@ -243,6 +244,7 @@ window.TRANSLATION_NOTES[3][22] = {
   20:{term:"קוּם לֵךְ אִתָּם (qum lekh ittam)",text:"“Levanta-te e vai com eles”. A permissão é imediatamente limitada: Balaão só poderá dizer o que Deus lhe ordenar. O versículo seguinte, porém, afirma que a ira divina se acende porque ele foi; a tensão narrativa deve ser preservada, sem inventar uma explicação que o hebraico não oferece."},
   22:{term:"לְשָׂטָן לוֹ (lesatan lo)",text:"“Para se opor a ele”. שָׂטָן significa adversário/opositor; aqui descreve a função do mensageiro no caminho."},
   28:{term:"וַיִּפְתַּח יְהוָה אֶת־פִּי הָאָתוֹן (vayyiftach YHWH et pi ha'aton)",text:"“YHWH abriu a boca da jumenta”. A fala do animal é apresentada como intervenção extraordinária divina."},
+  32:{term:"כִּי יָרַט הַדֶּרֶךְ לְנֶגְדִּי (ki yarat haderekh lenegdi)",text:"Expressão obscura, cuja forma יָרַט é rara. O sentido geral é que o caminho de Balaão é obstinado/perverso diante do mensageiro; a tradução “se desviou” evita fingir certeza sobre a nuance exata."},
   31:{term:"וַיְגַל יְהוָה אֶת־עֵינֵי בִלְעָם (vayegal YHWH et einei Bil'am)",text:"“YHWH descobriu os olhos de Balaão”. A visão do mensageiro depende de revelação, não da percepção comum."}
 };
 /* Notas lexicais — Números 23. */
@@ -252,6 +254,8 @@ window.TRANSLATION_NOTES[3][23] = {
   9:{term:"הֶן־עָם לְבָדָד יִשְׁכֹּן (hen am levadoad yishkon)",text:"“Eis um povo que habita à parte”. Expressa a distinção de Israel entre as nações; a frase não deve ser reduzida automaticamente a isolamento geográfico."},
   10:{term:"רֹבַע יִשְׂרָאֵל (rova Yisrael)",text:"“Quarta parte de Israel”. Expressão de difícil interpretação, talvez referência a uma divisão ou acampamento do povo."},
   19:{term:"וְיִתְנֶחָם (veyitnecham)",text:"“Mudar de ideia/arrependimento”. O paralelismo nega que Deus seja volúvel como um ser humano."},
+  3:{term:"שְׁפִי (shefi)",text:"Lugar elevado, descampado ou isolado. O termo descreve o local para onde Balaão se retira, sem indicar necessariamente uma montanha ou santuário."},
+  21:{term:"לֹא־הִבִּיט אָוֶן (lo hibbit aven)",text:"“Não viu/observou iniquidade”. O sujeito implícito é YHWH, retomado na mesma linha como aquele que está com Israel; a tradução explicita esse sujeito."},
   22:{term:"רְאֵם (re'em)",text:"Animal de grande força, provavelmente o auroque ou boi selvagem; “búfalo” é uma aproximação tradicional, não identificação zoológica segura."}
 };
 /* Notas lexicais — Números 24. */
