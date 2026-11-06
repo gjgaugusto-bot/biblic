@@ -30,7 +30,11 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     41: {term:"וּמִלֵּאתָ אֶת־יָדָם (umille'ta et-yadam)",text:"Literalmente, “encherás a mão deles”. É uma expressão técnica para investir/instalar alguém no ofício sacerdotal, não apenas uma repetição de “consagrar”. Por isso a tradução distingue “ungir”, “investir no sacerdócio” e “santificar”."}
   },
   29: {
+    6: {term:"נֵזֶר הַקֹּדֶשׁ (nezer haqodesh)",text:"“Diadema/coroa sagrada”. Refere-se à lâmina de ouro descrita em 28:36–38, presa ao turbante; o objeto é uma placa, mas o termo nezer destaca sua função como insígnia de consagração."},
     9: {term:"מִלֵּא יָד (mille yad)",text:"Expressão idiomática de “encher a mão”, usada para a investidura/consagração ao sacerdócio."},
+    13: {term:"יֹתֶרֶת הַכָּבֵד (yoteret hakaved)",text:"Lóbulo ou apêndice do fígado, parte anatômica incluída na gordura reservada ao altar. A identificação exata da estrutura é discutida, mas “lóbulo do fígado” é uma tradução tradicional bem estabelecida."},
+    18: {term:"רֵיחַ נִיחוֹחַ (re'ach nichoach)",text:"Expressão ritual recorrente, literalmente “aroma de apaziguamento/agradável”. “Aroma agradável” comunica a aceitação do sacrifício sem sugerir que o texto descreva apenas o cheiro físico."},
+    22: {term:"שׁוֹק הַיָּמִין (shoq hayamin)",text:"“Coxa direita” ou “parte superior da perna direita”. A peça é separada para o rito de investidura; em outras ofertas, a coxa direita costuma ser a porção destinada ao sacerdote."},
     20: {term:"תְּנוּךְ (tenukh)",text:"Lóbulo ou cartilagem da orelha. O rito também marca polegar da mão e do pé direitos."},
     24: {term:"תְּנוּפָה (tenufah)",text:"Oferta movida ou apresentada ritualmente diante de YHWH; o gesto exato é discutido."},
     40: {term:"הִין (hin)",text:"Medida antiga de líquidos. O valor exato variou conforme período e sistema de medidas."}
