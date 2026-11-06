@@ -307,3 +307,33 @@ window.TRANSLATION_NOTES[3][32] = {
   24:{term:"מוֹצָא פִיכֶם (motza fikhem)",text:"“O que saiu de vossa boca”. A palavra empenhada é tratada como obrigação pública."},
   33:{term:"חֲצִי שֵׁבֶט מְנַשֶּׁה (chatzi shevet Menasheh)",text:"A meia tribo de Manassés aparece incluída na concessão territorial, embora sua participação não tenha sido apresentada no pedido inicial de Gade e Rúben."}
 };
+
+/* Notas lexicais — Números 33. */
+window.TRANSLATION_NOTES[3][33] = {
+  2:{term:"מוֹצָאֵיהֶם לְמַסְעֵיהֶם (motza'eihem lemas'eihem)",text:"“Pontos de partida de suas jornadas”. A formulação organiza o itinerário como registro memorial da caminhada."},
+  3:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente “com mão erguida”; expressão idiomática de saída ousada e pública, não de fuga clandestina."},
+  38:{term:"עַל־פִּי יְהוָה (al pi YHWH)",text:"“Por ordem de YHWH”. A morte de Arão é situada sob a determinação divina e datada com precisão."},
+  52:{term:"מַשְׂכִּיֹּתָם (maskiyyotam)",text:"Imagens ou figuras esculpidas; o termo é associado aos objetos cultuais dos habitantes da terra."},
+  55:{term:"לְשִׂכִּים (lesikkim)",text:"“Como espinhos”. A imagem descreve os habitantes remanescentes como fonte persistente de aflição."}
+};
+/* Notas lexicais — Números 34. */
+window.TRANSLATION_NOTES[3][34] = {
+  2:{term:"תִּפֹּל לָכֶם (tippol lakhem)",text:"“Cairá para vós”. A herança é descrita como porção atribuída, mais adiante vinculada ao sorteio."},
+  5:{term:"נַחַל מִצְרַיִם (nachal Mitsrayim)",text:"“Ribeiro do Egito”. Designa o limite meridional ocidental; a identificação geográfica exata é discutida."},
+  6:{term:"הַיָּם הַגָּדֹל (hayam hagadol)",text:"“Grande Mar”, designação do Mediterrâneo como fronteira ocidental."},
+  13:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O mecanismo expressa distribuição da terra sob a ordem divina."}
+};
+/* Notas lexicais — Números 35. */
+window.TRANSLATION_NOTES[3][35] = {
+  2:{term:"מִגְרָשׁ (migrash)",text:"Área aberta ou pastagem vinculada à cidade, distinta do espaço construído e destinada aos animais e aos bens."},
+  6:{term:"עָרֵי מִקְלָט (arei miqlat)",text:"“Cidades de refúgio”. Espaços de proteção provisória para quem causou uma morte sem intenção."},
+  12:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador/resgatador do sangue”. Parente com função de reivindicar justiça pela morte; a lei limita a ação ao distinguir homicídio intencional e não intencional."},
+  25:{term:"כֹּהֵן הַגָּדֹל (kohen hagadol)",text:"“Sumo sacerdote”. Sua morte encerra o período de permanência do homicida involuntário na cidade de refúgio."},
+  33:{term:"תַּחֲנִיפוּ (tachanifu)",text:"Verbo raro ligado a poluir ou profanar. O sangue derramado contamina a terra, que não pode ser purificada sem justiça pelo sangue derramado."}
+};
+/* Notas lexicais — Números 36. */
+window.TRANSLATION_NOTES[3][36] = {
+  2:{term:"נַחֲלָה (nachalah)",text:"“Herança”. A questão jurídica é a preservação da parcela tribal transmitida às filhas de Zelofeade."},
+  4:{term:"יוֹבֵל (yovel)",text:"“Jubileu”. O ciclo de restituição da propriedade tornaria permanente a transferência de uma herança entre tribos, segundo a preocupação apresentada."},
+  6:{term:"לַטּוֹב בְּעֵינֵיהֶם (latov be'eineihem)",text:"“Com quem lhes parecer bem”. A escolha matrimonial é permitida, com a condição de permanecer dentro do clã da tribo paterna."}
+};
