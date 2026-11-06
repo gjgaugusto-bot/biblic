@@ -18,7 +18,7 @@ Object.assign(window.TRANSLATION_NOTES[1],{
 29:{term:"רֹקֵחַ (roqeach)",text:"Perfumista ou preparador de substâncias aromáticas, um ofício especializado."}
 },
 38:{
-8:{term:"מַרְאֹת (mar'ot)",text:"Espelhos, provavelmente objetos metálicos polidos; o texto os associa às mulheres que serviam à entrada da tenda."},
+8:{term:"מַרְאֹת (mar'ot) / הַצֹּבְאֹת אֲשֶׁר צָבְאוּ (hatsove'ot asher tsave'u)",text:"Mar'ot são espelhos, provavelmente objetos metálicos polidos. O verbo צבא pode indicar reunir-se em grupos ou servir/atuar em um grupo organizado. “Mulheres que serviam” segue uma leitura tradicional, mas o papel exato dessas mulheres na entrada da tenda não é definido com precisão pelo versículo."},
 21:{term:"מִשְׁכָּן הָעֵדֻת (mishkan ha'edut)",text:"“Tabernáculo do testemunho”, nome que associa a morada sagrada às tábuas da aliança."},
 24:{term:"כִּכָּר (kikkar)",text:"Talento, unidade de peso de grande valor; seu equivalente moderno depende do padrão histórico adotado."},
 26:{term:"בֶּקַע (beqa)",text:"Beca, medida de peso equivalente à metade de um siclo."},
