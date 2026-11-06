@@ -136,7 +136,11 @@ window.TRANSLATION_NOTES = {
       26: {term:"תּוֹעֲבַת מִצְרַיִם (to'avat Mitzrayim)",text:"Literalmente, “abominação dos egípcios”. O texto não identifica qual animal ou prática seria considerada abominável; a explicação tradicional relaciona a recusa de sacrificar diante dos egípcios ao risco de profanar animais que eles reverenciavam. A tradução mantém a formulação genérica."}
     },
     10: {
-      2: {term:"הִתְעַלַּלְתִּי (hit'allalti)",text:"O verbo pode transmitir a ideia de agir com severidade, tratar duramente ou expor alguém ao ridículo. “Tratei duramente” é uma opção contextual; a nuance exata permanece discutida."}
+      2: {term:"הִתְעַלַּלְתִּי (hit'allalti)",text:"O verbo no hitpael pode significar zombar, brincar às custas de alguém, humilhar ou tratar duramente. Rashi o entende como “zombei”; a NET destaca a ideia de fazer os egípcios parecerem tolos, enquanto Cassuto prefere “tratei duramente”. A tradução mantém “tratei duramente” como opção contextual e registra a nuance de escárnio."},
+      10: {term:"רָעָה נֶגֶד פְּנֵיכֶם (ra'ah neged penekhem)",text:"Literalmente, “há mal diante de vós”. A expressão pode ser uma ameaça ou acusação de más intenções. Alguns estudiosos observam um possível jogo sonoro com Rá, o deus solar egípcio, especialmente diante das pragas seguintes (gafanhotos e escuridão); essa leitura é sugestiva, mas não é consenso e não deve ser tratada como etimologia."},
+      13: {term:"רוּחַ קָדִים (ruach qadim)",text:"קָדִים (*qadim*) indica o leste/oriente. O vento oriental traz os gafanhotos; em 10:19, o vento ocidental os leva embora. A direção dos ventos faz parte da sequência narrativa e não deve ser confundida com “vento do mar”."},
+      19: {term:"רוּחַ יָם חָזָק מְאֹד (ruach yam chazaq me'od)",text:"רוּחַ יָם (*ruach yam*) é literalmente “vento do mar”, expressão que designa o vento ocidental no contexto geográfico de Israel/Egito. “Vento ocidental” é a explicitação idiomática; o contraste com o vento oriental de 10:13 é intencional."},
+      21: {term:"וְיָמֵשׁ חֹשֶׁךְ (v'yamesh choshekh)",text:"A forma verbal é rara e tradicionalmente entendida como “escuridão que se pode apalpar/tocar”. A tradução “uma escuridão que se possa apalpar” preserva a imagem sensorial do texto, sem reduzir a praga a uma simples noite escura."}
     }
   }
 };
