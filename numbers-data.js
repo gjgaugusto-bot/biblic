@@ -1150,7 +1150,7 @@ window.NUMBERS_TEXT[29] = [
   "com as ofertas de cereal e libações correspondentes ao novilho, ao carneiro e aos cordeiros, segundo o número deles e conforme a prescrição;",
   "e um bode como oferta pelo pecado, além do holocausto contínuo, de sua oferta de cereal e de sua libação.",
   "Essas ofertas fareis a YHWH nas vossas festas determinadas, além dos vossos votos e ofertas voluntárias, sejam holocaustos, ofertas de cereal, libações ou sacrifícios de comunhão.",
-  "Moisés falou aos filhos de Israel conforme tudo o que YHWH lhe havia ordenado."
+  "Moisés disse aos filhos de Israel conforme tudo o que YHWH lhe havia ordenado."
 ];
 
 /* Números 30 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
