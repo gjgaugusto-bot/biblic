@@ -101,6 +101,9 @@ window.TRANSLATION_NOTES[3][8] = {
 /* Notas lexicais — Números 9. */
 window.TRANSLATION_NOTES[3][9] = {
   3:{term:"בֵּין הָעַרְבַּיִם (bein ha'arbayim)",text:"Expressão temporal tradicionalmente traduzida “entre as tardes” ou “ao crepúsculo”. Refere-se ao período vespertino do sacrifício pascal."},
+  2:{term:"בְּמוֹעֲדוֹ (bemo'ado)",text:"“No tempo determinado”. A Páscoa deve ser celebrada na data estabelecida, segundo o calendário e as prescrições do rito."},
+  11:{term:"עַל־מַצּוֹת וּמְרֹרִים (al-matsot umerorim)",text:"“Com pães sem fermento e ervas amargas”. O texto descreve os acompanhamentos da refeição pascal da segunda celebração."},
+  14:{term:"גֵּר (ger)",text:"“Estrangeiro residente” ou “forasteiro integrado”. A lei prevê que participe da Páscoa sob o mesmo estatuto ritual do natural da terra."}
   6:{term:"טָמֵא לָנֶפֶשׁ (tame lanefesh)",text:"Literalmente, “impuro por uma pessoa/morto”. É impureza ritual decorrente do contato com um cadáver, não uma avaliação moral."},
   10:{term:"בְּדֶרֶךְ רְחֹקָה (bederekh rechokah)",text:"“Em viagem distante”. A expressão estabelece uma exceção para quem não pode celebrar a Páscoa na data ordinária."},
   13:{term:"וְנִכְרְתָה (venikhretah)",text:"“Será eliminada/cortada”. Fórmula de sanção comunitária; o texto não especifica aqui o mecanismo concreto da exclusão."},
@@ -134,6 +137,8 @@ window.TRANSLATION_NOTES[3][12] = {
   3:{term:"עָנָו (anav)",text:"“Humilde”, “manso” ou “afligido”. O adjetivo pode expressar humildade e modéstia, e aqui caracteriza Moisés em contraste com a disputa de autoridade."},
   6:{term:"בַּמַּרְאָה (bammar'ah)",text:"“Em visão”. O versículo distingue a revelação profética ordinária da comunicação singular descrita a respeito de Moisés."},
   8:{term:"פֶּה אֶל־פֶּה (peh el-peh)",text:"Literalmente, “boca a boca”, expressão para comunicação direta e clara. O texto contrasta essa forma com sonhos e enigmas."},
+  5:{term:"וַיֵּצְאוּ שְׁנֵיהֶם (vayyetse'u shenehem)",text:"“E os dois saíram”. O verbo יצא significa sair; refere-se à saída de Arão e Miriã após serem chamados, não a uma aproximação da presença divina."},
+  8:{term:"וּתְמֻנַת יְהוָה יַבִּיט (utmunat YHWH yabbit)",text:"“E a forma de YHWH ele contempla”. תְּמוּנָה pode significar forma ou figura; a afirmação destaca a singularidade da comunicação concedida a Moisés, sem definir sua natureza física."}
   10:{term:"מְצֹרָעַת (metsora'at)",text:"Pessoa atingida por afecção cutânea ritual. Não é seguro equiparar automaticamente o termo ao diagnóstico moderno de hanseníase."},
   14:{term:"תִּסָּגֵר (tissager)",text:"“Ficará isolada/fechada”. A forma verbal indica exclusão temporária do acampamento, seguida de reintegração."}
 };
