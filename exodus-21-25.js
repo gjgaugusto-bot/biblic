@@ -137,7 +137,7 @@ window.EXODUS_TEXT[25] = [
   "«Dize aos filhos de Israel que recolham para mim uma oferta. De todo aquele cujo coração o mover, recebereis minha oferta.",
   "Esta é a oferta que recebereis deles: ouro, prata e bronze;",
   "tecido azul, púrpura e escarlate, linho fino e pelos de cabra;",
-  "peles de carneiro tingidas de vermelho, peles de animais marinhos e madeira de acácia;",
+  "peles de carneiro tingidas de vermelho, peles de tahash e madeira de acácia;",
   "azeite para a iluminação, especiarias para o óleo da unção e para o incenso aromático;",
   "pedras de ônix e pedras de engaste para o éfode e para o peitoral.",
   "Farão para mim um santuário, e habitarei no meio deles.",
