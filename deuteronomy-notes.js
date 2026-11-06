@@ -189,3 +189,32 @@ window.TRANSLATION_NOTES[4][16] = {
   18:{term:"שֹׁפְטִים וְשֹׁטְרִים (shofetim veshoterim)",text:"“Juízes e oficiais”. A administração da justiça inclui magistrados e agentes responsáveis pela execução das decisões."},
   20:{term:"צֶדֶק צֶדֶק תִּרְדֹּף (tsedeq tsedeq tirdof)",text:"“Justiça, somente justiça, buscarás”. A repetição de tsedeq dá ênfase à busca contínua da justiça."}
 };
+
+/* Deuteronômio 17–20 — notas lexicais selecionadas do hebraico massorético. */
+window.TRANSLATION_NOTES[4][17] = {
+  6:{term:"עַל־פִּי שְׁנַיִם עֵדִים (al pi shenayim edim)",text:"“Pela palavra de duas testemunhas”. A exigência de múltiplas testemunhas protege contra condenação baseada em uma única acusação."},
+  8:{term:"דָּבָר לַמִּשְׁפָּט (davar lammishpat)",text:"“Caso difícil para julgar”. A expressão abrange disputas jurídicas que excedem a capacidade de decisão dos tribunais locais."},
+  18:{term:"מִשְׁנֵה הַתּוֹרָה (mishneh hattorah)",text:"“Cópia desta instrução”. O rei deve ter consigo uma cópia da lei e lê-la continuamente; o texto não legitima poder acima da instrução divina."},
+  20:{term:"לְבִלְתִּי רוּם־לְבָבוֹ (levilti rum levavo)",text:"“Para que seu coração não se eleve”. O limite central ao poder real é a humildade e a obediência à instrução."}
+};
+window.TRANSLATION_NOTES[4][18] = {
+  1:{term:"אִשֵּׁי יְהוָה (ishei YHWH)",text:"“Ofertas feitas pelo fogo a YHWH”. Expressão cultual que designa porções das ofertas destinadas ao serviço sacerdotal."},
+  3:{term:"הַזְּרֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה (hazeroa vehalleḥayayim vehakkevah)",text:"“A espádua, as mandíbulas e o estômago”. Partes específicas do animal são indicadas como direito sacerdotal."},
+  10:{term:"מְעוֹנֵן וּמְנַחֵשׁ (me'onen umenaḥesh)",text:"Termos para práticas de prognóstico e adivinhação. A lista reúne práticas divinatórias proibidas a Israel."},
+  15:{term:"נָבִיא ... כָּמֹנִי (navi ... kamoni)",text:"“Um profeta ... como eu”. A promessa é formulada como profeta levantado do próprio povo; sua interpretação posterior é tema importante na tradição bíblica."},
+  20:{term:"בְּזָדוֹן (bezadon)",text:"“Com arrogância”. O termo caracteriza a pretensão de falar em nome de YHWH sem autorização."}
+};
+window.TRANSLATION_NOTES[4][19] = {
+  3:{term:"תָּכִין לְךָ הַדֶּרֶךְ (takhin lekha hadderekh)",text:"“Prepararás o caminho”. A infraestrutura das cidades de refúgio deve permitir acesso rápido a quem matou sem intenção."},
+  6:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador do sangue”. Parente responsável por buscar reparação pelo homicídio; a lei limita a vingança em casos não intencionais."},
+  14:{term:"גְּבוּל רֵעֲךָ (gevul re'akha)",text:"“Marco do teu próximo”. O limite territorial tradicional não deve ser removido para apropriação indevida da herança."},
+  16:{term:"עֵד חָמָס (ed ḥamas)",text:"“Testemunha maliciosa”. A acusação falsa é investigada judicialmente e sujeita a sanção correspondente."},
+  21:{term:"נֶפֶשׁ בְּנֶפֶשׁ (nefesh benefesh)",text:"“Vida por vida”. A fórmula de proporcionalidade limita a punição, não autoriza vingança privada ilimitada."}
+};
+window.TRANSLATION_NOTES[4][20] = {
+  3:{term:"אַל־יֵרַךְ לְבַבְכֶם (al yerakh levavkhem)",text:"“Não desfaleça vosso coração”. Fórmula de encorajamento diante da superioridade militar aparente do inimigo."},
+  5:{term:"חָנַךְ (ḥanakh)",text:"“Dedicar”. A casa recém-construída ainda não foi inaugurada ou colocada em uso."},
+  10:{term:"קָרָא אֵלֶיהָ לְשָׁלוֹם (qara eleha leshalom)",text:"“Oferecer condições de paz”. A proposta antecede o cerco às cidades distantes."},
+  17:{term:"הַחֲרֵם תַּחֲרִימֵם (haḥarem taḥarimem)",text:"“Dedicarás completamente à destruição”. A formulação pertence ao vocabulário de ḥerem, banimento total no contexto da guerra antiga."},
+  19:{term:"כִּי הָאָדָם עֵץ הַשָּׂדֶה (ki ha'adam ets hassadeh)",text:"A frase é uma pergunta retórica difícil: “Por acaso a árvore do campo é gente?”. O versículo proíbe destruir árvores frutíferas durante o cerco."}
+};
