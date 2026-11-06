@@ -572,4 +572,26 @@ Demais versículos (17:1, 17:3–5, 17:8–14): conferidos quanto à correspond�
 - Rashi sobre Êxodo 17:16, discussão da mão sobre o trono e da guerra contra Amaleque: https://www.sefaria.org/Rashi_on_Exodus.17.16?lang=bi
 - NET Bible, Êxodo 17:15, sobre יְהוָה נִסִּי (*YHWH nissi*): https://classic.net.bible.org/verse.php?book=Exo&chapter=17&verse=15
 
-**Próximo ponto:** Êxodo 18:1–27. Não repetir a conferência de Êxodo 17 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 19:1–25. Não repetir a conferência de Êxodo 17 sem evidência concreta de erro novo.
+
+
+### Êxodo 18 — conferência textual e lexical integral (18:1–27)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; foram acrescentadas notas para explicitar a função representativa de Moisés e a estrutura condicional da recomendação de Jetro.
+
+Notas lexicais/sintáticas acrescentadas:
+- **18:19:** הֱיֵה אַתָּה לָעָם מוּל הָאֱלֹהִים (*heyeh attah la'am mul haElohim*) é literalmente “sê tu pelo povo diante de Deus”. “Representa o povo diante de Deus” explicita a função de mediação/intercessão que o contexto descreve.
+- **18:23:** וְצִוְּךָ אֱלֹהִים (*vetsivvekha Elohim*) significa “e Deus te ordenar”. A expressão coordena-se com a condição iniciada por אִם (*im*, “se”) no começo do versículo; a tradução “se fizeres isso e se Deus assim te ordenar” foi mantida como explicitação da condição global, sem separar as duas ações como condições independentes.
+
+Notas anteriores preservadas:
+- **18:1, 18:3, 18:11 e 18:21:** mantidas, incluindo a identificação de Jetro como sacerdote de Midiã, o jogo do nome Gérson, a expressão difícil sobre a arrogância dos egípcios e as qualificações dos homens capazes.
+
+Demais versículos (18:2, 18:4–10, 18:12–18, 18:20, 18:22 e 18:24–27): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 18: https://mechon-mamre.org/p/pt/pt0218.htm
+- NET Bible, Êxodo 18:11, sobre זָדוּ (*zadu*) e a arrogância dos egípcios: https://classic.net.bible.org/verse.php?book=Exo&chapter=18&verse=11
+- NET Bible, Êxodo 18:19, sobre a função de Moisés como representante do povo diante de Deus: https://classic.net.bible.org/verse.php?book=Exo&chapter=18&verse=19
+- NET Bible, Êxodo 18:23, sobre a estrutura condicional da frase: https://classic.net.bible.org/verse.php?book=Exo&chapter=18&verse=23
+
+**Próximo ponto:** Êxodo 19:1–25. Não repetir a conferência de Êxodo 18 sem evidência concreta de erro novo.
