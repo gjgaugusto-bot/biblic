@@ -856,3 +856,58 @@ window.DEUTERONOMY_TEXT[28] = [
   "Pela manhã dirás: ‘Quem dera fosse tarde!’, e à tarde dirás: ‘Quem dera fosse manhã!’, por causa do medo em teu coração e do que teus olhos verão.",
   "YHWH te fará voltar ao Egito em navios, pelo caminho sobre o qual te declarei: ‘Nunca mais o verás.’ Ali vos oferecereis como escravos e escravas a teus inimigos, mas ninguém vos comprará."
 ];
+
+window.DEUTERONOMY_TEXT[29] = [
+  "Estas são as palavras da aliança que YHWH ordenou a Moisés que estabelecesse com os filhos de Israel na terra de Moabe, além da aliança que estabelecera com eles em Horebe.",
+  "Moisés convocou todo o Israel e lhes disse: ‘Vistes tudo o que YHWH fez diante de vossos olhos na terra do Egito, ao faraó, a todos os seus servos e a toda a sua terra:",
+  "os grandes testes que teus olhos viram, aqueles sinais e grandes maravilhas.",
+  "Mas até hoje YHWH não vos deu coração para compreender, olhos para ver e ouvidos para ouvir.",
+  "Conduzi-vos durante quarenta anos pelo deserto; vossas roupas não se gastaram sobre vós, e a sandália de teu pé não se desgastou.",
+  "Não comestes pão, nem bebestes vinho ou bebida fermentada, para que soubésseis que eu sou YHWH, vosso Deus.",
+  "Quando chegastes a este lugar, Seom, rei de Hesbom, e Ogue, rei de Basã, saíram ao nosso encontro para a guerra, e nós os derrotamos.",
+  "Tomamos a terra deles e a demos como herança aos rubenitas, aos gaditas e à meia tribo de Manassés.",
+  "Guardai, portanto, as palavras desta aliança e praticai-as, para que tenhais êxito em tudo o que fizerdes.",
+  "Hoje estais todos diante de YHWH, vosso Deus: vossos chefes, vossas tribos, vossos anciãos e vossos oficiais, todos os homens de Israel,",
+  "vossas crianças, vossas mulheres e o estrangeiro que está em vosso acampamento, desde o cortador de lenha até o tirador de água,",
+  "para entrares na aliança de YHWH, teu Deus, e no juramento que YHWH, teu Deus, estabelece contigo hoje,",
+  "para que hoje ele te estabeleça como seu povo e seja teu Deus, conforme te falou e conforme jurou a teus pais, Abraão, Isaque e Jacó.",
+  "Não é somente convosco que estabeleço esta aliança e este juramento,",
+  "mas também com aquele que hoje está aqui conosco diante de YHWH, nosso Deus, e com aquele que hoje não está aqui conosco.",
+  "Pois sabeis como habitamos na terra do Egito e como passamos pelo meio das nações por onde atravessastes.",
+  "Vistes suas coisas detestáveis e seus ídolos de madeira e pedra, prata e ouro, que havia entre elas.",
+  "Que não haja entre vós homem ou mulher, clã ou tribo cujo coração hoje se desvie de YHWH, nosso Deus, para servir aos deuses dessas nações; que não haja entre vós raiz que produza veneno e absinto.",
+  "Que ninguém, ao ouvir as palavras deste juramento, se considere abençoado no próprio coração, dizendo: ‘Terei paz, ainda que siga a obstinação do meu coração’; isso destruiria tanto a terra irrigada quanto a sedenta.",
+  "YHWH não estará disposto a perdoá-lo; antes, a ira e o zelo de YHWH se acenderão contra esse homem, e toda maldição escrita neste livro repousará sobre ele. YHWH apagará seu nome de debaixo dos céus.",
+  "YHWH o separará para a calamidade, dentre todas as tribos de Israel, conforme todas as maldições da aliança escrita neste livro da instrução.",
+  "A geração futura, vossos filhos que vierem depois de vós, e o estrangeiro que vier de uma terra distante verão as pragas daquela terra e as doenças com que YHWH a afligiu.",
+  "Verão que toda a sua terra está coberta de enxofre e sal, queimada; não será semeada, nada brotará e nenhuma erva crescerá nela, como na destruição de Sodoma e Gomorra, Admá e Zeboim, que YHWH destruiu em sua ira e furor.",
+  "Todas as nações perguntarão: ‘Por que YHWH fez isso a esta terra? Por que tamanho ardor de ira?’",
+  "E responderão: ‘Porque abandonaram a aliança de YHWH, Deus de seus pais, que ele estabeleceu com eles quando os tirou da terra do Egito.",
+  "Foram servir a outros deuses e prostraram-se diante deles, deuses que não conheciam e que ele não lhes havia destinado.",
+  "Por isso a ira de YHWH se acendeu contra esta terra, trazendo sobre ela toda a maldição escrita neste livro.",
+  "YHWH os arrancou de seu solo com ira, furor e grande indignação e os lançou em outra terra, como acontece hoje.’",
+  "As coisas ocultas pertencem a YHWH, nosso Deus; as coisas reveladas pertencem a nós e a nossos filhos para sempre, para que pratiquemos todas as palavras desta instrução."
+];
+
+window.DEUTERONOMY_TEXT[30] = [
+  "Quando todas estas coisas vierem sobre ti, a bênção e a maldição que coloquei diante de ti, e as tomares a sério entre todas as nações para onde YHWH, teu Deus, te tiver dispersado,",
+  "e voltares para YHWH, teu Deus, e ouvires sua voz, tu e teus filhos, de todo o teu coração e de toda a tua vida, conforme tudo o que hoje te ordeno,",
+  "YHWH, teu Deus, restaurará tua situação, terá compaixão de ti e te reunirá novamente dentre todos os povos entre os quais YHWH, teu Deus, te espalhou.",
+  "Ainda que teus dispersos estejam na extremidade dos céus, dali YHWH, teu Deus, te reunirá e dali te buscará.",
+  "YHWH, teu Deus, te trará à terra que teus pais possuíram, e tu a possuirás; ele te fará bem e te multiplicará mais do que a teus pais.",
+  "YHWH, teu Deus, circuncidará teu coração e o coração de tua descendência, para que ames YHWH, teu Deus, de todo o teu coração e de toda a tua vida, e assim vivas.",
+  "YHWH, teu Deus, porá todas estas maldições sobre teus inimigos e sobre os que te odeiam e te perseguiram.",
+  "Tu voltarás a ouvir a voz de YHWH e praticarás todos os seus mandamentos que hoje te ordeno.",
+  "YHWH, teu Deus, fará prosperar abundantemente todo o trabalho de tuas mãos, o fruto do teu ventre, o fruto dos teus animais e o fruto do teu solo; pois YHWH voltará a alegrar-se em ti para teu bem, assim como se alegrou em teus pais,",
+  "se ouvires a voz de YHWH, teu Deus, guardando seus mandamentos e estatutos escritos neste livro da instrução, e se voltares para YHWH, teu Deus, de todo o teu coração e de toda a tua vida.",
+  "Este mandamento que hoje te ordeno não é difícil demais para ti, nem está longe de ti.",
+  "Não está nos céus, para que digas: ‘Quem subirá por nós aos céus, para trazê-lo e fazê-lo ouvir, a fim de que o pratiquemos?’",
+  "Nem está além do mar, para que digas: ‘Quem atravessará por nós o mar, para trazê-lo e fazê-lo ouvir, a fim de que o pratiquemos?’",
+  "Pois a palavra está muito perto de ti, em tua boca e em teu coração, para que a pratiques.",
+  "Vê: hoje coloquei diante de ti a vida e o bem, a morte e o mal.",
+  "Hoje te ordeno que ames YHWH, teu Deus, que andes em seus caminhos e guardes seus mandamentos, estatutos e decisões judiciais; então viverás e te multiplicarás, e YHWH, teu Deus, te abençoará na terra em que estás entrando para possuí-la.",
+  "Mas, se teu coração se desviar e não ouvires, se fores levado a prostrar-te diante de outros deuses e servi-los,",
+  "declaro-vos hoje que certamente perecereis; não prolongareis vossos dias na terra para a qual atravessas o Jordão, a fim de entrar e possuí-la.",
+  "Hoje tomo os céus e a terra como testemunhas contra vós: coloquei diante de ti a vida e a morte, a bênção e a maldição. Escolhe, pois, a vida, para que vivas, tu e tua descendência,",
+  "amando YHWH, teu Deus, ouvindo sua voz e apegando-te a ele, pois ele é tua vida e a duração dos teus dias, para habitares na terra que YHWH jurou dar a teus pais, Abraão, Isaque e Jacó."
+];
