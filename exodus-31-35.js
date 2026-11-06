@@ -143,7 +143,7 @@ window.EXODUS_TEXT[35] = [
 "Toda a comunidade dos filhos de Israel saiu da presença de Moisés.",
 "Todos aqueles cujo coração os moveu e cujo espírito os dispôs vieram trazendo a contribuição para YHWH, para a obra da tenda do encontro, para todo o seu serviço e para as vestes sagradas.",
 "Vieram homens e mulheres, todos os que estavam dispostos de coração; trouxeram broches, brincos, anéis, colares e todo tipo de objeto de ouro. Cada um apresentou uma oferta de ouro a YHWH.",
-"Todos os que possuíam tecido azul, púrpura, escarlate, linho fino, pelos de cabra, peles de carneiro tingidas de vermelho ou peles de animais marinhos os trouxeram.",
+"Todos os que possuíam tecido azul, púrpura, escarlate, linho fino, pelos de cabra, peles de carneiro tingidas de vermelho ou peles de tahash os trouxeram.",
 "Todos os que podiam oferecer prata ou bronze trouxeram a contribuição para YHWH; e todos os que possuíam madeira de acácia adequada para qualquer trabalho a trouxeram.",
 "Todas as mulheres habilidosas fiaram com as mãos e trouxeram o que haviam fiado: tecido azul, púrpura, escarlate e linho fino.",
 "Todas as mulheres cujo coração as moveu com habilidade fiaram os pelos de cabra.",
