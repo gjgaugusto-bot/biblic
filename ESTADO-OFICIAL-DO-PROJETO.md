@@ -187,3 +187,13 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 12:3, 12:21 e 12:42; notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 13:1–22.
+
+
+### Continuidade de conteúdo — Êxodo 13 (2026-11-06)
+
+- Êxodo 13:1–22 conferido integralmente contra o Texto Massorético.
+- Corrigido erro tipográfico em 13:11 (“e a der”).
+- Ajustado 13:17 para “o povo não mude de ideia”; nota corrigida para distinguir נחה (conduzir) de נחם (mudar de ideia).
+- Nota ampliada em 13:18 sobre chamushim e Yam Suf.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 14:1–31.
