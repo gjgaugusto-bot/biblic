@@ -38,7 +38,7 @@ window.EXODUS_TEXT = {
 "A filha do faraó lhe disse: «Leva este menino e amamenta-o para mim; eu te darei o teu pagamento». A mulher tomou o menino e o amamentou.",
 "Quando o menino cresceu, ela o levou à filha do faraó, e ele se tornou filho dela. Ela lhe deu o nome de Moisés, dizendo: «Porque das águas eu o tirei».",
 "Naqueles dias, quando Moisés cresceu, saiu ao encontro de seus irmãos e viu seus trabalhos forçados. Viu também um egípcio golpeando um hebreu, um de seus irmãos.",
-"Olhou para um lado e para o outro e, vendo que não havia ninguém, golpeou o egípcio e o escondeu na areia.",
+"Olhou para um lado e para o outro e, vendo que não havia ninguém, golpeou o egípcio e o enterrou na areia.",
 "No dia seguinte, saiu, e eis que dois homens hebreus estavam brigando. Disse ao culpado: «Por que golpeias o teu companheiro?»",
 "Ele respondeu: «Quem te constituiu chefe e juiz sobre nós? Pretendes matar-me como mataste o egípcio?» Moisés teve medo e disse: «Certamente o caso se tornou conhecido».",
 "O faraó ouviu esse caso e procurou matar Moisés. Moisés fugiu da presença do faraó e se estabeleceu na terra de Midiã; sentou-se junto a um poço.",
