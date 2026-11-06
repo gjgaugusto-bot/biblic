@@ -20,6 +20,13 @@ if (existsSync("index.html") && existsSync("app.js")) {
   else if (!(positions[0] < positions[1] && positions[1] < positions[2]))
     fail("A ordem dos scripts deve ser study-data.js, book-art.js e app.js");
 
+  if (html.includes('id="search"') || app.includes("ensureSearchInput")) fail("A busca de livros da página inicial foi removida e não deve ser recriada pelo JavaScript");
+  for (const id of ["studyCategoryTitleSymbols","studyCategoryTitleColors","studyCategoryTitleNumbers","studyCategoryTitleTypes","saveStudyCategories","resetStudyCategories"]) {
+    if (!html.includes(`id="${id}"`)) fail(`Editor de categorias incompleto: ${id}`);
+  }
+  if (!app.includes("STUDY_CATEGORIES_KEY") || !app.includes("saveStudyCategorySettings") || !app.includes("studyCategories"))
+    fail("As categorias da biblioteca precisam ser salvas e incluídas no backup");
+
   const ids = [...html.matchAll(/\bid=["']([^"']+)["']/g)].map((m) => m[1]);
   const duplicates = ids.filter((id, i) => ids.indexOf(id) !== i);
   if (duplicates.length) fail(`IDs HTML duplicados: ${[...new Set(duplicates)].join(", ")}`);
