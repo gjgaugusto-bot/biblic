@@ -575,7 +575,7 @@ window.NUMBERS_TEXT[14] = [
   "Somente não vos rebeleis contra YHWH e não temais o povo da terra, pois eles serão nosso alimento. A proteção deles se afastou, mas YHWH está conosco. Não os temais!",
   "Toda a comunidade falou em apedrejá-los. Então a glória de YHWH apareceu na Tenda do Encontro a todos os filhos de Israel.",
   "YHWH disse a Moisés: Até quando este povo me desprezará? Até quando não confiarão em mim, apesar de todos os sinais que fiz no meio deles?",
-  "Eu o ferirei com peste e o rejeitarei; de ti farei uma nação maior e mais poderosa do que ele.",
+  "Eu o ferirei com peste e o desapossarei; de ti farei uma nação maior e mais poderosa do que ele.",
   "Moisés disse a YHWH: Os egípcios ouvirão, pois deste meio tiraste este povo com teu poder.",
   "E o contarão aos habitantes desta terra. Eles ouviram que tu, YHWH, estás no meio deste povo; que tu, YHWH, te mostras face a face, que tua nuvem permanece sobre eles e que vais adiante deles numa coluna de nuvem durante o dia e numa coluna de fogo durante a noite.",
   "Se matares este povo de uma só vez, as nações que ouviram falar de ti dirão:",
@@ -596,8 +596,8 @@ window.NUMBERS_TEXT[14] = [
   "Não entrareis na terra na qual jurei, com mão levantada, fazer-vos habitar, exceto Calebe, filho de Jefoné, e Josué, filho de Num.",
   "Quanto às vossas crianças, das quais dissestes que seriam tomadas como presa, a elas farei entrar; conhecerão a terra que rejeitastes.",
   "Mas os vossos cadáveres cairão neste deserto.",
-  "Vossos filhos serão pastores no deserto por quarenta anos e suportarão as consequências de vossa infidelidade, até que vossos cadáveres se consumam no deserto.",
-  "Segundo o número dos dias em que explorastes a terra, quarenta dias, levareis vossa culpa por quarenta anos, um ano por dia; assim conhecereis minha oposição.",
+  "Vossos filhos serão pastores no deserto por quarenta anos e carregarão o peso de vossas infidelidades, até que vossos cadáveres se consumam no deserto.",
+  "Segundo o número dos dias em que explorastes a terra, quarenta dias, levareis vossa culpa por quarenta anos, um ano por dia; assim conhecereis meu desagrado.",
   "Eu, YHWH, falei. Certamente farei isso a toda esta comunidade perversa, reunida contra mim: neste deserto serão consumidos e ali morrerão.",
   "Os homens que Moisés enviara para explorar a terra e que, ao voltar, fizeram toda a comunidade murmurar contra ele, espalhando um relato desfavorável sobre a terra,",
   "esses homens que espalharam o relato desfavorável morreram por uma praga diante de YHWH.",
@@ -608,7 +608,7 @@ window.NUMBERS_TEXT[14] = [
   "Não subais, pois YHWH não está no meio de vós; não sejais derrotados diante de vossos inimigos.",
   "Porque os amalequitas e os cananeus estão ali diante de vós, e caireis à espada. Visto que vos desviastes de seguir YHWH, YHWH não estará convosco.",
   "Apesar disso, eles se atreveram a subir ao alto da região montanhosa; porém a Arca da Aliança de YHWH e Moisés não saíram do acampamento.",
-  "Então os amalequitas e os cananeus que habitavam naquela região montanhosa desceram, derrotaram-nos e os perseguiram até Hormá."
+  "Então os amalequitas e os cananeus que habitavam naquela região montanhosa desceram, derrotaram-nos e os esmagaram até Hormá."
 ];
 
 /* Números 15–16 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
