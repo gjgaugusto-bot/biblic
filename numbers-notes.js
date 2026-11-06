@@ -197,3 +197,43 @@ window.TRANSLATION_NOTES[3][20] = {
   24:{term:"נֶאֱסַף אֶל־עַמָּיו (ne'esaf el-ammav)",text:"“Reunido ao seu povo”. Fórmula para a morte, com a imagem de reunião aos antepassados."},
   26:{term:"בִּגְדֵי הַקֹּדֶשׁ (bigdei haqqodesh)",text:"“Vestes sagradas”. A transferência das vestes de Arão para Eleazar simboliza a continuidade do sacerdócio."}
 };
+
+/* Notas lexicais — Números 21. */
+window.TRANSLATION_NOTES[3][21] = {
+  3:{term:"חָרְמָה (Chormah)",text:"Nome relacionado à raiz חרם, dedicar à destruição. O topônimo recorda a derrota completa dos cananeus nesse episódio."},
+  6:{term:"הַנְּחָשִׁים הַשְּׂרָפִים (hannachashim haserafim)",text:"“Serpentes abrasadoras”. A designação pode aludir ao efeito ardente da mordida."},
+  8:{term:"נֵס (nes)",text:"“Estandarte/sinal elevado”. A serpente é colocada num suporte visível para que os mordidos possam olhar para ela."},
+  9:{term:"נְחֹשֶׁת (nechoshet)",text:"“Bronze” ou cobre/bronze. A serpente de metal é chamada נְחַשׁ נְחֹשֶׁת, com jogo sonoro entre “serpente” e “bronze”."},
+  14:{term:"סֵפֶר מִלְחֲמֹת יְהוָה (sefer milchamot YHWH)",text:"“Livro das Guerras de YHWH”, coleção poética antiga citada pelo texto bíblico e não preservada integralmente."},
+  17:{term:"עֲלִי בְאֵר (ali ve'er)",text:"“Brota, ó poço”. Cântico que celebra a água concedida no deserto."},
+  27:{term:"מֹשְׁלִים (moshelim)",text:"“Poetas/provérbios” ou “os que proferem ditos”. Introduz uma composição proverbial sobre Hesbom."}
+};
+/* Notas lexicais — Números 22. */
+window.TRANSLATION_NOTES[3][22] = {
+  5:{term:"פְּתוֹר (Petor)",text:"Localidade associada a Balaão, junto ao rio, geralmente situada na região do Eufrates."},
+  6:{term:"אָרָה לִּי (arah li)",text:"“Amaldiçoa por mim”. O verbo expressa a tentativa de invocar dano sobre Israel por meio da palavra ritual."},
+  7:{term:"קְסָמִים (qesamim)",text:"“Adivinhações/presságios”. O pagamento levado pelos mensageiros é associado à prática divinatória."},
+  20:{term:"קוּם לֵךְ אִתָּם (qum lekh ittam)",text:"“Levanta-te e vai com eles”. A permissão divina é limitada pela ordem seguinte: Balaão só poderá dizer o que Deus lhe ordenar."},
+  22:{term:"לְשָׂטָן לוֹ (lesatan lo)",text:"“Para se opor a ele”. שָׂטָן significa adversário/opositor; aqui descreve a função do mensageiro no caminho."},
+  28:{term:"וַיִּפְתַּח יְהוָה אֶת־פִּי הָאָתוֹן (vayyiftach YHWH et pi ha'aton)",text:"“YHWH abriu a boca da jumenta”. A fala do animal é apresentada como intervenção extraordinária divina."},
+  31:{term:"וַיְגַל יְהוָה אֶת־עֵינֵי בִלְעָם (vayegal YHWH et einei Bil'am)",text:"“YHWH descobriu os olhos de Balaão”. A visão do mensageiro depende de revelação, não da percepção comum."}
+};
+/* Notas lexicais — Números 23. */
+window.TRANSLATION_NOTES[3][23] = {
+  7:{term:"מְשָׁלוֹ (meshalo)",text:"“Seu oráculo/dito”. Balaão introduz uma declaração poética formal."},
+  8:{term:"מָה אֶקֹּב (mah eqqov)",text:"“Como amaldiçoarei?”. O paralelismo afirma que a maldição humana não pode revogar a bênção divina."},
+  9:{term:"הֶן־עָם לְבָדָד יִשְׁכֹּן (hen am levadoad yishkon)",text:"“Eis um povo que habita à parte”. Expressa a distinção de Israel entre as nações; a frase não deve ser reduzida automaticamente a isolamento geográfico."},
+  10:{term:"רֹבַע יִשְׂרָאֵל (rova Yisrael)",text:"“Quarta parte de Israel”. Expressão de difícil interpretação, talvez referência a uma divisão ou acampamento do povo."},
+  19:{term:"וְיִתְנֶחָם (veyitnecham)",text:"“Mudar de ideia/arrependimento”. O paralelismo nega que Deus seja volúvel como um ser humano."},
+  22:{term:"רְאֵם (re'em)",text:"Animal de grande força, provavelmente o auroque ou boi selvagem; “búfalo” é uma aproximação tradicional, não identificação zoológica segura."}
+};
+/* Notas lexicais — Números 24. */
+window.TRANSLATION_NOTES[3][24] = {
+  1:{term:"נְחָשִׁים (nechashim)",text:"“Presságios”. Balaão abandona a busca por sinais divinatórios e volta o rosto para o deserto."},
+  3:{term:"שְׁתֻם הָעָיִן (shetum ha'ayin)",text:"Expressão obscura, tradicionalmente entendida como “olhos abertos” ou “olhos descobertos”. A tradução conserva a ideia de percepção revelada sem impor certeza lexical."},
+  5:{term:"מַה־טֹּבוּ (mah tovu)",text:"“Como são belas”. A fórmula abre o terceiro oráculo com uma exclamação de admiração pelo acampamento de Israel."},
+  7:{term:"אֲגַג (Agag)",text:"Nome/título associado a reis amalequitas. A referência anuncia a elevação do rei de Israel acima de seus adversários."},
+  17:{term:"דָּרַךְ כּוֹכָב (darakh kokhav)",text:"“Uma estrela avançou/surgiu”. Imagem régia de vitória e autoridade; sua interpretação messiânica pertence a leituras posteriores e não esgota o sentido no contexto antigo."},
+  20:{term:"רֵאשִׁית גּוֹיִם (reshit goyim)",text:"“Primeiro entre as nações”. Pode indicar primazia histórica ou militar de Amaleque, seguida de anúncio de seu fim."},
+  23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."}
+};
