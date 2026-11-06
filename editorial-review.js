@@ -77,6 +77,14 @@
   );
 
   addLegacyBook(
+    3,
+    window.NUMBERS_TEXT,
+    "em_revisao",
+    "Texto massorético (Mechon-Mamre e Sefaria como referências de consulta) e auditoria estrutural interna da Enciclopédia Bíblica",
+    "Os 36 capítulos estão integrados. Auditoria global confirmou 1.288 versículos, sintaxe JavaScript válida, presença dos 36 conjuntos de notas, ausência de referências lexicais fora dos limites dos capítulos e ausência de chaves duplicadas dentro dos objetos de notas. Corrigidos separadores de linha literais nos capítulos 25–27. A conferência textual e lexical integral, versículo por versículo, ainda permanece pendente; este estado não equivale a aprovação textual."
+  );
+
+  addLegacyBook(
     1,
     window.EXODUS_TEXT,
     "em_revisao",
