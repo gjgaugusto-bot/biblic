@@ -88,8 +88,8 @@
     4,
     window.DEUTERONOMY_TEXT,
     "em_revisao",
-    "Biblia Hebraica Stuttgartensia (BHS), Deuteronomium 1; tradução própria da Enciclopédia Bíblica",
-    "Tradução e integração em andamento: 34 capítulos integrados, com notas lexicais selecionadas. Texto-base hebraico massorético, com consulta à BHS onde disponível. Revisão textual e editorial posterior planejada; livro permanece em revisão."
+    "Texto Massorético; BHS consultada nos trechos acessíveis; tradução própria da Enciclopédia Bíblica",
+    "Integração concluída: 34 capítulos e 959 versículos presentes; 34 blocos e 261 notas lexicais. Auditoria estrutural global aprovada, com contagens, notas, referências e carregamento conferidos. Cotejo textual versículo por versículo com a BHS e revisão acadêmica independente permanecem pendentes; livro continua em revisão."
   );
 
   addLegacyBook(
