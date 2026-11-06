@@ -38,6 +38,32 @@ if (existsSync("index.html") && existsSync("app.js")) {
       fail(`Configuração BOOKS não pôde ser validada: ${error.message}`);
     }
   }
+  // Confere a contagem de versículos de cada capítulo de Gênesis para detectar omissões acidentais.
+  const expectedGenesisVerses = [31,25,24,26,32,22,24,22,29,32,32,20,18,24,21,16,27,33,38,18,34,24,20,67,34,35,46,22,35,43,55,32,20,31,29,43,36,30,23,23,57,38,34,34,28,34,31,22,33,26];
+  const chapterVerses = new Map();
+  const genesisOne = app.match(/const GENESIS1=(\\[[\\s\\S]*?\\]);/);
+  const genesisTwo = app.match(/const GENESIS_TEXT=\\{1:GENESIS1,2:(\\[[\\s\\S]*?\\])\\};/);
+  if (!genesisOne || !genesisTwo) fail("Não foi possível localizar os textos dos capítulos 1 e 2 de Gênesis");
+  else {
+    try {
+      chapterVerses.set(1, runInNewContext(genesisOne[1], {}));
+      chapterVerses.set(2, runInNewContext(genesisTwo[1], {}));
+      for (let chapter = 3; chapter <= 50; chapter++) {
+        const expression = new RegExp("GENESIS_TEXT\\\\[" + chapter + "\\\\]=(\\\\[[\\\\s\\\\S]*?\\\\]);");
+        const match = app.match(expression);
+        if (!match) throw new Error("Capítulo " + chapter + " não localizado");
+        chapterVerses.set(chapter, runInNewContext(match[1], {}));
+      }
+      for (let chapter = 1; chapter <= 50; chapter++) {
+        const actual = chapterVerses.get(chapter);
+        if (!Array.isArray(actual) || actual.length !== expectedGenesisVerses[chapter - 1])
+          fail("Gênesis " + chapter + ": esperados " + expectedGenesisVerses[chapter - 1] + " versículos; encontrados " + (Array.isArray(actual) ? actual.length : "conteúdo inválido"));
+      }
+    } catch (error) {
+      fail("Falha ao conferir os versículos de Gênesis: " + error.message);
+    }
+  }
+
   if (!app.includes("function validateImportedBackup") || !app.includes("AUTO_BACKUP_HISTORY_KEY"))
     fail("Proteções de importação e histórico de backup local não foram encontradas");
   if (!app.includes("function readLocalArray") || !app.includes("function readLocalObject"))
