@@ -442,4 +442,33 @@ Demais versículos (12:1, 12:4, 12:7, 12:9–10, 12:12, 12:14, 12:18–20, 12:22
 - NET Bible, Êxodo 12:42, sobre a ambiguidade de לֵיל שִׁמֻּרִים (*leil shimurim*): https://classic.net.bible.org/passage.php?passage=Exo+12%3A42
 - Rashi sobre Êxodo 12:42, interpretação da noite como vigília/proteção: https://www.sefaria.org/Rashi_on_Exodus.12.42
 
-**Próximo ponto:** Êxodo 13:1–22. Não repetir a conferência de Êxodo 12 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 14:1–31. Não repetir a conferência de Êxodo 12 sem evidência concreta de erro novo.
+
+
+### Êxodo 13 — conferência textual e lexical integral (13:1–22)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Foram corrigidos um erro tipográfico e uma nuance verbal; uma nota lexical preexistente também foi corrigida para distinguir duas raízes hebraicas diferentes.
+
+Correções no texto:
+- **13:11:** “e ta der” foi corrigido para **“e a der”**, retomando “a terra” como objeto de וּנְתָנָהּ (*unetannah*, “e a der”).
+- **13:17:** “para que o povo não se arrependa” foi ajustado para **“para que o povo não mude de ideia”**, sentido contextual de פֶּן יִנָּחֵם (*pen yinnachem*), da raiz נחם (*nacham*).
+
+Correção de nota lexical:
+- **13:17:** a nota anterior confundia dois verbos parecidos, mas de raízes distintas. וְלֹא נָחָם (*velo naham*) vem de נחה (*nahah*), “guiar/conduzir”: Deus não conduziu o povo pela rota dos filisteus. Já פֶּן יִנָּחֵם (*pen yinnachem*) vem de נחם (*nacham*), “mudar de ideia/arrepender-se”: o povo poderia mudar de ideia ao ver a guerra. A nota foi corrigida para registrar essa distinção.
+
+Notas lexicais acrescentadas/ampliadas:
+- **13:18:** חֲמֻשִׁים (*chamushim*) permanece termo de sentido discutido (“armados”, “em formação”, “organizados”); “preparados para a batalha” é contextual. יַם־סוּף (*Yam Suf*) significa literalmente “mar de juncos/caniços”; “Mar Vermelho” vem da tradição de tradução grega. “Mar de Juncos” segue o sentido hebraico sem fixar uma localização moderna.
+
+Notas anteriores preservadas:
+- **13:2, 13:4, 13:9, 13:12–13:** mantidas, incluindo “aquele que abre o ventre”, o mês Abibe, *totafot*, *sheger* e o verbo “quebrar a nuca”.
+
+Demais versículos (13:1, 13:3, 13:5–8, 13:10, 13:14–16 e 13:19–22): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 13: https://mechon-mamre.org/p/pt/pt0213.htm
+- NET Bible, Êxodo 13:17, distinção entre נָחָם (*naham*, conduzir) e יִנָּחֵם (*yinnachem*, mudar de ideia): https://classic.net.bible.org/passage.php?passage=Exo+13%3A17
+- Rashi sobre Êxodo 13:17, explicação de נָחָם como “guiou/conduziu”: https://www.sefaria.org/Rashi_on_Exodus.13.17?lang2=en&with=all
+- NET Bible, Êxodo 13:18, sobre חֲמֻשִׁים (*chamushim*) e יַם־סוּף (*Yam Suf*): https://classic.net.bible.org/verse.php?book=Exo&chapter=13&tab=commentaries&theme=false&verse=18
+- NET Bible, Êxodo 13:18, sobre “Sea of Reeds” e a tradução tradicional “Red Sea”: https://classic.net.bible.org/passage.php?passage=Exo+13%3A18
+
+**Próximo ponto:** Êxodo 14:1–31. Não repetir a conferência de Êxodo 13 sem evidência concreta de erro novo.
