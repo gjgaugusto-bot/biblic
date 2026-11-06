@@ -519,4 +519,32 @@ Demais versículos (15:1, 15:3–7, 15:9–10, 15:12–16, 15:18–22 e 15:24–
 - Tanakh.info, Êxodo 15:17, morfologia de וְתִטָּעֵמוֹ (*vetitta'emo*) como “plantar”: https://tanakh.info/ex15-17
 - Ibn Ezra sobre Êxodo 15:17, imagem de Israel plantado e enraizado na terra: https://www.sefaria.org/Ibn_Ezra_on_Exodus.15.17
 
-**Próximo ponto:** Êxodo 16:1–36. Não repetir a conferência de Êxodo 15 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 17:1–16. Não repetir a conferência de Êxodo 15 sem evidência concreta de erro novo.
+
+
+### Êxodo 16 — conferência textual e lexical integral (16:1–36)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma descrição foi ajustada para preservar a imagem do hebraico; as notas existentes sobre o deserto de Sin, o pão, *man hu*, o ômer, o sábado e o maná foram preservadas e ampliadas.
+
+Correção no texto:
+- **16:14:** “algo fino e granuloso” foi ajustado para **“algo fino e em flocos”**, refletindo דַּק מְחֻסְפָּס (*daq mechuspas*), expressão rara tradicionalmente entendida como uma substância fina, em flocos/escamas.
+
+Notas lexicais acrescentadas/ampliadas:
+- **16:14:** דַּק מְחֻסְפָּס (*daq mechuspas*) ocorre apenas aqui; descreve algo fino, em flocos/escamas. “Em flocos” evita sugerir grãos arredondados sem apoio lexical claro.
+- **16:15:** מָן הוּא (*man hu*) é associado à pergunta “que é isto?”. A forma מָן (*man*) não é a palavra hebraica usual para “o quê” (מַה, *mah*); foram propostas explicações aramaicas/siríacas, egípcias ou uma etimologia popular baseada no som. A tradução conserva a pergunta do texto sem afirmar uma origem definitiva para o nome.
+- **16:33:** צִנְצֶנֶת (*tsintsenet*) é substantivo raro, usado apenas aqui, para um recipiente/jarro. A tradição targúmica e Rashi o entendem como vaso de barro; “recipiente” foi mantido como tradução neutra.
+- **16:36:** o versículo define a relação de medida: um ômer corresponde a um décimo de efá. A proporção é explícita, mas a conversão para litros depende da reconstrução das medidas antigas.
+
+Notas anteriores de **16:1, 16:4, 16:15, 16:16, 16:23 e 16:31** foram preservadas e ampliadas.
+
+Demais versículos (16:1–13, 16:15–33 e 16:34–36): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 16: https://www.mechon-mamre.org/p/pt/pt0216.htm
+- NET Bible, Êxodo 16:15, sobre מָן הוּא (*man hu*) e a etimologia do nome maná: https://classic.net.bible.org/passage.php?passage=Exo+16%3A15
+- Zvi Ron, “‘What Is It?’ Interpreting Exodus 16:15”, *Jewish Bible Quarterly* 38.4 (2010), 231–236: https://www.jewishbible.org/articles/what-is-it-interpreting-exodus-16-15/
+- Cambridge Bible for Schools and Colleges, Êxodo 16:14–15, sobre a expressão rara para o aspecto do maná: https://biblehub.com/commentaries/cambridge/exodus/16.htm
+- Rashi sobre Êxodo 16:33, צִנְצֶנֶת (*tsintsenet*) como vaso de barro: https://www.chabad.org/library/bible_cdo/aid/9877/jewish/Chapter-16.htm
+- Interlinear hebraico, Êxodo 16:36, proporção entre ômer e efá: https://search.nepebrasil.org/interlinear/?chapter=16&livro=2&verse=36
+
+**Próximo ponto:** Êxodo 17:1–16. Não repetir a conferência de Êxodo 16 sem evidência concreta de erro novo.
