@@ -38,8 +38,9 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     9:{term:"טוֹטָפֹת (totafot)",text:"Termo raro para o sinal colocado entre os olhos, tradicionalmente associado a filactérios. Sua etimologia é incerta; “faixa/sinal” preserva a função descrita sem afirmar uma derivação não comprovada."},
     12:{term:"שֶׁגֶר (sheger)",text:"Termo raro para a cria/primeira cria de um animal, especialmente do gado. A tradução explicita “primogênito macho” pelo paralelismo do versículo."},
     13:{term:"עָרַף (araf)",text:"Verbo “quebrar a nuca” ou “desnucar”. O texto especifica o tratamento do jumento primogênito não resgatado; não se trata do verbo comum para abater."},
-    17:{term:"וְלֹא נָחָם (velo nacham)",text:"A forma verbal de נחם pode expressar arrepender-se, mudar de ideia ou sentir pesar. Aqui descreve a possibilidade de o povo mudar de decisão diante da guerra."},
-    18:{term:"חֲמֻשִׁים (chamushim)",text:"Termo de sentido discutido: pode significar “armados”, “em formação” ou “organizados”. A tradução “preparados para a batalha” é contextual, não uma equivalência lexical indiscutível."}
+    17:{term:"וְלֹא נָחָם (velo naham, de נחה) / פֶּן יִנָּחֵם (pen yinnachem, de נחם)",text:"Há dois verbos de raízes diferentes no mesmo versículo. וְלֹא נָחָם (*velo naham*) vem de נחה (*nahah*), “guiar/conduzir”: Deus não os conduziu pela rota dos filisteus. Já פֶּן יִנָּחֵם (*pen yinnachem*) vem de נחם (*nacham*), “mudar de ideia/ arrepender-se”: o povo poderia mudar de ideia ao ver a guerra e voltar ao Egito. A nota anterior confundia as duas raízes; esta distinção corrige o registro lexical."},
+    18:{term:"חֲמֻשִׁים (chamushim)",text:"Termo de sentido discutido: pode significar “armados”, “em formação” ou “organizados”. A tradução “preparados para a batalha” é contextual, não uma equivalência lexical indiscutível."},
+    18.1:{term:"יַם־סוּף (Yam Suf)",text:"Literalmente “mar de juncos/caniços”. A Septuaginta traduziu o nome como “Mar Vermelho”, tradição que passou a muitas versões. “Mar de Juncos” segue o sentido hebraico, sem afirmar uma localização moderna exata."}
   },
   14: {
     2:{term:"פִּי הַחִירֹת (Pi-Hachirot)",text:"Topônimo cuja etimologia e localização são incertas. A tradução conserva a forma tradicional transliterada, sem propor identificação geográfica conclusiva."},
