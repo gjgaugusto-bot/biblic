@@ -109,3 +109,18 @@ Object.assign((window.TRANSLATION_NOTES[0][5] ||= {}), {
   24:{term:"וְאֵינֶנּוּ (ve'einennu)",text:"Literalmente, “e ele não estava / já não estava”. O texto acrescenta que Deus o tomou; não descreve o processo, e a tradução evita completar a narrativa."},
   29:{term:"נֹחַ (Noach) / יְנַחֲמֵנוּ (yenachamenu)",text:"O nome Noé é associado por meio de jogo sonoro ao verbo “consolar” (נחם, nicham). A associação narrativa não é uma etimologia linguística simples; preserva a explicação dada pelo próprio texto."}
 });
+
+
+// Notas lexicais adicionais — Gênesis 7–10.
+Object.assign((window.TRANSLATION_NOTES[0][7] ||= {}), {
+  2:{term:"טְהוֹרָה / לֹא טְהֹרָה (tehorah / lo tehorah)",text:"“Puro” e “não puro” são categorias rituais já pressupostas na narrativa. O texto não apresenta aqui uma lista de espécies nem explica ainda os critérios da distinção."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][8] ||= {}), {
+  1:{term:"וַיִּזְכֹּר (vayyizkor)",text:"“Lembrou-se” não sugere que Deus tivesse esquecido; é uma fórmula narrativa que marca a passagem para a ação em favor de Noé e dos seres vivos."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][9] ||= {}), {
+  4:{term:"בְּנַפְשׁוֹ דָמוֹ (benafsho damo)",text:"A expressão liga vida e sangue. O versículo proíbe comer carne com seu sangue, entendido como portador da vida; o texto desenvolve a relação entre sangue, vida e responsabilidade nos versículos seguintes."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][10] ||= {}), {
+  5:{term:"אִיֵּי הַגּוֹיִם (iyyei hagoyim)",text:"Expressão que pode designar ilhas, litorais ou regiões costeiras dos povos. “Regiões costeiras” evita restringir a referência a ilhas no sentido geográfico moderno."}
+});
