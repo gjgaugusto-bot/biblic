@@ -1088,7 +1088,7 @@ window.NUMBERS_TEXT[28] = [
   "É o holocausto de cada sábado, além do holocausto contínuo e de sua libação.",
   "No começo de cada mês, oferecereis em holocausto a YHWH dois novilhos, um carneiro e sete cordeiros de um ano, sem defeito;",
   "e, para cada novilho, três décimos de efa de farinha fina misturada com azeite, como oferta de cereal; para o carneiro, dois décimos de efa;",
-  "e, para cada cordeiro, um décimo de efa de farinha fina misturada com azeite, como oferta de cereal. É holocausto de aroma agradável, oferta queimada a YHWH.",
+  "e, para cada cordeiro, um décimo de efa de farinha fina misturada com azeite, como oferta de cereal. É holocausto de aroma agradável, oferta feita pelo fogo a YHWH.",
   "Suas libações serão meio him de vinho para cada novilho, um terço de him para o carneiro e um quarto de him para cada cordeiro. Este é o holocausto mensal, em cada lua nova do ano.",
   "Também será oferecido um bode como oferta pelo pecado a YHWH, além do holocausto contínuo e de sua libação.",
   "No décimo quarto dia do primeiro mês será a Páscoa de YHWH.",
