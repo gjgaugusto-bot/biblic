@@ -383,3 +383,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - O inventário estrutural inicial encontrou as seguintes contagens canônicas: 1–50 correspondem às contagens tradicionais de versículos após a inclusão de Gênesis 2:1 e 8:20–22.
 - Próxima etapa obrigatória: conferência semântica verso a verso dos capítulos 1–40, incluindo revisão de termos ambíguos, nomes próprios, medidas, cronologia e expressões idiomáticas; depois, segunda leitura de 41–50.
 - Status de todos os capítulos: RASCUNHO / EM REVISÃO, não REVISADO. Os rascunhos foram produzidos com auxílio de IA e ainda exigem validação por especialista em hebraico bíblico.
+
+
+### Conferência pontual de Gênesis 2–3 (2026-11-06)
+
+- Gênesis 2:22: ajustado “transformou a costela” para “formou uma mulher a partir da costela”, refletindo o verbo hebraico בנה (construir/formar).
+- Gênesis 3:8: “ao sopro do dia” ajustado para “à brisa do dia”, para uma expressão mais inteligível do hebraico לרוח היום.
+- Gênesis 3:15: ajustado o pronome “esta” para “ele”, acompanhando o pronome masculino הוא ligado a זרע (“descendência/semente”).
+- Essas correções são decisões de tradução de trabalho, não uma edição crítica certificada; a passagem e as alternativas devem permanecer abertas a revisão especializada.
