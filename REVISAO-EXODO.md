@@ -471,4 +471,28 @@ Demais versículos (13:1, 13:3, 13:5–8, 13:10, 13:14–16 e 13:19–22): confe
 - NET Bible, Êxodo 13:18, sobre חֲמֻשִׁים (*chamushim*) e יַם־סוּף (*Yam Suf*): https://classic.net.bible.org/verse.php?book=Exo&chapter=13&tab=commentaries&theme=false&verse=18
 - NET Bible, Êxodo 13:18, sobre “Sea of Reeds” e a tradução tradicional “Red Sea”: https://classic.net.bible.org/passage.php?passage=Exo+13%3A18
 
-**Próximo ponto:** Êxodo 14:1–31. Não repetir a conferência de Êxodo 13 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 15:1–27. Não repetir a conferência de Êxodo 13 sem evidência concreta de erro novo.
+
+
+### Êxodo 14 — conferência textual e lexical integral (14:1–31)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma correção lexical foi feita; as notas anteriores sobre topônimos, a expressão “mão erguida”, a ordem para avançar, o vento oriental, a vigília da manhã, a frase das rodas e a ambiguidade da nuvem/escuridão foram preservadas.
+
+Correção no texto:
+- **14:6:** “preparou seu carro” foi ajustado para **“atrelou seu carro”**, refletindo וַיֶּאְסֹר (*vaye'esor*), da raiz אסר (*asar*), “atar/prender”; no contexto, atrelar/preparar o carro de guerra para a partida.
+
+Nota lexical acrescentada:
+- **14:6:** registrada a nuance de אסר (*asar*), “atar/atrelar”, que justifica “atrelou seu carro”.
+
+Notas anteriores preservadas:
+- **14:2, 14:8, 14:13, 14:15, 14:20–21, 14:24–25 e 14:30:** mantidas, incluindo a incerteza sobre Pi-Hairote, a expressão “mão erguida”, a ordem de avançar, o vento oriental, a vigília da manhã, a dificuldade sintática das rodas e a ambiguidade de “nuvem e escuridão”.
+
+Demais versículos (14:1, 14:3–5, 14:7, 14:9–12, 14:14, 14:16–19, 14:22–23, 14:26–29 e 14:31): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 14: https://mechon-mamre.org/p/pt/pt0214.htm
+- NET Bible, Êxodo 14:6, sobre וַיֶּאְסֹר (*vaye'esor*) e o preparo/atrelamento do carro: https://classic.net.bible.org/passage.php?passage=Exo+14%3A6
+- NET Bible, Êxodo 14:20, sobre a construção difícil “nuvem e escuridão” e a luz na noite: https://classic.net.bible.org/verse.php?book=Exo&chapter=14&verse=20
+- NET Bible, Êxodo 14:25, sobre a expressão difícil relativa às rodas dos carros: https://classic.net.bible.org/verse.php?book=Exo&chapter=14&verse=25
+
+**Próximo ponto:** Êxodo 15:1–27. Não repetir a conferência de Êxodo 14 sem evidência concreta de erro novo.
