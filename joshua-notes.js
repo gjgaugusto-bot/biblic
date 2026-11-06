@@ -58,3 +58,21 @@ window.TRANSLATION_NOTES[5][6] = {
   19:{term:"אוֹצַר יְהוָה (otsar YHWH)",text:"Tesouro de YHWH. Os metais preciosos e utensílios não seriam apropriados individualmente, mas destinados ao santuário."},
   26:{term:"בְּכוֹרוֹ ... יְצִיבֶנָּה (bekhoro ... yetsivenah)",text:"A fórmula do juramento associa a reconstrução da cidade à perda do primogênito e do filho mais novo. A narrativa posterior retoma o cumprimento dessa palavra em 1 Reis 16:34."}
 };
+
+
+window.TRANSLATION_NOTES[5][7] = {
+  1:{term:"מָעַל (ma'al)",text:"Agir com infidelidade ou violar uma obrigação sagrada. O narrador atribui a transgressão de Acã à comunidade porque o ato comprometeu Israel como povo da aliança."},
+  5:{term:"וַיִּמַּס לְבַב־הָעָם (vayyimmass levav-ha'am)",text:"Literalmente, “o coração do povo derreteu”. A imagem descreve colapso da coragem após a derrota."},
+  11:{term:"חֵרֶם (ḥerem)",text:"Aquilo que foi posto sob interdito e retirado do uso comum. A infração de Acã envolve apropriar-se do que havia sido reservado a YHWH."},
+  19:{term:"תּוֹדָה (todah)",text:"Confissão ou reconhecimento público. A ordem de Josué chama Acã a reconhecer a verdade diante de Deus e da comunidade."},
+  21:{term:"שִׁנְעָר (Shinar)",text:"Nome antigo da região da Babilônia. A capa de Sinear é um objeto de procedência estrangeira, junto à prata e ao ouro escondidos."},
+  24:{term:"עָכוֹר (Akor)",text:"Nome associado à ideia de perturbação ou desgraça. O vale recebe esse nome em conexão com a consequência do ato de Acã."}
+};
+window.TRANSLATION_NOTES[5][8] = {
+  2:{term:"מַאְרָב (ma'arav)",text:"Emboscada ou força escondida para surpreender o inimigo. A estratégia de Ai contrasta com a marcha ritual diante de Jericó."},
+  13:{term:"הָעֵמֶק (ha-emeq)",text:"O vale. A posição de Josué no vale participa do plano tático descrito no capítulo."},
+  18:{term:"כִּידוֹן (kidon)",text:"Termo para lança, dardo ou arma de arremesso. O gesto de Josué funciona como sinal para a força de emboscada avançar."},
+  24:{term:"חֶרֶב (ḥerev)",text:"Espada. A expressão “ao fio da espada” é uma fórmula narrativa de combate e não deve ser suavizada como simples derrota."},
+  30:{term:"מִזְבֵּחַ (mizbeaḥ)",text:"Altar, lugar de oferta sacrificial. A narrativa passa da batalha à renovação pública do compromisso com a instrução de YHWH."},
+  33:{term:"גֵּר (ger)",text:"Estrangeiro residente. Sua presença na assembleia mostra que a leitura da aliança inclui também quem vive no meio de Israel."}
+};
