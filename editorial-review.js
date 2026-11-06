@@ -61,7 +61,7 @@
         GENESIS_TEXT,
         "em_revisao",
         "Texto hebraico massorético (WLC, Westminster Leningrad Codex) e tradução de trabalho da Enciclopédia Bíblica",
-        "Gênesis está parcialmente integrado. Os capítulos 1–6 estão presentes nesta edição; os capítulos 7–50 permanecem pendentes. Os estados de revisão foram mantidos como em revisão; esta migração não constitui aprovação exegética."
+        "Gênesis está parcialmente integrado. Os capítulos 1–10 estão presentes nesta edição; os capítulos 11–50 permanecem pendentes. Os estados de revisão foram mantidos como em revisão; esta migração não constitui aprovação exegética."
       );
     }
   } catch (error) {
