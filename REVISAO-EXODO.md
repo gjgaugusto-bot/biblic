@@ -19,7 +19,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 | 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 26–30 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 31–35 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
-| 36–40 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
+| 36–40 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 
 ## Achados registrados
 
@@ -88,3 +88,10 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 30; referências lexicais para as 
 - **Êxodo 35:7 e 35:23:** padronizado תְּחָשִׁים (*techashim*) como “peles de tahash”, mantendo a identificação material em aberto.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 31 e 34; texto hebraico massorético.
+
+### Êxodo 36–40 — primeira passada
+
+- **Êxodo 36:19 e 39:34:** padronizado תְּחָשִׁים (*techashim*) como “peles de tahash”, sem impor identificação zoológica incerta.
+- **Êxodo 28:17–18 e 39:10–11:** corrigida a transposição dos nomes das pedras entre as duas primeiras fileiras e harmonizada a lista nos capítulos 28 e 39. As identificações continuam assinaladas como tradicionais e incertas.
+
+Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
