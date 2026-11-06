@@ -594,4 +594,24 @@ Demais versículos (18:2, 18:4–10, 18:12–18, 18:20, 18:22 e 18:24–27): con
 - NET Bible, Êxodo 18:19, sobre a função de Moisés como representante do povo diante de Deus: https://classic.net.bible.org/verse.php?book=Exo&chapter=18&verse=19
 - NET Bible, Êxodo 18:23, sobre a estrutura condicional da frase: https://classic.net.bible.org/verse.php?book=Exo&chapter=18&verse=23
 
-**Próximo ponto:** Êxodo 19:1–25. Não repetir a conferência de Êxodo 18 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 20:1–26. Não repetir a conferência de Êxodo 18 sem evidência concreta de erro novo.
+
+
+### Êxodo 19 — conferência textual e lexical integral (19:1–25)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; uma nota foi acrescentada para explicar a metáfora de ameaça em 19:22.
+
+Nota lexical acrescentada:
+- **19:22:** יִפְרֹץ בָּהֶם (*yifrotz bahem*) vem de פרץ (*parats*), “abrir brecha/irromper”. A imagem é a de YHWH irrompendo contra os transgressores, isto é, agindo destrutivamente; “irrompa contra eles” preserva a metáfora hebraica.
+
+Notas anteriores preservadas:
+- **19:5–6, 19:10, 19:13, 19:15 e 19:18:** mantidas, incluindo *segullah*, “reino de sacerdotes”, consagração, *yovel*, abstinência ritual e a imagem da fornalha.
+
+Demais versículos (19:1–4, 19:7–9, 19:11–12, 19:14, 19:16–17, 19:19–21 e 19:23–25): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 19: https://mechon-mamre.org/p/pt/pt0219.htm
+- NET Bible, Êxodo 19:22, sobre יִפְרֹץ (*yifrotz*) e a metáfora de “irromper/fazer uma brecha”: https://classic.net.bible.org/verse.php?book=Exo&chapter=19&verse=22
+- Rashi sobre Êxodo 19:22, explicando a imagem como uma brecha de destruição entre o povo: https://www.sefaria.org/Rashi_on_Exodus.19.22
+
+**Próximo ponto:** Êxodo 20:1–26. Não repetir a conferência de Êxodo 19 sem evidência concreta de erro novo.
