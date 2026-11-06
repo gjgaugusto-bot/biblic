@@ -37,13 +37,19 @@ Repositório: `gjgaugusto-bot/biblic`
 | 18 | 32 | 36 | 13 |
 | **Total** | **1.288** | | |
 
+## Progresso da colação textual após a auditoria estrutural
+
+Em 6 de novembro de 2026, foi realizada a conferência integral dos 36 versículos de Números 10 e dos 35 versículos de Números 11, com o texto hebraico completo do Texto Massorético disponibilizado pelo Mechon-Mamre. A página BHS consultada continua expondo apenas parte desses capítulos; portanto, esta etapa não deve ser descrita como colação direta e integral contra a BHS.
+
+A leitura dos dois capítulos resultou em refinamentos de tradução em Números 10:13 e 10:31, e em Números 11:1, 11:10, 11:12 e 11:30. Foram acrescentadas notas lexicais para 11:12 (הָאֹמֵן, “cuidador/tutor”) e 11:30 (וַיֵּאָסֵף, “recolheu-se/retirou-se”). Os capítulos 10 e 11 ficam registrados como conferidos nesta etapa, com base no texto massorético completo acessível, sem que isso implique certificação acadêmica independente.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
 
 Limitações de cobertura de fontes identificadas:
-- Números 10: a página BHS consultada nesta verificação expôs somente os versículos 1–10, não o capítulo completo.
-- Números 11: a página BHS consultada expôs somente os versículos 1–15, não o capítulo completo.
+- Números 10: a página BHS consultada expôs somente os versículos 1–10; a colação integral foi completada nesta etapa com o texto massorético hebraico do Mechon-Mamre.
+- Números 11: a página BHS consultada expôs somente os versículos 1–15; a colação integral foi completada nesta etapa com o texto massorético hebraico do Mechon-Mamre.
 - Números 25: a conferência registrada anteriormente usou também Mechon-Mamre e Sefaria como testemunhos massoréticos auxiliares, pois a página BHS não estava acessível.
 - Números 27–36: as páginas oficiais BHS foram abertas, mas a extração textual disponível nesta auditoria não forneceu o texto hebraico integral de todos esses capítulos. Portanto, a cobertura completa por capítulo não fica demonstrada por este relatório.
 
