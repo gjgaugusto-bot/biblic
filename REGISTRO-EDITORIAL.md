@@ -182,3 +182,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 12:1–51.
+
+
+### Êxodo 12:1–51
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 12:21 para “Retirai e tomai”, refletindo משך e לקח.
+- Notas lexicais em 12:3, 12:21 e 12:42; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 13:1–22.
