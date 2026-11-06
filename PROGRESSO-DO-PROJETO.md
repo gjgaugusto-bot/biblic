@@ -341,3 +341,12 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Campos de busca receberam nomes acessíveis.
 - Estado: implementação preparada; resultados de Chromium/axe e revisão do diff pendentes.
 - Nenhum conteúdo bíblico, interpretação, significado da biblioteca, personagem ou gravura foi intencionalmente alterado.
+
+
+## Correção de contraste das abas do leitor — 2026-11-05
+
+- O workflow do PR #30 identificou contraste insuficiente na aba selecionada “Personagens” durante o teste de teclado: texto branco sobre fundo cinza calculado em 4:1, abaixo do mínimo WCAG AA de 4,5:1.
+- Preparada correção localizada em `style.css`: aba selecionada passa a usar texto escuro sobre fundo claro, com borda/sublinhado de seleção e foco visível reforçado.
+- Nenhum texto bíblico, dado de estudo, simbologia ou conteúdo editorial foi alterado.
+- Branch: `fix-contraste-abas-capitulo`. Validação automatizada pelo workflow do Pull Request ainda pendente; não declarar a correção aprovada até o resultado do CI.
+- Próximo passo: executar o workflow, revisar qualquer falha residual e só então solicitar revisão humana.
