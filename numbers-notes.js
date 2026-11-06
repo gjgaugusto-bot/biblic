@@ -9,3 +9,14 @@ window.TRANSLATION_NOTES[3][1] = {
   50:{term:"מִשְׁכַּן הָעֵדֻת (mishkan ha'edut)",text:"“Tabernáculo do Testemunho”. Mishkan é a habitação/tenda; edut, “testemunho”, relaciona-se às tábuas/aliança guardadas no santuário. A expressão identifica o santuário móvel de Israel."},
   53:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Guarda”, “encargo” ou “serviço confiado”. O termo enfatiza a responsabilidade contínua dos levitas de proteger e cuidar do santuário e de suas funções."}
 };
+
+
+/* Notas lexicais — Números 2. */
+window.TRANSLATION_NOTES[3][2] = {
+  2:{term:"דֶּגֶל (degel)",text:"“Estandarte” ou “bandeira” que identifica cada grande divisão do acampamento. O termo não designa apenas um objeto decorativo: organiza a disposição coletiva das tribos."},
+  2:{term:"מִנֶּגֶד (minneged)",text:"Expressa posição “em frente”, “a certa distância” ou “defronte”. A distância em relação à Tenda do Encontro preserva a centralidade do santuário e a ordem do acampamento."},
+  3:{term:"קֵדְמָה מִזְרָחָה (qedmah mizrachah)",text:"Duas expressões direcionais reforçam a orientação para o lado do nascente, isto é, o leste. O acampamento de Judá ocupa a posição de honra na marcha."},
+  9:{term:"רִאשֹׁנָה יִסָּעוּ (rishonah yissa'u)",text:"“Partirão primeiro”. O verbo נסע (nasa') é o termo recorrente para levantar acampamento e partir; aqui define a ordem processional das divisões."},
+  17:{term:"אִישׁ עַל־יָדוֹ (ish al-yado)",text:"Literalmente, “cada homem junto à sua mão/lado”. A expressão indica que cada grupo deve manter sua posição designada na formação, tanto ao acampar quanto ao marchar."},
+  31:{term:"לָאַחֲרֹנָה (la'acharonah)",text:"“Por último”, “na retaguarda”. A divisão de Dã encerra a ordem de marcha, funcionando como retaguarda do conjunto tribal."}
+};
