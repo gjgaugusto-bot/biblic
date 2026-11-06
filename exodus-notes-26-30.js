@@ -17,6 +17,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   28: {
     4: {term:"אֵפוֹד (efod)",text:"Peça sacerdotal semelhante a um avental ou colete ritual; a forma exata é reconstruída a partir da descrição."},
     15: {term:"חֹשֶׁן מִשְׁפָּט (choshen mishpat)",text:"“Peitoral do juízo/decisão”, peça que continha as pedras e os Urim e Tumim."},
+    17: {term:"אֹדֶם (odem) / פִּטְדָּה (pitdah) / בָּרֶקֶת (bareqet) e demais nomes das pedras",text:"Os nomes hebraicos das pedras do peitoral são antigos e nem sempre permitem identificação mineral segura. “Sárdio”, “topázio”, “carbúnculo” e os demais equivalentes são traduções tradicionais, mas as listas variam entre versões."},
     30: {term:"אוּרִים וְתֻמִּים (urim vetummim)",text:"Objetos associados à consulta oracular e à decisão. O significado literal e a forma material permanecem incertos."},
     36: {term:"קֹדֶשׁ לַיהוָה (qodesh la-YHWH)",text:"“Consagrado a YHWH” ou “santidade para YHWH”; inscrição que identifica a dedicação sacerdotal."}
   },
@@ -30,6 +31,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     12: {term:"כֹּפֶר (kofer)",text:"Resgate ou preço de compensação. Aqui o meio siclo é apresentado como resgate pela vida no recenseamento."},
     13: {term:"גֵּרָה (gerah)",text:"Unidade pequena de peso/moeda; vinte geras correspondiam a um siclo segundo o texto."},
     23: {term:"מֹר דְּרוֹר (mor deror)",text:"Mirra de qualidade ou mirra fluida/pura; a expressão identifica uma especiaria da composição do óleo."},
-    34: {term:"שְׁחֵלֶת (shechelet)",text:"Ingrediente aromático do incenso, tradicionalmente ônica; sua identificação exata é incerta."}
+    24: {term:"קִדָּה (qiddah)",text:"Especiaria tradicionalmente identificada como cássia. A identificação botânica exata e sua relação com outras plantas aromáticas antigas não são totalmente seguras."},
+    34: {term:"נָטָף (nataf) / שְׁחֵלֶת (shechelet)",text:"Nataf é tradicionalmente identificado como estoraque ou uma resina aromática; shechelet, como ônica ou outro ingrediente aromático. As identificações botânicas e materiais são incertas."}
   }
 });
