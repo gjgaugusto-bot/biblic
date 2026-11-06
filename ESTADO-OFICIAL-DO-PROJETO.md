@@ -178,3 +178,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas ampliadas/acrescentadas em 11:1, 11:4 e 11:8; notas anteriores de 11:2, 11:5 e 11:7 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 12:1–51.
+
+
+### Continuidade de conteúdo — Êxodo 12 (2026-11-06)
+
+- Êxodo 12:1–51 conferido integralmente contra o Texto Massorético.
+- Ajuste em 12:21: “Escolhei e tomai” → “Retirai e tomai”, refletindo os verbos משך e לקח.
+- Notas acrescentadas em 12:3, 12:21 e 12:42; notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 13:1–22.
