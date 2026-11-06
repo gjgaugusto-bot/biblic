@@ -58,6 +58,12 @@ window.TRANSLATION_NOTES = {
     }
   },
   1: {
+    1: {
+      7: {term:"וַיִּשְׁרְצוּ (vayishretsu)",text:"Verbo da raiz שׁרץ, que pode descrever enxamear, pulular ou multiplicar-se abundantemente. A sequência de verbos intensifica a imagem do crescimento de Israel; “multiplicaram-se abundantemente” transmite o sentido, embora não reproduza a imagem de “pulular”."}
+    },
+    2: {
+      10: {term:"מֹשֶׁה (Moshe) / מְשִׁיתִהוּ (meshitihu)",text:"O versículo associa o nome Moshe ao verbo hebraico משה (mashah, “tirar/puxar para fora”), em um jogo de palavras com “eu o tirei das águas”. Isso explica a narrativa do nome, mas não encerra a discussão sobre sua origem histórica, que também foi relacionada ao egípcio."}
+    },
     3: {
       14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."},
       19: {term:"וְלֹא בְּיָד חֲזָקָה",text:"A relação lógica da expressão é ambígua. Pode ser entendida como “a não ser por mão forte” — a resistência do faraó cederia diante da força — ou como “nem mesmo por mão forte”. A tradução de trabalho escolhe a primeira leitura."}
