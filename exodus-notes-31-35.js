@@ -31,9 +31,16 @@ Object.assign(window.TRANSLATION_NOTES[1], {
 34: {
   6:{term:"רַחוּם וְחַנּוּן (rachum vechannun); חֶסֶד וֶאֱמֶת (chesed ve'emet)",text:"“Compassivo e gracioso/misericordioso”; “amor leal e fidelidade/verdade”. A fórmula reúne atributos centrais do caráter divino: compaixão, compromisso duradouro e confiabilidade."},
   7:{term:"נֹשֵׂא עָוֹן (nose avon)",text:"“Que carrega/perdoa a iniquidade”. A linguagem de carregar o erro funciona como metáfora de perdão."},
+  9:{term:"כִּי עַם־קְשֵׁה־עֹרֶף הוּא (ki am-qesheh-oref hu)",text:"A conjunção כי (ki) é normalmente causal (“pois/porque”), mas pode ser entendida concessivamente (“embora”) no contexto do pedido de Moisés. A tradução “embora” preserva a tensão entre a obstinação do povo e o pedido de presença e perdão."},
+  10:{term:"נוֹרָא הוּא (nora hu)",text:"Adjetivo de ירא (yare, temer): algo temível, impressionante ou assombroso. No contexto de maravilhas sem precedentes, “terrível” comunica a força da expressão, mas “assombroso” também é possível."},
+  12:{term:"מוֹקֵשׁ (moqesh)",text:"Laço, armadilha ou cilada. A aliança com os habitantes da terra poderia tornar-se uma armadilha para Israel."},
+  14:{term:"קַנָּא (qanna)",text:"“Zeloso/ciumento”. O título descreve a exclusividade da lealdade exigida na aliança; “Zeloso” é uma tradução tradicional que conserva a imagem sem reduzir a emoção humana."},
+  22:{term:"תְּקוּפַת הַשָּׁנָה (tequfat hashshanah)",text:"Virada, ciclo ou mudança do ano; a expressão situa a festa da colheita no encerramento do ciclo agrícola/anual."},
   13:{term:"אֲשֵׁרִים (asherim)",text:"Postes ou objetos cultuais associados à deusa Aserá; a identificação material exata varia conforme contexto arqueológico e textual."},
-  29:{term:"קָרַן (qaran)",text:"Verbo relacionado a “raios” ou “emitir brilho”. A tradição de tradução varia entre rosto resplandecente e imagem de raios."},
-  33:{term:"מַסְוֶה (masveh)",text:"Véu ou cobertura para o rosto. O termo é raro e sua forma exata é discutida."}
+  29:{term:"קָרַן (qaran)",text:"Verbo raro relacionado a “emitir raios”. A tradução tradicional entende que a pele do rosto de Moisés resplandecia; uma associação com קֶרֶן (qeren, “chifre”) gerou a leitura “tinha chifres”. O contexto e antigas traduções favorecem a ideia de brilho, mas a discussão filológica deve permanecer registrada."},
+  30:{term:"וַיִּירְאוּ מִגֶּשֶׁת אֵלָיו (vayyir'u miggeshet elav)",text:"“Tiveram medo de aproximar-se dele”. A reação dos israelitas é apresentada como resposta ao brilho/raios do rosto de Moisés."},
+  33:{term:"מַסְוֶה (masveh)",text:"Véu ou cobertura para o rosto. O termo é raro e sua forma exata é discutida; ocorre apenas nos versículos 33–35 deste capítulo."},
+  34:{term:"יָסִיר אֶת־הַמַּסְוֶה (yasir et-hammasveh)",text:"A forma verbal descreve a retirada do véu quando Moisés entra para falar com YHWH. O texto distingue esse momento da comunicação posterior ao povo e da recolocação do véu."}
 },
 35: {
   5:{term:"תְּרוּמָה (terumah)",text:"Contribuição/oferta separada para uma finalidade sagrada; não indica necessariamente sacrifício no altar."},
