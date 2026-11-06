@@ -195,3 +195,20 @@ footer{padding-top:25px;padding-bottom:34px}
 
 /* Contraste WCAG AA: estados inativos prevalecem sobre hover e foco. */
 #reader .chapter-tabs button.chapter-tab[aria-selected="false"],#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:hover,#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:focus{background:#333!important;color:#fff!important;border-color:#333!important;opacity:1!important;filter:none!important;text-shadow:none!important}
+
+
+/* Editor das categorias da biblioteca — campos organizados no painel administrativo. */
+.study-category-editor{position:relative;margin:16px 0;padding:16px;border:1px solid #aaa;background:#f7f7f5}
+.study-category-editor h3{margin:0 0 12px;font-family:Georgia,serif;font-weight:normal}
+.study-category-editor label{display:block;margin:10px 0}
+.study-category-editor input{width:100%;box-sizing:border-box;padding:11px;border:1px solid #888;background:#fff;color:#111}
+#reader .chapter-tabs button.chapter-tab[aria-selected="false"],
+#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:hover,
+#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:focus,
+button.chapter-tab[aria-selected="false"],
+button.chapter-tab[aria-selected="false"]:hover,
+button.chapter-tab[aria-selected="false"]:focus{
+ background:#111!important;background-color:#111!important;background-image:none!important;
+ color:#fff!important;border-color:#111!important;opacity:1!important;filter:none!important;
+ text-shadow:none!important;box-shadow:none!important;
+}
