@@ -87,3 +87,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo 1:1–22 conferido contra o Texto Massorético. Correções pontuais em 1:15 e 1:20; notas lexicais ampliadas em 1:1, 1:5, 1:15, 1:16, 1:19, 1:20 e 1:21. A nota preexistente de 1:7 foi preservada.
 - O capítulo 1 está com a primeira conferência textual integral registrada, mas seu estado no painel permanece “Em revisão” até a transição individual ser gravada com fonte e observação; não declarar o livro concluído.
 - Próximo ponto: Êxodo 2:1–25.
+
+
+### Continuidade de conteúdo — Êxodo 2 (2026-11-06)
+
+- Êxodo 2:1–25 conferido integralmente contra o Texto Massorético.
+- Correção: 2:12, “escondeu-o na areia” → “enterrou-o na areia”, conforme o sentido contextual de טמן (taman) e o registro do BDB.
+- Notas lexicais acrescentadas em 2:2, 2:3, 2:12, 2:17 e 2:25; notas anteriores de 2:10 e 2:22 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 3:1–22. Êxodo 1 e 2 não devem ser revistos novamente sem evidência concreta de erro relevante.
