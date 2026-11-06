@@ -633,3 +633,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota lexical acrescentada em 19:22 sobre יִפְרֹץ (*yifrotz*), “irromper/abrir brecha”; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 20:1–26.
+
+
+## 2026-11-06 — revisão de Êxodo 20:1–26
+
+- Conferência integral do capítulo 20 contra o Texto Massorético.
+- Ajuste em 20:25 para concordância singular com o altar: “erguer sua ferramenta sobre ele, você o profanará”.
+- Nota lexical acrescentada em 20:25; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 21:1–36.
