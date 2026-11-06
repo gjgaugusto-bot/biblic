@@ -94,7 +94,15 @@ Ao encerrar cada etapa, atualizar o registro de progresso. Não depender apenas 
 - A branch `trabalho-base-2026-11-06` nasce do mesmo commit e é o ponto de partida das próximas tarefas. Para mudanças grandes, criar branches de recurso derivadas dela e retornar por Pull Request.
 - A branch `arquivo-pre-auditoria-2026-11-06` preserva o estado anterior às correções desta auditoria.
 - A branch `main` representa a publicação e não deve ser alterada nesta fase.
-- O PR #35 permanece draft, aberto e não integrado. Não mesclar, publicar ou disparar deploy sem pedido explícito do proprietário.
+- O PR #35 foi fechado e integrado à branch `base-imutavel-2026-11-06` pelo merge commit `0d879f02df46fb1b4a5a2d87fe1c21bfba06187b`; não foi integrado em `main`. Não mesclar, publicar ou disparar deploy sem pedido explícito do proprietário.
 - A branch congelada é preservada por procedimento, não por uma trava técnica confirmada. A integração atual não tem permissão para criar regras de proteção; não afirmar que a branch está bloqueada contra escrita.
 - O snapshot do código não inclui dados que estejam somente no `localStorage` do navegador. Antes de limpar o navegador, trocar de dispositivo ou reinstalar o aplicativo, exportar e guardar o backup JSON.
 - Ao iniciar cada nova conversa, ler este protocolo, `BASE-IMUTAVEL.md` e `PROGRESSO-DO-PROJETO.md`; conferir o SHA atual das branches e trabalhar somente na branch de trabalho.
+
+
+## 9. Atualização de continuidade — 2026-11-06
+
+- Antes de criar a branch do controle editorial, foi comparada a base `trabalho-base-2026-11-06` com `main`. A base de trabalho estava 148 commits atrás e não continha a integração atual de Êxodo.
+- Para não perder o conteúdo mais recente, a branch `feat/controle-editorial-versiculos-2026-11-06` foi criada a partir do HEAD atual de `main`, sem escrever em `main` nem na branch congelada.
+- Enquanto `trabalho-base-2026-11-06` permanecer atrás, novas branches de recurso devem partir do HEAD mais recente aprovado de `main` ou de uma branch de trabalho atualizada por PR. Nunca usar uma base antiga que omita conteúdo já integrado.
+- O PR #36 contém a implementação do controle editorial e permanece em draft até a validação automática e revisão do diff. Não integrar nem publicar sem autorização explícita.
