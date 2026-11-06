@@ -1020,3 +1020,32 @@ Demais versículos (34:1–8, 34:11–28 e 34:31–35): conferidos quanto à cor
 - Victor P. Hamilton, Exodus: An Exegetical Commentary, discussão da ambiguidade sintática em 34:29 e do termo raro masveh: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
 
 **Próximo ponto:** Êxodo 35:1–35. Não repetir a conferência de Êxodo 34 sem evidência concreta de erro novo.
+
+### Êxodo 35 — conferência textual e lexical integral (35:1–35)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do hebraico e de traduções de referência. Três formulações foram refinadas para maior precisão; também foi harmonizada a terminologia artesanal com Êxodo 31.
+
+Correções e refinamentos no texto:
+- **35:11:** “colchetes” foi harmonizado para **“ganchos”**, mantendo a mesma escolha usada na descrição anterior dos componentes que unem as cortinas do tabernáculo.
+- **35:24:** “Todos os que podiam oferecer prata ou bronze” foi ajustado para **“Todos os que separaram uma contribuição de prata ou bronze”**, refletindo כָּל־מֵרִים (*kol merim*), “todo aquele que levantava/separava” uma contribuição.
+- **35:25:** “tecido azul, púrpura, escarlate e linho fino” foi ajustado para **“fio azul, púrpura e escarlate, e linho fino”**. מַטְוֶה (*matveh*) designa material fiado/fio, não necessariamente tecido acabado.
+- **35:33:** “lapidar pedras de engaste” foi harmonizado para **“trabalhar pedras e engastá-las”**, em coerência com Êxodo 31:5 e a expressão חֲרֹשֶׁת אֶבֶן לְמַלֹּאת (*charoshet even le-mallot*).
+
+Notas lexicais acrescentadas/ampliadas:
+- **35:3:** לֹא־תְבַעֲרוּ אֵשׁ (*lo teva'aru esh*) proíbe acender/fazer arder fogo nas moradias no sábado; o versículo não detalha categorias posteriores de trabalho sabático.
+- **35:11:** קְרָסִים (*qerasim*) são ganchos/grampos de união dos componentes do tabernáculo; a tradução “ganchos” foi mantida em coerência com os capítulos anteriores.
+- **35:22:** חָח (*chach*), נֶזֶם (*nezem*), טַבַּעַת (*taba'at*) e כּוּמָז (*kumaz*) designam adornos de ouro. A identificação de alguns itens varia: pulseira/bracelete, argola de nariz ou brinco, anel e pendente são propostas; kumaz permanece incerto. A expressão sobre homens e mulheres também admite nuance de trazer os adornos com/que estavam nas mulheres.
+- **35:24:** מֵרִים (*merim*) descreve quem separa/ergue uma contribuição, não simplesmente quem teria capacidade de oferecê-la.
+- **35:25–26:** טָוָה (*tavah*) significa fiar; מַטְוֶה (*matveh*) é o fio/material fiado. O texto destaca a habilidade das mulheres na preparação das fibras.
+- **35:33:** a expressão para trabalhar pedras e engastá-las foi harmonizada com Êxodo 31:5, preservando a distinção entre trabalhar/ajustar pedras e apenas poli-las.
+- **35:19 e 35:35:** preservadas as notas sobre בִּגְדֵי הַשְּׂרָד (*bigdei haserad*), vestes de serviço de sentido técnico incerto, e חָרָשׁ (*charash*), artesão/trabalhador especializado.
+
+Demais versículos (35:1–10, 35:12–23, 35:26–32 e 35:34–35): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 35: https://mechon-mamre.org/p/pt/pt0235.htm
+- Sefaria, Êxodo 35, texto hebraico e tradução JPS (2023): https://www.sefaria.org/Exodus.35
+- NET Bible, Êxodo 35:4–19, notas sobre as contribuições e materiais do tabernáculo: https://bible.org/sites/bible.org/resources/download/netbible/ondemand/bybook/exo.pdf
+- Rashi sobre Êxodo 35:3 e 35:22–26, interpretações tradicionais sobre fogo no sábado, adornos e fiação: https://www.chabad.org/library/bible_cdo/aid/9896/jewish/Chapter-35.htm
+
+**Próximo ponto:** Êxodo 36:1–38. Não repetir a conferência de Êxodo 35 sem evidência concreta de erro novo.
