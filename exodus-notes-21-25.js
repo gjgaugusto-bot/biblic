@@ -25,7 +25,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     14: {term:"שָׁלֹשׁ רְגָלִים (shalosh regalim)",text:"Expressão literalmente ligada a “três pés/vezes”, usada para as três festas de peregrinação em que os israelitas compareciam diante de YHWH. “Três vezes por ano” traduz a frequência, enquanto a nota registra o caráter de peregrinação."},
     15: {term:"אָבִיב (aviv)",text:"Nome do mês associado ao amadurecimento das espigas; mais tarde corresponde a Nisã no calendário judaico."},
     20: {term:"מַלְאָךְ (mal'akh)",text:"“Mensageiro”. A palavra descreve a função de enviado e, por si só, não determina a natureza do mensageiro."},
-    28: {term:"צִרְעָה (tsir'ah)",text:"Inseto identificado tradicionalmente como vespa ou marimbondo; a identificação zoológica exata não é certa."}
+    28: {term:"צִרְעָה (tsir'ah)",text:"Inseto identificado tradicionalmente como vespa ou marimbondo; a identificação zoológica exata não é certa."},
+    26: {term:"מְשַׁכֵּלָה (meshakkelah) / עֲקָרָה (aqarah)",text:"מְשַׁכֵּלָה (*meshakkelah*) descreve a que perde filhos/sofre aborto ou perda gestacional; עֲקָרָה (*aqarah*) é mulher estéril. A dupla expressão cobre perda de gravidez e infertilidade, sem definir causas médicas."}
   },
   24: {
     7: {term:"סֵפֶר הַבְּרִית (sefer habberit)",text:"“Livro da aliança”: o registro escrito das palavras lidas por Moisés ao povo."},
