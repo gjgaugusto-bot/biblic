@@ -369,7 +369,17 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - A revisão está em andamento; nenhum capítulo foi certificado como tradução acadêmica revisada.
 - Fonte de conferência definida: texto hebraico do Westminster Leningrad Codex (WLC), disponibilizado no projeto Open Scriptures Hebrew Bible (OSHB). O texto-base WLC é de domínio público; os dados de lemas/morfologia OSHB exigem atribuição CC BY 4.0.
 - Auditoria estrutural inicial dos 50 capítulos: foram detectadas omissões em Gênesis 2:1 e Gênesis 8:20–22. As lacunas foram reinseridas no texto do site nesta etapa.
-- Gênesis 41–50 ainda continha texto de Almeida 1911 com ortografia antiga; portanto, não pode ser apresentado como tradução de trabalho própria baseada no hebraico. A substituição e conferência desses dez capítulos continua pendente.
+- Gênesis 41–50 foi substituído por novos rascunhos em português, elaborados com conferência dos capítulos hebraicos WLC correspondentes. A revisão especializada independente continua pendente.
 - Gênesis 1–40 contém rascunhos de tradução próprios, mas ainda requer conferência semântica verso a verso com o WLC; contagem correta de versículos, isoladamente, não comprova fidelidade.
 - Verificação de interface identificou contraste insuficiente na aba inativa “Simbologias” (3,41:1; mínimo WCAG AA 4,5:1). Foi aplicada regra de contraste mais forte às abas não selecionadas. O teste de navegador deverá ser executado novamente.
 - Status editorial geral: EM REVISÃO. Não usar “tradução fiel certificada”, “revisado” ou “concluído” até validação por pessoa com competência em hebraico bíblico.
+
+
+### Atualização da revisão de texto (2026-11-06)
+
+- Substituídos os textos de Gênesis 41–50, que anteriormente eram de Almeida 1911 com ortografia antiga, por rascunhos novos em português conferidos com os capítulos hebraicos WLC.
+- Capítulos trabalhados nesta etapa: 41–42 (fontes hebraicas WLC dos capítulos 41 e 42); 43–45 (WLC 43–45); 46–48 (WLC 46–48); 49–50 (WLC 49–50).
+- Preservada em Gênesis 49:10 a forma “Siló”, sem resolver no corpo do texto a interpretação discutida do termo hebraico.
+- O inventário estrutural inicial encontrou as seguintes contagens canônicas: 1–50 correspondem às contagens tradicionais de versículos após a inclusão de Gênesis 2:1 e 8:20–22.
+- Próxima etapa obrigatória: conferência semântica verso a verso dos capítulos 1–40, incluindo revisão de termos ambíguos, nomes próprios, medidas, cronologia e expressões idiomáticas; depois, segunda leitura de 41–50.
+- Status de todos os capítulos: RASCUNHO / EM REVISÃO, não REVISADO. Os rascunhos foram produzidos com auxílio de IA e ainda exigem validação por especialista em hebraico bíblico.
