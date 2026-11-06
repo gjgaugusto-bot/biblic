@@ -693,3 +693,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas ampliadas em 26:17, 26:24 e 26:36 sobre encaixes, armações dos cantos e a cortina de entrada.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 27:1–21.
+
+
+## 2026-11-06 — revisão de Êxodo 27:1–21
+
+- Conferência integral do capítulo 27 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais ampliadas em 27:5 e 27:9 sobre a moldura do altar e as cortinas do pátio.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 28:1–43.
