@@ -1,6 +1,6 @@
-/* Números 1 — tradução própria de trabalho a partir do hebraico massorético.
-   Texto-base: Miqra according to the Masorah, consultado na Sefaria.
-   Estado: em revisão; capítulo 1 integrado, sujeito a conferência lexical e textual. */
+/* Números 1–36 — tradução própria de trabalho a partir do hebraico massorético.
+   Texto-base de consulta: Miqra according to the Masorah (Sefaria), Mechon-Mamre e referências BHS quando disponíveis.
+   Estado: 36 capítulos / 1.288 versículos integrados; auditoria estrutural global concluída. Revisão lexical e textual versículo por versículo ainda não está concluída. */
 window.NUMBERS_TEXT = window.NUMBERS_TEXT || {};
 window.NUMBERS_TEXT[1] = [
   "YHWH falou a Moisés no deserto do Sinai, na Tenda do Encontro, no primeiro dia do segundo mês, no segundo ano depois de saírem da terra do Egito, dizendo:",
