@@ -712,3 +712,76 @@ window.DEUTERONOMY_TEXT[24] = [
   "Quando vindimares tua vinha, não rebuscarás o que ficar; isso será para o estrangeiro, o órfão e a viúva.",
   "Lembra-te de que foste escravo na terra do Egito; por isso te ordeno que pratiques esta palavra."
 ];
+
+window.DEUTERONOMY_TEXT[25] = [
+  "Quando houver uma disputa entre homens, e eles se apresentarem ao tribunal, os juízes os julgarão, declarando justo o que é justo e condenando o culpado.",
+  "Se o culpado merecer açoites, o juiz mandará que se deite e seja açoitado diante dele, conforme a gravidade de sua culpa e o número de golpes determinado.",
+  "Serão no máximo quarenta golpes; não deverá ultrapassá-los, para que teu irmão não seja humilhado diante de teus olhos.",
+  "Não amordaçarás o boi enquanto debulha o cereal.",
+  "Se irmãos morarem juntos e um deles morrer sem deixar filho, a mulher do falecido não se casará com alguém de fora da família. O irmão de seu marido irá até ela, tomá-la-á por mulher e cumprirá o dever de cunhado.",
+  "O primeiro filho que ela der à luz sucederá ao nome do irmão falecido, para que o nome dele não seja apagado de Israel.",
+  "Mas, se o homem não quiser tomar a mulher de seu irmão, ela irá à porta da cidade, aos anciãos, e dirá: ‘O irmão de meu marido se recusa a preservar o nome de seu irmão em Israel; não quer cumprir comigo o dever de cunhado.’",
+  "Então os anciãos da cidade o chamarão e falarão com ele. Se ele persistir e disser: ‘Não quero tomá-la’,",
+  "a mulher de seu irmão se aproximará dele diante dos anciãos, tirará a sandália do pé dele, cuspirá diante dele e declarará: ‘Assim se fará ao homem que não edifica a casa de seu irmão.’",
+  "E a família dele será chamada em Israel: ‘A casa do descalçado’.",
+  "Quando dois homens estiverem brigando, e a mulher de um se aproximar para livrar o marido da mão daquele que o golpeia e estender a mão, agarrando-o pelos órgãos genitais,",
+  "cortarás a mão dela; teu olho não terá compaixão.",
+  "Não terás em tua bolsa dois pesos diferentes, um grande e outro pequeno.",
+  "Não terás em tua casa duas medidas diferentes, uma grande e outra pequena.",
+  "Terás peso completo e justo, e medida completa e justa, para que teus dias se prolonguem na terra que YHWH, teu Deus, te dá.",
+  "Pois todo aquele que pratica essas coisas, todo aquele que age injustamente, é abominação para YHWH, teu Deus.",
+  "Lembra-te do que Amaleque te fez no caminho, quando saíste do Egito:",
+  "como te encontrou no caminho e atacou pela retaguarda todos os fracos que vinham atrás de ti, quando estavas cansado e exausto; ele não temeu a Deus.",
+  "Quando YHWH, teu Deus, te der descanso de todos os teus inimigos ao redor, na terra que YHWH, teu Deus, te dá como herança para possuíres, apagarás a memória de Amaleque de debaixo dos céus. Não te esqueças."
+];
+
+window.DEUTERONOMY_TEXT[26] = [
+  "Quando entrares na terra que YHWH, teu Deus, te dá por herança, tomares posse dela e nela habitares,",
+  "tomarás as primícias de todos os frutos do solo que recolheres da terra que YHWH, teu Deus, te dá; colocá-las-ás num cesto e irás ao lugar que YHWH, teu Deus, escolher para fazer habitar ali o seu nome.",
+  "Apresentar-te-ás ao sacerdote que estiver em exercício naqueles dias e lhe dirás: ‘Hoje declaro a YHWH, teu Deus, que entrei na terra que YHWH jurou a nossos pais que nos daria.’",
+  "O sacerdote tomará o cesto de tua mão e o colocará diante do altar de YHWH, teu Deus.",
+  "Então declararás diante de YHWH, teu Deus: ‘Meu pai era um arameu errante. Desceu ao Egito e ali viveu como estrangeiro, com poucas pessoas; ali se tornou uma nação grande, forte e numerosa.",
+  "Os egípcios nos maltrataram, oprimiram-nos e nos impuseram trabalho duro.",
+  "Clamamos a YHWH, Deus de nossos pais, e YHWH ouviu nossa voz, viu nossa aflição, nosso trabalho penoso e nossa opressão.",
+  "YHWH nos tirou do Egito com mão poderosa e braço estendido, com grande terror, sinais e maravilhas.",
+  "Trouxe-nos a este lugar e nos deu esta terra, terra que mana leite e mel.",
+  "Agora, eis que trouxe as primícias dos frutos do solo que tu, YHWH, me deste.’ Então as colocarás diante de YHWH, teu Deus, e te prostrarás diante dele.",
+  "Tu te alegrarás por todo o bem que YHWH, teu Deus, deu a ti e à tua casa: tu, o levita e o estrangeiro residente no meio de ti.",
+  "Quando terminares de separar todo o dízimo da tua produção no terceiro ano, o ano do dízimo, e o entregares ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro de tuas cidades e fiquem satisfeitos,",
+  "dirás diante de YHWH, teu Deus: ‘Retirei da minha casa o que é consagrado e o dei ao levita, ao estrangeiro, ao órfão e à viúva, conforme todos os mandamentos que me ordenaste. Não transgredi teus mandamentos nem me esqueci deles.",
+  "Não comi disso durante meu luto, não retirei nada enquanto estava impuro, nem ofereci disso a um morto. Ouvi a voz de YHWH, meu Deus, e fiz conforme tudo o que me ordenaste.",
+  "Olha desde tua santa morada, desde os céus, e abençoa teu povo Israel e o solo que nos deste, conforme juraste a nossos pais: uma terra que mana leite e mel.’",
+  "Hoje YHWH, teu Deus, te ordena que cumpras estes estatutos e decisões judiciais. Guarda-os e pratica-os de todo o teu coração e de toda a tua vida.",
+  "Hoje declaraste que YHWH será teu Deus e que andarás em seus caminhos, guardarás seus estatutos, seus mandamentos e suas decisões judiciais e ouvirás sua voz.",
+  "E hoje YHWH declarou que tu serás seu povo precioso, conforme te prometeu, e que guardarás todos os seus mandamentos.",
+  "Ele te elevará acima de todas as nações que criou, para louvor, fama e honra; e serás um povo santo para YHWH, teu Deus, conforme ele falou."
+];
+
+window.DEUTERONOMY_TEXT[27] = [
+  "Moisés e os anciãos de Israel ordenaram ao povo: ‘Guardai todos os mandamentos que hoje vos ordeno.",
+  "No dia em que atravessardes o Jordão para a terra que YHWH, teu Deus, te dá, levantarás grandes pedras e as revestirás de cal.",
+  "Escreverás nelas todas as palavras desta instrução, quando atravessares, para entrares na terra que YHWH, teu Deus, te dá, terra que mana leite e mel, conforme YHWH, Deus de teus pais, te falou.",
+  "Quando atravessardes o Jordão, levantareis estas pedras no monte Ebal, conforme hoje vos ordeno, e as revestireis de cal.",
+  "Ali construirás um altar a YHWH, teu Deus, altar de pedras. Não levantarás sobre elas ferramenta de ferro.",
+  "Construirás o altar de YHWH, teu Deus, com pedras inteiras, e oferecerás sobre ele holocaustos a YHWH, teu Deus.",
+  "Oferecerás sacrifícios de comunhão, comerás ali e te alegrarás diante de YHWH, teu Deus.",
+  "Escreverás sobre as pedras todas as palavras desta instrução, explicando-as claramente.’",
+  "Então Moisés e os sacerdotes levitas falaram a todo o Israel: ‘Fica em silêncio e ouve, Israel! Hoje te tornaste povo de YHWH, teu Deus.",
+  "Ouvirás a voz de YHWH, teu Deus, e cumprirás seus mandamentos e estatutos que hoje te ordeno.’",
+  "Naquele dia Moisés ordenou ao povo:",
+  "‘Quando atravessardes o Jordão, estas tribos ficarão sobre o monte Gerizim para abençoar o povo: Simeão, Levi, Judá, Issacar, José e Benjamim.",
+  "E estas ficarão sobre o monte Ebal para a maldição: Rúben, Gade, Aser, Zebulom, Dã e Naftali.",
+  "Os levitas proclamarão em voz alta a todos os homens de Israel:",
+  "‘Maldito o homem que fizer imagem esculpida ou fundida, abominação para YHWH, obra das mãos de um artesão, e a colocar em lugar secreto!’ E todo o povo responderá: ‘Amém!’",
+  "‘Maldito aquele que desprezar seu pai ou sua mãe!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que remover o marco de propriedade de seu próximo!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que fizer o cego perder o caminho!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que perverter o direito do estrangeiro, do órfão e da viúva!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que se deitar com a mulher de seu pai, pois desonrou o leito de seu pai!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que se deitar com qualquer animal!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que se deitar com sua irmã, filha de seu pai ou filha de sua mãe!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que se deitar com sua sogra!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que ferir seu próximo às escondidas!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que aceitar suborno para matar uma pessoa inocente!’ E todo o povo dirá: ‘Amém!’",
+  "‘Maldito aquele que não confirmar as palavras desta instrução, praticando-as!’ E todo o povo dirá: ‘Amém!’"
+];
