@@ -53,6 +53,8 @@ Foram então conferidos integralmente os 32 versículos de Números 18 e os 22 v
 
 Foram conferidos integralmente os 29 versículos de Números 20 e os 35 versículos de Números 21 com o texto hebraico do Mechon-Mamre. Em 20:26, foi retirada a especificação “sacerdotais”, que não aparece explicitamente no substantivo בְּגָדָיו (“suas vestes”); a nota lexical foi corrigida para refletir o termo efetivamente presente no versículo. As demais leituras foram mantidas após a comparação. Os capítulos 20 e 21 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 41 versículos de Números 22 e os 30 versículos de Números 23 com o texto hebraico do Mechon-Mamre. Em 22:40, foi retirada a palavra “porções”, que não aparece expressamente no hebraico; em 23:12, a formulação foi ajustada para explicitar o sentido de “ter o cuidado de falar”, e foi acrescentada nota lexical para אֹתוֹ אֶשְׁמֹר לְדַבֵּר. Os capítulos 22 e 23 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
