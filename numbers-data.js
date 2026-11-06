@@ -233,7 +233,7 @@ window.NUMBERS_TEXT[5] = [
   "Mas, se te desviaste estando sob a autoridade de teu marido e te contaminaste, e outro homem, além de teu marido, se deitou contigo,",
   "então o sacerdote fará a mulher jurar com o juramento de maldição e lhe dirá: YHWH te torne objeto de maldição e de juramento entre teu povo, fazendo tua coxa definhar e teu ventre inchar.",
   "Que esta água que traz maldição entre em tuas entranhas, fazendo teu ventre inchar e tua coxa definhar. A mulher responderá: Amém, amém.",
-  "O sacerdote escreverá estas maldições num rolo e as lavará na água amarga.",
+  "O sacerdote escreverá estas maldições num rolo e as apagará na água amarga.",
   "Fará a mulher beber a água amarga que traz maldição; a água que traz maldição entrará nela e se tornará amarga.",
   "O sacerdote tomará das mãos da mulher a oferta de cereal por ciúme, apresentará a oferta diante de YHWH e a levará ao altar.",
   "Tomará um punhado da oferta de cereal como memorial e o queimará sobre o altar; depois fará a mulher beber a água.",
