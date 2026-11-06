@@ -82,14 +82,14 @@ A colação resultou nos seguintes refinamentos:
 
 Foram acrescentadas notas lexicais para 4:10, 5:23, 7:14 e 9:12, 9:22. Os capítulos 1–9 ficam registrados como conferidos com o texto hebraico massorético, com a distinção de fonte acima.
 
-## Auditoria final após a colação de Números 10–36
+## Auditoria final após a colação de Números 1–36
 
-A verificação estrutural foi repetida após as alterações:
+A verificação estrutural foi repetida após a colação dos capítulos 1–9 e as últimas atualizações de cabeçalho/cache:
 - 36 capítulos e 1.288 versículos; as contagens de todos os capítulos correspondem à tabela acima.
 - Nenhum versículo vazio.
 - 36 blocos de notas lexicais presentes.
 - Nenhuma chave de nota duplicada, nenhuma referência a versículo fora do intervalo do capítulo e nenhum separador ausente entre entradas consecutivas dos objetos de notas.
-- O carregamento no `index.html` usa os caches finais `numbers-data.js?v=20261106-final-collation-audit1` e `numbers-notes.js?v=20261106-final-notes-audit1`.
+- O carregamento no `index.html` usa os caches finais `numbers-data.js?v=20261106-mt-complete2` e `numbers-notes.js?v=20261106-mt-complete2`.
 - O status editorial continua `em_revisao`.
 
 A colação textual com o texto hebraico massorético está concluída para os capítulos 1–36 (1.288 versículos). Os capítulos 1–2 foram cotejados com a BHS; os capítulos 3–9 e 10–36 foram conferidos com o texto massorético integral do Mechon-Mamre. Esta conclusão não equivale a um cotejo direto e integral de todos os capítulos com a BHS nem a uma revisão acadêmica independente.
