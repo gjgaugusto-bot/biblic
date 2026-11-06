@@ -206,3 +206,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Nota acrescentada em 14:6; notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 15:1–27.
+
+
+### Continuidade de conteúdo — Êxodo 15 (2026-11-06)
+
+- Êxodo 15:1–27 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 15:2, 15:8, 15:11 e 15:17; nota de 15:23 preservada.
+- Registradas as opções de sentido de ve'anvehu, a imagem de ned, a expressão nora tehilot e a metáfora de plantar Israel.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 16:1–36.
