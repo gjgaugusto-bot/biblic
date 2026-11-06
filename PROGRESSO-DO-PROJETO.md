@@ -488,3 +488,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas acrescentadas em 3:2–3; notas existentes de 3:14 e 3:19 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 4:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 4:1–31
+
+- Conferência integral do capítulo 4 contra o Texto Massorético.
+- Ajuste em 4:11 para refletir שׂים (*sim*), “pôr/colocar”, em formulação idiomática “deu ao ser humano uma boca”.
+- Notas acrescentadas em 4:6, 4:10, 4:11 e 4:31; notas de 4:13, 4:18 e 4:24–26 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 5:1–23.
