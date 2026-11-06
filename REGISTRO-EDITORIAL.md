@@ -173,3 +173,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 11:1–10.
+
+
+### Êxodo 11:1–10
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajustes em 11:1, 11:4 e 11:8.
+- Notas lexicais em 11:1, 11:4 e 11:8; notas anteriores de 11:2, 11:5 e 11:7 preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 12:1–51.
