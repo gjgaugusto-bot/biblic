@@ -69,6 +69,18 @@ Foram conferidos integralmente os 29 versículos de Números 34 e os 34 versícu
 
 Por fim, foram conferidos integralmente os 13 versículos de Números 36 com o texto hebraico do Mechon-Mamre. A tradução existente foi mantida após a comparação; a formulação “primos paternos” em 36:11 corresponde à expressão בני דודיה, “filhos dos irmãos de seu pai”. O capítulo 36 fica registrado como conferido com base no Texto Massorético.
 
+## Auditoria final após a colação de Números 10–36
+
+A verificação estrutural foi repetida após as alterações:
+- 36 capítulos e 1.288 versículos; as contagens de todos os capítulos correspondem à tabela acima.
+- Nenhum versículo vazio.
+- 36 blocos de notas lexicais presentes.
+- Nenhuma chave de nota duplicada, nenhuma referência a versículo fora do intervalo do capítulo e nenhum separador ausente entre entradas consecutivas dos objetos de notas.
+- O carregamento no `index.html` usa os caches finais `numbers-data.js?v=20261106-final-collation-audit1` e `numbers-notes.js?v=20261106-final-notes-audit1`.
+- O status editorial continua `em_revisao`.
+
+A colação textual integral com o texto hebraico massorético do Mechon-Mamre está concluída para os capítulos 10–36 (904 versículos). Os capítulos 1–9 (384 versículos) ainda precisam dessa colação integral. Esta conclusão é sobre a comparação com o texto hebraico massorético acessível, não sobre uma colação direta e integral com a BHS nem sobre revisão acadêmica independente.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
@@ -77,10 +89,10 @@ Limitações de cobertura de fontes identificadas:
 - Números 10: a página BHS consultada expôs somente os versículos 1–10; a colação integral foi completada nesta etapa com o texto massorético hebraico do Mechon-Mamre.
 - Números 11: a página BHS consultada expôs somente os versículos 1–15; a colação integral foi completada nesta etapa com o texto massorético hebraico do Mechon-Mamre.
 - Números 25: a conferência registrada anteriormente usou também Mechon-Mamre e Sefaria como testemunhos massoréticos auxiliares, pois a página BHS não estava acessível.
-- Números 27–36: as páginas oficiais BHS foram abertas, mas a extração textual disponível nesta auditoria não forneceu o texto hebraico integral de todos esses capítulos. Portanto, a cobertura completa por capítulo não fica demonstrada por este relatório.
+- Números 27–36: a extração das páginas oficiais BHS não forneceu o texto hebraico integral; por isso, a colação completa desses capítulos foi realizada com o texto massorético integral do Mechon-Mamre, sem alegar cotejo direto completo com a BHS.
 
 ## Estado editorial
 
-Números permanece **em revisão**. A integração e a auditoria estrutural estão concluídas; a colação textual integral, a verificação de escolhas lexicais e a resolução das lacunas de fonte permanecem pendentes. Nenhum status de “revisado” foi atribuído com base apenas na contagem ou na integridade do código.
+Números permanece **em revisão**. A integração e a auditoria estrutural estão concluídas, e a colação textual massorética integral dos capítulos 10–36 foi realizada; ainda faltam os capítulos 1–9 e o cotejo direto integral com a BHS. Nenhum status de “revisado” foi atribuído com base apenas na contagem ou na integridade do código.
 
 A revisão é editorial interna e não equivale a certificação acadêmica independente nem a uma colação crítica de variantes manuscritas.
