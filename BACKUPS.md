@@ -37,3 +37,8 @@ O aplicativo salva edições, guias, símbolos, personagens e categorias no arma
 Nenhuma publicação foi feita nesta etapa. O workflow de deploy publica somente quando há push em `main` ou acionamento manual. Não integrar o PR #35 nem executar deploy sem autorização explícita do proprietário.
 
 Consulte `PROTOCOLO-DE-TRABALHO.md` para o fluxo de inspeção, alteração, revisão, teste e recuperação. Consulte `PROGRESSO-DO-PROJETO.md` para o histórico detalhado.
+
+
+## Registro editorial por versículo
+
+O controle editorial usa quatro estados: Pendente, Em revisão, Revisado e Reaberto. As mudanças feitas no painel são salvas em `encBibEditorialReviewsV1`, incluídas no backup automático local e exportadas no campo `editorialReviews` do JSON. A importação valida o formato e preserva campos ausentes. O registro versionado do repositório está em `REGISTRO-EDITORIAL.md`; exporte e versione as alterações do navegador para sincronizá-las entre dispositivos e conversas. A limpeza dos dados locais não apaga os estados-base definidos no código.
