@@ -95,6 +95,7 @@ window.TRANSLATION_NOTES = {
 };
 
 Object.assign((window.TRANSLATION_NOTES[0][2] ||= {}), {
+  22:{term:"וַיִּבֶן (vayyiven, de banah)",text:"O verbo vem da raiz בנה, “construir/edificar”. O hebraico descreve Deus como quem constrói a parte retirada do ser humano em mulher. “Formou” comunica o resultado, mas não preserva a imagem verbal de construção; “fez da costela uma mulher” é uma alternativa natural."},
   23:{term:"אִישׁ / אִשָּׁה (ish / ishah)",text:"O versículo constrói um jogo sonoro entre ish (“homem”) e ishah (“mulher”). A frase explica a designação por meio de um jogo de palavras hebraico, não de uma etimologia histórica."}
 });
 Object.assign((window.TRANSLATION_NOTES[0][3] ||= {}), {
