@@ -16,7 +16,7 @@ window.EXODUS_TEXT[16] = [
   "YHWH falou a Moisés, dizendo:",
   "«Ouvi as murmurações dos filhos de Israel. Fale com eles: ao entardecer vocês comerão carne, e pela manhã se fartarão de pão; então saberão que eu sou YHWH, seu Deus».",
   "À tarde subiram codornizes e cobriram o acampamento; pela manhã havia uma camada de orvalho ao redor do acampamento.",
-  "Quando a camada de orvalho se evaporou, eis que sobre a superfície do deserto havia algo fino e granuloso, fino como a geada sobre a terra.",
+  "Quando a camada de orvalho se evaporou, eis que sobre a superfície do deserto havia algo fino e em flocos, fino como a geada sobre a terra.",
   "Os filhos de Israel viram aquilo e disseram uns aos outros: «Que é isto?» Pois não sabiam o que era. Moisés lhes disse: «Este é o pão que YHWH lhes deu para comer.",
   "Esta é a ordem que YHWH deu: cada um recolha dele quanto precisar para comer, um ômer por pessoa, conforme o número de pessoas de sua tenda».",
   "Os filhos de Israel fizeram assim: uns recolheram mais, outros menos.",
