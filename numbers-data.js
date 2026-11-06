@@ -615,7 +615,7 @@ window.NUMBERS_TEXT[14] = [
 window.NUMBERS_TEXT[15] = [
   "YHWH falou a Moisés, dizendo:",
   "Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra em que habitareis, que vos dou,",
-  "e fizerdes uma oferta queimada a YHWH, seja holocausto ou sacrifício, para cumprir um voto, como oferta voluntária ou nas vossas festas determinadas, para produzir aroma agradável a YHWH, seja do gado ou do rebanho,",
+  "e apresentardes uma oferta feita pelo fogo a YHWH, seja holocausto ou sacrifício, para cumprir um voto, como oferta voluntária ou nas vossas festas determinadas, para produzir aroma agradável a YHWH, seja do gado ou do rebanho,",
   "aquele que apresentar sua oferta a YHWH trará uma oferta de cereal: um décimo de efa de farinha fina misturada com um quarto de him de azeite.",
   "Como libação, oferecerás um quarto de him de vinho para cada cordeiro, junto ao holocausto ou ao sacrifício.",
   "Para um carneiro, prepararás uma oferta de cereal de dois décimos de efa de farinha fina misturada com um terço de him de azeite;",
