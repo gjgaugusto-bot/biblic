@@ -34,7 +34,7 @@ window.EXODUS_TEXT[12] = [
 "No primeiro mês, desde o décimo quarto dia do mês, à tarde, comereis pães sem fermento até o vigésimo primeiro dia do mês, à tarde.",
 "Durante sete dias não se encontrará fermento em vossas casas; pois todo aquele que comer algo fermentado será eliminado da congregação de Israel, seja estrangeiro, seja natural da terra.",
 "Nada com fermento comereis; em todas as vossas habitações comereis pães sem fermento».",
-"Moisés convocou todos os anciãos de Israel e lhes disse: «Escolhei e tomai cordeiros para vossas famílias e imolai a Páscoa.",
+"Moisés convocou todos os anciãos de Israel e lhes disse: «Retirai e tomai cordeiros para vossas famílias e imolai a Páscoa.",
 "Tomai um feixe de hissopo, mergulhai-o no sangue que estiver na bacia e aplicai na verga e nas duas ombreiras o sangue que estiver na bacia. Nenhum de vós saia da porta de sua casa até a manhã.",
 "YHWH passará para ferir os egípcios; quando vir o sangue na verga e nas duas ombreiras, YHWH passará por cima da porta e não permitirá que o destruidor entre em vossas casas para ferir.",
 "Guardareis isto como estatuto para vós e para vossos filhos, para sempre.",
