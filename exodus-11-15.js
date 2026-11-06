@@ -110,7 +110,7 @@ window.EXODUS_TEXT[14] = [
 "Quanto a mim, endurecerei o coração dos egípcios, para que entrem atrás deles; serei glorificado por meio do faraó, de todo o seu exército, de seus carros e de seus cavaleiros.",
 "Os egípcios saberão que eu sou YHWH, quando eu for glorificado por meio do faraó, de seus carros e de seus cavaleiros».",
 "O mensageiro de Deus, que ia à frente do acampamento de Israel, mudou de posição e foi para trás deles; a coluna de nuvem também saiu da frente deles e se colocou atrás.",
-"Ela ficou entre o acampamento dos egípcios e o acampamento de Israel. Havia nuvem e escuridão, mas ela iluminava a noite; e um não se aproximou do outro durante toda a noite.",
+"Ela ficou entre o acampamento dos egípcios e o acampamento de Israel. Havia nuvem e escuridão, mas a noite era iluminada; e um não se aproximou do outro durante toda a noite.",
 "Moisés estendeu a mão sobre o mar, e YHWH fez o mar recuar por meio de um forte vento oriental durante toda a noite; tornou o mar em terra seca, e as águas se dividiram.",
 "Os filhos de Israel entraram pelo meio do mar em terra seca; as águas eram para eles como muralha à direita e à esquerda.",
 "Os egípcios os perseguiram; todos os cavalos do faraó, seus carros e seus cavaleiros entraram atrás deles pelo meio do mar.",
