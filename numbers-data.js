@@ -1272,7 +1272,7 @@ window.NUMBERS_TEXT[33] = [
   "Estas são as jornadas dos filhos de Israel, quando saíram da terra do Egito, segundo seus exércitos, sob a direção de Moisés e Arão.",
   "Moisés registrou os pontos de partida de suas jornadas, conforme a palavra de YHWH; estas são suas jornadas, segundo seus pontos de partida.",
   "Partiram de Ramessés no primeiro mês, no décimo quinto dia do primeiro mês; no dia seguinte à Páscoa, os filhos de Israel saíram de mão erguida, à vista de todos os egípcios.",
-  "Enquanto os egípcios sepultavam os que YHWH havia ferido entre eles, os filhos de Israel partiram de Ramessés.",
+  "Enquanto os egípcios sepultavam os que YHWH havia ferido entre eles — todos os primogênitos —, YHWH também executava juízos sobre seus deuses; os filhos de Israel partiram de Ramessés.",
   "Partiram de Ramessés e acamparam em Sucote.",
   "Partiram de Sucote e acamparam em Etã, que fica na extremidade do deserto.",
   "Partiram de Etã e voltaram para Pi-Hairote, diante de Baal-Zefom; acamparam diante de Migdol.",
