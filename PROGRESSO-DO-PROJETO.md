@@ -581,3 +581,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota ampliada em 13:18 sobre chamushim e Yam Suf.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 14:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 14:1–31
+
+- Conferência integral do capítulo 14 contra o Texto Massorético.
+- Ajuste em 14:6 para “atrelou seu carro”, refletindo אסר (*asar*).
+- Nota lexical acrescentada em 14:6; notas anteriores de 14:2, 8, 13, 15, 20–21, 24–25 e 30 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 15:1–27.
