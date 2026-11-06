@@ -590,3 +590,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota lexical acrescentada em 14:6; notas anteriores de 14:2, 8, 13, 15, 20–21, 24–25 e 30 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 15:1–27.
+
+
+## 2026-11-06 — revisão de Êxodo 15:1–27
+
+- Conferência integral do cântico e da narrativa do capítulo 15 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 15:2, 15:8, 15:11 e 15:17; nota de 15:23 preservada.
+- Registradas as leituras possíveis de ve'anvehu, ned, nora tehilot e a metáfora de plantar Israel.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 16:1–36.
