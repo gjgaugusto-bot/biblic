@@ -237,3 +237,30 @@ window.TRANSLATION_NOTES[3][24] = {
   20:{term:"רֵאשִׁית גּוֹיִם (reshit goyim)",text:"“Primeiro entre as nações”. Pode indicar primazia histórica ou militar de Amaleque, seguida de anúncio de seu fim."},
   23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."}
 };
+
+/* Notas lexicais — Números 25. */
+window.TRANSLATION_NOTES[3][25] = {
+  1:{term:"בַּעַל פְּעוֹר (Baal-Peor)",text:"Divindade cultuada na região de Peor; a expressão designa a vinculação cultual de Israel a esse culto."},
+  3:{term:"וַיִּצָּמֶד (vayyitsamed)",text:"“Apegou-se/vinculou-se”. O verbo descreve adesão estreita, aqui em contexto de infidelidade cultual."},
+  4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a expor ou suspender publicamente; o modo exato da execução é discutido."},
+  11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao demonstrar meu zelo”. A repetição da raiz קנא destaca o zelo de Fineias pela aliança."},
+  12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
+};
+/* Notas lexicais — Números 26. */
+window.TRANSLATION_NOTES[3][26] = {
+  2:{term:"שְׂאוּ אֶת־רֹאשׁ (se'u et-rosh)",text:"Literalmente “erguei a cabeça”; idiomaticamente, fazer o recenseamento."},
+  10:{term:"נֵס (nes)",text:"“Sinal/estandarte”. A punição torna-se um sinal público e memorial para a comunidade."},
+  52:{term:"לָאֵלֶּה תֵּחָלֵק הָאָרֶץ (la'elleh techaleq ha'aretz)",text:"A terra será repartida entre os recenseados; o texto combina distribuição proporcional e sorteio."},
+  55:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O sorteio determina a localização da herança, dentro da distribuição tribal."},
+  59:{term:"יוֹכֶבֶד (Yokheved)",text:"Joquebede, mãe de Moisés, Arão e Miriã; a genealogia a identifica como filha de Levi, nascida no Egito."},
+  65:{term:"כִּי אָמַר יְהוָה (ki amar YHWH)",text:"A geração do deserto não permanece, conforme a sentença anterior; as exceções nomeadas são Calebe e Josué."}
+};
+/* Notas lexicais — Números 27. */
+window.TRANSLATION_NOTES[3][27] = {
+  4:{term:"אֲחֻזָּה (achuzzah)",text:"“Propriedade/posse hereditária”. O pedido trata da preservação da herança familiar."},
+  7:{term:"הָשֵׁב תָּשִׁיב (hashev tashiv)",text:"Construção enfática: “certamente transferirás”. A decisão reconhece o direito das filhas."},
+  16:{term:"אֱלֹהֵי הָרוּחֹת לְכָל־בָּשָׂר (Elohei haruchot lechol-basar)",text:"“Deus dos espíritos de toda carne”. Fórmula que apresenta Deus como conhecedor e soberano sobre a vida interior de todos."},
+  18:{term:"אִישׁ אֲשֶׁר־רוּחַ בּוֹ (ish asher-ruach bo)",text:"“Homem em quem há espírito”. Josué é descrito como alguém capacitado interiormente para a tarefa."},
+  20:{term:"הוֹד (hod)",text:"“Majestade/autoridade”. Moisés transfere a Josué parte de sua dignidade pública para que a comunidade o reconheça."},
+  21:{term:"מִשְׁפַּט הָאוּרִים (mishpat ha'urim)",text:"“Juízo dos Urim”. Meio sacerdotal de consulta divina; o texto não descreve aqui seu procedimento material."}
+};
