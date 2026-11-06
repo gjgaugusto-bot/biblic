@@ -41,3 +41,9 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 2. Registrar correções com referências e commits próprios.
 3. Repetir o processo para 11–15, 16–20 e os demais lotes até 40.
 4. Ao final, conferir consistência de nomes, transliteração, termos recorrentes, contagem de versículos e carregamento no site.
+
+### Êxodo 6–10 — primeira passada
+
+- **Êxodo 6:9:** acrescentada nota para מִקֹּצֶר רוּחַ (*miqqotser ruach*), expressão que pode indicar angústia, abatimento ou impaciência; “angústia de espírito” foi mantida como escolha contextual.
+- **Êxodo 7:9:** acrescentada nota para תַּנִּין (*tannin*), termo amplo que não determina uma espécie zoológica; “grande réptil” foi mantido como formulação cautelosa.
+- **Êxodo 9:6:** acrescentada nota para מִקְנֵה (*miqneh*), contextualizando a declaração sobre a morte do gado diante da delimitação “no campo” em 9:3 e dos animais ainda presentes em 9:19–20.
