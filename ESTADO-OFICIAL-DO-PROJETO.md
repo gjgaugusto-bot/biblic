@@ -249,3 +249,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Nota acrescentada em 19:22 sobre יִפְרֹץ (*yifrotz*), “irromper/abrir brecha”; notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 20:1–26.
+
+
+### Continuidade de conteúdo — Êxodo 20 (2026-11-06)
+
+- Êxodo 20:1–26 conferido integralmente contra o Texto Massorético.
+- Ajuste em 20:25 para concordância singular com o altar: “erguer sua ferramenta sobre ele, você o profanará”.
+- Nota lexical acrescentada em 20:25; notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 21:1–36.
