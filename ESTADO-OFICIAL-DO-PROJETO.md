@@ -96,3 +96,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas lexicais acrescentadas em 2:2, 2:3, 2:12, 2:17 e 2:25; notas anteriores de 2:10 e 2:22 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 3:1–22. Êxodo 1 e 2 não devem ser revistos novamente sem evidência concreta de erro relevante.
+
+
+### Continuidade de conteúdo — Êxodo 3 (2026-11-06)
+
+- Êxodo 3:1–22 conferido integralmente contra o Texto Massorético.
+- Correções em 3:3–4 para preservar o sentido de סור (*sur*): “desviar-se”, não “aproximar-se”.
+- Notas acrescentadas em 3:2–3; notas anteriores de 3:14 e 3:19 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 4:1–31.
