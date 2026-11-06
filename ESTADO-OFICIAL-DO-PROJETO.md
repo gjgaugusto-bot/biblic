@@ -258,3 +258,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Nota lexical acrescentada em 20:25; notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 21:1–36.
+
+
+### Continuidade de conteúdo — Êxodo 21 (2026-11-06)
+
+- Êxodo 21:1–36 conferido integralmente contra o Texto Massorético.
+- Ajuste em 21:23 para “se houver dano”, sem o adjetivo “grave” não expresso no hebraico.
+- Notas anteriores do capítulo preservadas, incluindo a ambiguidade de 21:22–23.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 22:1–31.
