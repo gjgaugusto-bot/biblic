@@ -276,3 +276,11 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Nota lexical acrescentada em 22:29; notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 23:1–33.
+
+
+### Continuidade de conteúdo — Êxodo 23 (2026-11-06)
+
+- Êxodo 23:1–33 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 23:26 sobre perda gestacional e infertilidade; notas anteriores preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 24:1–18.
