@@ -37,8 +37,7 @@ try {
   await scanAccessibility(page, "início");
   assert.equal(await page.locator(".book-illustration[aria-hidden=\"true\"]").count(), 66, "As gravuras são decorativas e não devem duplicar os nomes dos livros");
 
-  await page.locator("#search").fill("Gênesis");
-  assert.equal(await page.locator(".book").count(), 1, "A busca deve filtrar Gênesis");
+  assert.equal(await page.locator("#search").count(), 0, "A página inicial não deve exibir o campo de busca removido");
   await page.locator("#oldBooks .book").click();
   await page.locator("#readerView").waitFor({ state: "visible" });
   await page.getByRole("heading", { name: "Sobre o livro" }).waitFor();
@@ -118,8 +117,8 @@ try {
   await mobile.goto(baseURL, { waitUntil: "networkidle" });
   const overflow = await mobile.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
   assert.ok(overflow <= 1, `A página não deve ter rolagem horizontal no celular (overflow: ${overflow}px)`);
-  await mobile.locator("#search").fill("Apocalipse");
-  assert.equal(await mobile.locator(".book").count(), 1, "A busca deve funcionar na largura móvel");
+  assert.equal(await mobile.locator("#search").count(), 0, "A página móvel também não deve exibir o campo de busca removido");
+  assert.equal(await mobile.locator(".book").count(), 66, "Os 66 livros devem continuar visíveis no celular");
 
   assert.deepEqual(pageErrors, [], "Não devem ocorrer exceções JavaScript no navegador");
   if (axeFindings.length) {
