@@ -936,3 +936,34 @@ Demais versículos (31:1–4, 31:6–18): conferidos quanto à correspondência 
 - Cambridge Bible for Schools and Colleges, Êxodo 31:1–18, estrutura da nomeação dos artesãos e do mandamento do sábado: https://biblehub.com/commentaries/cambridge/exodus/31.htm
 
 **Próximo ponto:** Êxodo 32:1–35. Não repetir a conferência de Êxodo 31 sem evidência concreta de erro novo.
+
+
+### Êxodo 32 — conferência textual e lexical integral (32:1–35)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do hebraico e de traduções de referência. Três formulações foram refinadas para preservar melhor a força das expressões hebraicas; ambiguidades de número e de técnica artesanal foram registradas.
+
+Correções no texto:
+- **32:1:** “Reuniu-se em torno de Arão” foi ajustado para **“Reuniu-se contra Arão”**. A construção וַיִּקָּהֵל ... עַל־אַהֲרֹן (*vayyiqqahal ... al-Aharon*) pode expressar reunião contra alguém, sugerindo pressão sobre Arão, não apenas uma reunião neutra ao seu redor.
+- **32:31:** “fez para si deuses de ouro” foi ajustado para **“fez para si uma divindade de ouro”**. אֱלֹהֵי זָהָב (*elohei zahav*) tem forma plural, mas אֱלֹהִים (*elohim*) também pode designar uma divindade singular; como o objeto narrativo é um único bezerro, a formulação neutra evita fixar o número sem necessidade.
+- **32:34:** “no dia em que eu fizer prestação de contas” foi ajustado para **“no dia em que eu os visitar”**, preservando פָּקַד (*paqad*), “visitar/atender/intervir”, cujo sentido de julgamento decorre do contexto.
+
+Notas lexicais acrescentadas/ampliadas:
+- **32:1 e 32:4:** אֱלֹהִים (*elohim*) tem forma plural, mas pode funcionar como designação singular; o texto alterna formulações cuja referência numérica é discutida. מַסֵּכָה (*massekah*) é imagem fundida; חֶרֶט (*cheret*) é ferramenta de gravação/modelagem, sem que a técnica exata de fabricação seja totalmente segura.
+- **32:6:** לְצַחֵק (*letsacheq*) abrange brincar, divertir-se ou participar de uma celebração; o contexto é desordenado, mas não obriga a especificar uma prática sexual.
+- **32:14:** וַיִּנָּחֶם (*vayinnachem*, de נחם) descreve YHWH reconsiderando/cedendo quanto ao mal anunciado. “Reconsiderou” foi mantido como formulação narrativa, sem impor uma explicação teológica externa.
+- **32:25:** פָרֻעַ (*parua*) pode significar desenfreado, solto ou exposto; a forma verbal seguinte associa Arão a deixar o povo sem contenção, resultando em vergonha/escárnio diante dos adversários.
+- **32:29:** מִלְאוּ יֶדְכֶם (*mil'u yedkhem*, “enchei vossas mãos”) é expressão idiomática de investidura/consagração; a nota preserva a relação com a lealdade dos levitas mesmo diante dos vínculos familiares.
+- **32:31:** אֱלֹהֵי זָהָב (*elohei zahav*) pode ser lido formalmente como “deuses de ouro”, embora o contexto permita “uma divindade de ouro”; a opção neutra é deliberada.
+- **32:34:** פָּקַד (*paqad*) pode indicar visita/intervenção e, em contexto punitivo, julgamento; a tradução preserva a metáfora da visitação.
+- **32:32:** סֵפֶר (*sefer*) significa livro ou registro escrito; a imagem do livro divino permanece sem especificação de um sistema literal de registro.
+
+Demais versículos (32:2–30, 32–33 e 32:35): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração adicional considerada necessária. A tensão narrativa entre a fala do povo, a fala de Arão e a descrição do narrador foi preservada, sem harmonizar as versões do episódio.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 32: https://new.mechon-mamre.org/p/pt/pt0232.htm
+- Sefaria, Êxodo 32, texto hebraico e traduções JPS: https://www.sefaria.org/Exodus.32
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, análise lexical de Êxodo 32:21–24: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+- Rashi sobre Êxodo 32:25, leitura de פָרֻעַ (*parua*) como exposição/vergonha: https://www.chabad.org/library/bible_cdo/aid/9893/showrashi/true/jewish/Chapter-32.htm
+- Jewish Bible Quarterly, estudo sobre Êxodo 32:5–25 e a expressão de festa/ruído: https://jbqnew.jewishbible.org/assets/Uploads/311/311_CALF31-1.pdf
+
+**Próximo ponto:** Êxodo 33:1–23. Não repetir a conferência de Êxodo 32 sem evidência concreta de erro novo.
