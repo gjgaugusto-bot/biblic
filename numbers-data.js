@@ -53,7 +53,7 @@ window.NUMBERS_TEXT[1] = [
   "YHWH havia falado a Moisés, dizendo:",
   "Somente não registrarás a tribo de Levi nem farás o recenseamento deles entre os filhos de Israel.",
   "Tu encarregarás os levitas do Tabernáculo do Testemunho, de todos os seus utensílios e de tudo o que lhe pertence. Eles transportarão o Tabernáculo e todos os seus utensílios, cuidarão dele e acamparão ao redor dele.",
-  "Quando o Tabernáculo partir, os levitas o desmontarão; quando o Tabernáculo acampar, eles o montarão. O estranho que se aproximar será morto.",
+  "Quando o Tabernáculo partir, os levitas o desmontarão; quando o Tabernáculo acampar, eles o montarão. A pessoa não autorizada que se aproximar será morta.",
   "Os filhos de Israel acamparão, cada um em seu acampamento e cada um junto ao seu estandarte, segundo seus grupos.",
   "Os levitas, porém, acamparão ao redor do Tabernáculo do Testemunho, para que não haja ira contra a comunidade dos filhos de Israel; os levitas guardarão o serviço do Tabernáculo do Testemunho.",
   "Os filhos de Israel fizeram conforme tudo o que YHWH havia ordenado a Moisés; assim fizeram."
