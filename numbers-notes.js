@@ -303,7 +303,7 @@ window.TRANSLATION_NOTES[3][27] = {
   16:{term:"אֱלֹהֵי הָרוּחֹת לְכָל־בָּשָׂר (Elohei haruchot lechol-basar)",text:"“Deus dos espíritos de toda carne”. Fórmula que apresenta Deus como conhecedor e soberano sobre a vida interior de todos."},
   18:{term:"אִישׁ אֲשֶׁר־רוּחַ בּוֹ (ish asher-ruach bo)",text:"“Homem em quem há espírito”. Josué é descrito como alguém capacitado interiormente para a tarefa."},
   20:{term:"הוֹד (hod)",text:"“Majestade/autoridade”. Moisés transfere a Josué parte de sua dignidade pública para que a comunidade o reconheça."},
-  21:{term:"מִשְׁפַּט הָאוּרִים (mishpat ha'urim)",text:"“Juízo dos Urim”. Meio sacerdotal de consulta divina; o texto não descreve aqui seu procedimento material."}
+  21:{term:"מִשְׁפַּט הָאוּרִים (mishpat ha'urim)",text:"“Juízo dos Urim”. Meio sacerdotal de consulta divina; o texto não descreve aqui seu procedimento material."},
   3:{term:"בַּעֲדַת־קֹרַח (ba adat-Qorach)",text:"“Na assembleia de Corá”. A expressão remete à rebelião narrada em Números 16; o versículo distingue o pai das filhas dos participantes daquela revolta."},
 };
 
