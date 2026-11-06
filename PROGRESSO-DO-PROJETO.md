@@ -526,3 +526,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Distinções registradas entre as raízes qashah, chazaq e kaved e entre tannin e nachash.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 8:1–28.
+
+
+## 2026-11-06 — revisão de Êxodo 8:1–28
+
+- Conferência integral do capítulo 8 contra o Texto Massorético.
+- Ajuste em 8:5 para “Toma para ti a honra de escolher”, refletindo a expressão idiomática hitpa'er alai.
+- Notas em 8:5, 8:12, 8:15, 8:17, 8:19, 8:22 e 8:26.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 9:1–35.
