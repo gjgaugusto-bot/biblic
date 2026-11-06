@@ -292,3 +292,20 @@ window.TRANSLATION_NOTES[4][28] = {
   58:{term:"הַתּוֹרָה הַזֹּאת (hattorah hazzot)",text:"“Esta instrução”. Torah aqui designa o conjunto de ensinamentos e estipulações da aliança, não apenas uma lei isolada."},
   68:{term:"בָּאֳנִיּוֹת (bo' oniyyot)",text:"“Em navios”. O versículo evoca a reversão extrema do êxodo: retorno ao Egito, agora sob condição de servidão."}
 };
+
+window.TRANSLATION_NOTES[4][29] = {
+  1:{term:"בְּרִית (berit)",text:"“Aliança”. O versículo distingue a aliança estabelecida em Moabe daquela feita em Horebe."},
+  4:{term:"לֵב לָדַעַת (lev lada'at)",text:"“Coração para compreender”. No pensamento hebraico, coração inclui entendimento, vontade e decisão."},
+  10:{term:"חֹטֵב עֵצֶיךָ ... שֹׁאֵב מֵימֶיךָ",text:"“Cortador de lenha ... tirador de água”. A expressão abrange trabalhadores de diferentes posições dentro da comunidade."},
+  18:{term:"שֹׁרֶשׁ פֹּרֶה רֹאשׁ וְלַעֲנָה",text:"Imagem de uma raiz que produz veneno e absinto; representa a origem de infidelidade e amargura."},
+  19:{term:"לְמַעַן סְפוֹת הָרָוָה אֶת־הַצְּמֵאָה",text:"Expressão difícil e discutida. A imagem parece associar o que está saciado ao que tem sede; a tradução evita fixar além do que o contexto permite."},
+  28:{term:"הַנִּסְתָּרֹת ... וְהַנִּגְלֹת",text:"“As coisas ocultas ... as reveladas”. O encerramento distingue o que pertence ao conhecimento divino do que foi confiado à comunidade."}
+};
+window.TRANSLATION_NOTES[4][30] = {
+  2:{term:"וְשַׁבְתָּ (veshavta)",text:"“Voltares”. O verbo pode expressar retorno físico e conversão/retorno a YHWH."},
+  6:{term:"וּמָל יְהוָה אֱלֹהֶיךָ אֶת־לְבָבְךָ",text:"“YHWH circuncidará teu coração”. Metáfora de transformação interior que remove a resistência à fidelidade."},
+  11:{term:"לֹא־נִפְלֵאת הִוא מִמְּךָ",text:"“Não é difícil demais/inalcançável para ti”. A instrução não está fora do alcance da comunidade."},
+  14:{term:"כִּי־קָרוֹב אֵלֶיךָ הַדָּבָר",text:"“A palavra está perto de ti”. O texto enfatiza sua acessibilidade e possibilidade de prática."},
+  15:{term:"הַחַיִּים וְהַטּוֹב ... הַמָּוֶת וְהָרָע",text:"“A vida e o bem ... a morte e o mal”. A escolha é apresentada como resposta concreta à aliança."},
+  19:{term:"וּבָחַרְתָּ בַּחַיִּים",text:"“Escolhe a vida”. A exortação resume o chamado à fidelidade que preserva a vida da comunidade e de sua descendência."}
+};
