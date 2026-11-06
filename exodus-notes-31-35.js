@@ -10,10 +10,13 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   17:{term:"וַיִּנָּפַשׁ (vayinnafash)",text:"Verbo ligado a נפש (nefesh), podendo transmitir a ideia de recuperar o fôlego ou renovar-se. “Descansou” é tradicional, mas o termo acrescenta a imagem de revigoramento após cessar o trabalho."}
 },
 32: {
-  1:{term:"אֱלֹהִים (elohim)",text:"Forma plural que pode designar Deus ou deuses conforme o contexto. A fala do povo no episódio do bezerro é deliberadamente controversa."},
-  4:{term:"מַסֵּכָה (massekah)",text:"Objeto fundido, especialmente imagem feita por fundição de metal."},
-  6:{term:"לְצַחֵק (letsacheq)",text:"Verbo amplo: brincar, divertir-se ou participar de celebração; o contexto permite conotações de festa desordenada."},
-  25:{term:"פָרֻעַ (parua)",text:"Desenfreado, solto ou sem controle. O versículo associa a situação à exposição do povo diante dos adversários."},
+  1:{term:"אֱלֹהִים (elohim) / וַיִּקָּהֵל ... עַל־אַהֲרֹן (vayyiqqahal ... al-Aharon)",text:"Elohim tem forma plural, mas pode designar uma divindade singular ou deuses; o contexto e a concordância precisam ser considerados em cada ocorrência. Em 32:1, a preposição על (*al*) após “reunir-se” pode significar “contra Arão”, indicando pressão ou oposição, não apenas reunião ao redor dele."},
+  4:{term:"מַסֵּכָה (massekah) / בַּחֶרֶט (ba-cheret)",text:"Massekah designa uma imagem fundida. Cheret é uma ferramenta de gravação/modelagem; o verbo וַיָּצַר (*vayyatsar*) e a expressão são interpretados como moldar ou trabalhar o ouro com instrumento. O texto não determina com segurança a técnica exata."},
+  6:{term:"לְצַחֵק (letsacheq)",text:"Verbo amplo: brincar, divertir-se ou participar de celebração; o contexto permite conotações de festa desordenada, mas não exige que se especifique uma prática sexual."},
+  25:{term:"פָרֻעַ (parua) / פְרָעֹה (fera'o)",text:"Parua pode significar solto, desenfreado ou exposto/descoberto. A forma verbal seguinte, da mesma raiz פרע (*para*), descreve Arão como alguém que deixou o povo sem contenção; o resultado é vergonha ou escárnio diante dos adversários."},
+  29:{term:"מִלְאוּ יֶדְכֶם (mil'u yedkhem)",text:"Literalmente, “enchei vossas mãos”. Expressão idiomática de investidura/consagração, aqui ligada à lealdade demonstrada pelos levitas mesmo diante dos vínculos familiares; a frase seguinte associa essa ação a uma bênção."},
+  31:{term:"אֱלֹהֵי זָהָב (elohei zahav)",text:"Literalmente, “deuses de ouro”, mas elohim pode designar uma divindade singular. Como o objeto feito é um único bezerro, “uma divindade de ouro” evita impor número que o contexto não resolve de modo simples; comparar 32:1 e 32:4, onde a formulação também é ambígua."},
+  34:{term:"פָּקַד (paqad)",text:"Verbo com sentidos como visitar, atender, tomar conhecimento e intervir. Em contexto de punição, “visitar a iniquidade” é uma fórmula de intervenção/julgamento; “no dia em que eu os visitar” preserva a imagem sem reduzi-la a uma prestação de contas formal."},
   32:{term:"סֵפֶר (sefer)",text:"“Livro” ou registro escrito. A imagem do livro divino aparece também em outros textos bíblicos."}
 },
 33: {
