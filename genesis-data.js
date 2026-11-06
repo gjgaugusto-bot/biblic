@@ -56,7 +56,7 @@ GENESIS_TEXT[3]=[
 "YHWH Deus o enviou para fora do jardim do Éden, a fim de cultivar o solo de que havia sido tomado.",
 "Expulsou o ser humano e colocou a leste do jardim do Éden os querubins e a chama da espada que se revolvia, para guardar o caminho da árvore da vida."
 ];
-window.GENESIS_TEXT={1:GENESIS1,2:[
+window.GENESIS_TEXT={1:window.GENESIS1,2:[
 "Assim foram concluídos os céus e a terra, com todo o seu exército.",
 "No sétimo dia, Deus havia concluído a obra que fizera; e, no sétimo dia, cessou de toda a obra que havia feito.",
 "Deus abençoou o sétimo dia e o santificou, porque nele cessou de toda a sua obra, que Deus criara ao fazer.",
