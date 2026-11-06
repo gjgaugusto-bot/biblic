@@ -218,3 +218,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 16:1–36.
+
+
+### Êxodo 16:1–36
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 16:14 para “algo fino e em flocos”.
+- Notas lexicais em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 17:1–16.
