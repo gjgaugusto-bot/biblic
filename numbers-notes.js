@@ -55,20 +55,19 @@ window.TRANSLATION_NOTES[3][5] = {
   7:{term:"וְהִתְוַדּוּ (vehitvadu)",text:"“Confessará”. O verbo designa reconhecimento verbal da falta, associado aqui à restituição material."},
   8:{term:"גֹּאֵל (go'el)",text:"Parente resgatador ou representante familiar. Se não houver pessoa com esse papel para receber a restituição, o valor é entregue ao sacerdote como pertencente a YHWH."},
   9:{term:"תְּרוּמָה (terumah)",text:"“Contribuição” ou “porção elevada”. Designa uma parcela separada dentre os bens consagrados e destinada ao sacerdote; não é necessariamente uma oferta sacrificial."},
-  15:{term:"מִנְחַת קְנָאֹת (minchat qena'ot)",text:"“Oferta de cereal por ciúme”. O termo קנאות está no plural e associa a oferta ao procedimento ritual motivado pela suspeita de infidelidade."}
   14:{term:"רוּחַ קִנְאָה (ruach qin'ah)",text:"“Espírito de ciúme” ou “impulso de ciúme”. A expressão descreve a suspeita que leva o marido ao procedimento ritual, não uma prova de culpa."},
+  15:{term:"מִנְחַת קְנָאֹת (minchat qena'ot)",text:"“Oferta de cereal por ciúme”. O termo קנאות está no plural e associa a oferta ao procedimento ritual motivado pela suspeita de infidelidade."},
   18:{term:"מֵי הַמָּרִים (mei hammarim)",text:"“Águas amargas”. A expressão nomeia a água ritual que recebe a função de testemunhar a maldição condicional."},
   22:{term:"אָמֵן אָמֵן (amen amen)",text:"A repetição de “amém” expressa a aceitação solene da fórmula juramentada e de suas consequências."}
 };
 /* Notas lexicais — Números 6. */
 window.TRANSLATION_NOTES[3][6] = {
-  2:{term:"נָזִיר (nazir)",text:"Pessoa separada ou consagrada por voto. O termo vem da raiz נזר, “separar-se/consagrar-se”; não deve ser confundido com “nazareno”."},
-  2:{term:"יַפְלִא לִנְדֹּר (yafli lindor)",text:"Expressão ligada a fazer um voto especial ou extraordinário. O verbo פלא destaca o caráter excepcional da dedicação voluntária."},
-  7:{term:"נֵזֶר אֱלֹהָיו (nezer elohav)",text:"“Consagração de seu Deus” ou “sinal de consagração ao seu Deus”. נֵזֶר pode designar consagração e também uma insígnia/coroa; aqui indica o estado consagrado do nazireu, simbolicamente situado sobre a cabeça."},
-  11:{term:"חַטָּאת / עֹלָה (chatat / olah)",text:"Dois tipos distintos de oferta: a חַטָּאת é oferta de purificação (tradicionalmente “pelo pecado”), enquanto עֹלָה é holocausto, consumido integralmente no altar."}
+  2:{term:"יַפְלִא לִנְדֹּר ... נָזִיר (yafli lindor ... nazir)",text:"יַפְלִא לִנְדֹּר descreve fazer um voto especial ou extraordinário; נָזִיר designa a pessoa separada ou consagrada por voto, da raiz נזר (“separar-se/consagrar-se”). Não deve ser confundido com “nazareno”."},
   3:{term:"מִשְׁרַת עֲנָבִים (mishrat anavim)",text:"Mosto ou bebida extraída das uvas. A proibição abrange produtos da videira, não apenas vinho fermentado."},
   5:{term:"פֶּרַע שְׂעַר (pera se'ar)",text:"Cabelo deixado crescer sem corte. Funciona como sinal visível da consagração durante o período do voto."},
+  7:{term:"נֵזֶר אֱלֹהָיו (nezer elohav)",text:"“Consagração de seu Deus” ou “sinal de consagração ao seu Deus”. נֵזֶר pode designar consagração e também uma insígnia/coroa; aqui indica o estado consagrado do nazireu, simbolicamente situado sobre a cabeça."},
   9:{term:"תַּעַר (ta'ar)",text:"Navalha. O corte da cabeça após a contaminação acidental marca reinício ritual, não o cumprimento normal do voto."},
+  11:{term:"חַטָּאת / עֹלָה (chatat / olah)",text:"Dois tipos distintos de oferta: חַטָּאת é oferta de purificação (tradicionalmente “pelo pecado”), enquanto עֹלָה é holocausto, consumido integralmente no altar."},
   18:{term:"תַּחַת הַזָּבַח (tachat hazzavach)",text:"“Debaixo do sacrifício”. O cabelo consagrado é queimado no fogo associado à oferta de comunhão, encerrando ritualmente o período de separação."},
   24:{term:"יְבָרֶכְךָ (yevarekhekha)",text:"“Que te abençoe”. A bênção sacerdotal invoca YHWH como agente da proteção, graça e paz."}
 };
@@ -76,37 +75,32 @@ window.TRANSLATION_NOTES[3][6] = {
 /* Notas lexicais — Números 7. */
 window.TRANSLATION_NOTES[3][7] = {
   1:{term:"כַלּוֹת (kallot)",text:"Forma de כלה, “concluir/terminar”. A abertura situa a dedicação do altar depois de concluída a montagem do santuário."},
-  3:{term:"עֶגְלֹת צָב (eglot tsav)",text:"Carroças cobertas ou carroças de transporte. O substantivo צב tem interpretação lexical discutida; o contexto de transporte dos componentes do Tabernáculo favorece veículos cobertos."},
   2:{term:"הָעֹמְדִים עַל־הַפְּקֻדִים (ha'omedim al-hapekudim)",text:"Literalmente, “os que estavam sobre os recenseados”. A expressão indica chefes encarregados dos homens registrados, sem especificar que tenham realizado pessoalmente a contagem."},
-  13:{term:"קַעֲרַת־כֶּסֶף / מִזְרָק (qe'arat-kesef / mizraq)",text:"A primeira expressão designa uma travessa ou prato de prata; מִזְרָק é uma bacia usada para recolher ou aspergir líquidos rituais. São recipientes distintos."},
-  89:{term:"מִדַּבֵּר (middabber)",text:"Forma participial de דבר, “falar”. A voz é descrita como falando a Moisés de cima da cobertura da Arca, entre os querubins."}
+  3:{term:"עֶגְלֹת צָב (eglot tsav)",text:"Carroças cobertas ou carroças de transporte. O substantivo צב tem interpretação lexical discutida; o contexto de transporte dos componentes do Tabernáculo favorece veículos cobertos."},
   9:{term:"בַּכָּתֵף יִשָּׂאוּ (bakkatef yissa'u)",text:"“Carregarão sobre o ombro”. A ausência de carroças para os coatitas está ligada ao transporte manual dos objetos sagrados."},
   10:{term:"חֲנֻכַּת (chanukkat)",text:"“Dedicação” ou “inauguração”. A raiz חנך indica iniciar/consagrar algo para seu uso, aqui o altar."},
-  13:{term:"מִזְרָק (mizraq)",text:"Bacia ou recipiente de aspersão. Distingue-se da travessa (קַעֲרָה), embora ambos sejam utensílios de prata usados na oferta."},
+  13:{term:"קַעֲרַת־כֶּסֶף / מִזְרָק (qe'arat-kesef / mizraq)",text:"A primeira expressão designa uma travessa ou prato de prata; מִזְרָק é uma bacia usada para recolher ou aspergir líquidos rituais. São recipientes distintos."},
   17:{term:"זֶבַח הַשְּׁלָמִים (zevach hashelamim)",text:"Sacrifício de comunhão ou de bem-estar. A oferta inclui animais partilhados ritualmente, não sendo simplesmente um holocausto integral."},
-  89:{term:"מִדַּבֵּר (middabber)",text:"Particípio reflexivo/intensivo de דבר, com sentido de “falando”. O versículo encerra o capítulo enfatizando a comunicação divina a partir do espaço acima da cobertura da Arca."}
+  89:{term:"מִדַּבֵּר (middabber)",text:"Forma participial de דבר, “falar”. A voz é descrita como falando a Moisés de cima da cobertura da Arca, entre os querubins."}
 };
 /* Notas lexicais — Números 8. */
 window.TRANSLATION_NOTES[3][8] = {
-  2:{term:"בְּהַעֲלֹתְךָ (beha'alotekha)",text:"Literalmente, “ao fazer subir”. O verbo descreve o acendimento/elevação das lâmpadas do candelabro."},
-  7:{term:"מֵי חַטָּאת (mei chatat)",text:"“Água de purificação” ou “água para purificação”. O termo חטאת pode designar a oferta pelo pecado, mas aqui integra um rito de purificação."},
   2:{term:"בְּהַעֲלֹתְךָ (beha'alotekha)",text:"Literalmente, “quando fizeres subir”. O verbo descreve o ato de acender/erguer as lâmpadas; o foco da instrução é a direção em que devem iluminar."},
-  7:{term:"הַזֵּה ... מֵי חַטָּאת (hazzeh ... mei chatat)",text:"O imperativo הַזֵּה significa “asperge”. A expressão seguinte designa água ritual de purificação, não água comum nem uma oferta sacrificial."},
-  16:{term:"נְתֻנִים נְתֻנִים (netunim netunim)",text:"Repetição enfática do particípio “dados/entregues”. Destaca que os levitas foram inteiramente separados para YHWH em lugar dos primogênitos."},
-  24:{term:"לִצְבֹא צָבָא (litsvo tsava)",text:"Expressão idiomática para ingressar no serviço organizado do santuário. צָבָא pode significar exército, mas aqui se refere ao serviço levítico."}
+  7:{term:"הַזֵּה ... מֵי חַטָּאת (hazzeh ... mei chatat)",text:"O imperativo הַזֵּה significa “asperge”; מֵי חַטָּאת designa água ritual de purificação, não água comum nem uma oferta sacrificial. חַטָּאת pode designar uma oferta de purificação, mas aqui integra um rito com água."},
   11:{term:"תְּנוּפָה (tenufah)",text:"“Oferta movida”. Gesto ritual de apresentação diante de YHWH; a imagem de movimento não deve ser confundida com uma oferta que os levitas literalmente carregassem para longe."},
+  16:{term:"נְתֻנִים נְתֻנִים (netunim netunim)",text:"Repetição enfática do particípio “dados/entregues”. Destaca que os levitas foram inteiramente separados para YHWH em lugar dos primogênitos."},
   19:{term:"לְכַפֵּר (lekhapper)",text:"“Fazer expiação”. A raiz כפר expressa o rito de remoção/neutralização da culpa ou impureza, aqui ligado ao serviço levítico."},
-  24:{term:"מִבֶּן חָמֵשׁ וְעֶשְׂרִים (mibben chamesh ve'esrim)",text:"“A partir dos vinte e cinco anos”. Em Números 4, a idade de serviço é apresentada como trinta anos; a diferença é textual e interpretativa, não deve ser apagada. Uma explicação tradicional entende os cinco anos como período de aprendizagem."}
+  24:{term:"לִצְבֹא צָבָא (litsvo tsava)",text:"Expressão idiomática para ingressar no serviço organizado do santuário. צָבָא pode significar exército, mas aqui se refere ao serviço levítico. A partir dos vinte e cinco anos, o levita ingressava nesse serviço."}
 };
 /* Notas lexicais — Números 9. */
 window.TRANSLATION_NOTES[3][9] = {
-  3:{term:"בֵּין הָעַרְבַּיִם (bein ha'arbayim)",text:"Expressão temporal tradicionalmente traduzida “entre as tardes” ou “ao crepúsculo”. Refere-se ao período vespertino do sacrifício pascal."},
   2:{term:"בְּמוֹעֲדוֹ (bemo'ado)",text:"“No tempo determinado”. A Páscoa deve ser celebrada na data estabelecida, segundo o calendário e as prescrições do rito."},
-  11:{term:"עַל־מַצּוֹת וּמְרֹרִים (al-matsot umerorim)",text:"“Com pães sem fermento e ervas amargas”. O texto descreve os acompanhamentos da refeição pascal da segunda celebração."},
-  14:{term:"גֵּר (ger)",text:"“Estrangeiro residente” ou “forasteiro integrado”. A lei prevê que participe da Páscoa sob o mesmo estatuto ritual do natural da terra."}
+  3:{term:"בֵּין הָעַרְבַּיִם (bein ha'arbayim)",text:"Expressão temporal tradicionalmente traduzida “entre as tardes” ou “ao crepúsculo”. Refere-se ao período vespertino do sacrifício pascal."},
   6:{term:"טָמֵא לָנֶפֶשׁ (tame lanefesh)",text:"Literalmente, “impuro por uma pessoa/morto”. É impureza ritual decorrente do contato com um cadáver, não uma avaliação moral."},
   10:{term:"בְּדֶרֶךְ רְחֹקָה (bederekh rechokah)",text:"“Em viagem distante”. A expressão estabelece uma exceção para quem não pode celebrar a Páscoa na data ordinária."},
+  11:{term:"עַל־מַצּוֹת וּמְרֹרִים (al-matsot umerorim)",text:"“Com pães sem fermento e ervas amargas”. O texto descreve os acompanhamentos da refeição pascal da segunda celebração."},
   13:{term:"וְנִכְרְתָה (venikhretah)",text:"“Será eliminada/cortada”. Fórmula de sanção comunitária; o texto não especifica aqui o mecanismo concreto da exclusão."},
+  14:{term:"גֵּר (ger)",text:"“Estrangeiro residente” ou “forasteiro integrado”. A lei prevê que participe da Páscoa sob o mesmo estatuto ritual do natural da terra."},
   15:{term:"מַרְאֵה אֵשׁ (mar'eh esh)",text:"“Aparência de fogo”. O texto descreve a manifestação visível sobre o Tabernáculo sem identificar o fenômeno com fogo material comum."},
   19:{term:"מִשְׁמֶרֶת יְהוָה (mishmeret YHWH)",text:"“Encargo/ordem de YHWH”. A expressão caracteriza a espera e a partida como obediência à orientação divina."}
 };
@@ -135,10 +129,9 @@ window.TRANSLATION_NOTES[3][11] = {
 window.TRANSLATION_NOTES[3][12] = {
   1:{term:"הָאִשָּׁה הַכֻּשִׁית (ha'ishah hakkushit)",text:"“A mulher cuxita”. A identificação geográfica e a relação desta mulher com Zípora são debatidas; o texto não esclarece a questão."},
   3:{term:"עָנָו (anav)",text:"“Humilde”, “manso” ou “afligido”. O adjetivo pode expressar humildade e modéstia, e aqui caracteriza Moisés em contraste com a disputa de autoridade."},
-  6:{term:"בַּמַּרְאָה (bammar'ah)",text:"“Em visão”. O versículo distingue a revelação profética ordinária da comunicação singular descrita a respeito de Moisés."},
-  8:{term:"פֶּה אֶל־פֶּה (peh el-peh)",text:"Literalmente, “boca a boca”, expressão para comunicação direta e clara. O texto contrasta essa forma com sonhos e enigmas."},
   5:{term:"וַיֵּצְאוּ שְׁנֵיהֶם (vayyetse'u shenehem)",text:"“E os dois saíram”. O verbo יצא significa sair; refere-se à saída de Arão e Miriã após serem chamados, não a uma aproximação da presença divina."},
-  8:{term:"וּתְמֻנַת יְהוָה יַבִּיט (utmunat YHWH yabbit)",text:"“E a forma de YHWH ele contempla”. תְּמוּנָה pode significar forma ou figura; a afirmação destaca a singularidade da comunicação concedida a Moisés, sem definir sua natureza física."}
+  6:{term:"בַּמַּרְאָה (bammar'ah)",text:"“Em visão”. O versículo distingue a revelação profética ordinária da comunicação singular descrita a respeito de Moisés."},
+  8:{term:"פֶּה אֶל־פֶּה ... תְּמוּנַת יְהוָה (peh el-peh ... tmunat YHWH)",text:"“Boca a boca” descreve comunicação direta, não mediada por enigmas; תְּמוּנָה pode significar “forma” ou “figura”. A afirmação destaca a singularidade da comunicação concedida a Moisés sem definir sua natureza física."},
   10:{term:"מְצֹרָעַת (metsora'at)",text:"Pessoa atingida por afecção cutânea ritual. Não é seguro equiparar automaticamente o termo ao diagnóstico moderno de hanseníase."},
   14:{term:"תִּסָּגֵר (tissager)",text:"“Ficará isolada/fechada”. A forma verbal indica exclusão temporária do acampamento, seguida de reintegração."}
 };
