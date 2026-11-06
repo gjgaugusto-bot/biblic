@@ -39,8 +39,10 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     10: {term:"אַמָּה (ammah)",text:"Côvado, medida antiga baseada aproximadamente no antebraço. Seu valor variava conforme época e padrão."},
     17: {term:"כַּפֹּרֶת (kapporet)",text:"Cobertura da arca, tradicionalmente chamada propiciatório. O nome se relaciona à raiz כפר, cujo campo inclui expiação/cobertura."},
     18: {term:"כְּרֻבִים (keruvim)",text:"Seres celestiais ou guardiões na iconografia do antigo Oriente Próximo; “querubins” é a transliteração tradicional."},
+    29: {term:"קְעָרֹת (qe'arot) / כַּפּוֹת (kappot) / קְשׂוֹת (qesot) / מְנַקִּיּוֹת (menakkiyyot)",text:"Quatro utensílios da mesa, cuja forma exata é discutida: pratos/bandejas, colheres ou conchas, jarras/pitchers e taças/bacias. A cláusula sobre verter libações aplica-se especialmente às jarras e taças finais; a tradução mantém essa distinção."},
     30: {term:"לֶחֶם פָּנִים (lechem panim)",text:"Literalmente “pão da face/presença”, designação dos pães dispostos continuamente diante de YHWH."},
     31: {term:"מְנוֹרָה (menorah)",text:"Candelabro ou suporte de lâmpadas. A descrição especifica uma peça única de ouro batido com sete lâmpadas."},
+    38: {term:"מַלְקָחֶיהָ וּמַחְתֹּתֶיהָ (malqacheha umahtoteha)",text:"מַלְקָחִים (*malqachim*) são pinças/tenazes para manusear e ajustar os pavios; מַחְתּוֹת (*machtot*) são bandejas ou pequenos recipientes para recolher as mechas queimadas e cinzas. “Bandejas para recolher as cinzas” evita confundir esses recipientes com apagadores propriamente ditos."},
     39: {term:"כִּכָּר (kikkar)",text:"Unidade de peso antiga, geralmente traduzida “talento”; seu peso variava, portanto a conversão moderna é aproximada."}
   }
 });
