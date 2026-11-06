@@ -544,3 +544,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Registradas a tensão sobre a totalidade do rebanho, as fases agrícolas e as diferenças entre os verbos ligados ao coração do faraó.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 10:1–29.
+
+
+## 2026-11-06 — revisão de Êxodo 10:1–29
+
+- Conferência integral do capítulo 10 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas/acrescentadas em 10:2, 10:10, 10:13, 10:19 e 10:21.
+- Registradas as nuances de hit'allalti, o possível jogo sonoro com Rá, os ventos oriental/ocidental e a escuridão palpável.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 11:1–10.
