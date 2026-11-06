@@ -651,3 +651,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas anteriores preservadas, incluindo a ambiguidade jurídica de 21:22–23.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 22:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 22:1–31
+
+- Conferência integral do capítulo 22 contra o Texto Massorético.
+- Ajuste em 22:29 para “a abundância de tua colheita e o produto de teus lagares”.
+- Nota lexical acrescentada em 22:29; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 23:1–33.
