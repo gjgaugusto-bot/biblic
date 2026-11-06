@@ -608,7 +608,7 @@ function validateImportedBackup(data){
  if(data.editorialReviews){
   const allowedStates=['pendente','em_revisao','revisado','reaberto'];
   for(const [key,record] of Object.entries(data.editorialReviews)){
-   if(!/^\\d+-\\d+-\\d+$/.test(key)||!record||typeof record!=='object'||Array.isArray(record)||!allowedStates.includes(record.status))return 'O registro editorial contém uma chave ou estado inválido.';
+   if(!/^\d+-\d+-\d+$/.test(key)||!record||typeof record!=='object'||Array.isArray(record)||!allowedStates.includes(record.status))return 'O registro editorial contém uma chave ou estado inválido.';
    if(record.history!==undefined&&(!Array.isArray(record.history)||record.history.some(event=>!event||typeof event!=='object'||Array.isArray(event)||!allowedStates.includes(event.to))))return 'O histórico editorial contém movimentações inválidas.';
    for(const field of ['source','observation','reopenReason','updatedAt'])if(record[field]!==undefined&&typeof record[field]!=='string')return 'O registro editorial contém um campo inválido: '+field+'.';
   }
