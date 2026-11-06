@@ -12,22 +12,22 @@ Concluir a Enciclopédia Bíblica, preservando o trabalho existente, e avançar 
 
 | Área | Estado | O que isso significa |
 |---|---|---|
-| Gênesis | **Revisado no histórico; fechamento final da abertura pendente** | O usuário informou que Gênesis já foi revisado várias vezes. Fazer somente a conferência final da abertura combinada. Não reiniciar a revisão dos 50 capítulos. |
+| Gênesis | **FECHADO DEFINITIVAMENTE** | A conferência final da abertura (capítulos 1–3) foi concluída em 2026-11-06. Não reiniciar nem reabrir por nova conversa, preferência estilística ou falta de contexto. |
 | Êxodo 1–40 | **Integrado; revisão acadêmica versículo por versículo ainda pendente** | Texto, notas lexicais e correções estão no projeto. A análise com o hebraico precisa prosseguir sem refazer a integração técnica. |
-| Controle editorial por versículo | **Implementado em branch e aguardando validação** | PR #36, branch `feat/controle-editorial-versiculos-2026-11-06`. Não declarar concluído até o teste de navegador passar. |
+| Controle editorial por versículo | **Implementado e validado em Chromium** | PR #36, branch `feat/controle-editorial-versiculos-2026-11-06`. Workflow `42269297633` passou em sintaxe, estrutura, Chromium, testes funcionais e axe-core. Aguardando decisão de integração/publicação. |
 | Demais livros | **Aguardando sequência editorial** | Não começar antes de estabilizar a etapa atual; avançar em ordem até Apocalipse. |
-| Site publicado | **Não alterado por esta etapa** | O PR #36 é rascunho e não foi integrado nem publicado. |
+| Site publicado | **Não alterado por esta etapa** | O PR #36 não foi integrado nem publicado; `main` e o site público permanecem intactos. |
 
 ## Regra definitiva para Gênesis
 
-1. Fazer uma única conferência final da abertura, conforme combinado com o proprietário.
+1. [x] Fazer uma única conferência final da abertura (Gênesis 1–3), conforme combinado com o proprietário.
 2. Limitar a conferência a erros objetivos: omissão, acréscimo, inconsistência, problema real de tradução/fidelidade ou erro linguístico relevante.
 3. Não fazer nova revisão geral dos capítulos 1–50, não reavaliar escolhas apenas por preferência estilística e não exigir que o usuário repita etapas já feitas.
 4. Corrigir e registrar somente problemas concretos encontrados.
-5. Ao terminar a conferência final, atualizar este documento e `REGISTRO-EDITORIAL.md` para **GÊNESIS — FECHADO DEFINITIVAMENTE**.
+5. [x] Conferência concluída e registrada em `REGISTRO-EDITORIAL.md`: **GÊNESIS — FECHADO DEFINITIVAMENTE**.
 6. Depois de fechado, Gênesis sai da fila de trabalho. Só poderá ser reaberto por evidência objetiva de erro relevante ou fonte nova que demonstre problema real; a justificativa e os versículos afetados devem ser registrados. Nova conversa, perda de contexto, mudança de ferramenta ou preferência estilística não justificam reabertura.
 
-**Importante:** até que a conferência final da abertura seja executada e registrada, não afirmar que Gênesis já está definitivamente fechado. O histórico de revisão dos demais capítulos, porém, permanece preservado.
+**ENCERRAMENTO REGISTRADO (2026-11-06):** a conferência final dos capítulos 1–3 foi concluída. Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. O histórico dos capítulos 4–50 permanece preservado. Não repetir a conferência. Reabrir somente diante de evidência objetiva de erro relevante ou fonte nova que justifique correção específica.
 
 ## Regras para não repetir trabalho
 
@@ -42,10 +42,10 @@ Concluir a Enciclopédia Bíblica, preservando o trabalho existente, e avançar 
 
 ## Próximas ações — ordem obrigatória
 
-1. **Concluir a infraestrutura atual:** corrigir a falha do teste Playwright do PR #36, executar novamente o workflow e verificar o resultado completo. O último resultado conhecido do workflow `42267847733` foi falha no passo de teste em Chromium; sintaxe e validação estrutural passaram. Investigar a falha antes de integrar.
-2. Revisar o diff do PR #36 e, após os checks passarem, apresentar o resultado para decisão do proprietário. Não integrar nem publicar sem autorização explícita.
-3. Fazer a conferência final limitada da abertura de Gênesis e registrar o fechamento definitivo.
-4. Prosseguir com a revisão acadêmica de Êxodo, aproveitando o texto e as notas já integrados; não reconstruir o livro.
+1. [x] Corrigir a falha Playwright: `translation-notes.js` agora inicializa os capítulos antes de anexar notas. O workflow `42269297633` passou integralmente.
+2. [x] Revisar o diff do PR #36 e registrar o estado; a branch está 25 commits à frente e 0 atrás de `main`.
+3. [x] Concluir a conferência final de Gênesis 1–3 e registrar Gênesis como fechado definitivamente.
+4. Próximo: retomar a revisão acadêmica de Êxodo, aproveitando o texto e as notas já integrados; não reconstruir o livro.
 5. Seguir livro por livro até Apocalipse, atualizando o registro ao fim de cada unidade concluída.
 
 ## Arquivos que toda nova sessão deve consultar
@@ -66,3 +66,15 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - O painel editorial mantém alterações no navegador via localStorage; isso não sincroniza sozinho com o GitHub.
 - Exportar o backup JSON e versionar o registro é necessário para transportar alterações locais entre dispositivos/conversas.
 - A branch de recurso e o PR não significam publicação. A branch `main` e o site público não devem ser alterados sem autorização expressa.
+
+
+## Fechamento definitivo de Gênesis e validação do controle editorial — 2026-11-06
+
+- **Gênesis 1–3:** conferência final da abertura concluída em uma única passagem, com foco em fidelidade lexical, sintaxe, ambiguidades do hebraico e português. Não foi identificada necessidade de reescrever o texto-base. A nota lexical de Gênesis 2:22 foi complementada para registrar que וַיִּבֶן (vayyiven) vem de בנה, “construir/edificar”; a tradução existente “formou” permanece possível como tradução de sentido, com a nuance explicada ao leitor.
+- Gênesis 1:1: a forma tradicional “No princípio” foi mantida; a análise gramatical é discutida na bibliografia, e estudo de 2025 mostra que a leitura adverbial tradicional é compatível com tradições históricas do hebraico bíblico.
+- Gênesis 1:2, 1:6, 2:7, 2:18, 2:21, 3:15–17: alternativas de sentido e escolhas de tradução foram conferidas e preservadas nas notas, sem impor interpretação única onde há debate lexical ou sintático.
+- **Estado editorial do livro: FECHADO DEFINITIVAMENTE.** Não reiniciar revisão de Gênesis por mudança de conversa, ferramenta ou modelo. Reabrir somente com evidência concreta de erro relevante ou fonte nova que justifique alteração pontual, registrando versículos e motivo.
+- Corrigida falha JavaScript em `translation-notes.js`: anexos de notas agora criam objeto para capítulos sem notas-base, evitando `Object.assign` sobre `undefined`.
+- Workflow GitHub Actions `42269297633` (run 270): sintaxe, validação estrutural, instalação Chromium, servidor local, testes Playwright funcionais e varredura axe-core concluídos com sucesso. Resultado: “TESTES DE NAVEGADOR APROVADOS”.
+- O PR #36 continua sem integração/publicação; `main` e o site público não foram alterados.
+- Próximo trabalho de conteúdo: Êxodo, revisão acadêmica verso a verso a partir do ponto registrado em `REVISAO-EXODO.md`, sem refazer a integração dos capítulos 1–40.
