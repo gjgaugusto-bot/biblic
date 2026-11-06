@@ -764,3 +764,10 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Êxodo 34:1–35 passou pela primeira conferência textual e lexical; notas sobre os atributos divinos, aliança, calendário agrícola, brilho do rosto de Moisés e véu registradas em REVISAO-EXODO.md.
 - Êxodo 1–34 documentados na primeira passada.
 - Próximo capítulo: Êxodo 35.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 35:1–35 passou pela primeira conferência textual e lexical; ajustes em 35:11, 35:24, 35:25 e 35:33 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–35 documentados na primeira passada.
+- Próximo capítulo: Êxodo 36.
