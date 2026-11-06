@@ -15,7 +15,7 @@ window.EXODUS_TEXT[26] = [
   "Farás cinquenta ganchos de bronze, colocarás os ganchos nos laços e unirás a tenda, para que seja uma só.",
   "A parte excedente das cortinas da tenda, a metade da cortina que sobrar, ficará pendendo sobre a parte posterior do tabernáculo.",
   "Um côvado de cada lado da sobra ficará pendendo sobre as laterais do tabernáculo, para cobri-lo.",
-  "Farás para a tenda uma cobertura de peles de carneiro tingidas de vermelho e, por cima, uma cobertura de peles resistentes.",
+  "Farás para a tenda uma cobertura de peles de carneiro tingidas de vermelho e, por cima, uma cobertura de peles de tahash.",
   "Farás as armações do tabernáculo com madeira de acácia, colocadas verticalmente.",
   "Cada armação terá dez côvados de comprimento e um côvado e meio de largura.",
   "Cada armação terá duas saliências encaixadas uma na outra; assim farás todas as armações do tabernáculo.",
@@ -156,7 +156,7 @@ window.EXODUS_TEXT[29] = [
   "Este será o holocausto contínuo por todas as gerações, à entrada da tenda do encontro, diante de YHWH; ali me encontrarei contigo para falar contigo.",
   "Ali me encontrarei com os filhos de Israel, e o lugar será santificado pela minha glória.",
   "Consagrarei a tenda do encontro e o altar; também consagrarei Arão e seus filhos para me servirem como sacerdotes.",
-  "Habitararei no meio dos filhos de Israel e serei o Deus deles.",
+  "Habitarei no meio dos filhos de Israel e serei o Deus deles.",
   "Eles saberão que eu sou YHWH, seu Deus, que os tirei da terra do Egito para habitar no meio deles. Eu sou YHWH, seu Deus."
 ];
 
