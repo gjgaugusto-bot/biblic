@@ -1068,7 +1068,7 @@ window.NUMBERS_TEXT[27] = [
   "que saia diante deles e entre diante deles, que os conduza para fora e os faça entrar, para que a comunidade de YHWH não seja como ovelhas sem pastor.",
   "YHWH disse a Moisés: Toma Josué, filho de Num, homem em quem há espírito, e põe tua mão sobre ele.",
   "Faze-o apresentar-se diante de Eleazar, o sacerdote, e diante de toda a comunidade, e dá-lhe tuas instruções à vista deles.",
-  "Transferirás a ele parte de tua autoridade, para que toda a comunidade dos filhos de Israel lhe obedeça.",
+  "Transferirás a ele parte de tua honra, para que toda a comunidade dos filhos de Israel lhe obedeça.",
   "Ele se apresentará diante de Eleazar, o sacerdote, que consultará por ele o juízo dos Urim diante de YHWH; segundo sua palavra sairão e segundo sua palavra entrarão, ele e todos os filhos de Israel com ele, toda a comunidade.",
   "Moisés fez como YHWH lhe ordenara: tomou Josué, apresentou-o diante de Eleazar, o sacerdote, e diante de toda a comunidade.",
   "Pôs as mãos sobre ele e lhe deu instruções, conforme YHWH havia falado por intermédio de Moisés."
