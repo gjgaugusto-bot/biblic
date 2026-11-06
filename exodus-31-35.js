@@ -18,7 +18,8 @@ window.EXODUS_TEXT[31] = [
 "Guardareis o sábado, porque é sagrado para vós. Quem o profanar certamente morrerá; todo aquele que nele fizer algum trabalho será eliminado do meio de seu povo.",
 "Durante seis dias se fará trabalho, mas o sétimo dia é sábado de descanso completo, consagrado a YHWH. Todo aquele que fizer trabalho no dia de sábado certamente morrerá.",
 "Os filhos de Israel guardarão o sábado, celebrando-o por todas as suas gerações como aliança perpétua.",
-"Será um sinal perpétuo entre mim e os filhos de Israel, pois em seis dias YHWH fez os céus e a terra, mas no sétimo dia cessou e descansou."
+"Será um sinal perpétuo entre mim e os filhos de Israel, pois em seis dias YHWH fez os céus e a terra, mas no sétimo dia cessou e descansou.",
+"Quando terminou de falar com Moisés no monte Sinai, deu-lhe as duas tábuas do testemunho, tábuas de pedra escritas pelo dedo de Deus."
 ];
 window.EXODUS_TEXT[32] = [
 "O povo viu que Moisés demorava a descer do monte. Reuniu-se em torno de Arão e lhe disse: Levanta-te, faze para nós deuses que caminhem à nossa frente, pois não sabemos o que aconteceu a esse Moisés, o homem que nos tirou da terra do Egito.",
