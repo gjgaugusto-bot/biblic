@@ -99,3 +99,5 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 ### Ajuste estrutural das notas de Êxodo 1–10
 
 - **Êxodo 3:** unificadas as notas dos versículos 14 e 19 em um único objeto de capítulo. Isso evita que uma chave de capítulo duplicada faça uma das notas sobrescrever a outra no JavaScript.
+
+- Êxodo 1:7 e 2:10: acrescentadas notas para o verbo *vayishretsu*, que evoca pulular/enxamear, e para o jogo de palavras entre o nome Moshe e *meshitihu* (“eu o tirei”). A nota de 2:10 distingue a explicação narrativa da possível origem histórica do nome.
