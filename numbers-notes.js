@@ -6,6 +6,7 @@ window.TRANSLATION_NOTES[3][1] = {
   3:{term:"יֹצֵא צָבָא (yotse tsava)",text:"Literalmente, “aquele que sai para o exército/serviço”. No contexto, designa os homens aptos ao serviço militar, não necessariamente todo homem adulto sem distinção."},
   16:{term:"קְרוּאֵי הָעֵדָה (qeru'ei ha'edah)",text:"“Convocados” ou “designados da assembleia”. O particípio está ligado à ideia de chamar; aqui identifica os representantes reconhecidos pela comunidade."},
   18:{term:"וַיִּתְיַלְדוּ (vayyityaldu)",text:"Forma hitpael da raiz ילד (yalad), relacionada a gerar/nascer. Neste contexto, descreve a declaração ou organização da linhagem familiar e ancestral para o recenseamento; por isso, “declararam sua linhagem” explicita melhor a dimensão genealógica do que uma simples inscrição administrativa."},
+  46:{term:"כָּל־הַפְּקֻדִים (kol-happequdim)",text:"O total do recenseamento é 603.550 homens aptos ao serviço militar. A soma das doze tribos, excluídos os levitas, corresponde ao total declarado."},
   47:{term:"לֹא הָתְפָּקְדוּ (lo hotpaqedu)",text:"Forma verbal passiva/reflexiva de פקד (paqad), verbo usado para contar, inspecionar ou registrar. A exclusão dos levitas desta lista é funcional: eles recebem atribuições próprias em relação ao santuário."},
   50:{term:"מִשְׁכַּן הָעֵדֻת (mishkan ha'edut)",text:"“Tabernáculo do Testemunho”. Mishkan é a habitação/tenda; edut, “testemunho”, relaciona-se às tábuas/aliança guardadas no santuário. A expressão identifica o santuário móvel de Israel."},
   51:{term:"הַזָּר הַקָּרֵב (hazzar haqqarev)",text:"“O não autorizado que se aproxima”. זָר (zar) designa quem é alheio ao grupo ou à função autorizada; no contexto, refere-se a quem não está habilitado a executar o serviço levítico/sacerdotal no santuário, não simplesmente a um desconhecido."},
@@ -265,6 +266,8 @@ window.TRANSLATION_NOTES[3][24] = {
   5:{term:"מַה־טֹּבוּ (mah tovu)",text:"“Como são belas”. A fórmula abre o terceiro oráculo com uma exclamação de admiração pelo acampamento de Israel."},
   7:{term:"אֲגַג (Agag)",text:"Nome/título associado a reis amalequitas. A referência anuncia a elevação do rei de Israel acima de seus adversários."},
   17:{term:"דָּרַךְ כּוֹכָב (darakh kokhav)",text:"“Uma estrela avançou/surgiu”. Imagem régia de vitória e autoridade; sua interpretação messiânica pertence a leituras posteriores e não esgota o sentido no contexto antigo."},
+  17:{term:"בְּנֵי־שֵׁת (bene-shet)",text:"Literalmente, “filhos de Sete”. A expressão pode designar um grupo humano mais amplo; a identificação exata é discutida. “Filhos de tumulto” não é tradução segura do nome próprio שֵׁת."},
+  18:{term:"יְרֵשָׁה (yereshah)",text:"“Possessão/herança”. O oráculo descreve Edom e Seir como territórios que passarão ao domínio anunciado; a construção poética do verso permite mais de uma segmentação sintática."},
   20:{term:"רֵאשִׁית גּוֹיִם (reshit goyim)",text:"“Primeiro entre as nações”. Pode indicar primazia histórica ou militar de Amaleque, seguida de anúncio de seu fim."},
   23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."}
 };
@@ -275,6 +278,8 @@ window.TRANSLATION_NOTES[3][25] = {
   3:{term:"וַיִּצָּמֶד (vayyitsamed)",text:"“Apegou-se/vinculou-se”. O verbo descreve adesão estreita, aqui em contexto de infidelidade cultual."},
   4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a suspender, enforcar ou empalar publicamente; o modo exato da execução é discutido. A tradução explicita a execução pública sem afirmar um método além do que a forma permite determinar."},
   11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao demonstrar meu zelo”. A repetição da raiz קנא destaca o zelo de Fineias pela aliança."},
+  6:{term:"וַיַּקְרֵב אֶל־אֶחָיו (vayyaqrev el-echav)",text:"“Aproximou-se de seus irmãos/trouxe para junto deles”. O verbo קרב descreve trazer alguém para perto; não exige a ideia de apresentar formalmente a mulher."},
+  11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao ser zeloso com o meu zelo”. A repetição da raiz קנא (qana) enfatiza que Fineias age com zelo correspondente ao zelo divino, e não apenas com indignação pessoal."},
   12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
 };
 /* Notas lexicais — Números 26. */
@@ -284,6 +289,7 @@ window.TRANSLATION_NOTES[3][26] = {
   52:{term:"לָאֵלֶּה תֵּחָלֵק הָאָרֶץ (la'elleh techaleq ha'aretz)",text:"A terra será repartida entre os recenseados; o texto combina distribuição proporcional e sorteio."},
   55:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O sorteio determina a localização da herança, dentro da distribuição tribal."},
   59:{term:"יוֹכֶבֶד (Yokheved)",text:"Joquebede, mãe de Moisés, Arão e Miriã; a genealogia a identifica como filha de Levi, nascida no Egito."},
+  51:{term:"שֵׁשׁ־מֵאוֹת אֶלֶף וָאָלֶף (shesh-me'ot elef va'elef)",text:"O total do segundo recenseamento é 601.730, 1.820 a menos que os 603.550 do primeiro censo (Nm 1:46). O texto registra a diferença sem explicar sua causa."},
   65:{term:"כִּי אָמַר יְהוָה (ki amar YHWH)",text:"A geração do deserto não permanece, conforme a sentença anterior; as exceções nomeadas são Calebe e Josué."}
 };
 /* Notas lexicais — Números 27. */
