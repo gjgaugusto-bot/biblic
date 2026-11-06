@@ -469,5 +469,15 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Ampliadas as notas de `translation-notes.js` para explicar a variação dos nomes Reuel/Jetro/Yeter (Êxodo 2:18; 3:1; 4:18) e a construção de Êxodo 5:16.
 - Mantida a nota de Êxodo 4:24–26 sem escolher uma hipótese entre as interpretações acadêmicas concorrentes.
 - Atualizado `REVISAO-EXODO.md` com escopo, decisões e bibliografia desta segunda conferência.
-- **Estado:** Êxodo 1–5 passaram a **Revisado** no controle editorial por versículo: 122 registros receberam fonte, observação e evento de transição no histórico. Êxodo 6–40 permanece **Em revisão**.
-- Testes automatizados do PR desta etapa ainda pendentes. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+- **Estado atualizado:** Êxodo 1–10 estão **Revisados** no controle editorial por versículo: 273 registros receberam fonte, observação e evento de transição no histórico. Êxodo 11–40 permanece **Em revisão**.
+- A validação do lote 1–5 passou integralmente no workflow 42314001126; a validação do lote ampliado 1–10 ainda está pendente após os novos commits. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+
+
+## 2026-11-06 — Segunda conferência de Êxodo 6–10
+
+- Segunda conferência comparativa dos capítulos 6–10 concluída com o Texto Massorético de Mechon-Mamre e conferência paralela em Sefaria.
+- Acrescentadas notas para o sujeito implícito em 7:20, a expressão idiomática de 8:5 e a expressão “ao teu coração” em 9:14; ampliada a nota de מִקְנֶה (*miqneh*) em 9:6.
+- Em 10:24, “ovelhas” foi ajustado para “rebanhos”, preservando o sentido coletivo de צֹאן (*tson*).
+- Controle editorial atualizado: Êxodo 6–10 (151 versículos) passou a Revisado, com fonte, observação e histórico. Êxodo 1–10 soma agora 273 versículos Revisados.
+- Registros atualizados em `REVISAO-EXODO.md`, `REGISTRO-EDITORIAL.md`, `ESTADO-OFICIAL-DO-PROJETO.md` e testes Playwright.
+- Próximo lote: segunda conferência de Êxodo 11–15, sem reiniciar a primeira passada já documentada.
