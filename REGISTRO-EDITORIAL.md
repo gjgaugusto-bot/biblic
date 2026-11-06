@@ -244,3 +244,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 19:1–25.
+
+
+### Êxodo 19:1–25
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 19:22; notas anteriores do capítulo preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 20:1–26.
