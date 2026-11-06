@@ -967,3 +967,31 @@ Demais versículos (32:2–30, 32–33 e 32:35): conferidos quanto à correspond
 - Jewish Bible Quarterly, estudo sobre Êxodo 32:5–25 e a expressão de festa/ruído: https://jbqnew.jewishbible.org/assets/Uploads/311/311_CALF31-1.pdf
 
 **Próximo ponto:** Êxodo 33:1–23. Não repetir a conferência de Êxodo 32 sem evidência concreta de erro novo.
+
+
+### Êxodo 33 — conferência textual e lexical integral (33:1–23)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do hebraico e de traduções de referência. Duas formulações foram refinadas para conservar a força dos verbos hebraicos; as imagens de presença, face e costas foram mantidas sem impor uma leitura teológica ou antropomórfica além do texto.
+
+Correções no texto:
+- **33:6:** “deixaram seus ornamentos” foi ajustado para **“se despojaram de seus ornamentos”**, refletindo וַיִּתְנַצְּלוּ (*vayyitnatzelu*), forma reflexiva que descreve tirar/despojar-se dos adornos.
+- **33:10:** “se inclinava” foi ajustado para **“se prostrava”**, correspondendo a וְהִשְׁתַּחֲווּ (*vehishtachavu*), verbo de prostrar-se em reverência.
+
+Notas lexicais acrescentadas/ampliadas:
+- **33:3–5:** קְשֵׁה־עֹרֶף (*qesheh-oref*, “dura cerviz”) é expressão idiomática de obstinação; o anúncio de que YHWH não subiria “no meio” do povo é preservado sem suavizar a advertência.
+- **33:6:** וַיִּתְנַצְּלוּ (*vayyitnatzelu*) descreve o ato de se despojar dos ornamentos; a tradução foi ajustada para preservar a ação reflexiva.
+- **33:7:** אֹהֶל מוֹעֵד (*ohel mo'ed*, “tenda do encontro”) aparece aqui como tenda armada fora do acampamento; o registro narrativo não deve ser confundido automaticamente com a descrição posterior do tabernáculo concluído.
+- **33:10–11:** הִשְׁתַּחֲוָה (*hishtachavah*) significa prostrar-se; פָּנִים אֶל־פָּנִים (*panim el-panim*, “face a face”) descreve comunicação direta, não exige visão irrestrita da face divina, como o próprio diálogo subsequente evidencia.
+- **33:14–16:** פָּנַי (*panai*, “minha face”) é expressão associada à presença pessoal de YHWH; “minha presença” foi mantido como equivalente contextual, com a imagem hebraica preservada em nota.
+- **33:19:** טוּבִי (*tuvi*, “minha bondade”) e a proclamação do nome YHWH permanecem distintos; חנן (*chanan*, conceder favor) e רחם (*racham*, compadecer-se) são dois verbos paralelos, não sinônimos que devam ser apagados.
+- **33:22–23:** נִקְרַת הַצּוּר (*niqrat hatsur*) é a fenda/abertura da rocha; אֲחֹרָי (*achorai*, “minhas costas/parte posterior”) e פָּנַי (*panai*, “minha face”) são mantidos como imagens textuais, sem decidir se descrevem visão literal ou linguagem antropomórfica.
+
+Demais versículos (33:1–5, 33:7–9 e 33:11–23): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 33: https://mechon-mamre.org/p/pt/pt0233.htm
+- Sefaria, Êxodo 33 e tradução JPS, com comentários de Rashi: https://www.sefaria.org/Exodus.33
+- Rashi sobre Êxodo 33:11 e 33:22, para as leituras tradicionais de “face a face” e “fenda da rocha”: https://www.sefaria.org/Exodus.33?with=Rashi
+- Ibn Ezra sobre Êxodo 33:21, para a relação entre a rocha e a fenda do versículo seguinte: https://www.sefaria.org/Exodus.33.21?lang2=en&with=Ibn+Ezra
+
+**Próximo ponto:** Êxodo 34:1–35. Não repetir a conferência de Êxodo 33 sem evidência concreta de erro novo.
