@@ -267,6 +267,7 @@ window.TRANSLATION_NOTES[3][27] = {
 /* Notas lexicais — Números 28. */
 window.TRANSLATION_NOTES[3][28] = {
   2:{term:"קָרְבָּנִי לַחְמִי (qorbani lachmi)",text:"“Minha oferta, meu alimento”. Linguagem cultual que apresenta as ofertas como alimento oferecido no altar, não como necessidade física da divindade."},
+  3:{term:"הָאִשֶּׁה (ha’ishsheh)",text:"“Oferta feita pelo fogo”. A expressão designa a oferta apresentada no altar pelo fogo e não é sinônimo de עֹלָה (olah), “holocausto”; os termos podem aparecer juntos, como em Números 28:3 e 28:19."},
   6:{term:"עֹלַת תָּמִיד (olat tamid)",text:"“Holocausto contínuo/regular”. Refere-se à oferta diária da manhã e do entardecer."},
   7:{term:"שֵׁכָר (shekhar)",text:"Bebida fermentada ou forte usada na libação; o termo não deve ser confundido com a oferta de vinho em todos os contextos."},
   26:{term:"יוֹם הַבִּכּוּרִים (yom habikkurim)",text:"“Dia das primícias”, associado à Festa das Semanas e à apresentação da nova colheita."}
