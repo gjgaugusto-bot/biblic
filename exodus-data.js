@@ -138,7 +138,7 @@ window.EXODUS_TEXT = {
 6: [
 "YHWH disse a Moisés: «Agora verás o que farei ao faraó: por mão poderosa ele os deixará ir e por mão poderosa os expulsará de sua terra».",
 "Deus falou a Moisés e lhe disse: «Eu sou YHWH.",
-"Eu apareci a Abraão, a Isaque e a Jacó como El Shaddai, mas pelo meu nome YHWH não me dei a conhecer a eles.",
+"Eu apareci a Abraão, a Isaque e a Jacó como El Shaddai, mas, pelo meu nome YHWH, não fui conhecido por eles.",
 "Também estabeleci minha aliança com eles, para lhes dar a terra de Canaã, a terra de suas peregrinações, na qual viveram como estrangeiros.",
 "Além disso, ouvi o gemido dos filhos de Israel, a quem os egípcios mantêm em servidão, e me lembrei da minha aliança.",
 "Portanto, dize aos filhos de Israel: ‘Eu sou YHWH. Eu vos farei sair de debaixo das cargas dos egípcios, vos livrarei da servidão deles e vos resgatarei com braço estendido e com grandes julgamentos.",
@@ -161,7 +161,7 @@ window.EXODUS_TEXT = {
 "Arão tomou por mulher Eliseba, filha de Aminadabe e irmã de Naassom; ela lhe deu Nadabe, Abiú, Eleazar e Itamar.",
 "Os filhos de Corá: Assir, Elcana e Abiasafe. Essas são as famílias dos coraítas.",
 "Eleazar, filho de Arão, tomou por mulher uma das filhas de Putiel; ela lhe deu Fineias. Esses são os chefes das casas dos levitas, segundo suas famílias.",
-"Este é aquele Arão e Moisés aos quais YHWH disse: «Fazei sair os filhos de Israel da terra do Egito, segundo seus exércitos».",
+"Estes são Arão e Moisés, a quem YHWH disse: «Fazei sair os filhos de Israel da terra do Egito, segundo seus exércitos».",
 "São eles que falaram ao faraó, rei do Egito, para fazer sair os filhos de Israel do Egito: Moisés e Arão.",
 "Aconteceu que, no dia em que YHWH falou a Moisés na terra do Egito,",
 "YHWH lhe disse: «Eu sou YHWH. Dize ao faraó, rei do Egito, tudo o que te digo».",
