@@ -469,5 +469,5 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Ampliadas as notas de `translation-notes.js` para explicar a variação dos nomes Reuel/Jetro/Yeter (Êxodo 2:18; 3:1; 4:18) e a construção de Êxodo 5:16.
 - Mantida a nota de Êxodo 4:24–26 sem escolher uma hipótese entre as interpretações acadêmicas concorrentes.
 - Atualizado `REVISAO-EXODO.md` com escopo, decisões e bibliografia desta segunda conferência.
-- **Estado:** Êxodo 1–5 continuam **Em revisão**; esta etapa não equivale à revisão lexical integral de cada nota nem autoriza marcar todos os versículos como Revisados.
+- **Estado:** Êxodo 1–5 passaram a **Revisado** no controle editorial por versículo: 122 registros receberam fonte, observação e evento de transição no histórico. Êxodo 6–40 permanece **Em revisão**.
 - Testes automatizados do PR desta etapa ainda pendentes. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
