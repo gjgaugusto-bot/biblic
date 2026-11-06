@@ -267,3 +267,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas anteriores do capítulo preservadas, incluindo a ambiguidade de 21:22–23.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 22:1–31.
+
+
+### Continuidade de conteúdo — Êxodo 22 (2026-11-06)
+
+- Êxodo 22:1–31 conferido integralmente contra o Texto Massorético.
+- Ajuste em 22:29 para “a abundância de tua colheita e o produto de teus lagares”.
+- Nota lexical acrescentada em 22:29; notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 23:1–33.
