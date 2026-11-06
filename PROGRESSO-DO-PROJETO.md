@@ -461,12 +461,31 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
 
 
-## 2026-11-06 — Padronização editorial da interface
+## 2026-11-06 — Segunda conferência de Êxodo 1–5
 
-- Branch de trabalho: `ajustes-editoriais-interface-2026-11-06`, criada a partir do HEAD de `main`.
-- Ajustado o aviso inicial para deixar explícito que os textos traduzidos disponíveis são versões próprias de trabalho e que a disponibilidade e o estágio de revisão variam por livro.
-- Padronizados os nomes exibidos das categorias para **Cores bíblicas** e **Tipologias bíblicas**, preservando as chaves internas e os dados existentes da biblioteca.
-- Corrigida a orientação do painel lexical: as notas não se limitam a Êxodo; a instrução agora se aplica aos livros que possuem notas lexicais.
-- Ampliado `scripts/browser-smoke.mjs` para verificar o aviso inicial, os nomes padrão das categorias e a orientação do editor lexical.
-- Arquivos alterados: `index.html`, `app.js`, `scripts/browser-smoke.mjs` e este registro.
-- Pull Request #38 aberto para revisão: https://github.com/gjgaugusto-bot/biblic/pull/38. Workflow `Proteção do site` iniciado no commit `6f0ffb876a97611affb541b3953035d78b74ae09`; sintaxe e validação estrutural já passaram, enquanto a instalação/teste Chromium ainda estavam em execução na última consulta. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+- Branch: `revisao-academica-exodo-1-5-2026-11-06`, derivada do HEAD atual de `main` para preservar a versão mais recente do site; a branch `desenvolvimento` está divergente e centenas de commits atrás, portanto não é uma base segura para esta correção pontual.
+- Conferidos novamente Êxodo 1–5 com o Texto Massorético em Mechon-Mamre; Êxodo 2:16–20 também foi comparado com Sefaria.
+- Corrigida em `exodus-data.js` a conjunção de Êxodo 5:16: “embora a culpa...” passou a “e a culpa...”, removendo uma concessiva não expressa pelo hebraico.
+- Ampliadas as notas de `translation-notes.js` para explicar a variação dos nomes Reuel/Jetro/Yeter (Êxodo 2:18; 3:1; 4:18) e a construção de Êxodo 5:16.
+- Mantida a nota de Êxodo 4:24–26 sem escolher uma hipótese entre as interpretações acadêmicas concorrentes.
+- Atualizado `REVISAO-EXODO.md` com escopo, decisões e bibliografia desta segunda conferência.
+- **Estado atualizado:** Êxodo 1–10 estão **Revisados** no controle editorial por versículo: 273 registros receberam fonte, observação e evento de transição no histórico. Êxodo 11–40 permanece **Em revisão**.
+- A validação do lote 1–5 passou integralmente no workflow 42314001126; a validação do lote ampliado 1–10 ainda está pendente após os novos commits. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+
+
+## 2026-11-06 — Segunda conferência de Êxodo 6–10
+
+- Segunda conferência comparativa dos capítulos 6–10 concluída com o Texto Massorético de Mechon-Mamre e conferência paralela em Sefaria.
+- Acrescentadas notas para o sujeito implícito em 7:20, a expressão idiomática de 8:5 e a expressão “ao teu coração” em 9:14; ampliada a nota de מִקְנֶה (*miqneh*) em 9:6.
+- Em 10:24, “ovelhas” foi ajustado para “rebanhos”, preservando o sentido coletivo de צֹאן (*tson*).
+- Controle editorial atualizado: Êxodo 6–10 (151 versículos) passou a Revisado, com fonte, observação e histórico. Êxodo 1–10 soma agora 273 versículos Revisados.
+- Registros atualizados em `REVISAO-EXODO.md`, `REGISTRO-EDITORIAL.md`, `ESTADO-OFICIAL-DO-PROJETO.md` e testes Playwright.
+- Próximo lote: segunda conferência de Êxodo 11–15, sem reiniciar a primeira passada já documentada.
+
+
+## 2026-11-06 — PR #38 integrado
+
+- PR #38, “Padroniza textos e categorias da interface”, foi integrado à `main` em `81b540802da6099e5c0106ef41ae8bc15f63ab70`.
+- O workflow GitHub Pages correspondente, run [42314255062](https://github.com/gjgaugusto-bot/biblic/actions/runs/42314255062), terminou com sucesso; a padronização editorial está publicada.
+- O workflow de proteção do commit integrado, run [42314254925](https://github.com/gjgaugusto-bot/biblic/actions/runs/42314254925), estava em andamento na última consulta.
+- A revisão de Êxodo 1–10 foi sincronizada com o novo HEAD de `main` e segue isolada para validação no PR seguinte.
