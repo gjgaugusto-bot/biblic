@@ -27,6 +27,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     6: {term:"מַמְלֶכֶת כֹּהֲנִים (mamlekhet kohanim)",text:"Expressão literalmente “reino de sacerdotes”. Pode indicar uma comunidade com função sacerdotal; a tradução mantém a imagem sem fixar uma interpretação institucional."},
     10: {term:"קִדַּשׁ (qiddesh)",text:"Verbo “consagrar/santificar”, isto é, separar para uma condição especial. A preparação envolve o povo e suas roupas."},
     13: {term:"יֹבֵל (yovel)",text:"Termo relacionado ao toque do chifre de carneiro; em outros contextos dá origem à designação do jubileu. Aqui sinaliza o momento autorizado para avançar."},
+    15: {term:"אַל־תִּגְּשׁוּ אֶל־אִשָּׁה (al-tiggeshu el-ishah)",text:"Literalmente, “não vos aproximeis de mulher”. No contexto de preparação ritual para a manifestação no Sinai, a expressão é entendida como abstinência de relações sexuais durante o período de consagração; o texto não usa aqui um termo técnico para o ato sexual."},
     18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."}
   },
   20: {
