@@ -54,6 +54,34 @@
     });
   }
 
+  function markLegacyChaptersReviewed(bookIndex, chapters, chapterNumbers, source, observation) {
+    if (!chapters || typeof chapters !== "object") return;
+    chapterNumbers.forEach(function (chapter) {
+      const verses = chapters[chapter];
+      if (!Array.isArray(verses)) return;
+      verses.forEach(function (_, index) {
+        const key = bookIndex + "-" + chapter + "-" + (index + 1);
+        const previous = BASE[key];
+        if (!previous || previous.status !== "em_revisao") return;
+        const event = {
+          from: previous.status,
+          to: "revisado",
+          at: "2026-11-06",
+          source: source,
+          observation: observation,
+          reason: "Segunda conferência comparativa concluída; transição editorial registrada com fonte e observação."
+        };
+        BASE[key] = Object.assign({}, previous, {
+          status: "revisado",
+          updatedAt: "2026-11-06",
+          source: source,
+          observation: observation,
+          history: (previous.history || []).concat(event)
+        });
+      });
+    });
+  }
+
   try {
     if (typeof GENESIS_TEXT !== "undefined") {
       addLegacyBook(
@@ -98,6 +126,14 @@
     "em_revisao",
     "REVISAO-EXODO.md — registro anterior dos capítulos 1–40",
     "Estado anterior preservado: os capítulos estão integrados e registrados em revisão. A conferência acadêmica versículo por versículo com o hebraico continua pendente; integração técnica não equivale a aprovação textual."
+  );
+
+  markLegacyChaptersReviewed(
+    1,
+    window.EXODUS_TEXT,
+    [1, 2, 3, 4, 5],
+    "Texto Massorético (Mechon-Mamre, Êxodo 1–5); Sefaria (Êxodo 2–4); NET Bible (Êxodo 2:10); estudos acadêmicos citados em REVISAO-EXODO.md",
+    "Segunda conferência comparativa versículo por versículo dos capítulos 1–5; conferidas sequência e fidelidade ao texto hebraico, escolhas de tradução, nomes próprios e notas lexicais. Correção objetiva registrada em 5:16; nota de variantes nominais acrescentada em 2:18. Ambiguidades de 3:14 e 4:24–26 foram preservadas e documentadas. Não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente."
   );
 
   function readOverrides() {
