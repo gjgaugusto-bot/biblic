@@ -701,3 +701,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais ampliadas em 27:5 e 27:9 sobre a moldura do altar e as cortinas do pátio.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 28:1–43.
+
+
+## 2026-11-06 — revisão de Êxodo 28:1–43
+
+- Conferência integral do capítulo 28 contra o Texto Massorético.
+- Ajuste em 28:41 para “os investirás no sacerdócio”, distinguindo “encher a mão” de “santificar”.
+- Notas ampliadas em 28:32, 28:38 e 28:41; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 29:1–46.
