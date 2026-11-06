@@ -289,7 +289,7 @@ window.EXODUS_TEXT = {
 "YHWH disse a Moisés: «Estende a mão para o céu, e haverá escuridão sobre a terra do Egito, uma escuridão que se possa apalpar».",
 "Moisés estendeu a mão para o céu, e houve escuridão espessa em toda a terra do Egito durante três dias.",
 "Ninguém via seu companheiro, e ninguém se levantava de seu lugar durante três dias. Mas todos os filhos de Israel tinham luz em suas habitações.",
-"O faraó chamou Moisés e disse: «Ide, servi a YHWH. Somente vossas ovelhas e vosso gado ficarão aqui; também vossos pequenos poderão ir convosco».",
+"O faraó chamou Moisés e disse: «Ide, servi a YHWH. Somente vossos rebanhos e vosso gado ficarão aqui; também vossos pequenos poderão ir convosco».",
 "Moisés respondeu: «Tu também nos darás em nossas mãos sacrifícios e holocaustos, para que os ofereçamos a YHWH, nosso Deus.",
 "Nosso rebanho também irá conosco; não ficará para trás nem uma pata, pois dele tomaremos o necessário para servir a YHWH, nosso Deus. Não sabemos com que devemos servir a YHWH até chegarmos lá».",
 "Mas YHWH fortaleceu o coração do faraó, e ele não quis deixá-los ir.",
