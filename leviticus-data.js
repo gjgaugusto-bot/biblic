@@ -660,7 +660,7 @@ window.LEVITICUS_TEXT[21] = [
   "YHWH disse a Moisés: Fala aos sacerdotes, filhos de Arão, e dize-lhes: Nenhum sacerdote se tornará impuro por causa de um morto entre seu povo,",
   "exceto por parente próximo: mãe, pai, filho, filha, irmão,",
   "ou irmã virgem que lhe seja próxima e não tenha pertencido a outro homem; por ela poderá tornar-se impuro.",
-  "Não se tornará impuro por parentesco por casamento, profanando-se.",
+  "Não se tornará impuro por causa de um chefe entre seu povo, profanando-se.",
   "Os sacerdotes não rasparão a cabeça, não apararão as extremidades da barba nem farão cortes no corpo.",
   "Serão santos para seu Deus e não profanarão o nome de seu Deus, pois apresentam as ofertas queimadas a YHWH, o alimento de seu Deus; portanto, serão santos.",
   "Não tomarão mulher prostituída ou profanada, nem mulher repudiada por seu marido, pois o sacerdote é santo para seu Deus.",
