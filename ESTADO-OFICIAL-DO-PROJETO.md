@@ -169,3 +169,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Registradas a nuance de hit'allalti, a possível alusão a Rá em 10:10, a direção dos ventos e a escuridão palpável.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 11:1–10.
+
+
+### Continuidade de conteúdo — Êxodo 11 (2026-11-06)
+
+- Êxodo 11:1–10 conferido integralmente contra o Texto Massorético.
+- Ajustes em 11:1 (posição de “por completo”), 11:4 (“por volta da meia-noite”) e 11:8 (“se prostrarão”).
+- Notas ampliadas/acrescentadas em 11:1, 11:4 e 11:8; notas anteriores de 11:2, 11:5 e 11:7 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 12:1–51.
