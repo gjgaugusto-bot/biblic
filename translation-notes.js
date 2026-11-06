@@ -129,3 +129,12 @@ Object.assign((window.TRANSLATION_NOTES[0][41] ||= {}), {
 Object.assign((window.TRANSLATION_NOTES[0][43] ||= {}), {
   14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
 });
+
+
+// Notas lexicais adicionais — Gênesis 5.
+Object.assign((window.TRANSLATION_NOTES[0][5] ||= {}), {
+  1:{term:"תּוֹלְדֹת (toledot)",text:"“Gerações”, “descendência” ou “registro das origens”. A fórmula organiza seções do livro de Gênesis e pode introduzir tanto uma genealogia quanto a história de uma linhagem."},
+  22:{term:"וַיִּתְהַלֵּךְ (vayyithallekh)",text:"Forma verbal de הלך (halakh), “andar”. “Andar com Deus” descreve uma relação de vida e conduta; a expressão não especifica por si só um rito ou experiência isolada."},
+  24:{term:"וְאֵינֶנּוּ (ve'einennu)",text:"Literalmente, “e ele não estava / já não estava”. O texto acrescenta que Deus o tomou; não descreve o processo, e a tradução evita completar a narrativa."},
+  29:{term:"נֹחַ (Noach) / יְנַחֲמֵנוּ (yenachamenu)",text:"O nome Noé é associado por meio de jogo sonoro ao verbo “consolar” (נחם, nicham). A associação narrativa não é uma etimologia linguística simples; preserva a explicação dada pelo próprio texto."}
+});
