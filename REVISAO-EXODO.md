@@ -13,7 +13,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 
 | Capítulos | Estado | Observações |
 |---|---|---|
-| 1–10 | Em revisão | Primeira passada iniciada; ainda não marcar como concluído. |
+| 1–5 | Revisado | Segunda conferência comparativa concluída; 122 versículos registrados como Revisados, com fonte e observação no controle editorial. |\n| 6–10 | Em revisão | Primeira passada registrada; segunda conferência comparativa pendente. |
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
@@ -123,7 +123,7 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 2:10:** mantida a distinção entre o jogo de palavras hebraico com מְשִׁיתִהוּ (*meshitihu*, “eu o tirei”) e a origem histórica do nome Moshe. A pesquisa recente continua apresentando hipóteses egípcias, não uma etimologia consensual.
 - **Êxodo 4:24–26:** mantida a nota de ambiguidade. A literatura acadêmica confirma que os pronomes, o objeto do ataque, os “pés” e a ação de Zípora são discutidos; nenhuma hipótese foi promovida a certeza na tradução.
 - Nos demais versículos dos capítulos 1–5 não foi identificada, nesta segunda conferência, omissão ou alteração objetiva que exigisse mudança no texto.
-- **Estado editorial:** capítulos 1–5 permanecem **Em revisão**. A segunda conferência comparativa foi registrada, mas isso não substitui a revisão lexical individual de todas as notas nem autoriza marcar automaticamente cada versículo como Revisado.
+- **Estado editorial:** capítulos 1–5 estão **Revisados** no controle por versículo (122 registros), com fonte e observação; capítulos 6–10 permanecem **Em revisão**. A marcação não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente.
 
 #### Fontes desta segunda conferência
 
