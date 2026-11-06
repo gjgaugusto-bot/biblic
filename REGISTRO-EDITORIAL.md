@@ -270,3 +270,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 22:1–31.
+
+
+### Êxodo 22:1–31
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 22:29 para “a abundância de tua colheita e o produto de teus lagares”.
+- Nota lexical em 22:29; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 23:1–33.
