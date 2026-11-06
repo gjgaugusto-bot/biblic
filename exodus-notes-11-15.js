@@ -43,6 +43,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   },
   14: {
     2:{term:"פִּי הַחִירֹת (Pi-Hachirot)",text:"Topônimo cuja etimologia e localização são incertas. A tradução conserva a forma tradicional transliterada, sem propor identificação geográfica conclusiva."},
+    6:{term:"וַיֶּאְסֹר אֶת־רִכְבּוֹ (vaye'esor et richbo)",text:"Da raiz אסר (*asar*), “atar/prender”. No contexto dos carros de guerra, significa atrelar os cavalos ao carro ou preparar o carro para partir. “Atrelou seu carro” é mais específico que o genérico “preparou seu carro”."},
     8:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. É uma expressão de saída aberta, confiante ou triunfante, em contraste com uma fuga furtiva."},
     13:{term:"הִתְיַצְּבוּ (hityatstsevu)",text:"Forma reflexiva do radical יצב, “ficar de pé/posicionar-se”. “Permanecei firmes” mantém a imagem de tomar posição e aguardar."},
     15:{term:"וְיִסָּעוּ (veyissa'u)",text:"Forma do verbo נסע (nasa), “partir, levantar acampamento, avançar”. A ordem não é apenas caminhar sem direção: é iniciar a marcha."},
