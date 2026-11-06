@@ -176,7 +176,7 @@ window.NUMBERS_TEXT[4] = [
   "YHWH falou a Moisés e a Arão, dizendo:",
   "Não permitais que o clã das famílias coatitas seja eliminado dentre os levitas.",
   "Fazei isto por eles, para que vivam e não morram ao se aproximarem das coisas santíssimas: Arão e seus filhos entrarão e designarão a cada um o seu serviço e o que deverá transportar.",
-  "Mas eles não entrarão para observar, nem por um instante, as coisas santas enquanto estiverem sendo cobertas, para que não morram.",
+  "Eles não entrarão para ver as coisas sagradas enquanto estiverem sendo acondicionadas para o transporte, para que não morram.",
   "YHWH falou a Moisés, dizendo:",
   "Faze também o recenseamento dos filhos de Gérson, segundo suas casas paternas e seus clãs.",
   "Contarás os homens de trinta a cinquenta anos, todos os que entram no serviço para realizar trabalho na Tenda do Encontro.",
