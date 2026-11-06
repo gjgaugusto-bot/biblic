@@ -97,3 +97,138 @@ Object.assign(window.TRANSLATION_NOTES[2], {
     33:{term:"שִׁבְעַת יָמִים (shiv'at yamim)",text:"Sete dias de consagração. O período de permanência à entrada da Tenda do Encontro completa a instalação sacerdotal."}
   }
 });
+
+Object.assign(window.TRANSLATION_NOTES[2], {
+  9: {
+    4:{term:"כְּבוֹד יְהוָה (kevọd YHWH)",text:"“Glória de YHWH”: manifestação da presença divina, no contexto da inauguração do serviço sacerdotal."},
+    7:{term:"כַּפֵּר (kapper)",text:"Fazer expiação. A cerimônia inclui a oferta pelo próprio sacerdote e a oferta em favor da comunidade."},
+    22:{term:"וַיִּשָּׂא אַהֲרֹן אֶת־יָדָו (vayyissa Aharon et-yadav)",text:"Arão ergue as mãos para abençoar o povo; o gesto conclui a sequência de ofertas inaugurais."},
+    24:{term:"וַתֵּצֵא אֵשׁ (vatetse esh)",text:"“Saiu fogo”: a narrativa apresenta o fogo como manifestação da aceitação divina das ofertas."}
+  },
+  10: {
+    1:{term:"אֵשׁ זָרָה (esh zarah)",text:"“Fogo estranho” ou não autorizado. O texto não especifica tecnicamente a natureza do erro; ressalta que a ação não foi ordenada."},
+    3:{term:"בִּקְרֹבַי אֶקָּדֵשׁ (biqrovai eqqadesh)",text:"“Serei santificado entre os que se aproximam de mim”: declaração sobre a santidade exigida de quem exerce serviço sacerdotal."},
+    6:{term:"פְּרָע (pera)",text:"Soltar ou deixar desgrenhados os cabelos. O luto público é restringido para os sacerdotes diretamente envolvidos no serviço."},
+    9:{term:"שֵׁכָר (shekhar)",text:"Bebida intoxicante. A proibição se relaciona ao serviço na Tenda do Encontro e à capacidade de distinguir o santo do profano."},
+    10:{term:"לְהַבְדִּיל (lehavdil)",text:"“Distinguir/separar”. A função sacerdotal inclui ensinar as distinções rituais entre santo e comum, puro e impuro."}
+  },
+  11: {
+    3:{term:"מַפְרֶסֶת פַּרְסָה וְשֹׁסַעַת שֶׁסַע (mafre set parsah veshosa'at shesa)",text:"Critérios do animal terrestre permitido: casco dividido em duas partes e ruminação. Os dois critérios devem ocorrer juntos."},
+    9:{term:"סְנַפִּיר וְקַשְׂקֶשֶׂת (senappir veqaskeset)",text:"Barbatanas e escamas: os dois sinais que identificam os animais aquáticos permitidos."},
+    20:{term:"שֶׁרֶץ הָעוֹף (sherets ha'of)",text:"Pequenos seres alados/insetos. O texto abre exceção para certos insetos saltadores com pernas articuladas."},
+    22:{term:"אַרְבֶּה (arbeh)",text:"Gafanhoto; os nomes das quatro espécies são difíceis de identificar com precisão zoológica moderna."},
+    29:{term:"שֶׁרֶץ הָאָרֶץ (sherets ha'arets)",text:"Pequenos animais que se movem ou rastejam sobre a terra; a lista inclui espécies cuja identificação antiga não é totalmente segura."},
+    44:{term:"וִהְיִיתֶם קְדֹשִׁים (vihyitem qedoshim)",text:"“Sereis santos”. A distinção alimentar integra a convocação mais ampla à santidade da comunidade."}
+  },
+  12: {
+    2:{term:"טָמֵא (tame)",text:"Impureza ritual ligada ao parto. Não é apresentada como culpa moral da mãe, mas como estado temporário regulado por procedimentos."},
+    4:{term:"דְּמֵי טָהֳרָה (deme tahorah)",text:"“Sangue de purificação”: expressão para o período ritual posterior ao parto."},
+    6:{term:"כֶּבֶשׂ בֶּן־שְׁנָתוֹ (keves ben-shenato)",text:"Cordeiro de um ano. A oferta alternativa para quem tem poucos recursos aparece no versículo 8."}
+  },
+  13: {
+    2:{term:"צָרַעַת (tsara'at)",text:"Termo tradicionalmente traduzido por “lepra”, mas abrange diferentes afecções de pele e também manchas em tecidos e paredes. Não corresponde automaticamente à hanseníase moderna."},
+    3:{term:"מַרְאֵה (mar'eh)",text:"A aparência observável da lesão orienta a avaliação sacerdotal; o diagnóstico é ritual e comunitário, não uma classificação médica moderna."},
+    12:{term:"פָּרַח (paraḥ)",text:"Espalhar-se ou florescer pela pele. A extensão total e a aparência branca da lesão podem resultar em declaração de pureza neste procedimento específico."},
+    45:{term:"פָּרוּם / פָּרֻעַ (parum / parua)",text:"Roupas rasgadas e cabelos soltos são sinais públicos da condição de impureza e permitem que a comunidade reconheça a situação."},
+    47:{term:"נֶגַע צָרַעַת (nega tsara'at)",text:"“Mancha/afecção de tsara'at”. O mesmo vocabulário é aplicado a tecidos e couro, por isso “mofo” é uma tradução contextual."}
+  },
+  14: {
+    4:{term:"אֶרֶז / אֵזוֹב (erez / ezov)",text:"Cedro e hissopo: materiais vegetais usados no rito de purificação; simbolizam elementos do mundo natural integrados ao procedimento ritual."},
+    7:{term:"שִׁלֵּחַ עַל־פְּנֵי הַשָּׂדֶה (shilleaḥ al-penei hasadeh)",text:"Soltar a ave em campo aberto. A ação encerra o rito de purificação da pessoa recuperada."},
+    14:{term:"תְּנוּךְ אָזֶן (tenukh ozen)",text:"Lóbulo da orelha. O sangue e o azeite aplicados à orelha, mão e pé lembram a consagração sacerdotal de Levítico 8."},
+    34:{term:"נֶגַע צָרַעַת בְּבֵית (nega tsara'at beveit)",text:"A afecção na casa é descrita com a mesma categoria ritual aplicada à pele e às roupas; não se deve reduzi-la sem ressalvas a fungo identificado cientificamente."}
+  },
+  15: {
+    2:{term:"זוֹב (zov)",text:"Fluxo corporal. O capítulo trata de secreções genitais e de seus efeitos sobre a pureza ritual, não de um juízo moral sobre a pessoa."},
+    16:{term:"שִׁכְבַת־זָרַע (shikhvat-zera)",text:"Emissão de sêmen. A lavagem e a impureza até a tarde são regras rituais temporárias."},
+    19:{term:"נִדָּה (niddah)",text:"Menstruação e condição ritual associada a ela. A legislação descreve contato e objetos afetados durante o período."},
+    25:{term:"דַּם זוֹבָה (dam zovah)",text:"Fluxo de sangue prolongado ou fora do período menstrual habitual; o texto estabelece um procedimento próprio para esse caso."}
+  },
+  16: {
+    8:{term:"עֲזָאזֵל (Azazel)",text:"Nome ou designação de interpretação discutida. Pode ser entendido como lugar desértico, ser associado ao deserto ou nome próprio; a tradução conserva “Azazel” sem resolver a controvérsia."},
+    10:{term:"לְכַפֵּר עָלָיו (lekhapper alav)",text:"O bode vivo participa do rito de expiação e é enviado ao deserto; não é degolado como a outra oferta."},
+    21:{term:"וְהִתְוַדָּה (vehitvaddah)",text:"Confessar sobre o bode as iniquidades, transgressões e pecados da comunidade. O gesto explicita a transferência ritual da carga coletiva."},
+    29:{term:"עִנִּיתֶם אֶת־נַפְשֹׁתֵיכֶם (innittem et-nafshoteikhem)",text:"“Afligir a alma”: expressão tradicional para jejum ou outra forma de autonegação, sem especificar aqui todos os detalhes da prática."},
+    31:{term:"שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)",text:"“Sábado de descanso completo”, expressão de repouso solene e suspensão do trabalho."}
+  },
+  17: {
+    4:{term:"דָּם יֵחָשֵׁב (dam yeḥashev)",text:"A morte de animal sem apresentação ritual é tratada como derramamento de sangue imputável; a lei centraliza o sacrifício no santuário."},
+    7:{term:"שְׂעִירִים (se'irim)",text:"Literalmente “bodes” ou “demônios-cabras”, termo ligado a cultos não autorizados no deserto."},
+    11:{term:"נֶפֶשׁ הַבָּשָׂר בַּדָּם (nefesh habasar baddam)",text:"“A vida da carne está no sangue”. O sangue representa a vida e é reservado ao rito de expiação."},
+    13:{term:"כִּסָּהוּ בֶּעָפָר (kissahu be'afar)",text:"Cobrir o sangue com terra após a caça. O gesto reconhece o valor ritual da vida representada pelo sangue."}
+  },
+  18: {
+    5:{term:"וָחַי בָּהֶם (vaḥai bahem)",text:"“Viverá por eles”: a observância das normas é apresentada como caminho de vida dentro da aliança."},
+    6:{term:"שְׁאֵר בָּשָׂר (she'er basar)",text:"Parente próximo, literalmente “carne da própria carne”. Introduz a lista de relações familiares proibidas."},
+    21:{term:"לַמֹּלֶךְ (lamMolekh)",text:"Moloque é associado a uma prática de entrega de descendentes. A natureza exata do culto e do nome é objeto de discussão histórica."},
+    22:{term:"מִשְׁכְּבֵי אִשָּׁה (mishkevei ishah)",text:"Expressão hebraica que compara a relação sexual masculina ao leito de uma mulher. A nota lexical não substitui a análise histórica e ética do texto."},
+    24:{term:"תִּטַּמְּאוּ (tittamme'u)",text:"“Tornar-se impuro”. O capítulo relaciona as práticas proibidas à contaminação ritual e à imagem da terra que vomita seus habitantes."}
+  },
+  19: {
+    2:{term:"קְדֹשִׁים תִּהְיוּ (qedoshim tihyu)",text:"“Sereis santos”. A santidade aqui se expressa em culto, justiça social, relações familiares e cuidado comunitário."},
+    9:{term:"פֵּאָה / לֶקֶט (pe'ah / leqet)",text:"Cantos do campo e espigas caídas deixados para pobres e estrangeiros. A lei incorpora a assistência social à prática agrícola."},
+    18:{term:"וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ (ve'ahavta lere'akha kamokha)",text:"“Amarás teu próximo como a ti mesmo”. O termo rea' pode designar compatriota ou membro da comunidade, dentro do contexto imediato."},
+    19:{term:"כִּלְאַיִם (kil'ayim)",text:"Mistura proibida de espécies ou materiais. O termo aparece em contextos de cruzamento animal, semeadura e tecidos."},
+    23:{term:"עָרְלָה (orlah)",text:"“Incircunciso” aplicado metaforicamente aos frutos das árvores nos primeiros três anos; a colheita é reservada até o quarto ano."},
+    32:{term:"הָדַרְתָּ פְּנֵי זָקֵן (hadarta penei zaken)",text:"Honrar a presença do idoso. A reverência à idade é apresentada como expressão de temor a Deus."}
+  },
+  20: {
+    2:{term:"מֹלֶךְ (Molekh)",text:"Moloque, associado à entrega ritual de filhos. A passagem estabelece sanção comunitária severa contra essa prática."},
+    6:{term:"אֹבוֹת וְיִדְּעֹנִים (ovot veyidde'onim)",text:"Médiuns e adivinhos. Os termos técnicos são antigos e sua identificação exata com categorias modernas é incerta."},
+    7:{term:"וְהִתְקַדִּשְׁתֶּם (vehitqaddishtem)",text:"“Santificai-vos”: convocação à separação de práticas proibidas e à fidelidade a YHWH."},
+    10:{term:"נָאַף (na'af)",text:"Cometer adultério. O capítulo formula consequências jurídicas para relações sexuais proibidas."},
+    25:{term:"וְהִבְדַּלְתֶּם (vehivdaltem)",text:"Fazer distinção entre puro e impuro. A separação alimentar é conectada à identidade santa do povo."}
+  },
+  21: {
+    1:{term:"לְנֶפֶשׁ לֹא־יִטַּמָּא (lenefesh lo-yittamma)",text:"O sacerdote não se torna ritualmente impuro por qualquer morto, salvo parentes próximos listados no texto."},
+    10:{term:"הַכֹּהֵן הַגָּדוֹל (hakohen haggadol)",text:"O sacerdote principal, correspondente ao sumo sacerdote, tem regras de luto e pureza mais restritas."},
+    12:{term:"נֵזֶר שֶׁמֶן מִשְׁחַת (nezer shemen mishḥat)",text:"A consagração do óleo da unção é chamada de coroa/consagração sobre o sacerdote e fundamenta sua obrigação de permanecer no santuário."},
+    17:{term:"מוּם (mum)",text:"Defeito ou condição corporal que, segundo a legislação antiga, restringe a função de apresentar ofertas, mas não o direito do sacerdote de comer das porções sagradas."}
+  },
+  22: {
+    2:{term:"קָדָשִׁים (qodashim)",text:"Coisas sagradas ou ofertas consagradas. O capítulo regula quem pode comer delas e em que condição ritual."},
+    10:{term:"תּוֹשָׁב / שָׂכִיר (toshav / sakir)",text:"Residente ou trabalhador contratado. Não pertencem à família sacerdotal e, por isso, não participam normalmente do alimento sagrado."},
+    19:{term:"תָּמִים (tamim)",text:"Sem defeito, íntegro. A exigência vale para o animal oferecido como sacrifício aceito."},
+    27:{term:"שִׁבְעַת יָמִים (shiv'at yamim)",text:"O animal recém-nascido permanece sete dias com a mãe; a partir do oitavo dia pode ser apresentado como oferta."}
+  },
+  23: {
+    2:{term:"מוֹעֲדֵי יְהוָה (mo'adei YHWH)",text:"Tempos determinados ou festas fixas de YHWH. O capítulo organiza o calendário sagrado anual."},
+    10:{term:"עֹמֶר (omer)",text:"Feixe ou medida associada às primícias da colheita de cevada, apresentado antes do consumo da nova produção."},
+    16:{term:"חֲמִשִּׁים יוֹם (ḥamishim yom)",text:"Contagem de cinquenta dias desde a apresentação do feixe, culminando na festa das semanas."},
+    24:{term:"תְּרוּעָה (teru'ah)",text:"Toque ou aclamação sonora, associado à convocação festiva do primeiro dia do sétimo mês."},
+    27:{term:"יוֹם הַכִּפֻּרִים (Yom haKippurim)",text:"Dia das Expiações, ocasião anual de purificação e aflição da alma."},
+    34:{term:"סֻכּוֹת (sukkot)",text:"Cabanas ou abrigos temporários; a festa recorda a jornada de Israel após a saída do Egito."}
+  },
+  24: {
+    2:{term:"כָּתִית לַמָּאוֹר (katit lamma'or)",text:"Azeite obtido por batida/prensagem, usado para manter as lâmpadas acesas continuamente."},
+    5:{term:"שְׁנֵים עָשָׂר חַלּוֹת (shneim asar ḥallot)",text:"Doze pães, dispostos em duas fileiras, tradicionalmente associados às doze tribos de Israel."},
+    7:{term:"לְבֹנָה זַכָּה (levonah zakkah)",text:"Incenso puro colocado sobre os pães como porção memorial oferecida a YHWH."},
+    11:{term:"וַיִּקֹּב ... אֶת־הַשֵּׁם (vayyiqqov ... et-hashem)",text:"O verbo descreve a pronúncia blasfema/maldição do Nome. A narrativa introduz o caso jurídico que segue."},
+    20:{term:"עַיִן תַּחַת עַיִן (ayin taḥat ayin)",text:"“Olho por olho”: princípio de proporcionalidade jurídica, formulado para limitar a reparação ao dano correspondente."}
+  },
+  25: {
+    4:{term:"שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)",text:"Descanso completo da terra no sétimo ano. A terra também participa do ritmo sabático."},
+    10:{term:"דְּרוֹר (deror)",text:"Liberdade ou libertação proclamada no jubileu. A palavra aparece em contextos de emancipação."},
+    13:{term:"יוֹבֵל (yovel)",text:"Jubileu, ano de restauração de propriedades e retorno familiar após sete ciclos de sete anos."},
+    23:{term:"גֵּרִים וְתוֹשָׁבִים (gerim vetoshavim)",text:"“Estrangeiros e residentes” diante de Deus: Israel não possui a terra em sentido absoluto, pois ela pertence a YHWH."},
+    35:{term:"וְהֶחֱזַקְתָּ בּוֹ (veheḥezaqta bo)",text:"Amparar ou sustentar o irmão empobrecido. A solidariedade econômica é exigência da aliança."},
+    39:{term:"עֲבֹדַת עָבֶד (avodat aved)",text:"Serviço de escravo. O texto proíbe tratar o israelita empobrecido como propriedade permanente."}
+  },
+  26: {
+    3:{term:"בְּחֻקֹּתַי תֵּלֵכוּ (beḥuqqotai telekhu)",text:"“Andar em meus estatutos”: imagem de conduta contínua segundo as normas da aliança."},
+    13:{term:"קוֹמְמִיּוּת (qomemiyyut)",text:"Andar ereto, de cabeça erguida. A libertação do jugo egípcio é descrita como restauração da dignidade."},
+    18:{term:"שֶׁבַע עַל־חַטֹּאתֵיכֶם (sheva al-ḥattoteikhem)",text:"“Sete vezes” intensifica a disciplina anunciada; o número funciona como expressão de plenitude."},
+    26:{term:"מַטֵּה לֶחֶם (matte leḥem)",text:"“Sustento de pão”, literalmente o apoio do pão. A imagem descreve a quebra do abastecimento alimentar."},
+    41:{term:"לֵבָבָם הֶעָרֵל (levavam he'arel)",text:"“Coração incircunciso”: metáfora para resistência interior que precisa ser humilhada e transformada."},
+    44:{term:"לֹא מְאַסְתִּים (lo me'astim)",text:"“Não os rejeitarei”: mesmo no contexto de exílio e disciplina, o texto afirma que YHWH não anula sua aliança."}
+  },
+  27: {
+    2:{term:"נֶדֶר ( neder)",text:"Voto. O capítulo estabelece valores de avaliação para pessoas dedicadas por voto, sem significar que a pessoa se torne mercadoria."},
+    3:{term:"שֶׁקֶל הַקֹּדֶשׁ (sheqel haqqodesh)",text:"Siclo do santuário, padrão de peso usado para calcular valores de prata nas avaliações."},
+    14:{term:"הֶעֱרִיךְ (he'erikh)",text:"Avaliar ou estimar o valor da casa ou propriedade consagrada. O sacerdote determina o valor conforme a norma."},
+    16:{term:"זֶרַע חֹמֶר שְׂעֹרִים (zera ḥomer se'orim)",text:"Medida de semente de cevada usada como base para a avaliação de campo."},
+    28:{term:"חֵרֶם (ḥerem)",text:"Algo dedicado irrevogavelmente, colocado sob interdição sagrada. Não é equivalente a uma oferta comum que pode ser resgatada."},
+    30:{term:"מַעְשֵׂר (ma'aser)",text:"Dízimo, a décima parte da produção da terra ou do rebanho, declarada santa a YHWH."},
+    32:{term:"תַּחַת הַשָּׁבֶט (taḥat hashavet)",text:"“Passar sob a vara”: método de contar o rebanho; cada décimo animal é separado como dízimo."}
+  }
+});
