@@ -69,6 +69,19 @@ Foram conferidos integralmente os 29 versículos de Números 34 e os 34 versícu
 
 Por fim, foram conferidos integralmente os 13 versículos de Números 36 com o texto hebraico do Mechon-Mamre. A tradução existente foi mantida após a comparação; a formulação “primos paternos” em 36:11 corresponde à expressão בני דודיה, “filhos dos irmãos de seu pai”. O capítulo 36 fica registrado como conferido com base no Texto Massorético.
 
+## Colação dos capítulos 1–9
+
+A colação dos capítulos 1–9 foi concluída, complementando a conferência já registrada dos capítulos 10–36. Os capítulos 1 e 2 foram cotejados com a BHS; para os capítulos 3–9, foi usado o texto hebraico massorético integral do Mechon-Mamre como testemunho de conferência. A numeração dos capítulos nesta seção corresponde à divisão do projeto.
+
+A colação resultou nos seguintes refinamentos:
+- 4:10 e 4:12: “suporte de transporte” foi refinado para “vara de transporte”, refletindo הַמּוֹט.
+- 5:23: “lavará” foi refinado para “apagará”, refletindo וּמָחָה, a ação de apagar a escrita do rolo na água amarga.
+- 7:14 e ocorrências paralelas: “vasilha de ouro” foi refinado para “concha de ouro”, refletindo כַּף, utensílio côncavo usado para apresentar incenso.
+- 9:12: “não deixarão dela até a manhã” foi refinado para “não deixarão nada dela até a manhã”, explicitando a proibição de deixar restos da Páscoa.
+- 9:22: “ou mais tempo” foi refinado para “ou vários dias”, preservando a sequência hebraica “dois dias, um mês ou dias”.
+
+Foram acrescentadas notas lexicais para 4:10, 5:23, 7:14 e 9:12, 9:22. Os capítulos 1–9 ficam registrados como conferidos com o texto hebraico massorético, com a distinção de fonte acima.
+
 ## Auditoria final após a colação de Números 10–36
 
 A verificação estrutural foi repetida após as alterações:
@@ -79,7 +92,7 @@ A verificação estrutural foi repetida após as alterações:
 - O carregamento no `index.html` usa os caches finais `numbers-data.js?v=20261106-final-collation-audit1` e `numbers-notes.js?v=20261106-final-notes-audit1`.
 - O status editorial continua `em_revisao`.
 
-A colação textual integral com o texto hebraico massorético do Mechon-Mamre está concluída para os capítulos 10–36 (904 versículos). Os capítulos 1–9 (384 versículos) ainda precisam dessa colação integral. Esta conclusão é sobre a comparação com o texto hebraico massorético acessível, não sobre uma colação direta e integral com a BHS nem sobre revisão acadêmica independente.
+A colação textual com o texto hebraico massorético está concluída para os capítulos 1–36 (1.288 versículos). Os capítulos 1–2 foram cotejados com a BHS; os capítulos 3–9 e 10–36 foram conferidos com o texto massorético integral do Mechon-Mamre. Esta conclusão não equivale a um cotejo direto e integral de todos os capítulos com a BHS nem a uma revisão acadêmica independente.
 
 ## Limites desta auditoria
 
@@ -93,6 +106,6 @@ Limitações de cobertura de fontes identificadas:
 
 ## Estado editorial
 
-Números permanece **em revisão**. A integração e a auditoria estrutural estão concluídas, e a colação textual massorética integral dos capítulos 10–36 foi realizada; ainda faltam os capítulos 1–9 e o cotejo direto integral com a BHS. Nenhum status de “revisado” foi atribuído com base apenas na contagem ou na integridade do código.
+Números permanece **em revisão**. A integração, a auditoria estrutural e a colação textual massorética dos 1.288 versículos estão concluídas. Ainda falta o cotejo direto integral de todos os capítulos com a BHS e uma revisão acadêmica independente; por isso, o status editorial não foi alterado para “revisado”.
 
 A revisão é editorial interna e não equivale a certificação acadêmica independente nem a uma colação crítica de variantes manuscritas.
