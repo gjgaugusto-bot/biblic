@@ -248,7 +248,7 @@ window.TRANSLATION_NOTES[4][23] = {
 };
 window.TRANSLATION_NOTES[4][24] = {
   1:{term:"עֶרְוַת דָּבָר (ervat davar)",text:"Expressão literalmente ligada a “nudez de algo”; o sentido jurídico exato é debatido, e a tradução mantém a ideia de algo vergonhoso."},
-  1:{term:"סֵפֶר כְּרִיתֻת (sefer keritut)",text:"“Certificado de divórcio”. Documento formal de dissolução do casamento."},
+  2:{term:"סֵפֶר כְּרִיתֻת (sefer keritut)",text:"“Certificado de divórcio”. Documento formal de dissolução do casamento."},
   6:{term:"רֵחַיִם (reḥayim)",text:"“Pedras de moinho”. Tomar o conjunto como penhor retiraria os meios de subsistência e, figuradamente, a própria vida."},
   7:{term:"גֹּנֵב נֶפֶשׁ (gonev nefesh)",text:"“Sequestrador de pessoa”. A lei trata o rapto e a escravização de um israelita como crime capital."},
   15:{term:"בְּיוֹמוֹ תִתֵּן שְׂכָרוֹ (beyomo titen sekharo)",text:"“No mesmo dia lhe pagarás seu salário”. O pagamento pontual protege o trabalhador vulnerável."},
