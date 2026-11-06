@@ -18,6 +18,6 @@ window.LEVITICUS_TEXT[1] = [
   "Lavará com água as entranhas e as pernas; então o sacerdote apresentará tudo e fará subir em fumaça sobre o altar. É holocausto, oferta queimada, aroma agradável a YHWH.",
   "Se sua oferta a YHWH for um holocausto de aves, apresentará sua oferta de rolas ou de filhotes de pomba.",
   "O sacerdote a apresentará ao altar, torcerá sua cabeça e a fará subir em fumaça sobre o altar; seu sangue será drenado sobre a parede do altar.",
-  "Retirará o papo com seu conteúdo e o lançará ao lado oriental do altar, no lugar das cinzas.",
-  "Fará uma abertura em suas asas, mas não a dividirá completamente; então o sacerdote a fará subir em fumaça sobre o altar, sobre a lenha que está sobre o fogo. É holocausto, oferta queimada, aroma agradável a YHWH."
+  "Retirará o papo com suas penas e o lançará ao lado oriental do altar, no lugar das cinzas.",
+  "Fendê-la-á junto às asas, mas não a dividirá completamente; então o sacerdote a fará subir em fumaça sobre o altar, sobre a lenha que está sobre o fogo. É holocausto, oferta queimada, aroma agradável a YHWH."
 ];
