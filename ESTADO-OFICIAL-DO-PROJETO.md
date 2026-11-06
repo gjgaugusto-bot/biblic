@@ -379,3 +379,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo permanece **Em revisão** no controle por versículo.
 - Próximo trecho: Êxodo 34:1–35.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE**.
+
+
+## Atualização de continuidade — Êxodo 34 (2026-11-06)
+
+- Êxodo 1–34: primeira conferência textual e lexical documentada.
+- Notas ampliadas em Êxodo 34:6–7, 34:9–14, 34:22 e 34:29–35; corpo da tradução preservado.
+- Êxodo permanece **Em revisão** no controle por versículo.
+- Próximo trecho: Êxodo 35:1–35.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE**.
