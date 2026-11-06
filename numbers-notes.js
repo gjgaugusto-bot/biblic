@@ -272,7 +272,8 @@ window.TRANSLATION_NOTES[3][24] = {
   17:{term:"דָּרַךְ כּוֹכָב / בְּנֵי־שֵׁת (darakh kokhav / bene-shet)",text:"“Uma estrela avançou/surgiu” é imagem régia de vitória e autoridade, cuja leitura messiânica posterior não esgota o sentido antigo. “Filhos de Sete” traduz בני שת; a expressão pode designar um grupo humano mais amplo, mas sua identificação exata é discutida. “Filhos de tumulto” não é tradução segura do nome próprio שֵׁת."},
   18:{term:"יְרֵשָׁה (yereshah)",text:"“Possessão/herança”. O oráculo descreve Edom e Seir como territórios que passarão ao domínio anunciado; a construção poética do verso permite mais de uma segmentação sintática."},
   20:{term:"רֵאשִׁית גּוֹיִם (reshit goyim)",text:"“Primeiro entre as nações”. Pode indicar primazia histórica ou militar de Amaleque, seguida de anúncio de seu fim."},
-  23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."}
+  23:{term:"צִיִּים (tsiyyim)",text:"“Navios” ou embarcações de povos costeiros. A identificação de Quitim e dos poderes mencionados no verso envolve referências geopolíticas antigas discutidas."},
+  22:{term:"קָיִן ... עַד־מָה (Qayin ... ad-mah)",text:"“Caim/Queneu ... até quando?”. O nome קָיִן pode designar os queneus, mencionados no versículo anterior; a construção da pergunta seguinte é difícil, e a tradução conserva a referência ao cativeiro por Assur sem apagar a expressão temporal."}
 };
 
 /* Notas lexicais — Números 25. */
@@ -283,6 +284,7 @@ window.TRANSLATION_NOTES[3][25] = {
   6:{term:"וַיַּקְרֵב אֶל־אֶחָיו (vayyaqrev el-echav)",text:"“Aproximou-se de seus irmãos/trouxe para junto deles”. O verbo קרב descreve trazer alguém para perto; não exige a ideia de apresentar formalmente a mulher."},
   11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao ser zeloso com o meu zelo”. A repetição da raiz קנא (qana) enfatiza que Fineias age com zelo correspondente ao zelo divino e à aliança."},
   12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
+  15:{term:"רֹאשׁ אֻמּוֹת בֵּית־אָב (rosh ummot beit-av)",text:"“Chefe de clãs/casas paternas”. O pronome masculino no final do versículo retoma Zur, pai de Cosbi, e o identifica como chefe de um grupo familiar midianita."},
 };
 /* Notas lexicais — Números 26. */
 window.TRANSLATION_NOTES[3][26] = {
