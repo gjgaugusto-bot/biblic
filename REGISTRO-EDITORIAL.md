@@ -45,3 +45,35 @@ Os estados migrados são gerados pelo módulo `editorial-review.js` e ficam rast
 - O estado Revisado depende de conferência humana documentada.
 - O estado Reaberto exige fonte e justificativa, e o histórico anterior permanece intacto.
 - O backup local não é um backup remoto. Exporte e versione os registros regularmente.
+
+
+## Gênesis — fechamento definitivo (2026-11-06)
+
+**Estado do livro: FECHADO DEFINITIVAMENTE.** A conferência final da abertura, capítulos 1–3, foi concluída. O trabalho anterior dos capítulos 4–50 permanece aprovado no histórico, sem ser reiniciado.
+
+### Escopo e resultado
+
+- Conferidos os textos de Gênesis 1–3 com atenção a escolhas lexicais, sintaxe hebraica, ambiguidades relevantes, consistência e clareza em português.
+- Gênesis 1:1: mantido “No princípio”. A construção de בְּרֵאשִׁית é debatida; a leitura adverbial tradicional é linguisticamente defensável em tradições históricas do hebraico, embora existam análises dependentes/relativas.
+- Gênesis 1:2: mantido “sopro de Deus”, sem ocultar que רוּחַ אֱלֹהִים admite discussão entre “espírito”, “vento” e “sopro”.
+- Gênesis 1:6–8: mantido “expansão”, opção neutra para רָקִיעַ; o texto a identifica como “Céus” no v. 8.
+- Gênesis 1:26–27: mantidos os plurais “Façamos” e “nossa imagem”; a interpretação do plural é discutida e não deve ser fechada por uma nota de tradução.
+- Gênesis 2:7: mantido “ser vivente” para נֶפֶשׁ חַיָּה; a expressão é aplicada também aos animais e não exige a noção filosófica posterior de alma separada.
+- Gênesis 2:18: mantido “auxiliadora que lhe corresponda” para עֵזֶר כְּנֶגְדּוֹ, que preserva a ideia de ajuda/companheira correspondente sem sugerir subordinação lexical.
+- Gênesis 2:21: mantido “costela”, com a alternativa lexical “lado” preservada na nota existente para צֵלָע.
+- Gênesis 2:22: acrescentada nota para וַיִּבֶן (vayyiven), da raiz בנה (“construir/edificar”). A tradução corrente “formou” permanece como tradução de sentido, e a nota registra a imagem verbal de construção e a alternativa “fez da costela uma mulher”.
+- Gênesis 2:23: mantido o jogo sonoro entre אִישׁ (ish) e אִשָּׁה (ishah), sem afirmar uma etimologia histórica comum.
+- Gênesis 3:15: mantida a tradução com o mesmo verbo “ferir” nas duas metades, preservando a repetição do hebraico; זֶרַע (“descendência/semente”) é coletivo e não obriga, pela gramática isolada, uma identificação exclusivamente individual.
+- Gênesis 3:16–17: preservadas as ambiguidades de תְּשׁוּקָה (“desejo”) e da expressão sobre dor/concepção; “por tua causa” para בַּעֲבוּרֶךָ permanece compatível com o sentido.
+- Não foi encontrada omissão ou acréscimo que exigisse reescrita dos capítulos nesta conferência. Não foram feitas alterações no corpo da tradução; a única complementação foi a nota lexical de 2:22.
+
+### Fontes de conferência
+
+- Benjamin Kantor, “The Origins of ‘In the Beginning . . .’”, *Journal of Biblical Literature* 144/4 (2025), 601–636: https://doi.org/10.15699/jbl.1444.2025.2
+- Robert D. Holmstedt, “The Syntax of Genesis 1:1–3”, *Journal for Semitics* 31/2 (2022): https://journals.co.za/doi/10.25159/2663-6573/11647
+- NET Bible, notas de tradução para Gênesis 1:2, 1:6, 2:7, 2:18, 2:22, 3:15–17: https://classic.net.bible.org/
+- Westminster Leningrad Codex / Open Scriptures Hebrew Bible, como texto-base hebraico de conferência do projeto.
+
+### Regra de encerramento
+
+Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Não voltar a revisar o livro por nova conversa, perda de contexto, troca de ferramenta/modelo ou preferência estilística. Só reabrir versículos específicos mediante evidência objetiva de erro relevante ou fonte nova que justifique correção concreta; registrar motivo, fonte e escopo. O livro sai da fila de trabalho.
