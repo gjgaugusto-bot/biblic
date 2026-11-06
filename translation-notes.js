@@ -169,3 +169,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     24: {term:"אַזְכִּיר אֶת־שְׁמִי (azkir et shemi)",text:"Literalmente, “fizer lembrar meu nome” ou “mencionar meu nome”. A construção pode indicar o lugar em que Deus faz seu nome ser lembrado/invocado; a tradução evita restringir o sentido a uma única forma ritual."}
   }
 });
+
+Object.assign(window.TRANSLATION_NOTES[1][20], {
+  6:{term:"לַאֲלָפִים (la'alafim)",text:"A forma significa literalmente “a milhares”. O hebraico não repete aqui a palavra “gerações”; a tradução conserva a formulação aberta, em contraste com a menção explícita à terceira e à quarta geração no versículo anterior."}
+});
