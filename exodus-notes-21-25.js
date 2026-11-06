@@ -21,6 +21,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   23: {
     2: {term:"רַבִּים (rabbim)",text:"“Muitos” ou “maioria”. O versículo alerta contra a pressão coletiva quando ela conduz à injustiça."},
     11: {term:"שְׁמִטָּה (shemittah)",text:"Ideia de deixar cair/soltar; aqui se refere ao descanso da terra no sétimo ano agrícola."},
+    14: {term:"שָׁלֹשׁ רְגָלִים (shalosh regalim)",text:"Expressão literalmente ligada a “três pés/vezes”, usada para as três festas de peregrinação em que os israelitas compareciam diante de YHWH. “Três vezes por ano” traduz a frequência, enquanto a nota registra o caráter de peregrinação."},
     15: {term:"אָבִיב (aviv)",text:"Nome do mês associado ao amadurecimento das espigas; mais tarde corresponde a Nisã no calendário judaico."},
     20: {term:"מַלְאָךְ (mal'akh)",text:"“Mensageiro”. A palavra descreve a função de enviado e, por si só, não determina a natureza do mensageiro."},
     28: {term:"צִרְעָה (tsir'ah)",text:"Inseto identificado tradicionalmente como vespa ou marimbondo; a identificação zoológica exata não é certa."}
