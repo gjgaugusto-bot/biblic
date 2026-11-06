@@ -995,3 +995,28 @@ Demais versículos (33:1–5, 33:7–9 e 33:11–23): conferidos quanto à corre
 - Ibn Ezra sobre Êxodo 33:21, para a relação entre a rocha e a fenda do versículo seguinte: https://www.sefaria.org/Exodus.33.21?lang2=en&with=Ibn+Ezra
 
 **Próximo ponto:** Êxodo 34:1–35. Não repetir a conferência de Êxodo 33 sem evidência concreta de erro novo.
+
+### Êxodo 34 — conferência textual e lexical integral (34:1–35)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do hebraico, traduções de referência e estudos sobre a descrição do rosto de Moisés. O corpo da tradução foi preservado nesta primeira passada; as principais dificuldades foram registradas em notas para não apagar ambiguidades reais.
+
+Notas lexicais acrescentadas/ampliadas:
+- **34:6–7:** רַחוּם וְחַנּוּן (rachum vechannun) descreve compaixão e graça; חֶסֶד וֶאֱמֶת (chesed ve'emet) reúne amor leal e fidelidade. נֹצֵר חֶסֶד לָאֲלָפִים (notser chesed la'alafim) comunica a preservação do amor leal por milhares; נֹשֵׂא עָוֹן (nose avon) é literalmente “carregar a iniquidade”, metáfora de perdão.
+- **34:9:** כִּי עַם־קְשֵׁה־עֹרֶף הוּא (ki am-qesheh-oref hu) pode ser lido causalmente (“pois é um povo obstinado”) ou concessivamente (“embora seja um povo obstinado”). A tradução mantém “embora”, registrando a alternativa.
+- **34:10:** נוֹרָא (nora) deriva de ירא (yare, temer) e pode significar temível, impressionante ou assombroso; “terrível” foi mantido no corpo, com a alternativa anotada.
+- **34:12:** מוֹקֵשׁ (moqesh) significa laço/armadilha; a metáfora da aliança como cilada foi preservada.
+- **34:14:** קַנָּא (qanna) significa zeloso/ciumento; “Zeloso” foi mantido como título que expressa a exclusividade da aliança.
+- **34:22:** תְּקוּפַת הַשָּׁנָה (tequfat hashshanah) indica a virada/ciclo do ano, relacionada ao calendário agrícola.
+- **34:29–30, 34:35:** קָרַן (qaran) é verbo raro, tradicionalmente entendido como emitir raios ou resplandecer. A associação com קֶרֶן (qeren, “chifre”) levou à antiga representação de Moisés com chifres; traduções antigas e o contexto favorecem a leitura de brilho, mas a questão filológica não deve ser ocultada.
+- **34:33–35:** מַסְוֶה (masveh) é termo raro para véu/cobertura facial, usado apenas nestes três versículos. A sequência narrativa distingue o momento em que Moisés fala com YHWH, comunica as instruções ao povo e volta a cobrir o rosto.
+
+Demais versículos (34:1–8, 34:11–28 e 34:31–35): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração do corpo da tradução foi considerada necessária nesta passada. A ambiguidade do sujeito em “por ter falado com ele” em 34:29 permanece registrada: o hebraico permite discussão sobre quem fala com quem, e a tradução de trabalho segue a leitura tradicional sem apresentá-la como a única possível.
+
+**Fontes consultadas:**
+- Sefaria, Êxodo 34, texto hebraico massorético e traduções: https://www.sefaria.org/Exodus.34
+- Chabad/Rashi, Êxodo 34:33–35, comentário sobre o véu e a sequência de uso: https://www.chabad.org/library/bible_cdo/aid/9895/jewish/Chapter-34.htm
+- Brent A. Strawn, “Moses’ Shining or Horned Face?”, TheTorah.com: https://www.thetorah.com/article/moses-shining-or-horned-face
+- Working Preacher, “Commentary on Exodus 34:29–35”: https://www.workingpreacher.org/commentaries/revised-common-lectionary/transfiguration-of-our-lord-3/commentary-on-exodus-3429-35-6
+- Victor P. Hamilton, Exodus: An Exegetical Commentary, discussão da ambiguidade sintática em 34:29 e do termo raro masveh: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+
+**Próximo ponto:** Êxodo 35:1–35. Não repetir a conferência de Êxodo 34 sem evidência concreta de erro novo.
