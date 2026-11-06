@@ -7,4 +7,4 @@ ENCICLOPÉDIA BÍBLICA — VERSÃO COM PAINEL ADMINISTRATIVO
 
 As alterações são salvas no armazenamento local do navegador. Não limpe os dados do navegador sem antes exportar um backup. Para transferir para outro computador, exporte o backup e importe-o no outro navegador.
 
-Todas as 66 entradas de livros e 1.189 capítulos estão navegáveis. Os capítulos ainda sem texto próprio exibem um aviso para desenvolvimento futuro. O conteúdo pode ser preenchido aos poucos pelo painel.
+As 66 entradas de livros e os 1.189 capítulos estão navegáveis. Gênesis contém rascunhos de tradução para estudo, ainda sujeitos a revisão especializada. Os demais capítulos estão preparados para receber conteúdo pelo painel administrativo; não são apresentados como traduções concluídas.
