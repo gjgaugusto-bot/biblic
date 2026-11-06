@@ -17,7 +17,6 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     20: {term:"יָחֳרָם (yochoram)",text:"Forma de חרם, ligada a colocar sob interdito ou consagrar à destruição; termo jurídico-cultual específico."},
     24: {term:"נֶשֶׁךְ (neshekh)",text:"“Juro” ou cobrança de interesse, pertencente ao vocabulário de empréstimos e obrigações econômicas."},
     28: {term:"אֱלֹהִים (elohim)",text:"O termo pode designar Deus ou autoridades judiciais, conforme a leitura e a tradição interpretativa. A tradução “Deus” segue uma opção possível, mas a ambiguidade lexical deve permanecer registrada."},
-    28: {term:"אֱלֹהִים (elohim)",text:"O termo pode designar Deus ou autoridades judiciais, conforme a leitura e a tradição interpretativa. A tradução “Deus” segue uma opção possível, mas a ambiguidade lexical deve permanecer registrada."}
   },
   23: {
     2: {term:"רַבִּים (rabbim)",text:"“Muitos” ou “maioria”. O versículo alerta contra a pressão coletiva quando ela conduz à injustiça."},
