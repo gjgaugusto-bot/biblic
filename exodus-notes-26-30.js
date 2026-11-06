@@ -41,11 +41,15 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   },
   30: {
     1: {term:"מִזְבֵּחַ מִקְטַר קְטֹרֶת (mizbeach miqtar qetoret)",text:"Altar destinado à queima do incenso, distinto do altar dos holocaustos no pátio. A designação enfatiza a função do altar interno."},
+    7: {term:"בְּהֵיטִיבוֹ אֶת־הַנֵּרֹת (beheitivo et-hannerot)",text:"Da raiz יטב (*yatav*), “fazer bem/ajustar”. No contexto do serviço das lâmpadas, refere-se ao cuidado e à manutenção delas, possivelmente incluindo aparar os pavios; “cuidar das lâmpadas” evita especificar um procedimento não explicitado."},
+    8: {term:"וּבְהַעֲלֹת אַהֲרֹן אֶת־הַנֵּרֹת (uva-ha'alot Aharon et-hannerot)",text:"A forma da raiz עלה (*'alah*, “subir/fazer subir”) descreve o momento em que Arão faz as lâmpadas arderem/serem acesas ao entardecer. A tradução “acender as lâmpadas” é contextual e natural."},
     12: {term:"כֹּפֶר (kofer)",text:"Resgate ou preço de compensação. Aqui o meio siclo é apresentado como resgate pela vida no recenseamento."},
-    13: {term:"בֶּקַע (beqa)",text:"Unidade equivalente a meio siclo; o próprio versículo informa que vinte geras formam um siclo, portanto um beqa corresponde a dez geras."},
-    13: {term:"גֵּרָה (gerah)",text:"Unidade pequena de peso/moeda; vinte geras correspondiam a um siclo segundo o texto."},
-    23: {term:"מֹר דְּרוֹר (mor deror)",text:"Mirra de qualidade ou mirra fluida/pura; a expressão identifica uma especiaria da composição do óleo."},
+    18: {term:"כִּיּוֹר (kiyor) / כַּנּוֹ (kanno)",text:"Kiyor designa a bacia ou lavatório; kanno é sua base/suporte. O texto distingue os dois elementos e especifica que ambos são de bronze."},
+    13: {term:"בֶּקַע (beqa) / גֵּרָה (gerah)",text:"Beqa é a unidade equivalente a meio siclo. O próprio versículo informa que vinte geras formam um siclo; portanto, um beqa corresponde a dez geras. Gerah é a unidade menor de peso/moeda."},
+    23: {term:"מֹר דְּרוֹר (mor deror)",text:"Expressão tradicionalmente entendida como “mirra fluida” ou “mirra pura”. O adjetivo deror pode sugerir fluxo livre/espontâneo; a identificação da variedade e do processamento exatos não é segura. “Mirra fluida” preserva a imagem mais literal."},
     24: {term:"קִדָּה (qiddah)",text:"Especiaria tradicionalmente identificada como cássia. A identificação botânica exata e sua relação com outras plantas aromáticas antigas não são totalmente seguras."},
+    25: {term:"רֹקַח מִרְקַחַת (roqach mirqachat)",text:"Expressão que descreve uma composição aromática preparada por um especialista em perfumes. A repetição da raiz רקח (*raqach*) destaca a mistura/perfume elaborado, não apenas a junção casual dos ingredientes."},
+    32: {term:"עַל־בְּשַׂר אָדָם (al-besar adam)",text:"Literalmente, “sobre carne humana”. O hebraico não contém aqui um qualificativo equivalente a “pessoa comum”; por isso, “sobre a carne de ninguém” evita restringir a proibição a uma classe social ou a leigos."},
     34: {term:"נָטָף (nataf) / שְׁחֵלֶת (shechelet)",text:"Nataf é tradicionalmente identificado como estoraque ou uma resina aromática; shechelet, como ônica ou outro ingrediente aromático. As identificações botânicas e materiais são incertas."},
     35: {term:"מְמֻלָּח (memullach)",text:"Particípio da raiz מלח (*malach*), “salgar”. O incenso era temperado com sal, além de ser puro e santo; a palavra não indica apenas que a mistura estava “bem misturada”."}
   }
