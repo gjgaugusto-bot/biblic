@@ -857,4 +857,28 @@ Demais versículos (29:1–5, 29:7–12, 29:14–17, 29:19–21, 29:23–41 e 29
 - UBS Handbook on Exodus, Êxodo 29:22, sobre a coxa direita e o carneiro de investidura: https://tips.translation.bible/tip_verse/exod-2922/
 - NET Bible, Êxodo 29:18, sobre רֵיחַ נִיחוֹחַ (*re'ach nichoach*) como fórmula sacrificial: https://classic.net.bible.org/verse.php?book=Exo&chapter=29&verse=18
 
-**Próximo ponto:** Êxodo 30:1–38. Não repetir a conferência de Êxodo 29 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 31:1–18. Não repetir a conferência de Êxodo 29 sem evidência concreta de erro novo.
+
+
+### Êxodo 30 — conferência textual e lexical integral (30:1–38)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para distinguir o altar de incenso, as medidas do resgate e a preparação do incenso.
+
+Notas lexicais acrescentadas:
+- **30:1:** מִזְבֵּחַ מִקְטַר קְטֹרֶת (*mizbeach miqtar qetoret*) designa o altar destinado à queima do incenso, distinto do altar dos holocaustos no pátio.
+- **30:13:** בֶּקַע (*beqa*) equivale a meio siclo. Como o versículo informa que vinte geras formam um siclo, um *beqa* corresponde a dez geras.
+- **30:35:** מְמֻלָּח (*memullach*) vem da raiz מלח (*malach*), “salgar”; a mistura do incenso era temperada com sal, além de ser pura e santa.
+
+Notas anteriores preservadas:
+- **30:12–13, 30:23–24 e 30:34:** mantidas, incluindo o resgate no recenseamento, a relação entre geras e siclo, mirra, cássia e as identificações incertas de alguns ingredientes do incenso.
+
+Demais versículos (30:2–11, 30:14–22, 30:25–33 e 30:36–38): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 30: https://mechon-mamre.org/p/pt/pt0230.htm
+- NET Bible, Êxodo 30:1, sobre o altar do incenso e sua distinção do altar dos holocaustos: https://classic.net.bible.org/verse.php?book=Exo&chapter=30&verse=1
+- NET Bible, Êxodo 30:13, sobre בֶּקַע (*beqa*) como meio siclo e a relação com geras: https://classic.net.bible.org/verse.php?book=Exo&chapter=30&verse=13
+- NET Bible, Êxodo 30:35, sobre מְמֻלָּח (*memullach*) como “salgado/temperado com sal”: https://classic.net.bible.org/verse.php?book=Exo&chapter=30&verse=35
+- Rashi sobre Êxodo 30:35, explicação da mistura do incenso com sal: https://www.sefaria.org/Rashi_on_Exodus.30.35
+
+**Próximo ponto:** Êxodo 31:1–18. Não repetir a conferência de Êxodo 30 sem evidência concreta de erro novo.
