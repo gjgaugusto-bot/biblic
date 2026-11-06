@@ -391,3 +391,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Gênesis 3:8: “ao sopro do dia” ajustado para “à brisa do dia”, para uma expressão mais inteligível do hebraico לרוח היום.
 - Gênesis 3:15: ajustado o pronome “esta” para “ele”, acompanhando o pronome masculino הוא ligado a זרע (“descendência/semente”).
 - Essas correções são decisões de tradução de trabalho, não uma edição crítica certificada; a passagem e as alternativas devem permanecer abertas a revisão especializada.
+
+
+### Conferência pontual adicional (2026-11-06)
+
+- Gênesis 4:1: retirada a palavra interpretativa “auxílio” da fala de Eva; a formulação agora preserva “Adquiri um homem com YHWH”, cuja construção hebraica é ambígua.
+- Gênesis 45:8: “conselheiro do faraó” foi substituído por “pai para o faraó”, preservando a metáfora presente no hebraico.
+- Acrescentada à validação estrutural uma checagem automática das contagens de versículos dos 50 capítulos de Gênesis, para detectar omissões futuras.
+- A execução dessa nova checagem e da suíte de navegador depende da conclusão do workflow do Pull Request #35.
