@@ -119,6 +119,7 @@
     } catch (_) {}
     if (book === 1 && window.EXODUS_TEXT) return window.EXODUS_TEXT[chapter] || [];
     if (book === 2 && window.LEVITICUS_TEXT) return window.LEVITICUS_TEXT[chapter] || [];
+    if (book === 3 && window.NUMBERS_TEXT) return window.NUMBERS_TEXT[chapter] || [];
     return [];
   }
 
