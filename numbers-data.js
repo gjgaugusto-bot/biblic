@@ -501,7 +501,7 @@ window.NUMBERS_TEXT[11] = [
   "Moisés lhe disse: Tens ciúmes por mim? Quem dera todo o povo de YHWH fosse profeta e que YHWH pusesse seu espírito sobre eles!",
   "Então Moisés voltou ao acampamento, ele e os anciãos de Israel.",
   "Levantou-se um vento enviado por YHWH, que trouxe codornizes do mar e as espalhou pelo acampamento, cerca de um dia de viagem de um lado e um dia de viagem do outro, ao redor do acampamento, e a cerca de dois côvados acima da superfície do solo.",
-  "O povo passou todo aquele dia, toda a noite e todo o dia seguinte recolhendo codornizes; o que menos recolheu juntou dez ômeres. Estenderam-nas ao redor do acampamento.",
+  "O povo passou todo aquele dia, toda a noite e todo o dia seguinte recolhendo codornizes; o que menos recolheu juntou dez hômeres. Estenderam-nas ao redor do acampamento.",
   "A carne ainda estava entre seus dentes, antes que fosse mastigada, quando a ira de YHWH se acendeu contra o povo, e YHWH feriu o povo com uma praga muito grande.",
   "Aquele lugar foi chamado Quibrote-Hataavá, porque ali enterraram o povo que tivera desejo intenso.",
   "De Quibrote-Hataavá, o povo partiu para Hazerote e ficou em Hazerote."
