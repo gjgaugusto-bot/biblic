@@ -6,7 +6,7 @@ window.EXODUS_TEXT[31] = [
 "Vê: chamei pelo nome Bezalel, filho de Uri, filho de Hur, da tribo de Judá.",
 "Enchi-o do espírito de Deus, com sabedoria, entendimento, conhecimento e toda espécie de habilidade artesanal,",
 "para conceber projetos e trabalhar em ouro, prata e bronze,",
-"para lapidar pedras de engaste, entalhar madeira e realizar todo tipo de trabalho.",
+"para trabalhar pedras e engastá-las, entalhar madeira e realizar todo tipo de trabalho.",
 "Eis que lhe dei como companheiro Ooliabe, filho de Aisamaque, da tribo de Dã; também coloquei habilidade no coração de todos os que têm coração sábio, para que façam tudo o que te ordenei:",
 "a tenda do encontro, a arca do testemunho, a cobertura que está sobre ela e todos os utensílios da tenda;",
 "a mesa e seus utensílios, o candelabro puro e todos os seus utensílios, o altar do incenso;",
