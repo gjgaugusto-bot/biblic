@@ -344,4 +344,3 @@ $('clearData').onclick=()=>{
 };
 document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');$('search').oninput=e=>renderBooks(e.target.value);
 renderBooks();renderGuides();renderSymbols();renderCharacters();
-
