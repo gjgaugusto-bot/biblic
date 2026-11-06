@@ -94,3 +94,20 @@ window.TRANSLATION_NOTES[5][10] = {
   24:{term:"שִׂימוּ רַגְלֵיכֶם (simu raglekhem)",text:"“Ponde os vossos pés”. O gesto de colocar os pés sobre o pescoço dos reis simboliza submissão e vitória militar."},
   40:{term:"כָּל־הַנְּשָׁמָה (kol-ha-neshamah)",text:"“Todo ser que respira”. Fórmula abrangente do relato de guerra; deve ser lida como linguagem do próprio texto antigo, sem suavizar seu conteúdo violento."}
 };
+
+
+window.TRANSLATION_NOTES[5][11] = {
+  4:{term:"רֶכֶב (rekhev)",text:"Carros de guerra. Associados aos cavalos, representam a superioridade militar dos reis cananeus diante das forças israelitas."},
+  6:{term:"עַקֵּר (aqqer)",text:"Cortar os tendões dos cavalos, tornando-os incapazes de puxar carros ou servir em combate. O gesto neutraliza o recurso militar capturado."},
+  10:{term:"רֹאשׁ כָּל־הַמַּמְלָכוֹת (rosh kol-hammamlakhot)",text:"“Cabeça de todos os reinos”. A expressão caracteriza Hazor como centro político dominante da coalizão do norte."},
+  20:{term:"חִזֵּק אֶת־לִבָּם (ḥizzeq et-libbam)",text:"“Fortaleceu/endureceu o coração”. O narrador atribui a persistência dos reis em guerrear à ação soberana de YHWH."},
+  22:{term:"עֲנָקִים (anaqim)",text:"Anaquins, povo descrito nas tradições bíblicas como de grande estatura. O texto registra sua presença remanescente em cidades filisteias."},
+  23:{term:"וַתִּשְׁקֹט הָאָרֶץ מִמִּלְחָמָה (vatishqot ha-arets)",text:"“A terra descansou da guerra”. Fórmula de encerramento da campanha, indicando cessação das hostilidades no quadro narrativo."}
+};
+window.TRANSLATION_NOTES[5][12] = {
+  1:{term:"עֲרָבָה (Aravah)",text:"Depressão geográfica que acompanha o vale do Jordão e se estende ao sul do Mar Morto. O capítulo resume conquistas a leste e a oeste do Jordão."},
+  4:{term:"רְפָאִים (Refaim)",text:"Nome de um povo ou grupo antigo associado, em tradições bíblicas, a guerreiros de grande estatura."},
+  7:{term:"נַחֲלָה (naḥalah)",text:"Herança ou propriedade recebida. A distribuição da terra é descrita como concessão às tribos, organizada segundo suas divisões."},
+  8:{term:"שְׁפֵלָה (Shefelah)",text:"Região de colinas baixas entre a serra central e a planície costeira. A lista reúne diferentes zonas geográficas de Canaã."},
+  24:{term:"שְׁלֹשִׁים וְאֶחָד מֶלֶךְ (sheloshim ve-eḥad melekh)",text:"“Trinta e um reis”. O número encerra o catálogo dos governantes derrotados por Josué a oeste do Jordão."}
+};
