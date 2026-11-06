@@ -757,3 +757,10 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Êxodo 33:1–23 passou pela primeira conferência textual e lexical; ajustes em 33:6 e 33:10 e notas correspondentes registrados em REVISAO-EXODO.md.
 - Êxodo 1–33 documentados na primeira passada.
 - Próximo capítulo: Êxodo 34.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 34:1–35 passou pela primeira conferência textual e lexical; notas sobre os atributos divinos, aliança, calendário agrícola, brilho do rosto de Moisés e véu registradas em REVISAO-EXODO.md.
+- Êxodo 1–34 documentados na primeira passada.
+- Próximo capítulo: Êxodo 35.
