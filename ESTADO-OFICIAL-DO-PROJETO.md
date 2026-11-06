@@ -370,3 +370,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo permanece **Em revisão** no controle por versículo; primeira passada não aprova automaticamente cada versículo.
 - Próximo trecho: Êxodo 33:1–23.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE**.
+
+
+## Atualização de continuidade — Êxodo 33 (2026-11-06)
+
+- Êxodo 1–33: primeira conferência textual e lexical documentada.
+- Ajustes em Êxodo 33:6 e 33:10; notas sobre despojar-se dos ornamentos, prostração, presença e imagens de face/costas.
+- Êxodo permanece **Em revisão** no controle por versículo.
+- Próximo trecho: Êxodo 34:1–35.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE**.
