@@ -118,3 +118,40 @@ window.TRANSLATION_NOTES[4][9] = {
   21:{term:"דַּק לֶעָפָר (daq le'afar)",text:"“Pó fino”. A sequência de queimar, esmagar e triturar enfatiza a completa destruição do ídolo."},
   26:{term:"פָּדִיתָ (padita)",text:"“Resgataste”. O verbo פדה expressa libertação mediante resgate; Moisés fundamenta sua súplica na ação salvadora de YHWH."}
 };
+
+window.TRANSLATION_NOTES[4][10] = {
+  1:{term:"אֲרוֹן עֵץ (aron ets)",text:"“Arca de madeira”. A ordem para preparar uma arca acompanha a renovação das tábuas da aliança; a identificação com a arca da aliança é dada pelo contexto."},
+  6:{term:"בְּאֵרֹת בְּנֵי־יַעֲקָן (Be'erot bene-Ya'aqan)",text:"“Poços dos filhos de Jaacã”. O itinerário contém uma nota geográfica que interrompe a sequência do discurso e recorda etapas da jornada."},
+  8:{term:"לְשָׁרְתוֹ וּלְבָרֵךְ בִּשְׁמוֹ (lesharto u-levarekh bishmo)",text:"“Servi-lo e abençoar em seu nome”. Resume as funções levíticas ligadas ao serviço diante de YHWH e à bênção sacerdotal."},
+  9:{term:"יְהוָה הוּא נַחֲלָתוֹ (YHWH hu naḥalato)",text:"“YHWH é sua herança”. A tribo de Levi não recebe território tribal como as demais; seu sustento e identidade são vinculados ao serviço divino."},
+  12:{term:"מָה יְהוָה אֱלֹהֶיךָ שֹׁאֵל (mah YHWH elohekha sho'el)",text:"“O que YHWH, teu Deus, pede”. A pergunta introduz uma síntese da resposta de Israel: temor, caminhada, amor e serviço."},
+  16:{term:"וּמַלְתֶּם אֵת עָרְלַת לְבַבְכֶם (umalten et orlat levavkhem)",text:"“Circuncidai o prepúcio de vosso coração”. Metáfora de remoção da insensibilidade interior e da resistência à aliança."},
+  17:{term:"לֹא יִשָּׂא פָנִים (lo yissa fanim)",text:"“Não faz acepção de pessoas”. Expressão idiomática sobre imparcialidade no julgamento."},
+  18:{term:"גֵּר (ger)",text:"Estrangeiro residente. A lei associa o amor ao estrangeiro à memória da própria condição de Israel no Egito."},
+  22:{term:"שִׁבְעִים נֶפֶשׁ (shiv'im nefesh)",text:"“Setenta pessoas”. נֶפֶשׁ designa aqui pessoas viventes, não uma entidade imaterial separada."}
+};
+window.TRANSLATION_NOTES[4][11] = {
+  2:{term:"מוּסַר יְהוָה (musar YHWH)",text:"“Disciplina de YHWH”. Pode abranger instrução, correção e demonstração de poder; Moisés chama a geração presente a reconhecer o que testemunhou."},
+  6:{term:"וַתִּבְלָעֵם (vativla'em)",text:"“A terra os engoliu”. Descrição da punição de Datã e Abirão, apresentada como sinal público da rebelião."},
+  10:{term:"בְּרַגְלְךָ (beraglekha)",text:"Literalmente, “com teu pé”. A referência pode aludir ao modo de irrigação por canais ou mecanismos acionados com o pé; a imagem contrasta com a dependência da chuva na terra prometida."},
+  12:{term:"דֹּרֵשׁ אֹתָהּ (doresh otah)",text:"“Cuida dela” ou “a procura”. A terra é retratada como objeto da atenção contínua de YHWH."},
+  14:{term:"יוֹרֶה וּמַלְקוֹשׁ (yoreh u-malqosh)",text:"“Primeira chuva e chuva tardia”. As chuvas de outono e primavera eram essenciais ao ciclo agrícola da região."},
+  17:{term:"וְעָצַר אֶת־הַשָּׁמַיִם (ve'atsar et-hashamayim)",text:"“Fechará os céus”. Imagem de retenção da chuva e interrupção da fertilidade da terra."},
+  18:{term:"וְשַׂמְתֶּם ... עַל־לְבַבְכֶם (vesamtem ... al-levavkhem)",text:"“Ponde ... sobre vosso coração”. A instrução deve ser interiorizada, não apenas memorizada externamente."},
+  26:{term:"הַבְּרָכָה וְהַקְּלָלָה (habberakhah vehakellalah)",text:"“A bênção e a maldição”. Duas consequências da resposta de Israel à aliança, apresentadas como escolha diante do povo."},
+  29:{term:"הַר־גְּרִזִים ... הַר־עֵיבָל (har Gerizim ... har Eval)",text:"Montes Gerizim e Ebal, associados à proclamação da bênção e da maldição quando Israel entrasse na terra."}
+};
+window.TRANSLATION_NOTES[4][12] = {
+  2:{term:"מִקְדָּשׁ (miqdash)",text:"Neste contexto, lugares de culto ou santuários locais das nações. A ordem exige remover os centros de culto associados a outros deuses."},
+  5:{term:"לְשִׁכְנוֹ תִדְרְשׁוּ (leshikhno tidreshu)",text:"“Buscar sua habitação”. A expressão aponta para o lugar que YHWH escolherá para estabelecer seu nome; o texto não o identifica aqui."},
+  6:{term:"תְּרוּמַת יֶדְכֶם (terumat yedkhem)",text:"“Contribuição de vossas mãos”. Oferta levantada ou apresentada, expressão que pode designar contribuições sagradas variadas."},
+  7:{term:"וּשְׂמַחְתֶּם (usmaḥtem)",text:"“Vos alegrareis”. O culto inclui refeição comunitária e alegria diante de YHWH, não apenas a apresentação de ofertas."},
+  8:{term:"אִישׁ כָּל־הַיָּשָׁר בְּעֵינָיו (ish kol-hayashar be'enav)",text:"“Cada um fazendo o que lhe parece correto aos próprios olhos”. Expressão de autonomia sem referência à ordem comum, criticada no contexto."},
+  15:{term:"כְּאַיָּל וְכַצְּבִי (ke'ayyal ve-khatsevi)",text:"“Como a gazela e o cervo”. Animais de caça cuja carne podia ser consumida fora do santuário, em contraste com as ofertas sagradas."},
+  16:{term:"הַדָּם לֹא תֹאכֵלוּ (haddam lo tokhelu)",text:"“Não comereis o sangue”. A proibição se fundamenta na associação do sangue com a vida e será explicada nos versículos seguintes."},
+  20:{term:"כִּי־תְאַוֶּה נַפְשְׁךָ (ki-te'avveh nafshekha)",text:"“Se tua vida desejar”. A construção permite abate e consumo de carne conforme o desejo, respeitadas as regras sobre o sangue e as ofertas."},
+  23:{term:"כִּי הַדָּם הוּא הַנָּפֶשׁ (ki haddam hu hannafesh)",text:"“Pois o sangue é a vida”. A afirmação fundamenta a proibição de ingerir sangue: a vida pertence a YHWH."},
+  28:{term:"הַטּוֹב וְהַיָּשָׁר (hatov vehayashar)",text:"“O que é bom e reto”. Fórmula que une bondade e correção moral diante de YHWH."},
+  31:{term:"כָּל־תּוֹעֲבַת יְהוָה (kol-to'avat YHWH)",text:"“Toda abominação para YHWH”. A crítica inclui práticas cultuais repudiadas, com referência explícita ao sacrifício de filhos no fogo."},
+  32:{term:"לֹא תֹסֵף ... וְלֹא תִגְרַע (lo tosef ... velo tigra)",text:"“Não acrescentarás nem diminuirás”. Retoma a fórmula de 4:2 e encerra a seção com a exigência de fidelidade à instrução recebida."}
+};
