@@ -14,7 +14,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     2: {term:"רִיב (riv)",text:"Verbo de disputar, contender ou apresentar uma queixa. A narrativa faz jogo com o nome Meribá, ligado à contenda."},
     6: {term:"צוּר (tsur)",text:"“Rocha” ou grande formação rochosa. O texto não especifica sua composição ou localização precisa."},
     7: {term:"מַסָּה וּמְרִיבָה (Massah u-Merivah)",text:"Massá associa-se a “provação”; Meribá, a “contenda”. Os nomes resumem os dois atos descritos no episódio."},
-    15: {term:"יְהוָה נִסִּי (YHWH nissi)",text:"Expressão tradicionalmente entendida como “YHWH é meu estandarte”. Nessi deriva de nes, “estandarte/sinal elevado”."}
+    15: {term:"יְהוָה נִסִּי (YHWH nissi)",text:"Expressão tradicionalmente entendida como “YHWH é meu estandarte”. Nessi deriva de nes, “estandarte/sinal elevado”."},
+    16: {term:"כִּי־יָד עַל־כֵּס יָהּ (ki-yad al-kes Yah)",text:"Literalmente, “pois uma mão está sobre o trono de Yah”. A frase é obscura e recebeu leituras como uma fórmula de juramento ou uma declaração de guerra permanente de YHWH contra Amaleque. “Uma mão se levantou contra o trono” é uma interpretação possível, não uma tradução indiscutível."}
   },
   18: {
     1: {term:"כֹּהֵן (kohen)",text:"“Sacerdote” ou oficiante cultual. Jetro é identificado como sacerdote de Midiã; o texto não detalha aqui suas funções."},
