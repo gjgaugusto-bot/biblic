@@ -448,3 +448,14 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - PR #36 / branch `feat/controle-editorial-versiculos-2026-11-06`: último workflow conhecido `42267847733` terminou com falha no passo Playwright “Testar navegação, edição, backups e acessibilidade”; sintaxe, validação estrutural, instalação do Chromium e servidor local passaram. Investigar e corrigir o teste antes de considerar a infraestrutura concluída.
 - Nenhuma alteração foi integrada em `main` ou publicada. O PR continua aguardando validação e decisão do proprietário.
 - Próxima sequência: corrigir o teste do PR #36; conferir uma única vez a abertura de Gênesis e registrar fechamento definitivo; prosseguir em Êxodo; depois seguir em ordem até Apocalipse.
+
+
+## Fechamento final da abertura de Gênesis e validação técnica — 2026-11-06
+
+- Gênesis 1–3 passou pela conferência final combinada. Não foi encontrada omissão ou erro objetivo que exigisse alteração do corpo da tradução. A nota lexical de Gênesis 2:22 foi complementada para registrar o verbo בנה (banah, “construir/edificar”), sem reescrita desnecessária do texto.
+- Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Os capítulos 1–50 não retornam à fila por nova conversa, mudança de ferramenta ou preferência estilística. Reabertura somente com evidência concreta de erro relevante ou fonte nova, em versículos específicos e com justificativa registrada.
+- Resultado da conferência e fontes foram registrados em REGISTRO-EDITORIAL.md; a regra de continuidade está em ESTADO-OFICIAL-DO-PROJETO.md.
+- Corrigido em translation-notes.js um erro JavaScript: notas anexadas a capítulos sem objeto inicial agora criam esse objeto antes de Object.assign.
+- Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
+- PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
+- Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
