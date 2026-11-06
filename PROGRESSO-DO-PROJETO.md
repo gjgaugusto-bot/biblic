@@ -399,3 +399,20 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Gênesis 45:8: “conselheiro do faraó” foi substituído por “pai para o faraó”, preservando a metáfora presente no hebraico.
 - Acrescentada à validação estrutural uma checagem automática das contagens de versículos dos 50 capítulos de Gênesis, para detectar omissões futuras.
 - A execução dessa nova checagem e da suíte de navegador depende da conclusão do workflow do Pull Request #35.
+
+
+## Auditoria técnica integral e congelamento da base — 2026-11-06
+
+- Preservado o estado anterior à auditoria na branch `arquivo-pre-auditoria-2026-11-06`.
+- Corrigido o aviso da página inicial para não afirmar que todo o conteúdo do site é uma tradução literal. Agora informa que Gênesis contém rascunhos de tradução para estudo, ainda sujeitos a revisão especializada, e que os demais livros estão preparados para receber conteúdo.
+- Corrigidos os rótulos dos textos de capítulo: Gênesis é identificado como rascunho de tradução; textos inseridos em outros livros pelo painel são identificados como conteúdo inserido pelo administrador, sem atribuir-lhes uma fonte hebraica que não foi informada.
+- Atualizada a versão de cache dos estilos e do JavaScript após as alterações.
+- Ampliada a validação estrutural para conferir a contagem canônica de capítulos de cada um dos 66 livros, unicidade de nomes e slugs e soma total de 1.189 capítulos.
+- Ampliada a suíte de navegador para abrir os 66 livros e conferir suas listas de capítulos; testar salvamento, persistência, exportação e importação das categorias personalizadas; e verificar telas de 320 px, 390 px e preferência por movimento reduzido.
+- Adicionada regra CSS para respeitar `prefers-reduced-motion`.
+- Resultado do workflow `42157420986`: sintaxe, estrutura, navegação, persistência, backups, Chromium e axe-core aprovados.
+- Mantida a verificação de contagem dos versículos dos 50 capítulos de Gênesis. Essa verificação confirma estrutura, não fidelidade semântica.
+- Escopo não certificado: a revisão semântica verso a verso de Gênesis ainda depende de leitura especializada em hebraico bíblico; a biblioteca de estudos também não foi validada como fonte acadêmica.
+- Os dados salvos apenas no navegador (`localStorage`) não são incluídos no snapshot GitHub. É necessário exportar o backup JSON separadamente.
+- Nenhuma alteração foi integrada em `main`; o PR #35 continua draft; o site não foi publicado.
+- Base congelada: `base-imutavel-2026-11-06`. Continuidade: `trabalho-base-2026-11-06`.
