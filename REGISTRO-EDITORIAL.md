@@ -118,3 +118,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 5:1–23.
+
+
+### Êxodo 5:1–23
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 5:16 para preservar a coordenação hebraica; variante textual antiga documentada.
+- Notas lexicais em 5:3, 5:7, 5:8, 5:16 e 5:21.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 6:1–30.
