@@ -335,3 +335,11 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas ampliadas em 29:6, 29:13, 29:18 e 29:22; notas anteriores preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 30:1–38.
+
+
+### Continuidade de conteúdo — Êxodo 30 (2026-11-06)
+
+- Êxodo 30:1–38 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 30:1, 30:13 e 30:35; notas anteriores sobre resgate, especiarias e incenso preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 31:1–18.
