@@ -676,3 +676,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas anteriores de 24:7, 24:8 e 24:10 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 25:1–40.
+
+
+## 2026-11-06 — revisão de Êxodo 25:1–40
+
+- Conferência integral do capítulo 25 contra o Texto Massorético.
+- Ajustes em 25:29 para a ordem dos utensílios e em 25:38 para distinguir pinças de bandejas de cinzas.
+- Notas lexicais acrescentadas em 25:29 e 25:38; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 26:1–37.
