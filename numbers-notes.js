@@ -71,3 +71,30 @@ window.TRANSLATION_NOTES[3][7] = {
   17:{term:"זֶבַח הַשְּׁלָמִים (zevach hashelamim)",text:"Sacrifício de comunhão ou de bem-estar. A oferta inclui animais partilhados ritualmente, não sendo simplesmente um holocausto integral."},
   89:{term:"מִדַּבֵּר (middabber)",text:"Particípio reflexivo/intensivo de דבר, com sentido de “falando”. O versículo encerra o capítulo enfatizando a comunicação divina a partir do espaço acima da cobertura da Arca."}
 };
+/* Notas lexicais — Números 8. */
+window.TRANSLATION_NOTES[3][8] = {
+  2:{term:"בְּהַעֲלֹתְךָ (beha'alotekha)",text:"Literalmente, “ao fazer subir”. O verbo descreve o acendimento/elevação das lâmpadas do candelabro."},
+  7:{term:"מֵי חַטָּאת (mei chatat)",text:"“Água de purificação” ou “água para purificação”. O termo חטאת pode designar a oferta pelo pecado, mas aqui integra um rito de purificação."},
+  11:{term:"תְּנוּפָה (tenufah)",text:"“Oferta movida”. Gesto ritual de apresentação diante de YHWH; a imagem de movimento não deve ser confundida com uma oferta que os levitas literalmente carregassem para longe."},
+  19:{term:"לְכַפֵּר (lekhapper)",text:"“Fazer expiação”. A raiz כפר expressa o rito de remoção/neutralização da culpa ou impureza, aqui ligado ao serviço levítico."},
+  24:{term:"מִבֶּן חָמֵשׁ וְעֶשְׂרִים (mibben chamesh ve'esrim)",text:"“A partir dos vinte e cinco anos”. Em Números 4, a idade de serviço é apresentada como trinta anos; a diferença é textual e interpretativa, não deve ser apagada. Uma explicação tradicional entende os cinco anos como período de aprendizagem."}
+};
+/* Notas lexicais — Números 9. */
+window.TRANSLATION_NOTES[3][9] = {
+  3:{term:"בֵּין הָעַרְבַּיִם (bein ha'arbayim)",text:"Expressão temporal tradicionalmente traduzida “entre as tardes” ou “ao crepúsculo”. Refere-se ao período vespertino do sacrifício pascal."},
+  6:{term:"טָמֵא לָנֶפֶשׁ (tame lanefesh)",text:"Literalmente, “impuro por uma pessoa/morto”. É impureza ritual decorrente do contato com um cadáver, não uma avaliação moral."},
+  10:{term:"בְּדֶרֶךְ רְחֹקָה (bederekh rechokah)",text:"“Em viagem distante”. A expressão estabelece uma exceção para quem não pode celebrar a Páscoa na data ordinária."},
+  13:{term:"וְנִכְרְתָה (venikhretah)",text:"“Será eliminada/cortada”. Fórmula de sanção comunitária; o texto não especifica aqui o mecanismo concreto da exclusão."},
+  15:{term:"מַרְאֵה אֵשׁ (mar'eh esh)",text:"“Aparência de fogo”. O texto descreve a manifestação visível sobre o Tabernáculo sem identificar o fenômeno com fogo material comum."},
+  19:{term:"מִשְׁמֶרֶת יְהוָה (mishmeret YHWH)",text:"“Encargo/ordem de YHWH”. A expressão caracteriza a espera e a partida como obediência à orientação divina."}
+};
+/* Notas lexicais — Números 10. */
+window.TRANSLATION_NOTES[3][10] = {
+  2:{term:"חֲצֹצְרֹת כֶּסֶף (chatsotserot kesef)",text:"“Trombetas de prata”. Instrumentos metálicos de sinalização, distintos do שׁוֹפָר (shofar), feito de chifre."},
+  5:{term:"תְּרוּעָה (teru'ah)",text:"Toque de alarme ou sinal sonoro. O termo designa um brado/toque de intensidade marcada; seu padrão musical exato não é especificado."},
+  7:{term:"תָּקַע (taqa')",text:"Verbo “tocar/soprar” a trombeta. O contraste entre convocação e alarme depende dos padrões de toque, não de instrumentos diferentes."},
+  10:{term:"זִכָּרוֹן (zikaron)",text:"“Memorial” ou “lembrança”. A trombeta funciona como sinal litúrgico diante de Deus, não como informação de que Deus pudesse esquecer."},
+  29:{term:"חֹבָב (Chovav)",text:"Hobabe, parente midianita de Moisés. A identificação exata com Jetro ou com outro membro da família é discutida; a tradução mantém o nome sem resolver a questão."},
+  31:{term:"לְעֵינָיִם (le'einayim)",text:"Literalmente, “para olhos”. A expressão é idiomática: Hobabe serviria como guia/conhecedor do terreno no deserto."},
+  35:{term:"קוּמָה יְהוָה (qumah YHWH)",text:"“Levanta-te, YHWH”. Fórmula poética pronunciada quando a Arca partia, invocando a ação protetora de YHWH."}
+};
