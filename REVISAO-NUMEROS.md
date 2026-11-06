@@ -61,6 +61,8 @@ Foram conferidos integralmente os 65 versículos de Números 26 e os 23 versícu
 
 Foram conferidos integralmente os 31 versículos de Números 28 e os 40 versículos do capítulo 29 do projeto com o texto hebraico do Mechon-Mamre. A numeração do último versículo foi alinhada: o versículo 29:40 do projeto corresponde a Números 30:1 na divisão hebraica exibida pelo Mechon-Mamre. A tradução de 29:40 foi ajustada de “falou” para “disse”, refletindo וַיֹּאמֶר. Os capítulos 28 e 29 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 16 versículos do capítulo 30 do projeto e os 54 versículos do capítulo 31 com o texto hebraico do Mechon-Mamre. A numeração foi alinhada: o capítulo 30 do projeto corresponde a Números 30:2–17 no Mechon-Mamre, pois Números 30:1 na divisão hebraica corresponde ao versículo 29:40 do projeto. Em 30:6–7, “palavra precipitada” foi refinado para “declaração de seus lábios”; em 31:3, a construção verbal foi ajustada; em 31:10, “fortificações” substituiu “acampamentos fortificados”; em 31:21, “prescrição da Torá” substituiu “determinação da instrução”; e em 31:28, “um de cada quinhentos” substituiu a leitura ambígua “uma pessoa em cada quinhentas”. As notas lexicais dos dois capítulos foram revisadas, incluindo correções de sintaxe nos objetos de notas. Os capítulos 30 e 31 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
