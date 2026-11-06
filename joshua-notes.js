@@ -41,3 +41,20 @@ window.TRANSLATION_NOTES[5][4] = {
   13:{term:"חֲלוּצִים (ḥalutsim)",text:"Homens equipados ou preparados para a guerra. O termo descreve as forças das tribos orientais que atravessam à frente dos demais."},
   19:{term:"גִּלְגָּל (Gilgal)",text:"Topônimo associado ao primeiro acampamento israelita em Canaã. O nome é relacionado na narrativa ao marco memorial da travessia."}
 };
+
+
+window.TRANSLATION_NOTES[5][5] = {
+  2:{term:"חֶרְבּוֹת צֻרִים (ḥarvot tsurim)",text:"Facas de pedra ou lâminas de sílex. A expressão descreve instrumentos de pedra usados no rito de circuncisão."},
+  8:{term:"חָיּוּ (ḥayu)",text:"Permaneceram ou ficaram vivos/à espera. O contexto indica que o povo permaneceu no acampamento até recuperar-se do procedimento."},
+  9:{term:"חֶרְפַּת מִצְרַיִם (ḥerpat Mitsrayim)",text:"“Vergonha do Egito”. A expressão pode aludir ao opróbrio associado à escravidão e à condição de Israel antes da entrada na terra."},
+  11:{term:"עֲבוּר הָאָרֶץ (avur ha-arets)",text:"Produto ou cereal da terra. O texto destaca a passagem do alimento provido no deserto para os frutos de Canaã."},
+  14:{term:"שַׂר־צְבָא־יְהוָה (sar-tseva-YHWH)",text:"“Comandante do exército de YHWH”. A figura se apresenta como autoridade militar celeste; a narrativa não a identifica explicitamente pelo nome."}
+};
+window.TRANSLATION_NOTES[5][6] = {
+  2:{term:"נָתַתִּי (natatti)",text:"Perfeito verbal: “entreguei”. A conquista é anunciada como ação já concedida por YHWH, antes de o povo executar a marcha."},
+  4:{term:"שׁוֹפָר (shofar)",text:"Trombeta feita de chifre, geralmente de carneiro. Seu som tem função ritual e pública, não apenas militar."},
+  5:{term:"תְּרוּעָה (teru'ah)",text:"Brado ou aclamação sonora, frequentemente associado a celebração, alarme ou convocação. Aqui acompanha o toque do shofar."},
+  17:{term:"חֵרֶם (ḥerem)",text:"Interdito ou consagração irrevogável. No contexto de guerra, designa aquilo que é retirado do uso comum e dedicado a YHWH, inclusive por destruição; termo de forte carga ética e teológica."},
+  19:{term:"אוֹצַר יְהוָה (otsar YHWH)",text:"Tesouro de YHWH. Os metais preciosos e utensílios não seriam apropriados individualmente, mas destinados ao santuário."},
+  26:{term:"בְּכוֹרוֹ ... יְצִיבֶנָּה (bekhoro ... yetsivenah)",text:"A fórmula do juramento associa a reconstrução da cidade à perda do primogênito e do filho mais novo. A narrativa posterior retoma o cumprimento dessa palavra em 1 Reis 16:34."}
+};
