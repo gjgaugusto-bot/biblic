@@ -497,3 +497,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas acrescentadas em 4:6, 4:10, 4:11 e 4:31; notas de 4:13, 4:18 e 4:24–26 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 5:1–23.
+
+
+## 2026-11-06 — revisão de Êxodo 5:1–23
+
+- Conferência integral do capítulo 5 contra o Texto Massorético.
+- Ajuste em 5:16 para preservar a coordenação hebraica “e a culpa é do teu próprio povo”; variante antiga registrada.
+- Notas lexicais em 5:3, 5:7, 5:8, 5:16 e 5:21.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 6:1–30.
