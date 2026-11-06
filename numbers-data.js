@@ -207,3 +207,71 @@ window.NUMBERS_TEXT[4] = [
   "somaram oito mil quinhentos e oitenta.",
   "Conforme a ordem de YHWH transmitida por Moisés, cada um foi registrado para o seu serviço e para o que deveria transportar. Assim foram contados, conforme YHWH havia ordenado a Moisés."
 ];
+
+
+/* Números 5 — tradução de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[5] = [
+  "YHWH falou a Moisés, dizendo:",
+  "Ordena aos filhos de Israel que mandem para fora do acampamento todo leproso, todo aquele que sofre de fluxo e todo aquele que se tornou impuro por tocar num morto.",
+  "Mandareis para fora tanto homem como mulher; mandá-los-eis para fora do acampamento, para que não contaminem os acampamentos daqueles em cujo meio habito.",
+  "Os filhos de Israel assim fizeram: mandaram-nos para fora do acampamento. Fizeram conforme YHWH havia falado a Moisés.",
+  "YHWH falou a Moisés, dizendo:",
+  "Dize aos filhos de Israel: Quando um homem ou uma mulher cometer qualquer pecado contra outra pessoa, agindo infielmente contra YHWH, essa pessoa será culpada.",
+  "Confessará o pecado que cometeu e restituirá integralmente aquilo em que prejudicou, acrescentando um quinto; dará isso à pessoa prejudicada.",
+  "Se essa pessoa não tiver parente próximo a quem se possa fazer a restituição, a restituição será feita a YHWH, em favor do sacerdote, além do carneiro da expiação com que se fará expiação por ela.",
+  "Todas as ofertas sagradas que os filhos de Israel apresentarem ao sacerdote pertencerão a ele.",
+  "A oferta sagrada de cada pessoa será do sacerdote; aquilo que alguém der ao sacerdote será dele.",
+  "YHWH falou a Moisés, dizendo:",
+  "Fala aos filhos de Israel e dize-lhes: Se a mulher de um homem se desviar e lhe for infiel,",
+  "se outro homem se deitar com ela e isso ficar oculto aos olhos de seu marido, se ela se tiver contaminado sem que haja testemunha contra ela nem tenha sido surpreendida,",
+  "e se o espírito de ciúme vier sobre o marido, de modo que tenha ciúme de sua mulher que se contaminou, ou se o espírito de ciúme vier sobre ele, de modo que tenha ciúme dela embora ela não se tenha contaminado,",
+  "o homem levará sua mulher ao sacerdote e apresentará por ela uma oferta de um décimo de efa de farinha de cevada. Não derramará azeite sobre ela nem porá incenso, pois é oferta de cereal por ciúme, oferta memorial que traz à lembrança a culpa.",
+  "O sacerdote fará a mulher aproximar-se e a colocará diante de YHWH.",
+  "O sacerdote tomará água santa num recipiente de barro e, do pó que houver no chão do Tabernáculo, tomará um pouco e o colocará na água.",
+  "O sacerdote colocará a mulher diante de YHWH, soltará os cabelos dela e porá em suas mãos a oferta memorial de cereal, a oferta por ciúme. Na mão do sacerdote estará a água amarga que traz maldição.",
+  "Então o sacerdote a fará jurar e dirá à mulher: Se nenhum homem se deitou contigo e se não te desviaste para a impureza estando sob a autoridade de teu marido, fica livre desta água amarga que traz maldição.",
+  "Mas, se te desviaste estando sob a autoridade de teu marido e te contaminaste, e outro homem, além de teu marido, se deitou contigo,",
+  "então o sacerdote fará a mulher jurar com o juramento de maldição e lhe dirá: YHWH te torne objeto de maldição e de juramento entre teu povo, fazendo tua coxa definhar e teu ventre inchar.",
+  "Que esta água que traz maldição entre em tuas entranhas, fazendo teu ventre inchar e tua coxa definhar. A mulher responderá: Amém, amém.",
+  "O sacerdote escreverá estas maldições num rolo e as lavará na água amarga.",
+  "Fará a mulher beber a água amarga que traz maldição; a água que traz maldição entrará nela e se tornará amarga.",
+  "O sacerdote tomará das mãos da mulher a oferta de cereal por ciúme, apresentará a oferta diante de YHWH e a levará ao altar.",
+  "Tomará um punhado da oferta de cereal como memorial e o queimará sobre o altar; depois fará a mulher beber a água.",
+  "Depois de fazê-la beber a água, se ela se contaminou e foi infiel ao marido, a água que traz maldição entrará nela e se tornará amarga; seu ventre inchará, sua coxa definhará, e a mulher será objeto de maldição entre seu povo.",
+  "Mas, se a mulher não se contaminou e está pura, ficará livre e poderá conceber filhos.",
+  "Essa é a instrução sobre o ciúme: quando uma mulher, estando sob a autoridade de seu marido, se desviar e se contaminar,",
+  "ou quando o espírito de ciúme vier sobre um homem e ele tiver ciúme de sua mulher, ele colocará a mulher diante de YHWH, e o sacerdote fará com ela conforme toda esta instrução.",
+  "O marido ficará livre de culpa, mas a mulher levará a consequência de sua iniquidade."
+];
+
+
+/* Números 6 — tradução de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[6] = [
+  "YHWH falou a Moisés, dizendo:",
+  "Fala aos filhos de Israel e dize-lhes: Quando um homem ou uma mulher fizer um voto especial, o voto de nazireu, para consagrar-se a YHWH,",
+  "abster-se-á de vinho e de bebida forte. Não beberá vinagre de vinho nem vinagre de bebida forte; não beberá suco de uvas nem comerá uvas frescas ou secas.",
+  "Durante todos os dias de seu nazireado, não comerá coisa alguma que venha da videira, desde as sementes até as cascas.",
+  "Durante todos os dias do voto de seu nazireado, navalha não passará sobre sua cabeça. Até que se completem os dias pelos quais se consagrou a YHWH, será santo; deixará crescer livremente o cabelo de sua cabeça.",
+  "Durante todos os dias de sua consagração a YHWH, não se aproximará de pessoa morta.",
+  "Não se tornará impuro nem mesmo por seu pai, por sua mãe, por seu irmão ou por sua irmã, quando morrerem, pois traz sobre a cabeça o sinal de sua consagração a Deus.",
+  "Durante todos os dias de seu nazireado, será consagrado a YHWH.",
+  "Se alguém morrer de repente junto dele e contaminar sua cabeça consagrada, raspará a cabeça no dia de sua purificação; no sétimo dia a raspará.",
+  "No oitavo dia levará duas rolas ou dois pombinhos ao sacerdote, à entrada da Tenda do Encontro.",
+  "O sacerdote oferecerá um como oferta pelo pecado e o outro como holocausto, fazendo expiação por ele, pois pecou por causa do morto. Naquele mesmo dia consagrará novamente sua cabeça.",
+  "Consagrará a YHWH os dias de seu nazireado e trará um cordeiro de um ano como oferta pela culpa. Os dias anteriores serão anulados, porque sua consagração foi contaminada.",
+  "Esta é a instrução do nazireu: quando se completarem os dias de seu nazireado, será levado à entrada da Tenda do Encontro.",
+  "Apresentará sua oferta a YHWH: um cordeiro de um ano, sem defeito, como holocausto; uma cordeira de um ano, sem defeito, como oferta pelo pecado; um carneiro sem defeito como oferta de comunhão;",
+  "uma cesta de pães sem fermento, bolos de farinha fina misturada com azeite e obreias sem fermento untadas com azeite, juntamente com suas ofertas de cereal e libações.",
+  "O sacerdote os apresentará diante de YHWH e oferecerá a oferta pelo pecado e o holocausto.",
+  "Oferecerá o carneiro como sacrifício de comunhão a YHWH, juntamente com a cesta de pães sem fermento; o sacerdote apresentará também a oferta de cereal e a libação.",
+  "À entrada da Tenda do Encontro, o nazireu raspará a cabeça consagrada e tomará o cabelo de sua cabeça consagrada, colocando-o sobre o fogo que está debaixo do sacrifício de comunhão.",
+  "O sacerdote tomará a espádua cozida do carneiro, um bolo sem fermento da cesta e uma obreia sem fermento; colocará tudo nas mãos do nazireu, depois que ele tiver raspado o cabelo consagrado.",
+  "O sacerdote os moverá como oferta movida diante de YHWH. Isso é porção santa do sacerdote, além do peito da oferta movida e da coxa da contribuição. Depois disso, o nazireu poderá beber vinho.",
+  "Esta é a instrução do nazireu que fizer um voto, e também da oferta que prometer a YHWH por seu nazireado, além daquilo que seus recursos permitirem. Cumprirá o voto que fizer, conforme a instrução de seu nazireado.",
+  "YHWH falou a Moisés, dizendo:",
+  "Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel. Direis a eles:",
+  "YHWH te abençoe e te guarde.",
+  "YHWH faça resplandecer seu rosto sobre ti e tenha misericórdia de ti.",
+  "YHWH volte seu rosto para ti e te conceda paz.",
+  "Assim colocarão meu nome sobre os filhos de Israel, e eu os abençoarei."
+];
