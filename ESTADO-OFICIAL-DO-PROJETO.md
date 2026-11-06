@@ -361,3 +361,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo permanece **Em revisão** no controle por versículo; a primeira passada não aprova automaticamente cada versículo.
 - Próximo trecho: Êxodo 32:1–35.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE** e fora da fila.
+
+
+## Atualização de continuidade — Êxodo 32 (2026-11-06)
+
+- Êxodo 1–32: primeira conferência textual e lexical documentada.
+- Ajustes em Êxodo 32:1, 32:31 e 32:34; notas sobre elohim, a ferramenta de fabricação do bezerro, parua e paqad.
+- Êxodo permanece **Em revisão** no controle por versículo; primeira passada não aprova automaticamente cada versículo.
+- Próximo trecho: Êxodo 33:1–23.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE**.
