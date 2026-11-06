@@ -290,6 +290,7 @@ window.TRANSLATION_NOTES[3][30] = {
 window.TRANSLATION_NOTES[3][31] = {
   2:{term:"נְקֹם נִקְמַת (neqom niqmat)",text:"Infinitivo absoluto seguido de forma verbal da mesma raiz: construção enfática, “executa a vingança”. O capítulo apresenta a guerra como juízo narrativo, sem apagar a gravidade de suas ações."},
   6:{term:"כְּלֵי הַקֹּדֶשׁ (kele haqodesh)",text:"“Objetos sagrados”. A expressão aponta para os utensílios cultuais levados à campanha, junto às trombetas."},
+  17:{term:"כָּל־טַף בַּנָּשִׁים (kol-taf bannashim)",text:"A expressão se refere às meninas/crianças do sexo feminino; o próprio versículo as distingue das mulheres que tiveram relações sexuais. A tradução preserva essa distinção textual sem suavizar a violência da narrativa."},
   19:{term:"תִּתְחַטְּאוּ (titchatte'u)",text:"Forma reflexiva de חטא no uso ritual: submeter-se à purificação. O contato com cadáveres produz impureza cerimonial."},
   28:{term:"מֶכֶס (mekhes)",text:"“Tributo/contribuição”. Aqui designa a parcela retirada da metade dos combatentes e entregue a YHWH por meio do sacerdote."},
   32:{term:"מַלְקוֹחַ (malqoach)",text:"“Presa capturada”. O termo distingue os cativos e animais tomados do restante do despojo."},
@@ -325,6 +326,7 @@ window.TRANSLATION_NOTES[3][34] = {
 /* Notas lexicais — Números 35. */
 window.TRANSLATION_NOTES[3][35] = {
   2:{term:"מִגְרָשׁ (migrash)",text:"Área aberta ou pastagem vinculada à cidade, distinta do espaço construído e destinada aos animais e aos bens."},
+  4:{term:"אַלֶף אַמָּה / אַלְפַּיִם בָּאַמָּה (elef amma / alpayim ba'amma)",text:"Os versículos 4–5 mencionam mil côvados a partir do muro e, em seguida, dois mil côvados em cada direção. A relação exata entre as duas medidas é debatida; a tradução conserva os dois números do texto sem os harmonizar."},
   6:{term:"עָרֵי מִקְלָט (arei miqlat)",text:"“Cidades de refúgio”. Espaços de proteção provisória para quem causou uma morte sem intenção."},
   12:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador/resgatador do sangue”. Parente com função de reivindicar justiça pela morte; a lei limita a ação ao distinguir homicídio intencional e não intencional."},
   25:{term:"כֹּהֵן הַגָּדֹל (kohen hagadol)",text:"“Sumo sacerdote”. Sua morte encerra o período de permanência do homicida involuntário na cidade de refúgio."},
