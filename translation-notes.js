@@ -72,7 +72,7 @@ window.TRANSLATION_NOTES = {
     4: {
       13: {term:"שְׁלַח נָא בְּיַד תִּשְׁלָח",text:"Expressão idiomática difícil, literalmente próxima de “envia, por favor, pela mão daquele que enviarás”. “Envia outra pessoa” comunica uma interpretação provável, mas não reproduz a forma hebraica."},
       18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. A tradução conserva a diferença das formas (“Yeter” e “Jetro”); não se trata de duas pessoas distintas no contexto narrativo."},
-      24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. O hebraico não deixa inequívocos o sujeito de “procurou matá-lo”, o referente de “pés” e a identidade exata daquele que é tocado. A tradução evita resolver essas questões por conjectura."}
+      24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. YHWH é explicitamente o sujeito de “procurou matá-lo”, mas o objeto do verbo — Moisés ou o filho — é discutido. O referente de “pés” e a identidade exata daquele que é tocado também permanecem incertos. A tradução evita resolver essas questões por conjectura."}
     },
     6: {
       3: {term:"לֹא נוֹדַעְתִּי לָהֶם (lo noda'ti lahem)",text:"A construção pode ser traduzida “não me dei a conhecer a eles” ou “não fui conhecido por eles”. A frase é debatida em relação à revelação do nome YHWH aos patriarcas; a tradução preserva a forma tradicional, sem afirmar que o nome fosse totalmente desconhecido."},
