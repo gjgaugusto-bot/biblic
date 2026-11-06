@@ -1,4 +1,4 @@
-/* Notas lexicais — Números 1–36. Termos selecionados do hebraico massorético; notas explicativas, não substituem a colação integral do texto. */
+/* Notas lexicais — Números 1–36. Termos selecionados do hebraico massorético; notas explicativas complementares à colação textual massorética concluída. */
 window.TRANSLATION_NOTES = window.TRANSLATION_NOTES || {};
 window.TRANSLATION_NOTES[3] = window.TRANSLATION_NOTES[3] || {};
 window.TRANSLATION_NOTES[3][1] = {
