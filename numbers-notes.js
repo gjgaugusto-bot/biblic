@@ -152,10 +152,11 @@ window.TRANSLATION_NOTES[3][14] = {
   4:{term:"נִתְּנָה רֹאשׁ (nittenah rosh)",text:"Literalmente, “coloquemos uma cabeça”. Expressão para escolher um líder e organizar o retorno ao Egito."},
   9:{term:"צֵל (tsel)",text:"“Sombra/proteção”. A metáfora descreve a proteção que, segundo Josué e Calebe, se retirou dos habitantes da terra."},
   18:{term:"וְנַקֵּה לֹא יְנַקֶּה (venaqeh lo yenaqqeh)",text:"Fórmula enfática: “de modo algum deixa impune”. A misericórdia proclamada não elimina a responsabilidade pelo mal."},
+  12:{term:"וְאוֹרִשֶׁנּוּ (ve'orishennu)",text:"Forma do verbo ירשׁ (yarash), “desapossar/desalojar” ou “tomar posse”. Aqui, no contexto da ameaça, indica que YHWH expulsaria o povo, em vez de simplesmente “rejeitá-lo”."},
   22:{term:"עֶשֶׂר פְּעָמִים (eser pe'amim)",text:"“Dez vezes”. Número que funciona como expressão de repetidas provas e rebeliões; não exige que se identifiquem dez episódios isolados na narrativa."},
   24:{term:"רוּחַ אַחֶרֶת (ruach acheret)",text:"“Outro espírito”. Caracteriza a disposição diferente de Calebe, que permanece fiel em vez de aderir ao medo coletivo."},
   34:{term:"תְּנוּאָתִי (tenu'ati)",text:"“Meu desagrado/minha rejeição”. A forma é rara; no contexto, descreve a consequência da oposição persistente do povo à ordem divina. A nuance exata do substantivo é discutida."},
-  45:{term:"חָרְמָה (Chormah)",text:"Hormá, topônimo associado à raiz חרם (cherem), “consagrar à destruição”. A relação etimológica não deve ser tomada como certeza sobre a origem histórica do nome."}
+  45:{term:"וַיַּכְּתוּם / חָרְמָה (vayyakketum / Chormah)",text:"O verbo descreve golpeá-los e esmagá-los. Hormá é o topônimo do destino da derrota; a associação etimológica com חרם (“consagrar à destruição”) não prova, por si só, a origem histórica do nome."}
 };
 
 /* Notas lexicais — Números 15. */
