@@ -166,6 +166,7 @@ window.TRANSLATION_NOTES[3][15] = {
   24:{term:"בִּשְׁגָגָה (bishgagah)",text:"“Por erro/sem intenção”. A seção distingue a transgressão involuntária da ação deliberada descrita nos versículos 30–31."},
   30:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. Idioma para agir deliberadamente e com desafio, em contraste com o pecado por inadvertência."},
   31:{term:"הִכָּרֵת תִּכָּרֵת (hikkaret tikkaret)",text:"Infinitivo absoluto seguido do verbo finito, intensificando a sentença: “certamente será eliminada”. A forma não determina por si só o mecanismo da sanção."},
+  32:{term:"מְקֹשֵׁשׁ עֵצִים (meqosheh etsim)",text:"“Recolhendo/juntando lenha”. O particípio descreve a atividade observada no sábado; o texto não especifica para que a lenha seria usada."},
   38:{term:"צִיצִת (tsitsit) e פְּתִיל תְּכֵלֶת (petil tekhelet)",text:"Franjas/tufos nas extremidades da veste, cada qual com um cordão de tekhelet, corante azul-violeta antigo cuja tonalidade exata é incerta. O conjunto funciona como memorial dos mandamentos."},
   39:{term:"וְלֹא תָתוּרוּ (velo taturu)",text:"“Não exploreis/não sigais”. O verbo retoma o campo lexical da exploração da terra no capítulo 13; aqui descreve seguir desejos do coração e dos olhos."}
 };
