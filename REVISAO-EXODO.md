@@ -832,4 +832,29 @@ Demais versículos (28:1–31, 28:33–37 e 28:39–43): conferidos quanto à co
 - NET Bible, Êxodo 28:41, sobre “encher a mão” como investidura/instalação sacerdotal: https://classic.net.bible.org/passage.php?passage=Exo+28%3A40-41
 - UBS Handbook on Exodus, Êxodo 28:41, sobre o idiomatismo “encher as mãos”: https://tips.translation.bible/story/translation-commentary-on-exod-2841/
 
-**Próximo ponto:** Êxodo 29:1–46. Não repetir a conferência de Êxodo 28 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 30:1–38. Não repetir a conferência de Êxodo 28 sem evidência concreta de erro novo.
+
+
+### Êxodo 29 — conferência textual e lexical integral (29:1–46)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para esclarecer a insígnia sacerdotal, partes anatômicas e fórmulas rituais.
+
+Notas lexicais acrescentadas:
+- **29:6:** נֵזֶר הַקֹּדֶשׁ (*nezer haqodesh*) significa “diadema/coroa sagrada”. Refere-se à lâmina de ouro descrita em 28:36–38, presa ao turbante; “lâmina” descreve o objeto físico, enquanto *nezer* destaca sua função como insígnia de consagração.
+- **29:13:** יֹתֶרֶת הַכָּבֵד (*yoteret hakaved*) é o lóbulo/apêndice do fígado, parte anatômica incluída na gordura reservada ao altar.
+- **29:18:** רֵיחַ נִיחוֹחַ (*re'ach nichoach*) é fórmula ritual recorrente, literalmente “aroma de apaziguamento/agradável”; “aroma agradável” comunica a aceitação do sacrifício.
+- **29:22:** שׁוֹק הַיָּמִין (*shoq hayamin*) é a coxa direita/parte superior da perna direita, separada para o rito de investidura.
+
+Notas anteriores preservadas:
+- **29:9, 29:20, 29:24 e 29:40:** mantidas, incluindo “encher a mão” como investidura sacerdotal, *tenukh* (lóbulo da orelha), *tenufah* (oferta movida) e *hin* (medida líquida).
+
+Demais versículos (29:1–5, 29:7–12, 29:14–17, 29:19–21, 29:23–41 e 29:42–46): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 29: https://mechon-mamre.org/p/pt/pt0229.htm
+- UBS Handbook on Exodus, Êxodo 29:6, sobre נֵזֶר הַקֹּדֶשׁ (*nezer haqodesh*) e a placa/coroa sagrada: https://tips.translation.bible/story/translation-commentary-on-exod-296/
+- NET Bible, Êxodo 29:13 e 29:22, sobre יֹתֶרֶת הַכָּבֵד (*yoteret hakaved*) e שׁוֹק הַיָּמִין (*shoq hayamin*): https://classic.net.bible.org/passage.php?passage=Exo+29%3A13%2C22
+- UBS Handbook on Exodus, Êxodo 29:22, sobre a coxa direita e o carneiro de investidura: https://tips.translation.bible/tip_verse/exod-2922/
+- NET Bible, Êxodo 29:18, sobre רֵיחַ נִיחוֹחַ (*re'ach nichoach*) como fórmula sacrificial: https://classic.net.bible.org/verse.php?book=Exo&chapter=29&verse=18
+
+**Próximo ponto:** Êxodo 30:1–38. Não repetir a conferência de Êxodo 29 sem evidência concreta de erro novo.
