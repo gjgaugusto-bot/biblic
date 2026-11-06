@@ -193,5 +193,5 @@ footer{padding-top:25px;padding-bottom:34px}
 @media(max-width:700px){.opening-banner{margin:12px 0;padding:25px 14px}.opening-banner strong{max-width:20ch}.book-info-editor .actions>*{width:100%}}
 
 
-/* Contraste mínimo WCAG AA para abas não selecionadas, inclusive sob hover e foco. */
-.chapter-tabs .chapter-tab[aria-selected="false"],.chapter-tabs .chapter-tab[aria-selected="false"]:hover,.chapter-tabs .chapter-tab[aria-selected="false"]:focus{background:#4a4a4a!important;color:#fff!important;border-color:#4a4a4a!important;opacity:1!important;filter:none!important}
+/* Contraste WCAG AA: estados inativos prevalecem sobre hover e foco. */
+#reader .chapter-tabs button.chapter-tab[aria-selected="false"],#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:hover,#reader .chapter-tabs button.chapter-tab[aria-selected="false"]:focus{background:#333!important;color:#fff!important;border-color:#333!important;opacity:1!important;filter:none!important;text-shadow:none!important}
