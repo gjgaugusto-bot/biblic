@@ -69,6 +69,14 @@
   }
 
   addLegacyBook(
+    2,
+    window.LEVITICUS_TEXT,
+    "revisado",
+    "Texto hebraico massorético (Sefaria, Miqra according to the Masorah) e revisão interna da Enciclopédia Bíblica",
+    "Levítico 1: conferidas a sequência e a contagem de 17 versículos, a correspondência geral com o texto hebraico e a consistência dos principais termos rituais. Revisão interna linguístico-editorial; não equivale a certificação independente por especialista."
+  );
+
+  addLegacyBook(
     1,
     window.EXODUS_TEXT,
     "em_revisao",
@@ -110,6 +118,7 @@
       if (book === 0 && typeof GENESIS_TEXT !== "undefined") return GENESIS_TEXT[chapter] || [];
     } catch (_) {}
     if (book === 1 && window.EXODUS_TEXT) return window.EXODUS_TEXT[chapter] || [];
+    if (book === 2 && window.LEVITICUS_TEXT) return window.LEVITICUS_TEXT[chapter] || [];
     return [];
   }
 
