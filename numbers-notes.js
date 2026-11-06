@@ -163,3 +163,37 @@ window.TRANSLATION_NOTES[3][16] = {
   46:{term:"כִּפֶּר (kipper)",text:"“Fazer expiação”. Neste episódio, o rito de incenso atua para interromper a praga e restaurar a relação entre a comunidade e Deus."},
   48:{term:"בֵּין־הַמֵּתִים וּבֵין הַחַיִּים (bein hametim uvein hachayyim)",text:"“Entre os mortos e os vivos”. A imagem apresenta Arão como aquele que se interpõe para deter a propagação da praga."}
 };
+
+/* Notas lexicais — Números 17. */
+window.TRANSLATION_NOTES[3][17] = {
+  2:{term:"מַטֶּה (matteh)",text:"“Vara” e também “tribo”. O objeto representa a casa tribal e a autoridade de seu chefe."},
+  5:{term:"יִפְרָח (yifrach)",text:"“Florescerá”. O sinal não é apenas brotar: a vara de Arão produz flores e frutos, confirmando a escolha divina."},
+  8:{term:"שְׁקֵדִים (sheqedim)",text:"“Amêndoas”. A vara seca produz frutos, sinal extraordinário de vida e confirmação sacerdotal."},
+  10:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Guarda/memorial”. A vara é preservada como testemunho permanente contra a rebelião."}
+};
+/* Notas lexicais — Números 18. */
+window.TRANSLATION_NOTES[3][18] = {
+  1:{term:"עֲוֹן (avon)",text:"“Culpa/iniquidade”. No contexto, designa a responsabilidade de responder pela santidade do santuário e pelo exercício do sacerdócio."},
+  7:{term:"עֲבֹדַת מַתָּנָה (avodat mattanah)",text:"“Serviço de dádiva”. O sacerdócio é apresentado como encargo concedido por Deus, não como direito autônomo."},
+  19:{term:"בְּרִית מֶלַח (berit melach)",text:"“Aliança de sal”. Imagem de permanência e estabilidade para a porção sacerdotal."},
+  21:{term:"מַעֲשֵׂר (ma'aser)",text:"“Dízimo”, literalmente a décima parte. É destinado aos levitas em razão do serviço da Tenda do Encontro."},
+  26:{term:"תְּרוּמָה (terumah)",text:"“Contribuição elevada/separada”. Os levitas também entregam a décima parte do dízimo recebido."},
+  30:{term:"גֹּרֶן (goren) e יֶקֶב (yeqev)",text:"“Eira” e “lagar”. Imagens agrícolas usadas para descrever a porção selecionada dos produtos recebidos."}
+};
+/* Notas lexicais — Números 19. */
+window.TRANSLATION_NOTES[3][19] = {
+  2:{term:"פָּרָה אֲדֻמָּה (parah adumah)",text:"“Vaca vermelha”. Animal sem defeito e nunca submetido ao jugo, usado no rito singular de purificação das impurezas associadas à morte."},
+  9:{term:"מֵי נִדָּה (mei niddah)",text:"Água de purificação ou de remoção da impureza. O termo nomeia a água preparada com as cinzas da vaca."},
+  17:{term:"מַיִם חַיִּים (mayim chayyim)",text:"“Água viva/corrente”. Água fresca, não estagnada, acrescentada às cinzas para preparar a água ritual."},
+  18:{term:"אֵזוֹב (ezov)",text:"Hissopo, planta usada para aspergir em ritos de purificação. A identificação botânica exata é debatida."},
+  20:{term:"טָמֵא (tame)",text:"“Impuro”. A impureza aqui é ritual, ligada ao contato com a morte, e não implica automaticamente culpa moral."}
+};
+/* Notas lexicais — Números 20. */
+window.TRANSLATION_NOTES[3][20] = {
+  3:{term:"וַיִּרֶב (vayyarev)",text:"“Contendeu/discutiu”. A raiz רבב descreve a disputa do povo contra Moisés."},
+  8:{term:"וְדִבַּרְתֶּם אֶל־הַסֶּלַע (vedibbartem el-hassela)",text:"“Falareis à rocha”. A ordem explícita contrasta com o ato de Moisés, que a golpeia duas vezes."},
+  12:{term:"לְהַקְדִּישֵׁנִי (lehaqdisheni)",text:"“Santificar-me”. Moisés e Arão deveriam manifestar publicamente a santidade e a confiança em YHWH diante do povo."},
+  13:{term:"מְרִיבָה (Merivah)",text:"“Contenda”. O nome das águas recorda o conflito de Israel com YHWH."},
+  24:{term:"נֶאֱסַף אֶל־עַמָּיו (ne'esaf el-ammav)",text:"“Reunido ao seu povo”. Fórmula para a morte, com a imagem de reunião aos antepassados."},
+  26:{term:"בִּגְדֵי הַקֹּדֶשׁ (bigdei haqqodesh)",text:"“Vestes sagradas”. A transferência das vestes de Arão para Eleazar simboliza a continuidade do sacerdócio."}
+};
