@@ -190,8 +190,8 @@ window.TRANSLATION_NOTES[3][16] = {
 window.TRANSLATION_NOTES[3][17] = {
   2:{term:"מַטֶּה (matteh)",text:"“Vara” e também “tribo”. O objeto representa a casa tribal e a autoridade de seu chefe."},
   5:{term:"יִפְרָח (yifrach)",text:"“Florescerá”. O sinal não é apenas brotar: a vara de Arão produz flores e frutos, confirmando a escolha divina."},
-  8:{term:"שְׁקֵדִים (sheqedim)",text:"“Amêndoas”. A vara seca produz frutos, sinal extraordinário de vida e confirmação sacerdotal."},
-  8:{term:"וַיִּגְמֹל שְׁקֵדִים (vayyigmol sheqedim)",text:"O verbo גמל (gamal) indica amadurecer/produzir fruto. A vara não apenas floresce: chega a produzir amêndoas maduras, completando a imagem de fecundidade extraordinária."},
+
+  8:{term:"שְׁקֵדִים / וַיִּגְמֹל (sheqedim / vayyigmol)",text:"“Amêndoas” e “amadureceu/produziu fruto”. A vara não apenas floresce: chega a produzir amêndoas maduras, completando a imagem de fecundidade extraordinária e confirmação sacerdotal."},
   10:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Guarda/memorial”. A vara é preservada como testemunho permanente contra a rebelião."}
 };
 /* Notas lexicais — Números 18. */
