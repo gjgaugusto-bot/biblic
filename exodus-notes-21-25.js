@@ -5,8 +5,9 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   21: {
     1: {term:"מִשְׁפָּטִים (mishpatim)",text:"“Normas”, “decisões” ou “disposições jurídicas”. O termo introduz uma coleção de regras, não apenas sentenças judiciais."},
     6: {term:"אֱלֹהִים (elohim)",text:"“Diante de Deus” pode referir-se a uma instância judicial ou ao santuário; a função institucional exata é debatida."},
+    8: {term:"אֲשֶׁר לֹא לוֹ יְעָדָהּ (asher lo lo ye'adah)",text:"A expressão contém a negação לֹא: o senhor ainda não a havia destinado/betrotado para si. A tradução foi corrigida para não inverter essa negação; o versículo trata do tratamento devido à jovem nessa situação."},
     13: {term:"אִנָּה לְיָדוֹ (innah leyado)",text:"Expressão idiomática para um acontecimento não intencional, em contraste com a ação premeditada do versículo seguinte."},
-    22: {term:"אָסוֹן (ason)",text:"“Dano grave” ou calamidade. A extensão do termo neste caso é discutida e afeta a leitura jurídica dos versículos."},
+    22: {term:"אָסוֹן (ason) / וְיָצְאוּ יְלָדֶיהָ (veyatse'u yeladeha)",text:"Ason significa dano ou calamidade; a extensão do dano no caso jurídico é debatida. A expressão “seus filhos saírem” pode ser entendida como parto prematuro ou perda gestacional, conforme a interpretação. A tradução adota “dar à luz prematuramente”, mas a nota registra que essa leitura não é a única possível."},
     23: {term:"נֶפֶשׁ תַּחַת נָפֶשׁ (nefesh tachat nefesh)",text:"Literalmente “vida por vida”. A fórmula estabelece equivalência/proporcionalidade; a aplicação jurídica histórica não se presume apenas pela expressão."}
   },
   22: {
@@ -14,7 +15,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     8: {term:"הָאֱלֹהִים (ha-elohim)",text:"Pode designar Deus ou autoridades judiciais, conforme a leitura. O contexto descreve um procedimento de apuração de responsabilidade."},
     16: {term:"מֹהַר (mohar)",text:"Preço ou pagamento matrimonial associado ao casamento; não equivale em todos os contextos a um dote moderno."},
     20: {term:"יָחֳרָם (yochoram)",text:"Forma de חרם, ligada a colocar sob interdito ou consagrar à destruição; termo jurídico-cultual específico."},
-    24: {term:"נֶשֶׁךְ (neshekh)",text:"“Juro” ou cobrança de interesse, pertencente ao vocabulário de empréstimos e obrigações econômicas."}
+    24: {term:"נֶשֶׁךְ (neshekh)",text:"“Juro” ou cobrança de interesse, pertencente ao vocabulário de empréstimos e obrigações econômicas."},
+    28: {term:"אֱלֹהִים (elohim)",text:"O termo pode designar Deus ou autoridades judiciais, conforme a leitura e a tradição interpretativa. A tradução “Deus” segue uma opção possível, mas a ambiguidade lexical deve permanecer registrada."}
   },
   23: {
     2: {term:"רַבִּים (rabbim)",text:"“Muitos” ou “maioria”. O versículo alerta contra a pressão coletiva quando ela conduz à injustiça."},
