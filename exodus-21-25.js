@@ -161,7 +161,7 @@ window.EXODUS_TEXT[25] = [
   "Farás para ela quatro argolas de ouro e colocarás as argolas nos quatro cantos, junto aos seus quatro pés.",
   "As argolas ficarão perto da borda, como encaixes para os varais usados para carregar a mesa.",
   "Farás os varais de madeira de acácia e os revestirás de ouro; com eles a mesa será carregada.",
-  "Farás seus pratos, suas colheres, suas taças e suas jarras para as libações; farás tudo de ouro puro.",
+  "Farás seus pratos e colheres, bem como suas jarras e taças para as libações; farás tudo de ouro puro.",
   "Colocarás sobre a mesa o pão da Presença, continuamente diante de mim.",
   "Farás um candelabro de ouro puro. O candelabro será feito de ouro batido: sua base, sua haste, seus cálices, seus botões e suas flores formarão uma só peça.",
   "Seis braços sairão de seus lados: três braços do candelabro de um lado e três do outro.",
@@ -170,7 +170,7 @@ window.EXODUS_TEXT[25] = [
   "Haverá um botão debaixo de cada par dos seis braços que saem do candelabro.",
   "Seus botões e seus braços formarão uma só peça com ele; tudo será uma só peça de ouro puro, batido.",
   "Farás também sete lâmpadas para ele; suas lâmpadas serão colocadas de modo a iluminar a parte dianteira.",
-  "Suas espevitadeiras e seus apagadores serão de ouro puro.",
+  "Suas espevitadeiras e suas bandejas para recolher as cinzas serão de ouro puro.",
   "Será feito com um talento de ouro puro, juntamente com todos esses utensílios.",
   "Vê, pois, e faze tudo conforme o modelo que te foi mostrado no monte."
 ];
