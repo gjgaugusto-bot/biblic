@@ -68,11 +68,11 @@ window.EXODUS_TEXT = {
 "Deus respondeu: «Eu estarei contigo; e este será para ti o sinal de que fui eu quem te enviou: quando fizeres o povo sair do Egito, servireis a Deus neste monte».",
 "Moisés disse a Deus: «Eis que irei aos filhos de Israel e lhes direi: ‘O Deus de vossos pais me enviou a vós’. Se me perguntarem: ‘Qual é o nome dele?’, que lhes direi?»",
 "Deus disse a Moisés: «EU SEREI O QUE SEREI». E acrescentou: «Assim dirás aos filhos de Israel: ‘EU SEREI me enviou a vós’».",
-"Deus disse ainda a Moisés: «Assim dirás aos filhos de Israel: ‘YHWH, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, enviou-me a vós’. Este é o meu nome para sempre, e esta é a minha lembrança de geração em geração.",
+"Deus disse ainda a Moisés: «Assim dirás aos filhos de Israel: ‘YHWH, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, enviou-me a vós’. Este é o meu nome para sempre, e este é o meu memorial de geração em geração.",
 "Vai, reúne os anciãos de Israel e dize-lhes: ‘YHWH, o Deus de vossos pais, o Deus de Abraão, de Isaque e de Jacó, apareceu a mim e disse: Certamente vos visitei e vi o que vos fazem no Egito.",
 "Eu disse: farei-vos subir da aflição do Egito para a terra do cananeu, do hitita, do amorreu, do ferezeu, do heveu e do jebuseu, para uma terra que mana leite e mel’.",
 "Eles ouvirão a tua voz. Então irás, tu e os anciãos de Israel, ao rei do Egito e lhe direis: ‘YHWH, o Deus dos hebreus, veio ao nosso encontro. Agora, por favor, deixa-nos caminhar três dias pelo deserto, para oferecermos sacrifícios a YHWH, nosso Deus’.",
-"Eu sei, porém, que o rei do Egito não vos permitirá ir, nem mesmo sob mão poderosa.",
+"Eu sei, porém, que o rei do Egito não vos permitirá ir, a não ser por mão forte.",
 "Estenderei a minha mão e ferirei o Egito com todas as minhas maravilhas que farei no meio dele; depois disso, ele vos deixará ir.",
 "Farei este povo encontrar favor aos olhos dos egípcios; e acontecerá que, quando sairdes, não ireis de mãos vazias.",
 "Cada mulher pedirá à sua vizinha e à mulher que mora em sua casa objetos de prata, objetos de ouro e roupas; vós os poreis sobre vossos filhos e vossas filhas. Assim despojareis os egípcios»."
