@@ -21,7 +21,9 @@ Object.assign(window.TRANSLATION_NOTES[1], {
 },
 33: {
   3:{term:"עַם קְשֵׁה־עֹרֶף (am qesheh-oref)",text:"“Povo de dura cerviz”, expressão idiomática para obstinação e resistência."},
+  6:{term:"וַיִּתְנַצְּלוּ (vayyitnatzelu)",text:"Forma reflexiva da raiz נצל (*natsal*), aqui usada para tirar/despojar-se dos ornamentos. “Deixaram” comunica o resultado, mas “despojaram-se” preserva melhor a ação expressa pelo verbo."},
   7:{term:"אֹהֶל מוֹעֵד (ohel mo'ed)",text:"“Tenda do encontro”. Neste trecho, a tenda é armada fora do acampamento, antes da descrição do santuário concluído."},
+  10:{term:"וְהִשְׁתַּחֲווּ (vehishtachavu)",text:"Da raiz חוה/שחה, “prostrar-se, inclinar-se profundamente”. No contexto de reverência diante da coluna de nuvem, “prostrar-se” é mais preciso que “inclinar-se”."},
   11:{term:"פָּנִים אֶל־פָּנִים (panim el-panim)",text:"“Face a face”, modo idiomático de indicar comunicação direta e próxima, não necessariamente visão física irrestrita."},
   14:{term:"פָּנַי (panai)",text:"Literalmente “minha face”; em contexto, pode significar a presença pessoal de YHWH."},
   22:{term:"נִקְרַת הַצּוּר (niqrat hatsur)",text:"Fenda ou abertura da rocha. O termo descreve o abrigo onde Moisés é colocado."}
