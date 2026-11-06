@@ -45,3 +45,41 @@ window.TRANSLATION_NOTES[4][3] = {
   27:{term:"פִּסְגָּה (Pisgah)",text:"Nome da elevação ou cume de onde Moisés contempla a terra. A localização exata da cadeia montanhosa é debatida."},
   28:{term:"וְהוּא יַנְחִיל (ve-hu yanḥil)",text:"“Ele fará herdar” ou “distribuirá como herança”. O verbo נחל destaca a atribuição da terra às tribos."}
 };
+
+window.TRANSLATION_NOTES[4][4] = {
+  1:{term:"שְׁמַע אֶל־הַחֻקִּים (shema el-haḥuqqim)",text:"“Ouve os estatutos”. שׁמע pode significar ouvir com atenção e obedecer; o contexto une escuta e prática."},
+  2:{term:"לֹא תֹסִפוּ ... וְלֹא תִגְרְעוּ (lo tosifu ... velo tigre'u)",text:"“Não acrescentareis nem diminuireis”. A fórmula protege a integridade da instrução recebida."},
+  4:{term:"הַדְּבֵקִים (hadveqim)",text:"Particípio de דבק, “apegar-se”, “aderir”. Expressa lealdade e vínculo contínuo com YHWH."},
+  6:{term:"חָכְמַתְכֶם וּבִינַתְכֶם (ḥokhmatkhem u-vinatkhem)",text:"“Vossa sabedoria e vosso entendimento”. A obediência à instrução divina é apresentada como testemunho público da sabedoria de Israel."},
+  12:{term:"תְּמוּנָה (temunah)",text:"“Forma” ou “aparência”. O texto enfatiza que Israel ouviu uma voz, mas não viu uma forma divina que pudesse reproduzir em imagem."},
+  20:{term:"כּוּר הַבַּרְזֶל (kur habbarzel)",text:"“Fornalha de ferro”. Metáfora da opressão egípcia, evocando um processo de sofrimento intenso antes da libertação."},
+  24:{term:"אֵשׁ אֹכְלָה (esh okhlah)",text:"“Fogo consumidor”. Imagem da santidade e do juízo divinos; o paralelismo com “Deus zeloso” intensifica a advertência contra a idolatria."},
+  29:{term:"וּבִקַּשְׁתֶּם (u-viqqashtem)",text:"“Buscareis”. A promessa de encontrar YHWH está ligada à busca de todo o coração e de toda a vida."},
+  34:{term:"מַסּוֹת (massot)",text:"“Provas” ou “atos de prova”. A enumeração descreve a intervenção extraordinária de YHWH na libertação do Egito."},
+  39:{term:"וְיָדַעְתָּ ... וַהֲשֵׁבֹתָ (veyada'ta ... vahashevota)",text:"“Reconhece ... e guarda no coração”. O segundo verbo expressa fazer voltar ou estabelecer no coração, isto é, interiorizar a conclusão."},
+  41:{term:"עָרֵי מִקְלָט (arei miqlat)",text:"“Cidades de refúgio”. Eram lugares de proteção para quem causasse morte sem intenção, até que o caso pudesse ser tratado segundo a lei."}
+};
+window.TRANSLATION_NOTES[4][5] = {
+  3:{term:"פָּנִים בְּפָנִים (panim be-fanim)",text:"Literalmente, “face a face”. Expressa comunicação direta e próxima; não exige imaginar uma visão física de Deus, pois o próprio contexto fala do fogo e da voz."},
+  6:{term:"בֵּית עֲבָדִים (beit avadim)",text:"“Casa de escravidão”. Expressão para o Egito como lugar de servidão, lembrando a libertação como fundamento dos mandamentos."},
+  9:{term:"אֵל קַנָּא (el qanna)",text:"“Deus zeloso”. O termo קַנָּא comunica zelo exclusivo pela aliança, não inveja no sentido humano comum."},
+  11:{term:"לַשָּׁוְא (lashav)",text:"“Em vão”, “para falsidade” ou “sem propósito”. A proibição abrange o uso leviano ou enganoso do nome divino."},
+  12:{term:"שָׁמוֹר (shamor)",text:"“Guarda”. Em Deuteronômio, a formulação do sábado enfatiza a observância e a memória da libertação, em paralelo ao “lembra-te” de Êxodo."},
+  15:{term:"זָכוֹר (zakhor)",text:"“Lembra-te”. A memória da escravidão no Egito fundamenta o descanso concedido também aos servos e animais."},
+  17:{term:"לֹא תִּרְצָח (lo tirtsaḥ)",text:"O verbo רצח designa homicídio, não toda e qualquer forma de matar. “Não assassinarás” conserva a especificidade da proibição."},
+  21:{term:"לֹא תַחְמֹד (lo taḥmod)",text:"“Não cobiçarás”. O verbo exprime desejo de apropriação; Deuteronômio amplia a enumeração incluindo explicitamente o campo."},
+  22:{term:"עֲשֶׂרֶת הַדְּבָרִים (aseret haddevarim)",text:"“As dez palavras”. É a expressão hebraica tradicional para o Decálogo; não é uma contagem de dez frases gramaticais em português."},
+  29:{term:"מִי־יִתֵּן וְהָיָה לְבָבָם (mi-yitten vehayah levavam)",text:"Fórmula de desejo: “Quem dera que tivessem um coração assim”. A fala expressa o anseio divino por uma disposição interior perseverante."}
+};
+window.TRANSLATION_NOTES[4][6] = {
+  4:{term:"שְׁמַע יִשְׂרָאֵל (Shema Yisrael)",text:"“Ouve, Israel”. Convocação central à escuta obediente. A frase seguinte declara a unidade/exclusividade de YHWH; a tradução “YHWH é um” mantém a concisão do hebraico."},
+  5:{term:"לְבָבְךָ ... נַפְשְׁךָ ... מְאֹדֶךָ (levavkha ... nafshekha ... me'odekha)",text:"“Coração, vida e força”. A tríade abrange interioridade, pessoa vivente e capacidade/recursos. מְאֹד pode significar “muito” ou “força”, conforme a construção."},
+  7:{term:"וְשִׁנַּנְתָּם (veshinnantam)",text:"Forma intensiva de שׁנן, literalmente ligada a afiar; no contexto, significa inculcar, ensinar repetidamente ou gravar com insistência."},
+  8:{term:"טוֹטָפֹת (totafot)",text:"Termo raro para sinais/frontais colocados entre os olhos. A tradição judaica o associa aos filactérios; o texto descreve o sinal como lembrança constante."},
+  12:{term:"הִשָּׁמֶר לְךָ (hishamer lekha)",text:"“Tem cuidado”. Fórmula de advertência que aqui protege contra o esquecimento de YHWH em meio à prosperidade."},
+  13:{term:"וּבִשְׁמוֹ תִּשָּׁבֵעַ (uvishmo tishavea)",text:"“Jurarás por seu nome”. O juramento deve reconhecer YHWH como autoridade, em contraste com seguir outros deuses."},
+  16:{term:"מַסָּה (Massah)",text:"Nome ligado à raiz נסה, “provar”. Recorda o episódio em que Israel pôs YHWH à prova no deserto."},
+  20:{term:"מָחָר (maḥar)",text:"“No futuro” ou literalmente “amanhã”. Introduz a pergunta das gerações seguintes sobre o sentido das instruções."},
+  24:{term:"לְטוֹב לָנוּ כָּל־הַיָּמִים (letov lanu kol-hayyamim)",text:"“Para nosso bem todos os dias”. A obediência é apresentada como caminho para a preservação e a vida da comunidade."},
+  25:{term:"צְדָקָה (tsedaqah)",text:"“Justiça” ou “retidão”. Aqui descreve a condição de agir corretamente diante de YHWH ao observar o mandamento recebido."}
+};
