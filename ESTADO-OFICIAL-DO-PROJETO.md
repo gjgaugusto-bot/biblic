@@ -123,3 +123,13 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 5:3, 5:7, 5:8, 5:16 e 5:21.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 6:1–30.
+
+
+### Continuidade de conteúdo — Êxodo 6 (2026-11-06)
+
+- Êxodo 6:1–30 conferido integralmente contra o Texto Massorético.
+- Ajuste em 6:3 para refletir o nifal נוֹדַעְתִּי (*noda'ti*): “não fui conhecido por eles”.
+- Ajuste em 6:26 para português natural: “Estes são Arão e Moisés”.
+- Notas acrescentadas em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota de 6:9 preservada.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 7:1–29.
