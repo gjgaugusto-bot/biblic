@@ -111,3 +111,18 @@ window.TRANSLATION_NOTES[5][12] = {
   8:{term:"שְׁפֵלָה (Shefelah)",text:"Região de colinas baixas entre a serra central e a planície costeira. A lista reúne diferentes zonas geográficas de Canaã."},
   24:{term:"שְׁלֹשִׁים וְאֶחָד מֶלֶךְ (sheloshim ve-eḥad melekh)",text:"“Trinta e um reis”. O número encerra o catálogo dos governantes derrotados por Josué a oeste do Jordão."}
 };
+
+window.TRANSLATION_NOTES[5][13] = {
+  1:{term:"זָקֵן בָּאת בַּיָּמִים (zaqen bata bayyamim)",text:"Expressão idiomática: “velho, avançado em dias”. A idade de Josué contrasta com a extensão do território ainda não ocupado."},
+  6:{term:"הַפִּילָה (happilah)",text:"Forma verbal ligada a lançar por sorteio. A distribuição da terra é apresentada como repartição ordenada, não como escolha arbitrária."},
+  14:{term:"נַחֲלָה (naḥalah)",text:"Herança ou porção territorial transmitida. A exceção levítica é explicada pela relação especial da tribo com o serviço de YHWH."},
+  22:{term:"הַקּוֹסֵם (ha-qosem)",text:"Adivinho ou praticante de adivinhação. O texto identifica Balaão por essa função, retomando a memória dos conflitos no deserto."},
+  33:{term:"יְהוָה אֱלֹהֵי יִשְׂרָאֵל הוּא נַחֲלָתָם (YHWH Elohei Yisrael hu naḥalatam)",text:"“YHWH, Deus de Israel, é a herança deles”. A formulação resume a condição singular dos levitas, sem território tribal próprio."}
+};
+window.TRANSLATION_NOTES[5][14] = {
+  2:{term:"גּוֹרָל (goral)",text:"Sorteio ou lote. O termo descreve o mecanismo usado para distribuir os territórios entre as tribos."},
+  4:{term:"מִגְרָשׁ (migrash)",text:"Área aberta ou pastagem vinculada às cidades levíticas. Não significa necessariamente um campo agrícola, mas espaço destinado aos animais e ao uso comunitário."},
+  8:{term:"מִלֵּאתִי אַחֲרֵי יְהוָה (mille'ti aḥarei YHWH)",text:"Literalmente, “completei/segui após YHWH”. A expressão idiomática indica lealdade integral, repetida no testemunho de Calebe."},
+  12:{term:"הָהָר הַזֶּה (ha-har hazzeh)",text:"“Esta montanha/região montanhosa”. Calebe reivindica a região de Hebrom, ainda ocupada pelos anaquins e protegida por cidades fortificadas."},
+  15:{term:"וַתִּשְׁקֹט הָאָרֶץ מִמִּלְחָמָה (vatishqot ha-arets)",text:"“A terra descansou da guerra”. Fórmula editorial que encerra a unidade narrativa com a cessação das hostilidades."}
+};
