@@ -59,7 +59,16 @@ window.TRANSLATION_NOTES = {
   },
   1: {
     1: {
+      1: {term:"בְּנֵי יִשְׂרָאֵל (benei Yisrael)",text:"A expressão “filhos de Israel” designa aqui, em primeiro plano, os filhos individuais de Jacó, que são nomeados nos versículos 2–4; em 1:7, a mesma expressão já se refere ao povo descendente deles. A passagem marca a transição da família para o povo de Israel."},
+      5: {term:"נֶפֶשׁ (nefesh) / יֹצְאֵי יֶרֶךְ־יַעֲקֹב (yotsei yerekh Yaakov)",text:"Nefesh aqui significa pessoas/indivíduos, não exige a ideia de uma alma separável do corpo. A expressão seguinte é literalmente “os que saíram dos lombos de Jacó”, isto é, seus descendentes diretos. O Texto Massorético traz setenta; a tradição grega e dois manuscritos de Qumran registram setenta e cinco, refletindo uma contagem textual diferente. A tradução segue o Texto Massorético."},
       7: {term:"וַיִּשְׁרְצוּ (vayishretsu)",text:"Verbo da raiz שׁרץ, que pode descrever enxamear, pulular ou multiplicar-se abundantemente. A sequência de verbos intensifica a imagem do crescimento de Israel; “multiplicaram-se abundantemente” transmite o sentido, embora não reproduza a imagem de “pulular”."}
+    },
+    1: {
+      15: {term:"לַמְיַלְּדֹת הָעִבְרִיֹּת (lamyalledot ha'ivriyot)",text:"A leitura mais direta da vocalização massorética é “às parteiras hebreias”. Há uma análise alternativa, refletida em antigas versões, que entende a expressão como “às parteiras das hebreias”, sem afirmar que elas próprias fossem hebreias. A tradução segue a leitura do Texto Massorético."},
+      16: {term:"עַל־הָאָבְנָיִם (al ha'avnayim)",text:"Termo raro, literalmente relacionado a “pedras” ou “par de pedras”. É geralmente entendido como um assento ou equipamento de parto; sua forma exata é discutida, e há propostas de tijolos de parto. “Assentos de parto” é uma tradução contextual cautelosa."},
+      19: {term:"כִּי־חָיוֹת הֵנָּה (ki chayot hennah)",text:"A expressão é ambígua: חָיוֹת pode caracterizar as mulheres como vivas/vigorosas, mas também pode evocar “animais”. “São vigorosas” representa a leitura contextual comum, sem eliminar a possível ambivalência da fala das parteiras."},
+      20: {term:"וַיַּעַצְמוּ (vayya'atzmu, de עצם)",text:"O verbo pode significar tornar-se forte/poderoso ou numeroso. Como o versículo já emprega וַיִּרֶב (“multiplicou-se”), “tornou-se muito poderoso” preserva a distinção entre os dois verbos; a raiz também pode carregar a ideia de grande número."},
+      21: {term:"בָּתִּים (batim)",text:"Literalmente “casas”. No hebraico bíblico, “casa” também pode designar família, casa dinástica ou linhagem. A tradução conserva “casas”, mas o texto não especifica se a bênção consistiu em moradias, famílias estabelecidas ou continuidade de linhagem."}
     },
     2: {
       10: {term:"מֹשֶׁה (Moshe) / מְשִׁיתִהוּ (meshitihu)",text:"O versículo associa o nome Moshe ao verbo hebraico משה (mashah, “tirar/puxar para fora”), em um jogo de palavras com “eu o tirei das águas”. Isso explica a narrativa do nome, mas não encerra a discussão sobre sua origem histórica, que também foi relacionada ao egípcio."},
