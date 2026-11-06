@@ -16,7 +16,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 | 1–10 | Em revisão | Primeira passada iniciada; ainda não marcar como concluído. |
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
-| 21–25 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
+| 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 26–30 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 31–35 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 36–40 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
@@ -62,3 +62,12 @@ Fontes consultadas: Mechon-Mamre, Êxodo 12 e 14; Sefaria, Êxodo 12:40; texto h
 - **Êxodo 20:7:** “Não pronuncie o nome” foi ajustado para “Não tome o nome”, mais próximo do verbo hebraico נשא (*nasa*, “tomar/levar”). A nota existente sobre o uso vazio ou enganoso do nome foi mantida.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 20; texto hebraico de Êxodo 20:7; tradições interpretativas sobre Êxodo 19:15.
+
+### Êxodo 21–25 — primeira passada
+
+- Êxodo 21:8: corrigida a negação em hebraico; o senhor não havia destinado a jovem para si.
+- Êxodo 21:22: ampliada a nota sobre o termo “dano” e a expressão referente à saída dos filhos, cuja interpretação é discutida.
+- Êxodo 22:28: acrescentada nota sobre o alcance de *elohim* (Deus ou autoridades judiciais).
+- Êxodo 23:19: removida a palavra “melhor”, ausente da formulação hebraica explícita.
+
+Fontes consultadas: Mechon-Mamre, Êxodo 21–23; texto hebraico massorético.
