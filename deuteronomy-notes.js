@@ -218,3 +218,39 @@ window.TRANSLATION_NOTES[4][20] = {
   17:{term:"הַחֲרֵם תַּחֲרִימֵם (haḥarem taḥarimem)",text:"“Dedicarás completamente à destruição”. A formulação pertence ao vocabulário de ḥerem, banimento total no contexto da guerra antiga."},
   19:{term:"כִּי הָאָדָם עֵץ הַשָּׂדֶה (ki ha'adam ets hassadeh)",text:"A frase é uma pergunta retórica difícil: “Por acaso a árvore do campo é gente?”. O versículo proíbe destruir árvores frutíferas durante o cerco."}
 };
+
+/* Deuteronômio 21–24 — notas lexicais selecionadas do hebraico massorético. */
+window.TRANSLATION_NOTES[4][21] = {
+  2:{term:"וּמָדְדוּ (umadedu)",text:"“Medirão”. A cidade responsável pelo rito é determinada pela medição da distância até o local do cadáver."},
+  4:{term:"נַחַל אֵיתָן (naḥal eitan)",text:"“Vale de correnteza perene”. A expressão indica um curso d’água ou vale não cultivado, cuja identificação precisa é discutida."},
+  8:{term:"כַּפֵּר לְעַמְּךָ (kapper le'ammekha)",text:"“Faz expiação por teu povo”. O pedido busca remover a responsabilidade comunitária pelo sangue inocente."},
+  13:{term:"יֶרַח יָמִים (yeraḥ yamim)",text:"“Um mês inteiro”. Literalmente, “um período de dias”; designa o tempo de luto antes do casamento."},
+  17:{term:"פִּי שְׁנַיִם (pi shenayim)",text:"“Porção dobrada”. A expressão define a parcela do primogênito na herança."},
+  22:{term:"קִלְלַת אֱלֹהִים (qillelat Elohim)",text:"“Maldição de Deus”. A condição do executado exposto exige sepultamento no mesmo dia para não contaminar a terra."}
+};
+window.TRANSLATION_NOTES[4][22] = {
+  1:{term:"לֹא תִתְעַלֵּם (lo tit'alem)",text:"“Não te farás de indiferente”. A fórmula aparece nas leis de cuidado com bens perdidos e animais em perigo."},
+  5:{term:"כְּלִי גֶבֶר (keli gever)",text:"“Roupa/utensílio próprio de homem”. A expressão é ampla; a norma trata de vestimenta e distinção entre os sexos."},
+  8:{term:"מַעֲקֶה (ma'aqeh)",text:"“Parapeito”. Proteção física exigida no terraço para evitar acidentes e responsabilidade por sangue."},
+  11:{term:"שַׁעַטְנֵז (sha'atnez)",text:"Termo técnico para tecido misto de lã e linho."},
+  12:{term:"גְּדִלִים (gedilim)",text:"“Franjas”. Elementos têxteis nos cantos do manto, relacionados à lembrança dos mandamentos."},
+  19:{term:"מֵאָה כֶסֶף (me'ah kesef)",text:"“Cem siclos de prata”. Multa imposta ao homem que difama falsamente a esposa."},
+  30:{term:"לֹא יִקַּח (lo yiqqaḥ)",text:"“Não tomará”. A proibição final protege a relação conjugal do pai."}
+};
+window.TRANSLATION_NOTES[4][23] = {
+  1:{term:"פְּצוּעַ דַּכָּא (petsua dakka)",text:"Expressão referente a lesão grave dos órgãos genitais masculinos; a segunda expressão do versículo trata de mutilação genital."},
+  2:{term:"מַמְזֵר (mamzer)",text:"Termo de sentido debatido, tradicionalmente traduzido como pessoa nascida de união proibida; a definição exata permanece discutida."},
+  4:{term:"שְׂכַר (sekhar)",text:"“Pagamento/salário”. Refere-se ao pagamento oferecido a Balaão para amaldiçoar Israel."},
+  10:{term:"מִקְרֵה לָיְלָה (miqreh laylah)",text:"“Emissão noturna”. A condição ritual exige afastamento temporário do acampamento."},
+  15:{term:"עֶבֶד נִדְחֶה (eved nidḥeh)",text:"Escravo que escapou de seu senhor; a lei proíbe devolvê-lo ao antigo dono."},
+  18:{term:"אֶתְנַן זוֹנָה וּמְחִיר כֶּלֶב (etnan zonah umeḥir kelev)",text:"“Pagamento de prostituta e preço de cão”. A oferta votiva desses valores é proibida no santuário."},
+  20:{term:"נֶשֶׁךְ (neshekh)",text:"“Juros”. Literalmente associado a mordida; a proibição é formulada para empréstimos entre irmãos."}
+};
+window.TRANSLATION_NOTES[4][24] = {
+  1:{term:"עֶרְוַת דָּבָר (ervat davar)",text:"Expressão literalmente ligada a “nudez de algo”; o sentido jurídico exato é debatido, e a tradução mantém a ideia de algo vergonhoso."},
+  1:{term:"סֵפֶר כְּרִיתֻת (sefer keritut)",text:"“Certificado de divórcio”. Documento formal de dissolução do casamento."},
+  6:{term:"רֵחַיִם (reḥayim)",text:"“Pedras de moinho”. Tomar o conjunto como penhor retiraria os meios de subsistência e, figuradamente, a própria vida."},
+  7:{term:"גֹּנֵב נֶפֶשׁ (gonev nefesh)",text:"“Sequestrador de pessoa”. A lei trata o rapto e a escravização de um israelita como crime capital."},
+  15:{term:"בְּיוֹמוֹ תִתֵּן שְׂכָרוֹ (beyomo titen sekharo)",text:"“No mesmo dia lhe pagarás seu salário”. O pagamento pontual protege o trabalhador vulnerável."},
+  19:{term:"עֹמֶר (omer)",text:"“Feixe”. A sobra da colheita deve permanecer para estrangeiros, órfãos e viúvas."}
+};
