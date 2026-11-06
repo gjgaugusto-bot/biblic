@@ -279,3 +279,16 @@ window.TRANSLATION_NOTES[4][27] = {
   15:{term:"תּוֹעֵבָה (to'evah)",text:"“Abominação”. Termo usado para práticas consideradas incompatíveis com a lealdade a YHWH."},
   26:{term:"לֹא־יָקִים (lo yaqim)",text:"“Não confirmar/estabelecer”. A maldição final recai sobre quem não sustenta a instrução por meio da prática."}
 };
+
+window.TRANSLATION_NOTES[4][28] = {
+  1:{term:"שָׁמוֹעַ תִּשְׁמַע (shamoa tishma)",text:"Infinitivo absoluto seguido do verbo finito: construção enfática, “ouvir atentamente” ou “certamente ouvir”."},
+  12:{term:"אוֹצָרוֹ הַטּוֹב (otsaro hatov)",text:"“Seu bom tesouro”. O contexto identifica os céus como reservatório de chuva concedida no tempo oportuno."},
+  15:{term:"הַקְּלָלוֹת (haqqelalot)",text:"“As maldições”. O capítulo organiza a antítese entre bênçãos pela obediência e consequências da infidelidade à aliança."},
+  27:{term:"שְׁחִין מִצְרַיִם (sheḥin Mitsrayim)",text:"“Úlcera do Egito”. A expressão remete às aflições associadas ao Egito; alguns termos médicos seguintes são raros e de identificação incerta."},
+  29:{term:"מְמַשֵּׁשׁ (memashesh)",text:"“Apalpar/tatear”. A imagem de alguém cego em plena luz do dia comunica desorientação e incapacidade de encontrar saída."},
+  36:{term:"עֵץ וָאָבֶן (ets va'even)",text:"“Madeira e pedra”. Fórmula depreciativa para imagens e divindades fabricadas."},
+  47:{term:"בְּשִׂמְחָה וּבְטוּב לֵבָב (besimḥah uvetuv levav)",text:"“Com alegria e bondade de coração”. A falta de gratidão em meio à abundância é apresentada como raiz da ruptura."},
+  49:{term:"כַּאֲשֶׁר יִדְאֶה הַנָּשֶׁר (ka'asher yid'eh hannasher)",text:"Comparação com a rapidez do voo da águia; a imagem descreve a chegada súbita do invasor."},
+  58:{term:"הַתּוֹרָה הַזֹּאת (hattorah hazzot)",text:"“Esta instrução”. Torah aqui designa o conjunto de ensinamentos e estipulações da aliança, não apenas uma lei isolada."},
+  68:{term:"בָּאֳנִיּוֹת (bo' oniyyot)",text:"“Em navios”. O versículo evoca a reversão extrema do êxodo: retorno ao Egito, agora sob condição de servidão."}
+};
