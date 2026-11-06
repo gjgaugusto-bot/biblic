@@ -470,7 +470,7 @@ window.EXODUS_TEXT = {
   "Mas eles não deram ouvidos a Moisés. Alguns deixaram sobrar até a manhã, e aquilo criou vermes e cheirou mal. Moisés ficou indignado com eles.",
   "Recolhiam-no manhã após manhã, cada um conforme o que podia comer. Quando o sol esquentava, ele derretia.",
   "No sexto dia, recolheram o dobro do pão: dois ômeres para cada pessoa. Todos os chefes da congregação foram e contaram isso a Moisés.",
-  "Ele lhes disse: “É isto que YHWH falou: Amanhã haverá descanso completo, um sábado sagrado a YHWH. Assai o que tiverdes de assar e cozei o que tiverdes de cozer; tudo o que sobrar, guardai para vós até a manhã.”",
+  "Ele lhes disse: “É isto que YHWH falou: Amanhã haverá descanso solene, um sábado sagrado a YHWH. Assai o que tiverdes de assar e cozei o que tiverdes de cozer; tudo o que sobrar, guardai para vós até a manhã.”",
   "Eles o guardaram até a manhã, conforme Moisés havia ordenado, e não cheirou mal, nem houve nele vermes.",
   "Moisés disse: “Comei-o hoje, pois hoje é sábado para YHWH. Hoje não o encontrareis no campo.",
   "Durante seis dias o recolhereis, mas no sétimo dia, o sábado, não haverá nele.”",
