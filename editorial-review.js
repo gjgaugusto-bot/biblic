@@ -68,12 +68,24 @@
     console.warn("Não foi possível migrar os estados anteriores de Gênesis.", error);
   }
 
+  const leviticusReviewed = { 1: window.LEVITICUS_TEXT && window.LEVITICUS_TEXT[1] };
+  const leviticusDraft = Object.keys(window.LEVITICUS_TEXT || {}).reduce(function (result, chapter) {
+    if (Number(chapter) !== 1) result[chapter] = window.LEVITICUS_TEXT[chapter];
+    return result;
+  }, {});
   addLegacyBook(
     2,
-    window.LEVITICUS_TEXT,
+    leviticusReviewed,
     "revisado",
-    "Texto hebraico massorético (Sefaria, Miqra according to the Masorah) e revisão interna da Enciclopédia Bíblica",
+    "Texto hebraico massorético (Miqra according to the Masorah) e revisão interna da Enciclopédia Bíblica",
     "Levítico 1: conferidas a sequência e a contagem de 17 versículos, a correspondência geral com o texto hebraico e a consistência dos principais termos rituais. Revisão interna linguístico-editorial; não equivale a certificação independente por especialista."
+  );
+  addLegacyBook(
+    2,
+    leviticusDraft,
+    "em_revisao",
+    "Texto hebraico massorético (Miqra according to the Masorah); tradução de trabalho da Enciclopédia Bíblica",
+    "Capítulo integrado em versão de trabalho. A revisão versículo por versículo, a checagem de variantes e a validação independente ainda estão pendentes; integração técnica não significa aprovação textual."
   );
 
   addLegacyBook(
