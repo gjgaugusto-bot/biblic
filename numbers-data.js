@@ -760,7 +760,7 @@ window.NUMBERS_TEXT[18] = [
 ];
 window.NUMBERS_TEXT[19] = [
   "YHWH falou a Moisés e a Arão, dizendo:",
-  "Esta é a prescrição da instrução que YHWH ordenou: Dize aos filhos de Israel que te tragam uma vaca vermelha, sem defeito, na qual não haja mancha e sobre a qual nunca tenha sido posto jugo.",
+  "Esta é a prescrição da Torá que YHWH ordenou: Dize aos filhos de Israel que te tragam uma vaca vermelha, sem defeito, na qual não haja mancha e sobre a qual nunca tenha sido posto jugo.",
   "Entregá-la-eis ao sacerdote Eleazar; ele a levará para fora do acampamento, e ela será abatida diante dele.",
   "Eleazar, o sacerdote, tomará com o dedo um pouco do sangue dela e aspergirá sete vezes em direção à frente da Tenda do Encontro.",
   "A vaca será queimada diante dele: sua pele, sua carne, seu sangue, juntamente com seu esterco, serão queimados.",
