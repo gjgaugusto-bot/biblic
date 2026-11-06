@@ -77,3 +77,16 @@ Os estados migrados são gerados pelo módulo `editorial-review.js` e ficam rast
 ### Regra de encerramento
 
 Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Não voltar a revisar o livro por nova conversa, perda de contexto, troca de ferramenta/modelo ou preferência estilística. Só reabrir versículos específicos mediante evidência objetiva de erro relevante ou fonte nova que justifique correção concreta; registrar motivo, fonte e escopo. O livro sai da fila de trabalho.
+
+
+## Êxodo — revisão por versículo dos capítulos 1–5 (2026-11-06)
+
+**Transição registrada:** 122 versículos (Êxodo 1:1–5:23) passaram de **Em revisão** para **Revisado** após a segunda conferência comparativa documentada em `REVISAO-EXODO.md`.
+
+- **Fonte-base:** Texto Massorético, conferido em Mechon-Mamre para Êxodo 1–5; Sefaria consultada em Êxodo 2–4.
+- **Fontes auxiliares para questões específicas:** NET Bible em Êxodo 2:10; estudos de Aaron Adair (2025), Adam J. Howell (2010) e David Pettit (2015), conforme bibliografia no registro de Êxodo.
+- **Observação registrada em cada versículo:** texto comparado com o hebraico; sequência e sentido conferidos; escolhas lexicais e nomes próprios avaliados; ambiguidades relevantes preservadas; notas lexicais do lote conferidas. A correção objetiva de Êxodo 5:16 e a nota sobre Reuel/Jetro/Yeter foram versionadas.
+- **Limites:** não é colação crítica integral de manuscritos, certificação acadêmica independente nem declaração de que todas as questões exegéticas estejam encerradas. O estado pode ser reaberto somente com evidência concreta e fonte relevante, conforme as regras gerais.
+- **Histórico:** a migração inicial de Êxodo como Em revisão permanece registrada; a nova transição para Revisado é acrescentada ao histórico, sem apagar a etapa anterior.
+
+Os capítulos **6–40** permanecem **Em revisão** até que cada lote passe pelo mesmo processo e seja registrado separadamente.
