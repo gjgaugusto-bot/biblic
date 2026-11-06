@@ -695,7 +695,7 @@ window.NUMBERS_TEXT[16] = [
   "Dize a Eleazar, filho do sacerdote Arão, que retire os incensários do meio do incêndio, pois são santos; e espalha para longe as brasas.",
   "Quanto aos incensários daqueles homens que pecaram contra a própria vida, que sejam transformados em lâminas batidas para revestir o altar, pois os apresentaram diante de YHWH e se tornaram santos. Serão um sinal para os filhos de Israel.",
   "Eleazar, o sacerdote, tomou os incensários de bronze que os que haviam sido queimados ofereceram e os transformou em lâminas para revestir o altar,",
-  "como YHWH lhe havia falado por meio de Moisés. Isso serviria de memorial aos filhos de Israel, para que nenhuma pessoa não autorizada, que não fosse descendente de Arão, se aproximasse para queimar incenso diante de YHWH e não se tornasse como Corá e seu grupo.",
+  "como YHWH havia falado por meio de Moisés. Isso serviria de memorial aos filhos de Israel, para que ninguém que não fosse descendente de Arão se aproximasse para queimar incenso diante de YHWH e acabasse como Corá e seu grupo.",
   "No dia seguinte, toda a comunidade dos filhos de Israel murmurou contra Moisés e Arão, dizendo: Vós matastes o povo de YHWH!",
   "Quando a comunidade se reuniu contra Moisés e Arão, eles se voltaram para a Tenda do Encontro; eis que a nuvem a cobriu, e a glória de YHWH apareceu.",
   "Moisés e Arão foram até a frente da Tenda do Encontro.",
