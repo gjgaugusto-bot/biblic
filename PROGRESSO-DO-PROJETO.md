@@ -459,3 +459,15 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
 - PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
 - Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
+
+
+## 2026-11-06 — Segunda conferência de Êxodo 1–5
+
+- Branch: `revisao-academica-exodo-1-5-2026-11-06`, derivada do HEAD atual de `main` para preservar a versão mais recente do site; a branch `desenvolvimento` está divergente e centenas de commits atrás, portanto não é uma base segura para esta correção pontual.
+- Conferidos novamente Êxodo 1–5 com o Texto Massorético em Mechon-Mamre; Êxodo 2:16–20 também foi comparado com Sefaria.
+- Corrigida em `exodus-data.js` a conjunção de Êxodo 5:16: “embora a culpa...” passou a “e a culpa...”, removendo uma concessiva não expressa pelo hebraico.
+- Ampliadas as notas de `translation-notes.js` para explicar a variação dos nomes Reuel/Jetro/Yeter (Êxodo 2:18; 3:1; 4:18) e a construção de Êxodo 5:16.
+- Mantida a nota de Êxodo 4:24–26 sem escolher uma hipótese entre as interpretações acadêmicas concorrentes.
+- Atualizado `REVISAO-EXODO.md` com escopo, decisões e bibliografia desta segunda conferência.
+- **Estado:** Êxodo 1–5 continuam **Em revisão**; esta etapa não equivale à revisão lexical integral de cada nota nem autoriza marcar todos os versículos como Revisados.
+- Testes automatizados do PR desta etapa ainda pendentes. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
