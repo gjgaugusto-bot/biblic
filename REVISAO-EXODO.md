@@ -495,4 +495,28 @@ Demais versículos (14:1, 14:3–5, 14:7, 14:9–12, 14:14, 14:16–19, 14:22–
 - NET Bible, Êxodo 14:20, sobre a construção difícil “nuvem e escuridão” e a luz na noite: https://classic.net.bible.org/verse.php?book=Exo&chapter=14&verse=20
 - NET Bible, Êxodo 14:25, sobre a expressão difícil relativa às rodas dos carros: https://classic.net.bible.org/verse.php?book=Exo&chapter=14&verse=25
 
-**Próximo ponto:** Êxodo 15:1–27. Não repetir a conferência de Êxodo 14 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 16:1–36. Não repetir a conferência de Êxodo 14 sem evidência concreta de erro novo.
+
+
+### Êxodo 15 — conferência textual e lexical integral (15:1–27)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para explicitar opções de tradução poética sem eliminar a ambiguidade.
+
+Notas lexicais ampliadas:
+- **15:2:** וְאַנְוֵהוּ (*ve'anvehu*) é forma rara e admite leituras como “louvarei/adornarei”, “falarei de sua beleza” ou “farei para ele uma morada/santuário” (leitura de Onkelos/Rashi). “Eu o louvarei” foi mantido como opção interpretativa; o verbo seguinte, וַאֲרֹמְמֶנְהוּ (*va'aromemenhu*), foi traduzido distintamente como “eu o exaltarei”. A nota anterior sobre זִמְרָת (*zimrat*) foi preservada e ampliada.
+- **15:8:** נֵד (*ned*) pode designar monte/heap de águas, barreira ou muralha. “Muralha” é uma leitura tradicional, apoiada pelo Targum; a nota mantém as alternativas “monte/monte de águas” sem exigir uma imagem única.
+- **15:11:** נוֹרָא תְהִלֹּת (*nora tehilot*) significa literalmente “temível/assombroso em louvores”. “Temível em louvores” foi mantido como construção poética; “digno de temor e louvor” é uma explicitação possível.
+- **15:17:** וְתִטָּעֵמוֹ (*vetitta'emo*) vem de נטע (*nata*), “plantar”. O texto apresenta Israel como povo plantado/firmado na montanha da herança; a tradução já preserva a imagem com “plantarás”. A nota de מָכוֹן (*makhon*) foi ampliada.
+- **15:23:** מָרָה (*Marah*) relaciona-se a מַר (*mar*), “amargo”; a narrativa explicita o jogo de palavras pelo gosto das águas.
+
+Demais versículos (15:1, 15:3–7, 15:9–10, 15:12–16, 15:18–22 e 15:24–27): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual considerada necessária. As notas anteriores do capítulo foram preservadas.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 15: https://mechon-mamre.org/p/pt/pt0215.htm
+- Rashi sobre Êxodo 15:2, duas leituras de וְאַנְוֵהוּ (*ve'anvehu*): morada/santuário ou beleza/louvor: https://www.sefaria.org/Rashi_on_Exodus.15.2.1
+- NET Bible, Êxodo 15:2, notas sobre זִמְרָת (*zimrat*) e וְאַנְוֵהוּ (*ve'anvehu*): https://classic.net.bible.org/verse.php?book=Exo&chapter=15&verse=2
+- UBS Handbook on Exodus, Êxodo 15:8, alternativas para נֵד (*ned*): monte, muralha, barreira ou dique: https://tips.translation.bible/story/translation-commentary-on-exod-158/
+- Tanakh.info, Êxodo 15:17, morfologia de וְתִטָּעֵמוֹ (*vetitta'emo*) como “plantar”: https://tanakh.info/ex15-17
+- Ibn Ezra sobre Êxodo 15:17, imagem de Israel plantado e enraizado na terra: https://www.sefaria.org/Ibn_Ezra_on_Exodus.15.17
+
+**Próximo ponto:** Êxodo 16:1–36. Não repetir a conferência de Êxodo 15 sem evidência concreta de erro novo.
