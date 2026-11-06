@@ -1,6 +1,7 @@
-/* Deuteronômio 1 — tradução própria de trabalho a partir do hebraico massorético.
-   Texto-base: Biblia Hebraica Stuttgartensia (BHS), Deuteronomium 1.
-   Estado: início da integração; capítulo 1 de 34. Tradução em revisão. */
+/* Deuteronômio 1–34 — tradução própria de trabalho a partir do hebraico massorético.
+   Texto-base: Texto Massorético; BHS consultada nos trechos acessíveis.
+   Estado: 34 capítulos / 959 versículos integrados; auditoria estrutural global concluída.
+   Revisão textual versículo por versículo e revisão acadêmica independente permanecem pendentes. */
 window.DEUTERONOMY_TEXT = window.DEUTERONOMY_TEXT || {};
 window.DEUTERONOMY_TEXT[1] = [
   "Estas são as palavras que Moisés falou a todo o Israel, além do Jordão, no deserto, na Arabá, diante de Sufe, entre Parã e Tofel, Labã, Hazerote e Di-Záabe.",
