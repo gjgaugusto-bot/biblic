@@ -254,3 +254,28 @@ window.TRANSLATION_NOTES[4][24] = {
   15:{term:"בְּיוֹמוֹ תִתֵּן שְׂכָרוֹ (beyomo titen sekharo)",text:"“No mesmo dia lhe pagarás seu salário”. O pagamento pontual protege o trabalhador vulnerável."},
   19:{term:"עֹמֶר (omer)",text:"“Feixe”. A sobra da colheita deve permanecer para estrangeiros, órfãos e viúvas."}
 };
+
+window.TRANSLATION_NOTES[4][25] = {
+  1:{term:"וְהִצְדִּיקוּ אֶת־הַצַּדִּיק (vehitsdiqu et-hatsaddiq)",text:"“Declarar justo o justo”. A linguagem descreve a decisão judicial que reconhece a parte inocente."},
+  3:{term:"אַרְבָּעִים יַכֶּנּוּ (arba'im yakkenu)",text:"“Quarenta golpes”. O limite explícito impede que a punição degrade publicamente o condenado."},
+  5:{term:"יִבָּם (yibbem)",text:"Verbo ligado ao dever do cunhado, a instituição conhecida como levirato, destinada a preservar o nome e a continuidade familiar do falecido."},
+  9:{term:"חֲלִיצַת הַנָּעַל (ḥalitsat hanná'al)",text:"O gesto de retirar a sandália formaliza a renúncia ao dever de cunhado; daí a designação da casa do descalçado."},
+  18:{term:"וַיְזַנֵּב (vayzennev)",text:"Verbo de atacar a retaguarda, atingindo os que ficaram para trás; a imagem descreve a vulnerabilidade dos cansados."},
+  19:{term:"תִּמְחֶה (timḥeh)",text:"“Apagarás”. O verbo é o mesmo campo lexical de eliminar uma memória ou registro."}
+};
+window.TRANSLATION_NOTES[4][26] = {
+  2:{term:"טֶנֶא (tene)",text:"Cesto usado para levar as primícias ao santuário."},
+  5:{term:"אֲרַמִּי אֹבֵד אָבִי (arami oved avi)",text:"Expressão tradicionalmente vertida como “meu pai era um arameu errante”. A construção hebraica é concisa e admite discussão sobre o sujeito e o particípio."},
+  10:{term:"רֵאשִׁית (reshit)",text:"“Primícias”, a primeira parte da produção apresentada como reconhecimento de que a terra e seus frutos são dádiva de YHWH."},
+  12:{term:"מַעְשַׂר (ma'aser)",text:"“Dízimo”. Neste contexto, o dízimo do terceiro ano é destinado também aos grupos socialmente vulneráveis."},
+  14:{term:"לֹא־בִעַרְתִּי (lo vi'arti)",text:"Verbo de retirar, consumir ou eliminar; a declaração nega que a porção sagrada tenha sido desviada de seu uso prescrito."},
+  18:{term:"עַם סְגֻלָּה (am segullah)",text:"“Povo precioso/de propriedade particular”. A expressão destaca a relação especial de pertença entre YHWH e Israel."}
+};
+window.TRANSLATION_NOTES[4][27] = {
+  2:{term:"שִׂיד (sid)",text:"“Cal”. O revestimento claro das pedras preparava uma superfície para a inscrição das palavras da instrução."},
+  4:{term:"הַר עֵיבָל (har Eival)",text:"Monte Ebal, situado em frente ao monte Gerizim, na região de Siquém."},
+  5:{term:"גָּזִית (gazit)",text:"Pedra lavrada. O texto determina que o altar seja feito de pedras não trabalhadas com ferramenta de ferro."},
+  8:{term:"בַּאֵר הֵיטֵב (ba'er heitev)",text:"“Explicar claramente”. A inscrição deveria ser legível e compreensível."},
+  15:{term:"תּוֹעֵבָה (to'evah)",text:"“Abominação”. Termo usado para práticas consideradas incompatíveis com a lealdade a YHWH."},
+  26:{term:"לֹא־יָקִים (lo yaqim)",text:"“Não confirmar/estabelecer”. A maldição final recai sobre quem não sustenta a instrução por meio da prática."}
+};
