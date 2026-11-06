@@ -197,3 +197,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Nota ampliada em 13:18 sobre chamushim e Yam Suf.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 14:1–31.
+
+
+### Continuidade de conteúdo — Êxodo 14 (2026-11-06)
+
+- Êxodo 14:1–31 conferido integralmente contra o Texto Massorético.
+- Ajuste em 14:6: “preparou seu carro” → “atrelou seu carro”, refletindo אסר (*asar*).
+- Nota acrescentada em 14:6; notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 15:1–27.
