@@ -245,7 +245,7 @@ window.EXODUS_TEXT = {
 "Pois desta vez enviarei todas as minhas pragas contra o teu coração, contra teus servos e contra teu povo, para que saibas que não há ninguém como eu em toda a terra.",
 "Pois agora eu poderia ter estendido minha mão e ferido a ti e a teu povo com peste, e tu terias sido eliminado da terra.",
 "Mas foi precisamente para isto que te mantive de pé: para mostrar-te meu poder e para que meu nome seja proclamado em toda a terra.",
-"Ainda te colocas contra meu povo, não o deixando ir.",
+"Ainda te exaltas contra meu povo, não o deixando ir.",
 "Eis que amanhã, a esta hora, farei cair uma chuva de granizo muito pesada, como nunca houve no Egito desde o dia em que foi fundado até agora.",
 "Agora, manda recolher teu rebanho e tudo o que tens no campo. Todo ser humano e animal que for encontrado no campo e não for recolhido para casa, quando o granizo cair sobre eles, morrerá’».",
 "Quem, entre os servos do faraó, temeu a palavra de YHWH fez seus servos e seu rebanho fugir para as casas.",
