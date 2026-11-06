@@ -336,4 +336,29 @@ Demais versículos (8:1–4, 8:6–11, 8:13–16, 8:18, 8:20–21 e 8:23–28): 
 - Sefaria, Êxodo 8:19, variantes de tradução para פְדֻת (*pedut*): https://www.sefaria.org/Exodus.8.19?lang=bi&vhe=hebrew%7CTanach_with_Ta%27amei_Hamikra&with=Translations
 - Sefaria / JPS, Êxodo 8:17, opções para עָרֹב (*arov*): https://www.sefaria.org/Exodus.8.17?lang=bi&ven=english%7CTanakh%3A_The_Holy_Scriptures%2C_published_by_JPS&vhe=hebrew%7CTanach_with_Ta%27amei_Hamikra&with=Translations
 
-**Próximo ponto:** Êxodo 9:1–35. Não repetir a conferência de Êxodo 8 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 10:1–29. Não repetir a conferência de Êxodo 8 sem evidência concreta de erro novo.
+
+
+### Êxodo 9 — conferência textual e lexical integral (9:1–35)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para documentar uma tensão narrativa, termos agrícolas e a alternância dos verbos relacionados ao coração do faraó.
+
+Notas lexicais ampliadas/acrescentadas:
+- **9:6:** מִקְנֶה (*miqneh*) é termo coletivo para animais de criação/rebanhos. A declaração “todo o rebanho do Egito morreu” cria uma tensão com os animais ainda presentes no campo em 9:19–20. A nota já existente foi ampliada: “todo” pode ser entendido coletivamente (todas as categorias) ou como grande totalidade, como propõe Ibn Ezra; a tradução conserva a formulação do Texto Massorético sem reescrever “todo” como “a maior parte”.
+- **9:12:** וַיְחַזֵּק (*vaychazzeq*, raiz חזק, *chazaq*) está no piel e atribui a YHWH a ação de fortalecer o coração do faraó. A nota distingue essa forma de כבד (*kaved*) em 9:7 e 9:34.
+- **9:16:** הֶעֱמַדְתִּיךָ (*he'emadtikha*, raiz עמד, *amad*) significa literalmente “fiz-te ficar de pé/te mantive de pé”; pode ser interpretado como preservação da vida ou manutenção do faraó em sua posição para demonstrar o poder de YHWH. “Te mantive de pé” foi mantido, com a alternativa registrada.
+- **9:31–32:** os versículos registram os estágios agrícolas: cevada em espiga, linho em flor, trigo e espelta ainda tardios. A nota esclarece que כֻּסֶּמֶת (*kussemet*) é geralmente identificada como espelta, embora o cereal exato seja discutido.
+- **9:34:** וַיַּכְבֵּד (*vayakhbed*, raiz כבד, *kaved*) descreve o faraó tornando pesado o próprio coração; o texto chama esse ato de pecado e usa a expressão “acrescentou ao pecado”.
+- **9:35:** וַיֶּחֱזַק (*vayechezaq*, raiz חזק, *chazaq*) descreve o coração do faraó como forte/firme, não repete o verbo כבד de 9:34.
+
+Demais versículos (9:1–5, 9:7–11, 9:13–15, 9:17–30 e 9:33): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária. As notas existentes de 9:6 foram preservadas e ampliadas.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 9: https://www.mechon-mamre.org/p/pt/pt0209.htm
+- NET Bible, Êxodo 9:6, sobre o alcance de כֹּל (*kol*) e a tensão com os animais que aparecem em 9:19–20: https://classic.net.bible.org/passage.php?passage=Exo+9%3A6
+- Ibn Ezra sobre Êxodo 9:6, propondo “a maior parte” do rebanho: https://www.sefaria.org/Ibn_Ezra_on_Exodus.9.6.1?lang=bi
+- NET Bible, Êxodo 9:16, sobre הֶעֱמַדְתִּיךָ (*he'emadtikha*): https://classic.net.bible.org/passage.php?passage=Exo+9%3A16%2C17
+- NET Bible, Êxodo 9:31–32, sobre o estágio da cevada/linho e o cereal כֻּסֶּמֶת (*kussemet*): https://classic.net.bible.org/passage.php?passage=Exo+9%3A31%2C32
+- Matthew McAffee, “The Heart of Pharaoh in Exodus 4–15”, *Bulletin for Biblical Research* 20.3 (2010), 331–354, análise lexical e gramatical das raízes חזק, כבד e קשה: https://azbyka.ru/wp-content/uploads/2019/04/The-Heart-of-Pharaoh-in-Exodus-4%E2%80%9315.pdf
+
+**Próximo ponto:** Êxodo 10:1–29. Não repetir a conferência de Êxodo 9 sem evidência concreta de erro novo.
