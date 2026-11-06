@@ -98,3 +98,23 @@ window.TRANSLATION_NOTES[3][10] = {
   31:{term:"לְעֵינָיִם (le'einayim)",text:"Literalmente, “para olhos”. A expressão é idiomática: Hobabe serviria como guia/conhecedor do terreno no deserto."},
   35:{term:"קוּמָה יְהוָה (qumah YHWH)",text:"“Levanta-te, YHWH”. Fórmula poética pronunciada quando a Arca partia, invocando a ação protetora de YHWH."}
 };
+/* Notas lexicais — Números 11. */
+window.TRANSLATION_NOTES[3][11] = {
+  1:{term:"מִתְאֹנְנִים (mit'onenim)",text:"Particípio de sentido discutido, relacionado a queixar-se ou murmurar. A narrativa apresenta uma queixa que provoca a ira divina."},
+  4:{term:"הָאסַפְסֻף (ha'asafsuf)",text:"“Multidão misturada” ou grupo agregado. O termo designa os que acompanhavam Israel sem serem identificados simplesmente como membros das tribos."},
+  7:{term:"מָן (man)",text:"Maná. O texto descreve sua aparência e preparo; a identificação botânica exata do bdélio mencionado na comparação permanece incerta."},
+  17:{term:"וְאָצַלְתִּי (ve'atzalti)",text:"“Tomarei/retirarei” do espírito que está sobre Moisés. A imagem indica participação dos anciãos na capacitação para carregar a responsabilidade do povo."},
+  25:{term:"וַיִּתְנַבְּאוּ (vayyitnabbə'u)",text:"“Profetizaram”. O verbo pode indicar fala inspirada ou manifestação profética; o texto não registra o conteúdo dessas falas."},
+  31:{term:"שְׂלָוִים (selavim)",text:"Codornizes. A narrativa descreve uma grande concentração de aves trazidas pelo vento; não se deve confundir com o maná."},
+  32:{term:"עֲשָׂרָה חֳמָרִים (asarah chomarim)",text:"“Dez ômeres/hômeres”. Medida de capacidade de grande volume; a quantidade funciona na narrativa como sinal da coleta excessiva."},
+  34:{term:"קִבְרוֹת הַתַּאֲוָה (qivrot hatta'avah)",text:"“Sepulturas do desejo”. O nome do lugar interpreta o episódio pela cobiça/desejo intenso que dominou o povo."}
+};
+/* Notas lexicais — Números 12. */
+window.TRANSLATION_NOTES[3][12] = {
+  1:{term:"הָאִשָּׁה הַכֻּשִׁית (ha'ishah hakkushit)",text:"“A mulher cuxita”. A identificação geográfica e a relação desta mulher com Zípora são debatidas; o texto não esclarece a questão."},
+  3:{term:"עָנָו (anav)",text:"“Humilde”, “manso” ou “afligido”. O adjetivo pode expressar humildade e modéstia, e aqui caracteriza Moisés em contraste com a disputa de autoridade."},
+  6:{term:"בַּמַּרְאָה (bammar'ah)",text:"“Em visão”. O versículo distingue a revelação profética ordinária da comunicação singular descrita a respeito de Moisés."},
+  8:{term:"פֶּה אֶל־פֶּה (peh el-peh)",text:"Literalmente, “boca a boca”, expressão para comunicação direta e clara. O texto contrasta essa forma com sonhos e enigmas."},
+  10:{term:"מְצֹרָעַת (metsora'at)",text:"Pessoa atingida por afecção cutânea ritual. Não é seguro equiparar automaticamente o termo ao diagnóstico moderno de hanseníase."},
+  14:{term:"תִּסָּגֵר (tissager)",text:"“Ficará isolada/fechada”. A forma verbal indica exclusão temporária do acampamento, seguida de reintegração."}
+};
