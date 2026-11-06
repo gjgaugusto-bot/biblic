@@ -43,6 +43,7 @@ window.TRANSLATION_NOTES[3][4] = {
   5:{term:"פָּרֹכֶת (parokhet)",text:"A cortina interna que separava o espaço mais sagrado do restante do santuário e protegia a Arca durante o transporte."},
   6:{term:"תְּחַשׁ (tachash)",text:"Nome de material ou couro usado como cobertura. A identificação zoológica é incerta; a tradução evita afirmar uma espécie."},
   15:{term:"כְּלֵי הַקֹּדֶשׁ (kelei haqqodesh)",text:"“Utensílios sagrados”. Os coatitas só os transportam depois de cobertos pelos sacerdotes."},
+  20:{term:"כְּבַלַּע אֶת־הַקֹּדֶשׁ (ke-vallaʿ et-haqqodesh)",text:"Expressão difícil e rara, literalmente associada à ideia de “engolir” ou “consumir”. No contexto, refere-se ao momento em que os objetos sagrados são cobertos e preparados para o transporte. A tradução “acondicionadas” explicita o sentido contextual sem tratar a expressão como referência a uma simples olhada."},
   23:{term:"לִצְבֹא צָבָא (litsvo tsava')",text:"Expressão idiomática para entrar no serviço ou assumir uma tarefa. A faixa etária de trinta a cinquenta anos delimita o período de serviço ativo."},
   32:{term:"בְּשֵׁמוֹת תִּפְקְדוּ (beshemot tifqedu)",text:"“Registrareis nominalmente”. O inventário individualizado dos objetos e responsáveis procura assegurar que nada se perca no transporte."},
   49:{term:"עַל־פִּי יְהוָה (al-pi YHWH)",text:"Literalmente, “pela boca de YHWH”, isto é, conforme sua ordem."}
