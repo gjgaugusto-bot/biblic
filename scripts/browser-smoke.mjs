@@ -26,7 +26,7 @@ async function scanAccessibility(page, label) {
 try {
   const context = await browser.newContext({ viewport: { width: 1365, height: 900 }, acceptDownloads: true });
   const page = await context.newPage();
-  page.on("pageerror", error => pageErrors.push(error.message));
+  page.on("pageerror", error => pageErrors.push(error.stack || error.message));
 
   const response = await page.goto(baseURL, { waitUntil: "networkidle" });
   assert.equal(response?.status(), 200, "A página inicial deve responder HTTP 200");
@@ -165,7 +165,7 @@ try {
 
   const mobile = await context.newPage();
   await mobile.setViewportSize({ width: 390, height: 844 });
-  mobile.on("pageerror", error => pageErrors.push(error.message));
+  mobile.on("pageerror", error => pageErrors.push(error.stack || error.message));
   await mobile.goto(baseURL, { waitUntil: "networkidle" });
   const overflow = await mobile.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
   assert.ok(overflow <= 1, `A página não deve ter rolagem horizontal no celular (overflow: ${overflow}px)`);
