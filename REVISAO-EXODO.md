@@ -758,4 +758,28 @@ Demais versículos (25:1–28, 25:30–37 e 25:39–40): conferidos quanto à co
 - UBS Handbook on Exodus, Êxodo 25:38, função das pinças e bandejas para os pavios queimados: https://tips.translation.bible/tip_verse/exod-2538/
 - Victor P. Hamilton, *Exodus: An Exegetical Commentary*, Êxodo 25:38, discussão das *machtot* como recipientes para cinzas ou brasas: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
 
-**Próximo ponto:** Êxodo 26:1–37. Não repetir a conferência de Êxodo 25 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 27:1–21. Não repetir a conferência de Êxodo 25 sem evidência concreta de erro novo.
+
+
+### Êxodo 26 — conferência textual e lexical integral (26:1–37)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para registrar a terminologia arquitetônica e a dificuldade de reconstrução das armações.
+
+Notas lexicais acrescentadas/ampliadas:
+- **26:17:** יָדֹת (*yadot*) significa literalmente “mãos”; nas armações, designa projeções/encaixes ou espigas que se ajustam às bases. “Saliências” foi mantido como tradução neutra, sem impor uma reconstrução arquitetônica.
+- **26:24:** תֹּאֲמִים (*to'amim*) significa “em pares/duplas”; תַּמִּים (*tamim*) pode indicar inteiras, completas ou unidas. A construção das armações dos cantos é notoriamente difícil; “duplas embaixo e unidas no alto por uma argola” permanece uma leitura possível.
+- **26:36:** מָסָךְ (*masakh*) designa a tela/cortina de entrada, distinta da פָּרֹכֶת (*parokhet*) interna que separa o Lugar Santo do Lugar Santíssimo. A tradução usa “cortina” para ambas, mas as funções arquitetônicas são diferentes.
+
+Notas anteriores preservadas:
+- **26:1, 26:7, 26:14 e 26:31:** mantidas, incluindo *mishkan*, as cortinas de pelos de cabra, a identificação incerta de *techashim* e o véu interno.
+
+Demais versículos (26:2–16, 26:18–23, 26:25–30, 26:32–35 e 26:37): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 26: https://mechon-mamre.org/p/pt/pt0226.htm
+- NET Bible, Êxodo 26:17, sobre יָדֹת (*yadot*) como projeções/espigas de encaixe: https://classic.net.bible.org/verse.php?book=Exo&chapter=26&verse=17
+- UBS Handbook on Exodus, Êxodo 26:17, alternativas de reconstrução das armações: https://old-tips.translation.bible/story/translation-commentary-on-exod-2617/
+- Cambridge Bible for Schools and Colleges, Êxodo 26:24, discussão das interpretações possíveis para תֹּאֲמִים (*to'amim*): https://biblehub.com/commentaries/cambridge/exodus/26.htm
+- NET Bible, Êxodo 26:36, sobre מָסָךְ (*masakh*) como cortina/tela de entrada: https://classic.net.bible.org/verse.php?book=Exo&chapter=26&verse=36
+
+**Próximo ponto:** Êxodo 27:1–21. Não repetir a conferência de Êxodo 26 sem evidência concreta de erro novo.
