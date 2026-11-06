@@ -70,7 +70,7 @@ window.EXODUS_TEXT[22] = [
   "Se tomares como penhor a roupa do teu próximo, devolverás a ele antes do pôr do sol,",
   "pois essa roupa é sua única cobertura; é a veste de seu corpo. Em que se deitará? Quando clamar a mim, eu o ouvirei, pois sou misericordioso.",
   "Não insultes a Deus nem amaldiçoes o chefe do teu povo.",
-  "Não demores a oferecer o que enche teus celeiros e teus lagares. Darás a mim o primogênito de teus filhos.",
+  "Não demores a oferecer a abundância de tua colheita e o produto de teus lagares. Darás a mim o primogênito de teus filhos.",
   "Farás o mesmo com teus bois e tuas ovelhas: ficará sete dias com sua mãe; no oitavo dia o darás a mim.",
   "Vocês serão homens consagrados a mim. Não comam carne de animal despedaçado no campo; lancem-na aos cães."
 ];
