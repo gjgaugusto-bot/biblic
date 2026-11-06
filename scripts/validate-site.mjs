@@ -5,7 +5,7 @@ const fail = (message) => {
   console.error("FALHA:", message);
   process.exitCode = 1;
 };
-const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js", "scripts/browser-smoke.mjs"];
+const required = ["index.html", "style.css", "app.js", "study-data.js", "book-art.js", "editorial-review.js", "REGISTRO-EDITORIAL.md", "scripts/browser-smoke.mjs"];
 for (const file of required) {
   if (!existsSync(file)) fail(`Arquivo obrigatório ausente: ${file}`);
   else if (!readFileSync(file, "utf8").trim()) fail(`Arquivo obrigatório vazio: ${file}`);
@@ -14,7 +14,7 @@ for (const file of required) {
 if (existsSync("index.html") && existsSync("app.js")) {
   const html = readFileSync("index.html", "utf8");
   const app = readFileSync("app.js", "utf8");
-  const scripts = ["study-data.js", "book-art.js", "app.js"];
+  const scripts = ["study-data.js", "book-art.js", "exodus-data.js", "exodus-11-15.js", "exodus-16-20.js", "exodus-21-25.js", "exodus-26-30.js", "exodus-31-35.js", "exodus-36-40.js", "translation-notes.js", "app.js", "editorial-review.js"];
   const positions = scripts.map((name) => html.indexOf(name));
   if (positions.some((position) => position < 0)) fail("index.html precisa carregar study-data.js, book-art.js e app.js");
   else if (!(positions[0] < positions[1] && positions[1] < positions[2]))
@@ -26,6 +26,10 @@ if (existsSync("index.html") && existsSync("app.js")) {
   }
   if (!app.includes("STUDY_CATEGORIES_KEY") || !app.includes("saveStudyCategorySettings") || !app.includes("studyCategories"))
     fail("As categorias da biblioteca precisam ser salvas e incluídas no backup");
+  const review = readFileSync("editorial-review.js", "utf8");
+  if (!html.includes("editorialReviewPanel") || !review.includes("revisado") || !review.includes("reaberto")) fail("O controle editorial por versículo está incompleto");
+  if (!app.includes("encBibEditorialReviewsV1") || !app.includes("editorialReviews")) fail("O histórico editorial precisa integrar os backups locais e a exportação/importação");
+  if (!review.includes("TRANSITIONS") || !review.includes("motivo concreto") || !review.includes("fonte relevante")) fail("As regras de transição e reabertura do controle editorial estão ausentes");
 
   const ids = [...html.matchAll(/\bid=["']([^"']+)["']/g)].map((m) => m[1]);
   const duplicates = ids.filter((id, i) => ids.indexOf(id) !== i);
