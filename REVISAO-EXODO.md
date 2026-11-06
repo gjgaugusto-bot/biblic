@@ -638,4 +638,30 @@ Demais versículos (20:1–24, 20:26): conferidos quanto à correspondência com
 - Interlinear hebraico, Êxodo 20:25, morfologia de הֵנַפְתָּ (*henaf'ta*) e וַתְּחַלְּלֶהָ (*vatechalleleha*): https://search.nepebrasil.org/interlinear/?chapter=20&livro=2&verse=25
 - NET Bible, Êxodo 20:13, sobre רָצַח (*ratsach*) como homicídio: https://classic.net.bible.org/verse.php?book=Exo&chapter=20&verse=13
 
-**Próximo ponto:** Êxodo 21:1–36. Não repetir a conferência de Êxodo 20 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 22:1–31. Não repetir a conferência de Êxodo 20 sem evidência concreta de erro novo.
+
+
+### Êxodo 21 — conferência textual e lexical integral (21:1–36)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma qualificação não expressa foi removida; as notas anteriores sobre servidão, instância judicial, intenção, parto prematuro, dano, proporcionalidade e indenizações foram preservadas.
+
+Correção no texto:
+- **21:23:** “se houver dano grave” foi ajustado para **“se houver dano”**, traduzindo אָסוֹן (*ason*) sem acrescentar o adjetivo “grave”, que não aparece no hebraico.
+
+Notas anteriores preservadas:
+- **21:1–8:** *mishpatim*, o uso de אֱלֹהִים (*elohim*) como possível instância judicial e a negação em 21:8.
+- **21:13:** אִנָּה לְיָדוֹ (*innah leyado*), acontecimento não intencional.
+- **21:22–23:** a expressão “seus filhos saírem” admite a leitura de parto prematuro ou perda gestacional; אָסוֹן (*ason*) significa dano/calamidade, e a extensão do dano no caso jurídico é discutida. A tradução mantém “dar à luz prematuramente” como opção interpretativa e registra a alternativa.
+- **21:23:** נֶפֶשׁ תַּחַת נָפֶשׁ (*nefesh tachat nefesh*), literalmente “vida por vida”, fórmula de equivalência/proporcionalidade cuja aplicação jurídica não se presume apenas pela expressão.
+- **21:24–36:** fórmulas de proporcionalidade, responsabilidade do dono do boi e indenização preservadas.
+
+Demais versículos (21:1–22, 21:24–36): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 21: https://mechon-mamre.org/p/pt/pt0221.htm
+- NET Bible, Êxodo 21:22, sobre a discussão entre parto prematuro e perda gestacional, e o alcance de אָסוֹן (*ason*): https://classic.net.bible.org/verse.php?book=Exo&chapter=21&verse=22
+- NET Bible, Êxodo 21:22–23, sobre בִּפְלִלִים (*biflilim*) e a decisão por arbitradores: https://classic.net.bible.org/passage.php?passage=Exo+21%3A22-23
+- Interlinear hebraico, Êxodo 21:23, para אָסוֹן (*ason*) como dano/ferimento: https://search.nepebrasil.org/interlinear/?chapter=21&livro=2&verse=23
+- NET Bible, Êxodo 21:6, sobre אֱלֹהִים (*elohim*) como possível instância judicial: https://classic.net.bible.org/verse.php?book=Exo&chapter=21&verse=6
+
+**Próximo ponto:** Êxodo 22:1–31. Não repetir a conferência de Êxodo 21 sem evidência concreta de erro novo.
