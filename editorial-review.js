@@ -85,6 +85,14 @@
   );
 
   addLegacyBook(
+    4,
+    window.DEUTERONOMY_TEXT,
+    "em_revisao",
+    "Biblia Hebraica Stuttgartensia (BHS), Deuteronomium 1; tradução própria da Enciclopédia Bíblica",
+    "Início da tradução e integração do livro: capítulo 1 de 34. O texto foi preparado a partir do hebraico da BHS; notas lexicais selecionadas acompanham passagens relevantes. Os demais capítulos ainda não foram integrados. Revisão textual e editorial em andamento."
+  );
+
+  addLegacyBook(
     1,
     window.EXODUS_TEXT,
     "em_revisao",
@@ -128,6 +136,7 @@
     if (book === 1 && window.EXODUS_TEXT) return window.EXODUS_TEXT[chapter] || [];
     if (book === 2 && window.LEVITICUS_TEXT) return window.LEVITICUS_TEXT[chapter] || [];
     if (book === 3 && window.NUMBERS_TEXT) return window.NUMBERS_TEXT[chapter] || [];
+    if (book === 4 && window.DEUTERONOMY_TEXT) return window.DEUTERONOMY_TEXT[chapter] || [];
     return [];
   }
 
