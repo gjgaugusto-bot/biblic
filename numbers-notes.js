@@ -281,8 +281,8 @@ window.TRANSLATION_NOTES[3][29] = {
 };
 /* Notas lexicais — Números 30. */
 window.TRANSLATION_NOTES[3][30] = {
-  2:{term:"לֶאְסֹר אִסָּר (le'esor issar)",text:"“Obrigar-se por compromisso”. A construção reforça a natureza vinculante do voto ou juramento."},
-  3:{term:"לֹא יַחֵל דְּבָרוֹ (lo yachel devaro)",text:"“Não profanará/quebrará sua palavra”. O voto exige cumprimento do que foi pronunciado."},
-  6:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
-  14:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
+  1:{term:"לֶאְסֹר אִסָּר (le'esor issar)",text:"“Obrigar-se por compromisso”. A construção reforça a natureza vinculante do voto ou juramento."},
+  2:{term:"לֹא יַחֵל דְּבָרוֹ (lo yachel devaro)",text:"“Não profanará/quebrará sua palavra”. O voto exige cumprimento do que foi pronunciado."},
+  5:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
+  13:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
 };
