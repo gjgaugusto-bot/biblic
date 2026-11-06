@@ -689,4 +689,25 @@ Demais versículos (22:1–28, 22:30–31): conferidos quanto à correspondênci
 - NET Bible, Êxodo 22:29, sobre מְלֵאָתְךָ (*mele'atekha*) e וְדִמְעֲךָ (*vedim'akha*) como produção agrícola e produto dos lagares: https://classic.net.bible.org/verse.php?book=Exo&chapter=22&verse=29
 - Rashi sobre Êxodo 22:29, leitura de מלאתך como produção madura/primícias e דמעך como oferta: https://www.sefaria.org/Rashi_on_Exodus.22.28?lang=bi
 
-**Próximo ponto:** Êxodo 23:1–33. Não repetir a conferência de Êxodo 22 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 24:1–18. Não repetir a conferência de Êxodo 22 sem evidência concreta de erro novo.
+
+
+### Êxodo 23 — conferência textual e lexical integral (23:1–33)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; uma nota foi acrescentada para explicitar a dupla condição descrita em 23:26.
+
+Nota lexical acrescentada:
+- **23:26:** מְשַׁכֵּלָה (*meshakkelah*) descreve a que perde filhos/sofre aborto ou perda gestacional; עֲקָרָה (*aqarah*) designa mulher estéril. A dupla expressão cobre perda gestacional e infertilidade, sem definir causas médicas.
+
+Notas anteriores preservadas:
+- **23:2, 23:11, 23:14–15, 23:20 e 23:28:** mantidas, incluindo a pressão da maioria, o descanso da terra no sétimo ano, as festas de peregrinação, o mensageiro e a identificação incerta da vespa/marimbondo.
+
+Demais versículos (23:1, 23:3–10, 23:12–13, 23:16–19, 23:21–27 e 23:29–33): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 23: https://mechon-mamre.org/p/pt/pt0223.htm
+- NET Bible, Êxodo 23:26, sobre מְשַׁכֵּלָה (*meshakkelah*) e עֲקָרָה (*aqarah*): https://classic.net.bible.org/verse.php?book=Exo&chapter=23&verse=26
+- NET Bible, Êxodo 23:2, sobre רַבִּים (*rabbim*) e a pressão da maioria: https://classic.net.bible.org/verse.php?book=Exo&chapter=23&verse=2
+- NET Bible, Êxodo 23:28, sobre צִרְעָה (*tsir'ah*) e as possíveis identificações do inseto: https://classic.net.bible.org/verse.php?book=Exo&chapter=23&verse=28
+
+**Próximo ponto:** Êxodo 24:1–18. Não repetir a conferência de Êxodo 23 sem evidência concreta de erro novo.
