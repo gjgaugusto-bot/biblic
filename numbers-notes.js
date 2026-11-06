@@ -241,14 +241,14 @@ window.TRANSLATION_NOTES[3][24] = {
 window.TRANSLATION_NOTES[3][25] = {
   1:{term:"בַּעַל פְּעוֹר (Baal-Peor)",text:"Divindade cultuada na região de Peor; a expressão designa a vinculação cultual de Israel a esse culto."},
   3:{term:"וַיִּצָּמֶד (vayyitsamed)",text:"“Apegou-se/vinculou-se”. O verbo descreve adesão estreita, aqui em contexto de infidelidade cultual."},
-  4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a expor ou suspender publicamente; o modo exato da execução é discutido."},
+  4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a suspender, enforcar ou empalar publicamente; o modo exato da execução é discutido. A tradução explicita a execução pública sem afirmar um método além do que a forma permite determinar."},
   11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao demonstrar meu zelo”. A repetição da raiz קנא destaca o zelo de Fineias pela aliança."},
   12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
 };
 /* Notas lexicais — Números 26. */
 window.TRANSLATION_NOTES[3][26] = {
   2:{term:"שְׂאוּ אֶת־רֹאשׁ (se'u et-rosh)",text:"Literalmente “erguei a cabeça”; idiomaticamente, fazer o recenseamento."},
-  10:{term:"נֵס (nes)",text:"“Sinal/estandarte”. A punição torna-se um sinal público e memorial para a comunidade."},
+  10:{term:"נֵס (nes)",text:"“Sinal/estandarte”. Neste contexto, os mortos tornam-se um sinal público de advertência e memória para a comunidade."},
   52:{term:"לָאֵלֶּה תֵּחָלֵק הָאָרֶץ (la'elleh techaleq ha'aretz)",text:"A terra será repartida entre os recenseados; o texto combina distribuição proporcional e sorteio."},
   55:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O sorteio determina a localização da herança, dentro da distribuição tribal."},
   59:{term:"יוֹכֶבֶד (Yokheved)",text:"Joquebede, mãe de Moisés, Arão e Miriã; a genealogia a identifica como filha de Levi, nascida no Egito."},
