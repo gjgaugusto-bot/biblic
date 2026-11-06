@@ -38,7 +38,7 @@ try {
   assert.equal(await page.locator(".book-illustration[aria-hidden=\"true\"]").count(), 66, "As gravuras são decorativas e não devem duplicar os nomes dos livros");
 
   assert.equal(await page.locator("#search").count(), 0, "A página inicial não deve exibir o campo de busca removido");
-  await page.locator("#oldBooks .book").click();
+  await page.locator("#oldBooks .book").first().click();
   await page.locator("#readerView").waitFor({ state: "visible" });
   await page.getByRole("heading", { name: "Sobre o livro" }).waitFor();
   assert.ok(await page.locator(".book-info").innerText().then(text => text.includes("Idioma original")));
