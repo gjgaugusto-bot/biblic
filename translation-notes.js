@@ -94,37 +94,38 @@ window.TRANSLATION_NOTES = {
   }
 };
 
-Object.assign(window.TRANSLATION_NOTES[0][2], {
+Object.assign((window.TRANSLATION_NOTES[0][2] ||= {}), {
+  22:{term:"וַיִּבֶן (vayyiven, de banah)",text:"O verbo vem da raiz בנה, “construir/edificar”. O hebraico descreve Deus como quem constrói a parte retirada do ser humano em mulher. “Formou” comunica o resultado, mas não preserva a imagem verbal de construção; “fez da costela uma mulher” é uma alternativa natural."},
   23:{term:"אִישׁ / אִשָּׁה (ish / ishah)",text:"O versículo constrói um jogo sonoro entre ish (“homem”) e ishah (“mulher”). A frase explica a designação por meio de um jogo de palavras hebraico, não de uma etimologia histórica."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][3], {
+Object.assign((window.TRANSLATION_NOTES[0][3] ||= {}), {
   8:{term:"לְרוּחַ הַיּוֹם (leruach hayom)",text:"A expressão pode ser entendida como “à brisa do dia”, “ao vento do dia” ou “na hora fresca do dia”. A tradução escolhe uma imagem natural, sem definir uma hora exata."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][4], {
+Object.assign((window.TRANSLATION_NOTES[0][4] ||= {}), {
   7:{term:"הֲלוֹא אִם־תֵּיטִיב שְׂאֵת (halo im-teitiv se'et)",text:"A palavra se'et pode remeter a levantar o rosto/cabeça ou a ser aceito. Por isso, o início da resposta divina a Caim recebe traduções diferentes; a pergunta retórica não é totalmente transparente."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][6], {
+Object.assign((window.TRANSLATION_NOTES[0][6] ||= {}), {
   14:{term:"תֵּבָה (tevah)",text:"Termo usado para a embarcação de Noé e, em Êxodo 2, para a arca de papiro de Moisés. Não é o termo hebraico mais comum para navio; “arca” preserva essa escolha lexical."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][12], {
+Object.assign((window.TRANSLATION_NOTES[0][12] ||= {}), {
   1:{term:"לֶךְ־לְךָ (lech-lecha)",text:"Expressão enfática que pode ser traduzida literalmente “vai para ti” e idiomaticamente “vai-te/vai”. “Vai” é natural em português, mas não reproduz a repetição da forma hebraica."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][22], {
+Object.assign((window.TRANSLATION_NOTES[0][22] ||= {}), {
   2:{term:"יָחִיד (yachid)",text:"Significa “único”, “singular” ou “muito precioso”. Isaque não é o único filho biológico de Abraão no enredo, mas é o filho único no sentido específico da promessa e da relação destacada pela narrativa."},
   14:{term:"יְהוָה יִרְאֶה (YHWH yir'eh)",text:"Pode ser entendido como “YHWH verá/proverá”. O nome do lugar faz um jogo com o verbo ver e com a provisão mencionada na narrativa."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][29], {
+Object.assign((window.TRANSLATION_NOTES[0][29] ||= {}), {
   17:{term:"רַכּוֹת (rakot)",text:"Adjetivo de sentido discutido: pode indicar olhos delicados, suaves, fracos ou sem brilho. “Delicados” é uma opção possível, mas não elimina a ambiguidade."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][30], {
+Object.assign((window.TRANSLATION_NOTES[0][30] ||= {}), {
   8:{term:"נַפְתּוּלֵי אֱלֹהִים (naftulei Elohim)",text:"Expressão rara e difícil, ligada ao nome Naftali. Pode ser entendida como “lutas extraordinárias/de Deus” ou “lutas divinas”; a frase contém um jogo de palavras com o nome."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][32], {
+Object.assign((window.TRANSLATION_NOTES[0][32] ||= {}), {
   29:{term:"יִשְׂרָאֵל (Yisra'el)",text:"A explicação narrativa associa o nome a lutar/contender com Deus e com seres humanos. A etimologia exata é discutida; a frase do texto funciona como explicação literária do nome."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][41], {
+Object.assign((window.TRANSLATION_NOTES[0][41] ||= {}), {
   43:{term:"אַבְרֵךְ (avrek)",text:"Palavra de origem e significado incertos, preservada em transliteração em algumas traduções. As propostas incluem uma aclamação de honra ou uma ordem para ajoelhar-se; não há consenso."}
 });
-Object.assign(window.TRANSLATION_NOTES[0][43], {
+Object.assign((window.TRANSLATION_NOTES[0][43] ||= {}), {
   14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
 });

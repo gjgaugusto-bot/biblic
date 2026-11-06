@@ -26,7 +26,7 @@ async function scanAccessibility(page, label) {
 try {
   const context = await browser.newContext({ viewport: { width: 1365, height: 900 }, acceptDownloads: true });
   const page = await context.newPage();
-  page.on("pageerror", error => pageErrors.push(error.message));
+  page.on("pageerror", error => pageErrors.push(error.stack || error.message));
 
   const response = await page.goto(baseURL, { waitUntil: "networkidle" });
   assert.equal(response?.status(), 200, "A página inicial deve responder HTTP 200");
@@ -65,6 +65,31 @@ try {
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
+  await page.locator("#editBook").selectOption("0");
+  await page.locator("#editChapter").selectOption("4");
+  assert.ok(await page.locator("#editorialReviewPanel").innerText().then(text => text.includes("Revisado:")),"O painel deve mostrar o estado migrado de Gênesis");
+  assert.equal(await page.locator('[data-review-row="0-4-1"] .review-state').first().innerText(),"Revisado","Gênesis deve preservar o estado revisado anterior");
+  await page.locator("#editBook").selectOption("1");
+  await page.locator("#editChapter").selectOption("1");
+  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Em revisão","Êxodo deve preservar o estado anterior em revisão");
+  const firstReviewRow = page.locator('[data-review-row="1-1-1"]');
+  await firstReviewRow.locator("details").evaluate(element => element.open = true);
+  await firstReviewRow.locator("[data-review-target]").selectOption("revisado");
+  await firstReviewRow.locator("[data-review-source]").fill("Fonte de teste — não editorial");
+  await firstReviewRow.locator("[data-review-observation]").fill("Conferência simulada para teste automatizado.");
+  await firstReviewRow.locator("[data-review-apply]").click();
+  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Revisado","A transição Em revisão → Revisado deve funcionar com evidência");
+  assert.equal(await firstReviewRow.locator("[data-review-target] option[value=pendente]").count(),0,"Um trecho revisado não pode voltar a Pendente");
+  await page.locator('[data-review-row="1-1-1"] details').evaluate(element => element.open = true);
+  await page.locator('[data-review-row="1-1-1"] [data-review-target]').selectOption("reaberto");
+  await page.locator('[data-review-row="1-1-1"] [data-review-source]').fill("Nova fonte de teste");
+  await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("");
+  await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
+  assert.ok((await page.locator('[data-review-row="1-1-1"] [data-review-message]').innerText()).includes("motivo concreto"),"A reabertura sem justificativa deve ser bloqueada");
+  await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("Erro concreto simulado para validar a reabertura.");
+  await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
+  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Reaberto","A reabertura exige e registra fonte e motivo");
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-1-1"].history.length),3,"O histórico de transições deve preservar a migração e as duas mudanças");
   await page.locator("#editBook").selectOption("0");
   await page.locator("#editChapter").selectOption("4");
   const marker = "Teste automático de persistência — não é conteúdo editorial.";
@@ -112,6 +137,7 @@ try {
   for await (const chunk of exportStream) exportChunks.push(chunk);
   const exportedBackup = JSON.parse(Buffer.concat(exportChunks).toString("utf8"));
   assert.equal(exportedBackup.studyCategories["Símbolos"].title, categoryTitle, "O backup exportado deve incluir as categorias personalizadas");
+  assert.ok(exportedBackup.editorialReviews && exportedBackup.editorialReviews["1-1-1"], "O backup exportado deve incluir o histórico editorial por versículo");
 
   const importData = {
     edits: { "0-4": { title: "Título restaurado pelo teste" } },
@@ -119,7 +145,8 @@ try {
     studyEdits: {},
     studyCategories: { "Símbolos": { title: "Categoria importada", description: "Descrição importada" } },
     symbols: [{ name: "Símbolo importado", text: "Descrição importada" }],
-    characters: [{ name: "Personagem importado", bio: "Biografia importada" }]
+    characters: [{ name: "Personagem importado", bio: "Biografia importada" }],
+    editorialReviews: { "1-1-1": { status: "reaberto", source: "Fonte importada", observation: "", reopenReason: "Justificativa importada", updatedAt: "2026-11-06T00:00:00.000Z", history: [{ from: "revisado", to: "reaberto", at: "2026-11-06T00:00:00.000Z", source: "Fonte importada", observation: "", reason: "Justificativa importada" }] } }
   };
   await page.locator("#importData").setInputFiles({
     name: "backup-teste.json",
@@ -130,6 +157,7 @@ try {
   assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("enciclopediaBiblicaEditsV1"))["0-4"].title), "Título restaurado pelo teste");
   assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibStudyCategories"))["Símbolos"].title), "Categoria importada", "A importação deve restaurar as categorias personalizadas");
   assert.equal(await page.locator("#studyCategoryTitleSymbols").inputValue(), "Categoria importada");
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-1-1"].status), "reaberto", "A importação deve restaurar o estado editorial");
 
   page.once("dialog", dialog => dialog.accept());
   await page.locator("#clearData").click();
@@ -137,7 +165,7 @@ try {
 
   const mobile = await context.newPage();
   await mobile.setViewportSize({ width: 390, height: 844 });
-  mobile.on("pageerror", error => pageErrors.push(error.message));
+  mobile.on("pageerror", error => pageErrors.push(error.stack || error.message));
   await mobile.goto(baseURL, { waitUntil: "networkidle" });
   const overflow = await mobile.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
   assert.ok(overflow <= 1, `A página não deve ter rolagem horizontal no celular (overflow: ${overflow}px)`);

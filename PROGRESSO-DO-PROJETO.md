@@ -1,6 +1,6 @@
 # Controle de progresso — Enciclopédia Bíblica
 
-Última atualização: 2026-11-05
+Última atualização: 2026-11-06
 
 ## Estado atual confirmado
 
@@ -16,8 +16,10 @@
 
 ## Próxima etapa de conteúdo
 
-- Retomar o estudo em Gênesis 5, respeitando integralmente as regras editoriais abaixo.
-- Não marcar capítulo como concluído até passar pela revisão textual, conferência das referências/dados e confirmação do usuário quando aplicável.
+- Gênesis é considerado revisado no controle editorial anterior; falta a conferência final de abertura, sem rebaixar os versículos aprovados.
+- Êxodo 1–40 está integrado; a revisão acadêmica versículo por versículo com o hebraico continua pendente/em andamento.
+- Depois de estabilizar o controle editorial, avançar pelos demais livros até Apocalipse.
+- Não marcar capítulo como concluído sem conferência textual, fontes e registro do resultado.
 
 ## Regras editoriais obrigatórias
 
@@ -44,7 +46,7 @@ Um capítulo só pode receber status **REVISADO** quando:
 - [ ] A alteração passou pelas verificações automáticas.
 - [ ] O resultado foi registrado neste arquivo com data, arquivos/commit e estado.
 
-Status permitidos: **RASCUNHO**, **EM REVISÃO**, **REVISADO**, **PUBLICADO**. Publicado não significa automaticamente revisado: os dois estados devem ser registrados separadamente.
+Estados editoriais por versículo: **Pendente**, **Em revisão**, **Revisado** e **Reaberto**. Publicação é um estado técnico separado e nunca substitui a aprovação editorial.
 
 ## Registro de alterações e decisões
 
@@ -414,5 +416,46 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Mantida a verificação de contagem dos versículos dos 50 capítulos de Gênesis. Essa verificação confirma estrutura, não fidelidade semântica.
 - Escopo não certificado: a revisão semântica verso a verso de Gênesis ainda depende de leitura especializada em hebraico bíblico; a biblioteca de estudos também não foi validada como fonte acadêmica.
 - Os dados salvos apenas no navegador (`localStorage`) não são incluídos no snapshot GitHub. É necessário exportar o backup JSON separadamente.
-- Nenhuma alteração foi integrada em `main`; o PR #35 continua draft; o site não foi publicado.
+- Nenhuma alteração foi integrada em `main`; o PR #35 foi integrado à branch `base-imutavel-2026-11-06` (merge commit `0d879f02df46fb1b4a5a2d87fe1c21bfba06187b`); ele não foi integrado em `main` nesta etapa.
 - Base congelada: `base-imutavel-2026-11-06`. Continuidade: `trabalho-base-2026-11-06`.
+
+
+## Controle editorial por versículo — implementação em andamento (2026-11-06)
+
+- Criada a branch de trabalho `feat/controle-editorial-versiculos-2026-11-06`, derivada do estado atual de `main` após confirmar que a branch `trabalho-base-2026-11-06` estava 148 commits atrás e não continha a integração atual de Êxodo. A base congelada não foi alterada.
+- Adicionado `editorial-review.js` com os quatro estados oficiais, transições controladas, fonte/observação para aprovação, motivo e fonte obrigatórios para reabertura e histórico por versículo.
+- O estado-base migra Gênesis como Revisado, conforme a declaração anterior do proprietário, e Êxodo como Em revisão, conforme `REVISAO-EXODO.md`. A migração não executa uma nova revisão acadêmica.
+- Os demais livros permanecem Pendente até a análise específica.
+- O painel preserva registros órfãos caso a quantidade de versículos mude; não rebaixa automaticamente trechos revisados.
+- O campo `editorialReviews` foi integrado à exportação/importação JSON, ao backup automático local e à validação do backup.
+- Criado `REGISTRO-EDITORIAL.md` como referência versionada das regras e da migração inicial.
+- Atualizados `CRITERIOS-EDITORIAIS.md`, `BACKUPS.md`, o validador estrutural e os testes Playwright.
+- Limite: alterações feitas no painel continuam locais ao navegador até que o backup JSON seja exportado e versionado no repositório. Não há sincronização remota automática.
+- Aguardar execução do workflow no Pull Request e conferir a interface; nenhuma alteração foi integrada em `main` nem publicada.
+
+### Próximas etapas editoriais
+
+1. Conferir a conferência final de abertura de Gênesis sem rebaixar os versículos já aprovados.
+2. Retomar Êxodo com revisão hebraica versículo por versículo, atualizando estados somente após a conferência real.
+3. Depois de estabilizado o fluxo, avançar livro por livro até Apocalipse, registrando correções, fontes, pendências e reaberturas.
+
+
+## Estado oficial e continuidade obrigatória — 2026-11-06
+
+- Criado `ESTADO-OFICIAL-DO-PROJETO.md` no commit `584d64108eadb4f7eadbd9b47e78a87698b0427a`. Esse arquivo é o ponto de retomada obrigatório de novas conversas; consultar antes de sugerir qualquer revisão.
+- Gênesis: não reiniciar revisão geral. O usuário informou que o livro já foi revisado várias vezes; resta somente a conferência final da abertura, uma única vez. Após concluí-la e registrá-la, fechar Gênesis definitivamente. Reabertura futura somente com evidência objetiva de erro relevante.
+- Êxodo 1–40: integração preservada; revisão acadêmica hebraica verso a verso segue como trabalho pendente, sem refazer a integração.
+- PR #36 / branch `feat/controle-editorial-versiculos-2026-11-06`: último workflow conhecido `42267847733` terminou com falha no passo Playwright “Testar navegação, edição, backups e acessibilidade”; sintaxe, validação estrutural, instalação do Chromium e servidor local passaram. Investigar e corrigir o teste antes de considerar a infraestrutura concluída.
+- Nenhuma alteração foi integrada em `main` ou publicada. O PR continua aguardando validação e decisão do proprietário.
+- Próxima sequência: corrigir o teste do PR #36; conferir uma única vez a abertura de Gênesis e registrar fechamento definitivo; prosseguir em Êxodo; depois seguir em ordem até Apocalipse.
+
+
+## Fechamento final da abertura de Gênesis e validação técnica — 2026-11-06
+
+- Gênesis 1–3 passou pela conferência final combinada. Não foi encontrada omissão ou erro objetivo que exigisse alteração do corpo da tradução. A nota lexical de Gênesis 2:22 foi complementada para registrar o verbo בנה (banah, “construir/edificar”), sem reescrita desnecessária do texto.
+- Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Os capítulos 1–50 não retornam à fila por nova conversa, mudança de ferramenta ou preferência estilística. Reabertura somente com evidência concreta de erro relevante ou fonte nova, em versículos específicos e com justificativa registrada.
+- Resultado da conferência e fontes foram registrados em REGISTRO-EDITORIAL.md; a regra de continuidade está em ESTADO-OFICIAL-DO-PROJETO.md.
+- Corrigido em translation-notes.js um erro JavaScript: notas anexadas a capítulos sem objeto inicial agora criam esse objeto antes de Object.assign.
+- Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
+- PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
+- Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.

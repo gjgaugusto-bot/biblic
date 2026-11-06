@@ -40,14 +40,16 @@ Cada nota deve:
 6. **Revisão editorial:** ortografia, clareza, neutralidade e padronização.
 7. **Publicação:** registrar alterações em commit separado, atualizar versão/cache e testar o site.
 
-## Estados editoriais
+## Estados editoriais oficiais por versículo
 
-- **Pendente:** ainda não passou por revisão específica.
-- **Em revisão:** está sendo comparado com as fontes.
-- **Revisado:** passou pelas etapas documentadas; isso não significa consenso acadêmico.
-- **Controverso:** há mais de uma leitura relevante e a divergência deve permanecer explícita.
+- **Pendente:** ainda não foi analisado.
+- **Em revisão:** a análise está em andamento.
+- **Revisado:** foi conferido e aprovado, com fonte e observação registradas.
+- **Reaberto:** somente quando surgir erro concreto ou fonte relevante que justifique nova análise.
 
-Não marcar um capítulo ou livro como academicamente revisado apenas porque os arquivos carregam ou a contagem de versículos confere.
+A mudança de conversa, sessão ou ferramenta nunca devolve um trecho aprovado à fila. Um trecho **Revisado** só pode passar a **Reaberto** com motivo concreto e fonte relevante. A partir de **Reaberto**, o trabalho retorna a **Em revisão**; o histórico anterior permanece intacto.
+
+Divergências acadêmicas devem ser registradas nas observações e notas, sem criar um quinto estado. Não marcar um capítulo ou livro como academicamente revisado apenas porque os arquivos carregam ou a contagem de versículos confere.
 
 ## Arquitetura e preservação
 

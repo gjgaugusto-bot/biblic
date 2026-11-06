@@ -27,6 +27,7 @@ jobs:
       - name: Verificar sintaxe JavaScript
         run: |
           node --check app.js
+          node --check editorial-review.js
           node --check study-data.js
           node --check book-art.js
           node --check scripts/validate-site.mjs

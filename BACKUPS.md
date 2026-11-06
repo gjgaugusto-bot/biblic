@@ -2,9 +2,9 @@
 
 ## Estado da base
 - A branch `base-imutavel-2026-11-06` será a referência congelada desta auditoria.
-- A branch `trabalho-base-2026-11-06` será usada para as próximas alterações; nunca editar a branch de referência.
+- A branch `trabalho-base-2026-11-06` é um ponto histórico de continuidade, mas estava 148 commits atrás de `main` em 2026-11-06. A branch de recurso deste trabalho foi derivada do HEAD atual de `main`; nunca editar a branch de referência.
 - A branch `arquivo-pre-auditoria-2026-11-06` preserva o estado anterior às correções desta auditoria.
-- O Pull Request #35 permanece aberto em modo draft e não foi integrado à branch `main`.
+- O Pull Request #35 foi fechado e integrado à branch `base-imutavel-2026-11-06` (merge commit `0d879f02df46fb1b4a5a2d87fe1c21bfba06187b`); não foi integrado à branch `main`.
 - A branch `main` e o site publicado não foram alterados nesta etapa.
 
 ## Verificações automáticas
@@ -37,3 +37,8 @@ O aplicativo salva edições, guias, símbolos, personagens e categorias no arma
 Nenhuma publicação foi feita nesta etapa. O workflow de deploy publica somente quando há push em `main` ou acionamento manual. Não integrar o PR #35 nem executar deploy sem autorização explícita do proprietário.
 
 Consulte `PROTOCOLO-DE-TRABALHO.md` para o fluxo de inspeção, alteração, revisão, teste e recuperação. Consulte `PROGRESSO-DO-PROJETO.md` para o histórico detalhado.
+
+
+## Registro editorial por versículo
+
+O controle editorial usa quatro estados: Pendente, Em revisão, Revisado e Reaberto. As mudanças feitas no painel são salvas em `encBibEditorialReviewsV1`, incluídas no backup automático local e exportadas no campo `editorialReviews` do JSON. A importação valida o formato e preserva campos ausentes. O registro versionado do repositório está em `REGISTRO-EDITORIAL.md`; exporte e versione as alterações do navegador para sincronizá-las entre dispositivos e conversas. A limpeza dos dados locais não apaga os estados-base definidos no código.
