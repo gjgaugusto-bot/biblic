@@ -730,4 +730,32 @@ Demais versículos (24:1–6, 24:9, 24:11–18): conferidos quanto à correspond
 - NET Bible, Êxodo 24:10, sobre לִבְנַת הַסַּפִּיר (*livnat hassappir*) e a identificação do pavimento: https://classic.net.bible.org/verse.php?book=Exo&chapter=24&verse=10
 - Rashi sobre Êxodo 24:10, interpretação do pavimento como safira/lápis-lazúli: https://www.sefaria.org/Rashi_on_Exodus.24.10
 
-**Próximo ponto:** Êxodo 25:1–40. Não repetir a conferência de Êxodo 24 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 26:1–37. Não repetir a conferência de Êxodo 24 sem evidência concreta de erro novo.
+
+
+### Êxodo 25 — conferência textual e lexical integral (25:1–40)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Dois conjuntos de utensílios foram refinados para manter a ordem dos termos hebraicos e evitar identificações excessivamente específicas.
+
+Correções no texto:
+- **25:29:** a ordem dos utensílios foi ajustada para “pratos e colheres, bem como jarras e taças para as libações”, acompanhando קְעָרֹת (*qe'arot*), כַּפּוֹת (*kappot*), קְשׂוֹת (*qesot*) e מְנַקִּיּוֹת (*menakkiyyot*). A cláusula das libações foi associada especialmente aos dois últimos recipientes.
+- **25:38:** “apagadores” foi refinado para “bandejas para recolher as cinzas”. מַלְקָחִים (*malqachim*) são pinças/tenazes para manusear os pavios; מַחְתּוֹת (*machtot*) são bandejas ou pequenos recipientes para mechas queimadas/cinzas.
+
+Notas lexicais acrescentadas:
+- **25:29:** os quatro utensílios têm identificação material discutida: pratos/bandejas, colheres/conchas, jarras e taças/bacias. A nota registra a função de verter libações sem atribuí-la indistintamente aos quatro objetos.
+- **25:38:** registrada a distinção entre pinças para os pavios e bandejas/recipientes para recolher cinzas; a tradução evita confundir as bandejas com apagadores.
+
+Notas anteriores preservadas:
+- **25:5, 25:8, 25:10, 25:17–18, 25:30–31 e 25:39:** mantidas, incluindo a identificação incerta de תְּחָשִׁים (*techashim*), o santuário, o côvado, a *kapporet*, os querubins, o pão da Presença, a menorá e o talento.
+
+Demais versículos (25:1–28, 25:30–37 e 25:39–40): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 25: https://mechon-mamre.org/p/pt/pt0225.htm
+- NET Bible, Êxodo 25:29, sobre os quatro utensílios e a função das jarras/taças nas libações: https://classic.net.bible.org/verse.php?book=Exo&chapter=25&verse=29
+- UBS Handbook on Exodus, Êxodo 25:29, alternativas de tradução para pratos, conchas, jarras e bacias: https://tips.translation.bible/tip_verse/exod-2529/
+- NET Bible, Êxodo 25:38, sobre מַלְקָחִים (*malqachim*) como pinças e מַחְתּוֹת (*machtot*) como bandejas/recipientes: https://classic.net.bible.org/verse.php?book=Exo&chapter=25&verse=38
+- UBS Handbook on Exodus, Êxodo 25:38, função das pinças e bandejas para os pavios queimados: https://tips.translation.bible/tip_verse/exod-2538/
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, Êxodo 25:38, discussão das *machtot* como recipientes para cinzas ou brasas: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+
+**Próximo ponto:** Êxodo 26:1–37. Não repetir a conferência de Êxodo 25 sem evidência concreta de erro novo.
