@@ -15,7 +15,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 |---|---|---|
 | 1–10 | Em revisão | Primeira passada iniciada; ainda não marcar como concluído. |
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
-| 16–20 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
+| 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 21–25 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 26–30 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 31–35 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
@@ -55,3 +55,10 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 - As notas já existentes sobre *pesach*, *bein ha'arbayim*, *chamushim* e a expressão “mão erguida” foram mantidas após a primeira conferência.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 12 e 14; Sefaria, Êxodo 12:40; texto hebraico massorético e comentários tradicionais sobre Êxodo 14:20.
+
+### Êxodo 16–20 — primeira passada
+
+- **Êxodo 19:15:** acrescentada nota para a expressão “não vos aproximeis de mulher”, contextualizando-a como abstinência de relações sexuais durante a preparação ritual no Sinai.
+- **Êxodo 20:7:** “Não pronuncie o nome” foi ajustado para “Não tome o nome”, mais próximo do verbo hebraico נשא (*nasa*, “tomar/levar”). A nota existente sobre o uso vazio ou enganoso do nome foi mantida.
+
+Fontes consultadas: Mechon-Mamre, Êxodo 20; texto hebraico de Êxodo 20:7; tradições interpretativas sobre Êxodo 19:15.
