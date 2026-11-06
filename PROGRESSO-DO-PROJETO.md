@@ -726,3 +726,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais ampliadas em 30:1, 30:13 e 30:35; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 31:1–18.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 1–30: primeira passada textual e lexical documentada no registro REVISAO-EXODO.md.
+- Êxodo 30: refinadas as traduções de 30:7, 30:23 e 30:32; ampliadas as notas de termos técnicos e especiarias; corrigida chave duplicada de nota em 30:13.
+- Estado global de Êxodo permanece **Em revisão**; não marcar os versículos como aprovados apenas por concluir esta primeira passada.
+- Próximo capítulo: **Êxodo 31**.
+- Gênesis continua fechado definitivamente; não reiniciar sua revisão.
