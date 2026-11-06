@@ -39,7 +39,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
       if (books.length !== 66) fail(`Esperados 66 livros; encontrados ${books.length}`);
       if (books.some((book) => !book.name || !Number.isInteger(book.chapters) || book.chapters < 1))
         fail("Há livro sem nome ou contagem de capítulos válida");
-      const expectedChapterCounts = [50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4,28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,5,5,3,5,1,1,1,22];
+      const expectedChapterCounts = [50,40,27,36,34,24,21,4,31,24,22,25,29,36,10,13,10,42,150,31,12,8,66,52,5,48,12,14,3,9,1,4,7,3,3,3,2,14,4,28,16,24,21,28,16,16,13,6,6,4,4,5,3,6,4,3,1,13,5,5,3,5,1,1,1,22];
       if (books.length === expectedChapterCounts.length && books.some((book, index) => book.chapters !== expectedChapterCounts[index]))
         fail("A contagem de capítulos dos 66 livros diverge da configuração canônica esperada");
       if (new Set(books.map((book) => book.name)).size !== books.length) fail("Há nomes de livros duplicados");
