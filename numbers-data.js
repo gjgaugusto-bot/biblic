@@ -513,7 +513,7 @@ window.NUMBERS_TEXT[12] = [
   "E disseram: Por acaso YHWH falou somente por meio de Moisés? Não falou também por nosso intermédio? E YHWH ouviu.",
   "Ora, Moisés era muito humilde, mais do que todos os homens que havia sobre a face da terra.",
   "De repente, YHWH disse a Moisés, a Arão e a Miriã: Saí, vós três, para a Tenda do Encontro. E os três saíram.",
-  "YHWH desceu numa coluna de nuvem, pôs-se à entrada da Tenda e chamou Arão e Miriã; ambos se aproximaram.",
+  "YHWH desceu numa coluna de nuvem, pôs-se à entrada da Tenda, chamou Arão e Miriã, e os dois saíram.",
   "Ele disse: Ouvi agora minhas palavras: Se houver entre vós um profeta, eu, YHWH, me darei a conhecer a ele em visão e falarei com ele em sonho.",
   "Não é assim com meu servo Moisés; em toda a minha casa ele é fiel.",
   "Com ele falo face a face, claramente, e não por enigmas; ele contempla a forma de YHWH. Por que, então, não tivestes temor de falar contra meu servo, contra Moisés?",
