@@ -318,3 +318,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas ampliadas em 27:5 e 27:9 sobre a moldura do altar e as cortinas do pátio; notas anteriores preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 28:1–43.
+
+
+### Continuidade de conteúdo — Êxodo 28 (2026-11-06)
+
+- Êxodo 28:1–43 conferido integralmente contra o Texto Massorético.
+- Ajuste em 28:41 para “os investirás no sacerdócio”, distinguindo a expressão técnica “encher a mão” de “santificar”.
+- Notas ampliadas em 28:32, 28:38 e 28:41; notas anteriores preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 29:1–46.
