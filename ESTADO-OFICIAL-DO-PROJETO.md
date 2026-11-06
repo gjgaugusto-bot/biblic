@@ -241,3 +241,11 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 18:19 e 18:23; notas anteriores de 18:1, 18:3, 18:11 e 18:21 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 19:1–25.
+
+
+### Continuidade de conteúdo — Êxodo 19 (2026-11-06)
+
+- Êxodo 19:1–25 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota acrescentada em 19:22 sobre יִפְרֹץ (*yifrotz*), “irromper/abrir brecha”; notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 20:1–26.
