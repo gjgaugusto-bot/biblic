@@ -24,28 +24,6 @@ window.TRANSLATION_NOTES[3][2] = {
 /* Notas lexicais — Números 3. */
 window.TRANSLATION_NOTES[3][3] = {
   1:{term:"תּוֹלְדֹת (toledot)",text:"“Linhagem”, “descendência” ou “registro genealógico”. A fórmula introduz a genealogia sacerdotal de Arão e seus filhos."},
-  4:{term:"אֵשׁ זָרָה (esh zarah)",text:"Literalmente, “fogo estranho” ou “fogo alheio”. A expressão indica uma oferta ritual não autorizada; o versículo não detalha aqui todos os elementos da infração."},
-  7:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Encargo”, “guarda” ou “responsabilidade confiada”. O termo descreve os deveres dos levitas em relação a Arão, à assembleia e ao santuário."},
-  12:{term:"פֶּטֶר רֶחֶם (peter rechem)",text:"“Aquele que abre o ventre”, isto é, o primogênito. A expressão fundamenta a substituição dos primogênitos pelos levitas."},
-  15:{term:"מִבֶּן־חֹדֶשׁ וָמַעְלָה (mibben-chodesh va-ma'lah)",text:"“De um mês de idade para cima”. Diferentemente do recenseamento militar, a contagem dos levitas inclui os meninos desde o primeiro mês."},
-  28:{term:"שְׁמֹנַת אֲלָפִים וְשֵׁשׁ מֵאוֹת (shemōnat alafim ve-shesh me'ot)",text:"O texto massorético registra 8.600 coatitas. A soma dos três grupos (7.500 + 8.600 + 6.200) resulta em 22.300, enquanto 3:39 informa 22.000. A diferença de 300 é frequentemente explicada como primogênitos levitas já pertencentes a YHWH, mas o texto não explicita essa dedução neste ponto; a tensão numérica deve permanecer anotada."},
-  47:{term:"שֶׁקֶל הַקֹּדֶשׁ (sheqel haqqodesh)",text:"“Siclo do santuário”, padrão de peso usado para o pagamento. O texto fixa vinte geras por siclo e cinco siclos por pessoa."}
-};
-/* Notas lexicais — Números 4. */
-window.TRANSLATION_NOTES[3][4] = {
-  3:{term:"צָבָא (tsava')",text:"Neste contexto, “serviço” ou “tarefa organizada”. O termo pode designar exército, mas aqui descreve o serviço dos levitas no santuário."},
-  4:{term:"קֹדֶשׁ הַקֳּדָשִׁים (qodesh haqqodashim)",text:"“Coisas santíssimas”. A expressão marca os objetos e espaços de acesso especialmente restrito."},
-  5:{term:"פָּרֹכֶת (parokhet)",text:"A cortina interna que separava o espaço mais sagrado do restante do santuário. Sua função é também proteger a Arca durante o transporte."},
-  6:{term:"תְּחַשׁ (tachash)",text:"Nome de material ou couro usado como cobertura. A identificação zoológica é incerta; por isso a tradução evita afirmar uma espécie."},
-  15:{term:"כְּלֵי הַקֹּדֶשׁ (kelei haqqodesh)",text:"“Utensílios sagrados”. O texto distingue o transporte dos objetos de sua manipulação: os coatitas só os carregam depois de cobertos pelos sacerdotes."},
-  23:{term:"לִצְבֹא צָבָא (litsvo tsava')",text:"Expressão idiomática para entrar no serviço ou assumir uma tarefa. A faixa etária de trinta a cinquenta anos delimita o período de serviço ativo."},
-  32:{term:"בְּשֵׁמוֹת תִּפְקְדוּ (beshemot tifqedu)",text:"“Registrareis nominalmente”. O inventário individualizado dos objetos e responsáveis procura assegurar que nada se perca no transporte."},
-  49:{term:"עַל־פִּי יְהוָה (al-pi YHWH)",text:"Literalmente, “pela boca de YHWH”, isto é, conforme sua ordem. A expressão encerra o recenseamento ressaltando sua autoridade normativa."}
-};
-
-/* Notas lexicais — Números 3. */
-window.TRANSLATION_NOTES[3][3] = {
-  1:{term:"תּוֹלְדֹת (toledot)",text:"“Linhagem”, “descendência” ou “registro genealógico”. A fórmula introduz a genealogia sacerdotal de Arão e seus filhos."},
   4:{term:"אֵשׁ זָרָה (esh zarah)",text:"Literalmente, “fogo estranho” ou “fogo alheio”. A expressão indica uma oferta ritual não autorizada."},
   7:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Encargo”, “guarda” ou “responsabilidade confiada”. O termo descreve os deveres dos levitas em relação a Arão, à assembleia e ao santuário."},
   12:{term:"פֶּטֶר רֶחֶם (peter rechem)",text:"“Aquele que abre o ventre”, isto é, o primogênito. A expressão fundamenta a substituição dos primogênitos pelos levitas."},
