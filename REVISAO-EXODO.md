@@ -664,4 +664,29 @@ Demais versículos (21:1–22, 21:24–36): conferidos quanto à correspondênci
 - Interlinear hebraico, Êxodo 21:23, para אָסוֹן (*ason*) como dano/ferimento: https://search.nepebrasil.org/interlinear/?chapter=21&livro=2&verse=23
 - NET Bible, Êxodo 21:6, sobre אֱלֹהִים (*elohim*) como possível instância judicial: https://classic.net.bible.org/verse.php?book=Exo&chapter=21&verse=6
 
-**Próximo ponto:** Êxodo 22:1–31. Não repetir a conferência de Êxodo 21 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 23:1–33. Não repetir a conferência de Êxodo 21 sem evidência concreta de erro novo.
+
+
+### Êxodo 22 — conferência textual e lexical integral (22:1–31)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma expressão sobre as ofertas agrícolas foi refinada; as notas anteriores sobre arrombamento, instância judicial, preço matrimonial, interdito, juros e autoridade foram preservadas.
+
+Correção no texto:
+- **22:29:** “o que enche teus celeiros e teus lagares” foi ajustado para **“a abundância de tua colheita e o produto de teus lagares”**, refletindo מְלֵאָתְךָ (*mele'atekha*, plenitude/abundância da produção) e וְדִמְעֲךָ (*vedim'akha*, literalmente “teu gotejar/tuas gotas”, entendido como o produto líquido das prensas).
+
+Nota lexical acrescentada:
+- **22:29:** a expressão combina a plenitude da produção agrícola com o produto líquido dos lagares (vinho e possivelmente azeite). A ordem é não atrasar a entrega das ofertas da colheita e das prensas; a nota registra a leitura tradicional como primícias/terumá sem afirmar que esses termos aparecem literalmente no versículo.
+
+Notas anteriores preservadas:
+- **22:2, 22:8, 22:16, 22:20, 22:24 e 22:28:** mantidas, incluindo “não há sangue para ele”, a instância judicial, *mohar*, חרם (*cherem*, interdito/consagração à destruição), juros e a ambiguidade de אֱלֹהִים (*elohim*).
+
+Demais versículos (22:1–28, 22:30–31): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 22: https://mechon-mamre.org/p/pt/pt0222.htm
+- NET Bible, Êxodo 22:20, sobre יָחֳרָם (*yochoram*) como pessoa colocada sob interdito/consagrada à destruição: https://classic.net.bible.org/passage.php?passage=Exo+22%3A20
+- UBS Handbook on Exodus, Êxodo 22:20, sobre o conceito de *cherem*: https://tips.translation.bible/story/translation-commentary-on-exod-2220/
+- NET Bible, Êxodo 22:29, sobre מְלֵאָתְךָ (*mele'atekha*) e וְדִמְעֲךָ (*vedim'akha*) como produção agrícola e produto dos lagares: https://classic.net.bible.org/verse.php?book=Exo&chapter=22&verse=29
+- Rashi sobre Êxodo 22:29, leitura de מלאתך como produção madura/primícias e דמעך como oferta: https://www.sefaria.org/Rashi_on_Exodus.22.28?lang=bi
+
+**Próximo ponto:** Êxodo 23:1–33. Não repetir a conferência de Êxodo 22 sem evidência concreta de erro novo.
