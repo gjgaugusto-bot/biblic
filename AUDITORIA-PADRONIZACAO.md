@@ -17,7 +17,7 @@ Esta auditoria é estrutural/editorial. Não certifica revisão exegética integ
 
 | Livro | Texto | Notas lexicais | Observação |
 |---|---|---|---|
-| Gênesis | Capítulos 1–6 integrados (160 versículos) | 46 notas lexicais selecionadas em arquivo próprio | Capítulos 11–50 ainda não foram integrados (40 capítulos ausentes); capítulos 1–2 têm fonte-base a documentar; capítulos 3–6 foram traduzidos com consulta à WLC |
+| Gênesis | Capítulos 1–10 integrados (267 versículos) | 43 notas lexicais efetivas em arquivo próprio | Capítulos 11–50 ainda não foram integrados (40 capítulos ausentes); capítulos 1–2 têm fonte-base a documentar; capítulos 3–10 foram traduzidos com consulta à WLC |
 | Êxodo | Arquivos em lotes cobrem capítulos 1–40 | 190 notas lexicais selecionadas em arquivos por faixa de capítulos | Dados e notas permanecem fragmentados fisicamente, mas compartilham objetos globais padronizados |
 | Levítico | 27 capítulos em leviticus-data.js | 162 notas lexicais selecionadas em leviticus-notes.js | Notas não são uma por versículo; conferir distribuição por capítulo |
 | Números | 36 capítulos em numbers-data.js | 273 notas lexicais selecionadas em numbers-notes.js | Não implica nota em cada versículo |
