@@ -14,9 +14,9 @@ Concluir a Enciclopédia Bíblica, preservando o trabalho existente, e avançar 
 |---|---|---|
 | Gênesis | **FECHADO DEFINITIVAMENTE** | A conferência final da abertura (capítulos 1–3) foi concluída em 2026-11-06. Não reiniciar nem reabrir por nova conversa, preferência estilística ou falta de contexto. |
 | Êxodo 1–40 | **Integrado; revisão acadêmica versículo por versículo ainda pendente** | Texto, notas lexicais e correções estão no projeto. A análise com o hebraico precisa prosseguir sem refazer a integração técnica. |
-| Controle editorial por versículo | **Implementado e validado em Chromium** | PR #36, branch `feat/controle-editorial-versiculos-2026-11-06`. Workflow `42269297633` passou em sintaxe, estrutura, Chromium, testes funcionais e axe-core. Aguardando decisão de integração/publicação. |
+| Controle editorial por versículo | **Integrado e publicado** | PR #36 integrado à `main` pelo commit `2d65a9262fdb87354d4b8c0530a88f87898b0f2d`. Workflow de publicação GitHub Pages `42269769636` concluiu com sucesso. |
 | Demais livros | **Aguardando sequência editorial** | Não começar antes de estabilizar a etapa atual; avançar em ordem até Apocalipse. |
-| Site publicado | **Não alterado por esta etapa** | O PR #36 não foi integrado nem publicado; `main` e o site público permanecem intactos. |
+| Site publicado | **Publicado** | A implantação automática do GitHub Pages após o merge do PR #36 concluiu com sucesso (run `42269769636`). |
 
 ## Regra definitiva para Gênesis
 
@@ -78,3 +78,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Workflow GitHub Actions `42269297633` (run 270): sintaxe, validação estrutural, instalação Chromium, servidor local, testes Playwright funcionais e varredura axe-core concluídos com sucesso. Resultado: “TESTES DE NAVEGADOR APROVADOS”.
 - O PR #36 continua sem integração/publicação; `main` e o site público não foram alterados.
 - Próximo trabalho de conteúdo: Êxodo, revisão acadêmica verso a verso a partir do ponto registrado em `REVISAO-EXODO.md`, sem refazer a integração dos capítulos 1–40.
+
+
+## Atualização de continuidade — 2026-11-06 (após integração e início de Êxodo)
+
+- PR #36 integrado à `main` pelo commit `2d65a9262fdb87354d4b8c0530a88f87898b0f2d`; publicação GitHub Pages confirmada pelo workflow `42269769636` com conclusão `success`.
+- Criada branch de revisão `review/exodo-1-5-2026-11-06` a partir da `main` já atualizada.
+- Êxodo 1:1–22 conferido contra o Texto Massorético. Correções pontuais em 1:15 e 1:20; notas lexicais ampliadas em 1:1, 1:5, 1:15, 1:16, 1:19, 1:20 e 1:21. A nota preexistente de 1:7 foi preservada.
+- O capítulo 1 está com a primeira conferência textual integral registrada, mas seu estado no painel permanece “Em revisão” até a transição individual ser gravada com fonte e observação; não declarar o livro concluído.
+- Próximo ponto: Êxodo 2:1–25.
