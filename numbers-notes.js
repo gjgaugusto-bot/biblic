@@ -298,6 +298,7 @@ window.TRANSLATION_NOTES[3][27] = {
   18:{term:"אִישׁ אֲשֶׁר־רוּחַ בּוֹ (ish asher-ruach bo)",text:"“Homem em quem há espírito”. Josué é descrito como alguém capacitado interiormente para a tarefa."},
   20:{term:"הוֹד (hod)",text:"“Majestade/autoridade”. Moisés transfere a Josué parte de sua dignidade pública para que a comunidade o reconheça."},
   21:{term:"מִשְׁפַּט הָאוּרִים (mishpat ha'urim)",text:"“Juízo dos Urim”. Meio sacerdotal de consulta divina; o texto não descreve aqui seu procedimento material."}
+  3:{term:"בַּעֲדַת־קֹרַח (ba adat-Qorach)",text:"“Na assembleia de Corá”. A expressão remete à rebelião narrada em Números 16; o versículo distingue o pai das filhas dos participantes daquela revolta."},
 };
 
 /* Notas lexicais — Números 28. */
@@ -307,11 +308,12 @@ window.TRANSLATION_NOTES[3][28] = {
   6:{term:"עֹלַת תָּמִיד (olat tamid)",text:"“Holocausto contínuo/regular”. Refere-se à oferta diária da manhã e do entardecer."},
   7:{term:"שֵׁכָר (shekhar)",text:"Bebida fermentada ou forte usada na libação; o termo não deve ser confundido com a oferta de vinho em todos os contextos."},
   26:{term:"יוֹם הַבִּכּוּרִים (yom habikkurim)",text:"“Dia das primícias”, associado à Festa das Semanas e à apresentação da nova colheita."}
+  14:{term:"נִסְכֵּיהֶם (niskêhem)",text:"“Suas libações”. As quantidades de vinho variam conforme o tipo de animal oferecido, como especificado neste versículo."},
 };
 /* Notas lexicais — Números 29. */
 window.TRANSLATION_NOTES[3][29] = {
   1:{term:"יוֹם תְּרוּעָה (yom teru'ah)",text:"“Dia de aclamação/toque”. תְּרוּעָה pode designar toque de trombeta, alarme ou aclamação festiva."},
-  7:{term:"וְעִנִּיתֶם אֶת־נַפְשֹׁתֵיכֶם (ve'innitem et-nafshotekhem)",text:"“Afligireis vossas pessoas/almas”. Fórmula de humilhação e abstinência associada ao Dia da Expiação."},
+  7:{term:"וְעִנִּיתֶם אֶת־נַפְשֹׁתֵיכֶם (ve'innitem et-nafshotekhem)",text:"“Afligireis a vós mesmos”. Fórmula de humilhação e abstinência associada ao Dia da Expiação; נפש pode designar a própria pessoa, não apenas uma entidade imaterial."},
   12:{term:"חַג (chag)",text:"“Festa”. Aqui introduz a celebração de sete dias do sétimo mês, conhecida como Festa das Cabanas."},
   35:{term:"עֲצֶרֶת (atseret)",text:"“Assembleia solene/conclusiva”. O termo designa uma reunião festiva especial; seu sentido preciso é debatido."}
 };
@@ -321,6 +323,7 @@ window.TRANSLATION_NOTES[3][30] = {
   2:{term:"לֹא יַחֵל דְּבָרוֹ (lo yachel devaro)",text:"“Não profanará/quebrará sua palavra”. O voto exige cumprimento do que foi pronunciado."},
   5:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
   13:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
+  6:{term:"וְהָיוּ נְדָרֶיהָ עָלֶיהָ (vehayu nedareha aleha)",text:"“Seus votos estarão sobre ela”. A expressão indica que as obrigações assumidas permanecem vigentes quando ela se casa."},
 };
 
 /* Notas lexicais — Números 31. */
@@ -332,6 +335,7 @@ window.TRANSLATION_NOTES[3][31] = {
   28:{term:"מֶכֶס (mekhes)",text:"“Tributo/contribuição”. Aqui designa a parcela retirada da metade dos combatentes e entregue a YHWH por meio do sacerdote."},
   32:{term:"מַלְקוֹחַ (malqoach)",text:"“Presa capturada”. O termo distingue os cativos e animais tomados do restante do despojo."},
   50:{term:"כּוּמָז (kumaz)",text:"Pingente ou joia corporal; o objeto é listado entre os artigos de ouro oferecidos como contribuição."}
+  49:{term:"וְלֹא־נִפְקַד מִמֶּנּוּ אִישׁ (velo-nifqad mimmennu ish)",text:"“Nenhum de nós falta”. O verbo פקד pode significar contar/registrar; os oficiais declaram que todos os homens enviados retornaram."},
 };
 
 /* Notas lexicais — Números 32. */
@@ -343,6 +347,7 @@ window.TRANSLATION_NOTES[3][32] = {
   22:{term:"וְנִכְבְּשָׁה הָאָרֶץ (venichbe-shah ha'aretz)",text:"“Quando a terra for subjugada”. A concessão territorial fica condicionada ao cumprimento do compromisso coletivo."},
   24:{term:"מוֹצָא פִיכֶם (motza fikhem)",text:"“O que saiu de vossa boca”. A palavra empenhada é tratada como obrigação pública."},
   33:{term:"חֲצִי שֵׁבֶט מְנַשֶּׁה (chatzi shevet Menasheh)",text:"A meia tribo de Manassés aparece incluída na concessão territorial, embora sua participação não tenha sido apresentada no pedido inicial de Gade e Rúben."}
+  4:{term:"הִכָּה (hikkah)",text:"“Feriu/subjugou”. No contexto da conquista, o verbo descreve a derrota dos povos que ocupavam a região, não um dano literal causado à terra."},
 };
 
 /* Notas lexicais — Números 33. */
@@ -359,6 +364,7 @@ window.TRANSLATION_NOTES[3][34] = {
   5:{term:"נַחַל מִצְרַיִם (nachal Mitsrayim)",text:"“Ribeiro do Egito”. Designa o limite meridional ocidental; a identificação geográfica exata é discutida."},
   6:{term:"הַיָּם הַגָּדֹל (hayam hagadol)",text:"“Grande Mar”, designação do Mediterrâneo como fronteira ocidental."},
   13:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O mecanismo expressa distribuição da terra sob a ordem divina."}
+  4:{term:"מַעֲלֵה עַקְרַבִּים (ma'aleh Aqrabbim)",text:"“Subida de Acrabim”. Marco topográfico da fronteira sul; a identificação exata do percurso e de alguns pontos geográficos permanece discutida."},
 };
 /* Notas lexicais — Números 35. */
 window.TRANSLATION_NOTES[3][35] = {
@@ -368,10 +374,12 @@ window.TRANSLATION_NOTES[3][35] = {
   12:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador/resgatador do sangue”. Parente com função de reivindicar justiça pela morte; a lei limita a ação ao distinguir homicídio intencional e não intencional."},
   25:{term:"כֹּהֵן הַגָּדֹל (kohen hagadol)",text:"“Sumo sacerdote”. Sua morte encerra o período de permanência do homicida involuntário na cidade de refúgio."},
   33:{term:"תַּחֲנִיפוּ (tachanifu)",text:"Verbo raro ligado a poluir ou profanar. O sangue derramado contamina a terra, que não pode ser purificada sem justiça pelo sangue derramado."}
+  11:{term:"מִקְלָט (miqlat)",text:"“Refúgio”. As cidades são designadas como locais de proteção para quem matou sem intenção, até que a comunidade julgue o caso."},
 };
 /* Notas lexicais — Números 36. */
 window.TRANSLATION_NOTES[3][36] = {
   2:{term:"נַחֲלָה (nachalah)",text:"“Herança”. A questão jurídica é a preservação da parcela tribal transmitida às filhas de Zelofeade."},
   4:{term:"יוֹבֵל (yovel)",text:"“Jubileu”. O ciclo de restituição da propriedade tornaria permanente a transferência de uma herança entre tribos, segundo a preocupação apresentada."},
   6:{term:"לַטּוֹב בְּעֵינֵיהֶם (latov be'eineihem)",text:"“Com quem lhes parecer bem”. A escolha matrimonial é permitida, com a condição de permanecer dentro do clã da tribo paterna."}
+  11:{term:"בְּנֵי דֹדֵיהֶן (bene dodeihen)",text:"“Filhos de seus tios paternos”, isto é, primos pelo lado do pai. O casamento mantém a herança dentro do grupo familiar da tribo de Manassés."},
 };
