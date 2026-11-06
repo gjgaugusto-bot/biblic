@@ -51,6 +51,8 @@ Na sequência, foram conferidos os 50 versículos do capítulo 16 e os 13 versí
 
 Foram então conferidos integralmente os 32 versículos de Números 18 e os 22 versículos de Números 19 com o texto hebraico do Mechon-Mamre. Em 19:2, “prescrição da instrução” foi refinado para “prescrição da Torá”, preservando o termo hebraico תּוֹרָה. As notas lexicais existentes de 19:2, 19:9, 19:15, 19:17, 19:18 e 19:20 foram mantidas após a conferência. Os capítulos 18 e 19 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 29 versículos de Números 20 e os 35 versículos de Números 21 com o texto hebraico do Mechon-Mamre. Em 20:26, foi retirada a especificação “sacerdotais”, que não aparece explicitamente no substantivo בְּגָדָיו (“suas vestes”); a nota lexical foi corrigida para refletir o termo efetivamente presente no versículo. As demais leituras foram mantidas após a comparação. Os capítulos 20 e 21 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
