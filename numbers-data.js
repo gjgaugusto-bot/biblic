@@ -58,3 +58,42 @@ window.NUMBERS_TEXT[1] = [
   "Os levitas, porém, acamparão ao redor do Tabernáculo do Testemunho, para que não haja ira contra a comunidade dos filhos de Israel; os levitas guardarão o serviço do Tabernáculo do Testemunho.",
   "Os filhos de Israel fizeram conforme tudo o que YHWH havia ordenado a Moisés; assim fizeram."
 ];
+
+
+/* Números 2 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[2] = [
+  "YHWH falou a Moisés e a Arão, dizendo:",
+  "Os filhos de Israel acamparão, cada um junto ao seu estandarte, sob os sinais de sua casa paterna; acamparão ao redor da Tenda do Encontro, a certa distância dela.",
+  "Os que acamparem a leste, na direção do nascente, serão os do estandarte do acampamento de Judá, segundo seus grupos. O chefe dos filhos de Judá será Naassom, filho de Aminadabe.",
+  "O seu grupo, isto é, os registrados, será de setenta e quatro mil e seiscentos.",
+  "Junto a ele acampará a tribo de Issacar. O chefe dos filhos de Issacar será Natanael, filho de Zuar.",
+  "O seu grupo, isto é, os registrados, será de cinquenta e quatro mil e quatrocentos.",
+  "Depois, a tribo de Zebulom. O chefe dos filhos de Zebulom será Eliabe, filho de Helom.",
+  "O seu grupo, isto é, os registrados, será de cinquenta e sete mil e quatrocentos.",
+  "Todos os registrados do acampamento de Judá serão cento e oitenta e seis mil e quatrocentos, segundo seus grupos. Eles partirão primeiro.",
+  "O estandarte do acampamento de Rúben ficará ao sul, segundo seus grupos. O chefe dos filhos de Rúben será Elizur, filho de Sedeur.",
+  "O seu grupo, isto é, os registrados, será de quarenta e seis mil e quinhentos.",
+  "Junto a ele acampará a tribo de Simeão. O chefe dos filhos de Simeão será Selumiel, filho de Zurisadai.",
+  "O seu grupo, isto é, os registrados, será de cinquenta e nove mil e trezentos.",
+  "Depois, a tribo de Gade. O chefe dos filhos de Gade será Eliasafe, filho de Reuel.",
+  "O seu grupo, isto é, os registrados, será de quarenta e cinco mil seiscentos e cinquenta.",
+  "Todos os registrados do acampamento de Rúben serão cento e cinquenta e um mil quatrocentos e cinquenta, segundo seus grupos. Eles partirão em segundo lugar.",
+  "Depois partirá a Tenda do Encontro, com o acampamento dos levitas no meio dos acampamentos. Assim como acamparem, assim partirão, cada um em seu lugar, segundo seus estandartes.",
+  "O estandarte do acampamento de Efraim ficará a oeste, segundo seus grupos. O chefe dos filhos de Efraim será Elisama, filho de Amiúde.",
+  "O seu grupo, isto é, os registrados, será de quarenta mil e quinhentos.",
+  "Junto a ele ficará a tribo de Manassés. O chefe dos filhos de Manassés será Gamaliel, filho de Pedazur.",
+  "O seu grupo, isto é, os registrados, será de trinta e dois mil e duzentos.",
+  "Depois, a tribo de Benjamim. O chefe dos filhos de Benjamim será Abidã, filho de Gideoni.",
+  "O seu grupo, isto é, os registrados, será de trinta e cinco mil e quatrocentos.",
+  "Todos os registrados do acampamento de Efraim serão cento e oito mil e cem, segundo seus grupos. Eles partirão em terceiro lugar.",
+  "O estandarte do acampamento de Dã ficará ao norte, segundo seus grupos. O chefe dos filhos de Dã será Aiezer, filho de Amisadai.",
+  "O seu grupo, isto é, os registrados, será de sessenta e dois mil e setecentos.",
+  "Junto a ele acampará a tribo de Aser. O chefe dos filhos de Aser será Pagiel, filho de Ocrã.",
+  "O seu grupo, isto é, os registrados, será de quarenta e um mil e quinhentos.",
+  "Depois, a tribo de Naftali. O chefe dos filhos de Naftali será Aira, filho de Enã.",
+  "O seu grupo, isto é, os registrados, será de cinquenta e três mil e quatrocentos.",
+  "Todos os registrados do acampamento de Dã serão cento e cinquenta e sete mil e seiscentos. Eles partirão por último, segundo seus estandartes.",
+  "Esses são os registrados dos filhos de Israel segundo suas casas paternas. Todos os registrados dos acampamentos, segundo seus grupos, somaram seiscentos e três mil quinhentos e cinquenta.",
+  "Os levitas, porém, não foram registrados entre os filhos de Israel, conforme YHWH havia ordenado a Moisés.",
+  "Os filhos de Israel fizeram tudo conforme YHWH havia ordenado a Moisés: assim acamparam, segundo seus estandartes, e assim partiram, cada um com seu clã e sua casa paterna."
+];
