@@ -223,3 +223,6 @@ button.chapter-tab[aria-selected="false"]:focus{
     animation: none !important;
   }
 }
+
+/* Notas lexicais das traduções de trabalho */
+.verse-entry{margin:0 0 16px}.verse-entry .verse{margin-bottom:5px}.lexical-note{margin:5px 0 14px 35px;padding:10px 13px;border-left:3px solid #c5a052;background:#f7f4ed;border-radius:0 8px 8px 0;color:#5d5a52;font-size:14px;line-height:1.6}.lexical-note strong{display:block;margin-bottom:3px;color:#80652e;font-family:Arial,sans-serif;font-size:12px;letter-spacing:.02em}.lexical-note p{margin:0;font-family:Arial,sans-serif}@media(max-width:600px){.lexical-note{margin-left:12px}}
