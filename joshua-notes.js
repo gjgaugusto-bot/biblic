@@ -140,3 +140,19 @@ window.TRANSLATION_NOTES[5][16] = {
   9:{term:"הֶעָרִים הַמִּבְדָּלוֹת (he'arim hammivdalot)",text:"“As cidades separadas”. Indica cidades atribuídas a Efraim dentro do território de Manassés, formando enclaves ou porções destacadas."},
   10:{term:"לֹא הוֹרִישׁוּ (lo horishu)",text:"“Não desapossaram/não expulsaram”. O verbo ירש pode significar tomar posse ou desalojar os ocupantes, conforme o contexto."}
 };
+
+window.TRANSLATION_NOTES[5][17] = {
+  3:{term:"בְּנוֹת צְלָפְחָד (benot Tselofḥad)",text:"“Filhas de Zelofeade”. O caso delas dá continuidade à questão jurídica da herança familiar quando não há descendentes homens (cf. Números 27)."},
+  4:{term:"נַחֲלָה (naḥalah)",text:"Herança ou propriedade transmitida. O pedido das filhas é reconhecido como direito dentro da distribuição tribal."},
+  12:{term:"לֹא יָכְלוּ (lo yakhelu)",text:"“Não puderam”. O texto registra que a ocupação territorial não foi completa, apesar da distribuição formal das terras."},
+  13:{term:"לְמַס (lemas)",text:"Trabalho forçado ou serviço tributário. A narrativa distingue a sujeição dos cananeus de sua expulsão completa."},
+  16:{term:"רֶכֶב בַּרְזֶל (rekhev barzel)",text:"“Carros de ferro”. Expressão que enfatiza a vantagem militar dos cananeus nas planícies e vales."}
+};
+window.TRANSLATION_NOTES[5][18] = {
+  1:{term:"שִׁלֹה (Shiloh)",text:"Siló torna-se o centro do santuário e da assembleia israelita nesta etapa da narrativa, antes da centralidade posterior de Jerusalém."},
+  4:{term:"וְיִתְהַלְּכוּ בָאָרֶץ (veyithallekhu va'arets)",text:"“Percorram a terra”. O verbo descreve uma inspeção territorial sistemática para registrar cidades e dividir a região em porções."},
+  6:{term:"גּוֹרָל (goral)",text:"Sorteio ou lote. A decisão é apresentada como feita diante de YHWH, conferindo caráter religioso à distribuição."},
+  7:{term:"כְּהֻנַּת יְהוָה (kehunnat YHWH)",text:"“O sacerdócio de YHWH”. A expressão explica a herança singular dos levitas, em vez de uma faixa territorial contínua."},
+  10:{term:"וַיְחַלֶּק (vayḥalleq)",text:"“Repartiu/dividiu”. O verbo descreve a atribuição efetiva dos territórios às tribos por meio do sorteio."},
+  28:{term:"יְבוּסִי הִיא יְרוּשָׁלַם (Yevusi hi Yerushalayim)",text:"“O jebuseu, isto é, Jerusalém”. O texto identifica a cidade pelo nome e pela população que nela habitava naquele período."}
+};
