@@ -782,4 +782,26 @@ Demais versículos (26:2–16, 26:18–23, 26:25–30, 26:32–35 e 26:37): conf
 - Cambridge Bible for Schools and Colleges, Êxodo 26:24, discussão das interpretações possíveis para תֹּאֲמִים (*to'amim*): https://biblehub.com/commentaries/cambridge/exodus/26.htm
 - NET Bible, Êxodo 26:36, sobre מָסָךְ (*masakh*) como cortina/tela de entrada: https://classic.net.bible.org/verse.php?book=Exo&chapter=26&verse=36
 
-**Próximo ponto:** Êxodo 27:1–21. Não repetir a conferência de Êxodo 26 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 28:1–43. Não repetir a conferência de Êxodo 26 sem evidência concreta de erro novo.
+
+
+### Êxodo 27 — conferência textual e lexical integral (27:1–21)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para esclarecer a moldura do altar e as cortinas que delimitam o pátio.
+
+Notas lexicais acrescentadas:
+- **27:5:** כַּרְכֹּב (*karkov*) designa moldura, borda saliente ou rebordo do altar. A rede de bronze fica sob essa moldura, aproximadamente até a metade da altura; “borda” permanece como opção neutra.
+- **27:9:** קְלָעִים (*qela'im*) são cortinas/panos suspensos que delimitam o pátio, distintos do véu interno (*parokhet*) e da tela de entrada do tabernáculo (*masakh*).
+
+Notas anteriores preservadas:
+- **27:2–3, 27:20–21:** mantidas, incluindo os chifres do altar, os recipientes sacrificiais, o azeite esmagado e a lâmpada contínua.
+
+Demais versículos (27:1, 27:4, 27:6–8, 27:10–19): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 27: https://mechon-mamre.org/p/pt/pt0227.htm
+- NET Bible, Êxodo 27:5, sobre כַּרְכֹּב (*karkov*) como moldura/rebordo do altar: https://classic.net.bible.org/verse.php?book=Exo&chapter=27&verse=5
+- UBS Handbook on Exodus, Êxodo 27:5, posição da rede em relação à moldura: https://tips.translation.bible/tip_verse/exod-275/
+- NET Bible, Êxodo 27:9, sobre קְלָעִים (*qela'im*) como cortinas do pátio: https://classic.net.bible.org/verse.php?book=Exo&chapter=27&verse=9
+
+**Próximo ponto:** Êxodo 28:1–43. Não repetir a conferência de Êxodo 27 sem evidência concreta de erro novo.
