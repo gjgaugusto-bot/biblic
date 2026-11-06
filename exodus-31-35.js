@@ -131,7 +131,7 @@ window.EXODUS_TEXT[35] = [
 "óleo para a iluminação, especiarias para o óleo da unção e para o incenso aromático;",
 "pedras de ônix e pedras de engaste para o éfode e para o peitoral.",
 "Venham todos os que têm coração sábio dentre vós e façam tudo o que YHWH ordenou:",
-"o tabernáculo, sua tenda e sua cobertura, seus colchetes, armações, travessas, colunas e bases;",
+"o tabernáculo, sua tenda e sua cobertura, seus ganchos, armações, travessas, colunas e bases;",
 "a arca e seus varais, a cobertura e o véu da divisão;",
 "a mesa, seus varais e todos os seus utensílios, e o pão da Presença;",
 "o candelabro da iluminação, seus utensílios e suas lâmpadas, e o óleo para a iluminação;",
@@ -144,8 +144,8 @@ window.EXODUS_TEXT[35] = [
 "Todos aqueles cujo coração os moveu e cujo espírito os dispôs vieram trazendo a contribuição para YHWH, para a obra da tenda do encontro, para todo o seu serviço e para as vestes sagradas.",
 "Vieram homens e mulheres, todos os que estavam dispostos de coração; trouxeram broches, brincos, anéis, colares e todo tipo de objeto de ouro. Cada um apresentou uma oferta de ouro a YHWH.",
 "Todos os que possuíam tecido azul, púrpura, escarlate, linho fino, pelos de cabra, peles de carneiro tingidas de vermelho ou peles de tahash os trouxeram.",
-"Todos os que podiam oferecer prata ou bronze trouxeram a contribuição para YHWH; e todos os que possuíam madeira de acácia adequada para qualquer trabalho a trouxeram.",
-"Todas as mulheres habilidosas fiaram com as mãos e trouxeram o que haviam fiado: tecido azul, púrpura, escarlate e linho fino.",
+"Todos os que separaram uma contribuição de prata ou bronze trouxeram a contribuição para YHWH; e todos os que possuíam madeira de acácia adequada para qualquer trabalho a trouxeram.",
+"Todas as mulheres habilidosas fiaram com as mãos e trouxeram o que haviam fiado: fio azul, púrpura e escarlate, e linho fino.",
 "Todas as mulheres cujo coração as moveu com habilidade fiaram os pelos de cabra.",
 "Os chefes trouxeram pedras de ônix e pedras de engaste para o éfode e para o peitoral,",
 "especiarias e óleo para a iluminação, para o óleo da unção e para o incenso aromático.",
@@ -153,7 +153,7 @@ window.EXODUS_TEXT[35] = [
 "Moisés disse aos filhos de Israel: Vede, YHWH chamou pelo nome Bezalel, filho de Uri, filho de Hur, da tribo de Judá.",
 "Encheu-o do espírito de Deus, com sabedoria, entendimento, conhecimento e toda espécie de habilidade,",
 "para conceber projetos e trabalhar em ouro, prata e bronze,",
-"para lapidar pedras de engaste, entalhar madeira e realizar todo tipo de trabalho artístico.",
+"para trabalhar pedras e engastá-las, entalhar madeira e realizar todo tipo de trabalho artístico.",
 "Também lhe deu capacidade para ensinar, a ele e a Ooliabe, filho de Aisamaque, da tribo de Dã.",
 "Encheu-os de habilidade para executar toda espécie de trabalho de entalhador, desenhista, bordador em tecido azul, púrpura, escarlate e linho fino, e de tecelão; são capazes de realizar todo tipo de trabalho e conceber projetos."
 ];
