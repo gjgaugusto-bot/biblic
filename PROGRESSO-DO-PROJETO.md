@@ -562,3 +562,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais ampliadas/acrescentadas em 11:1, 11:4 e 11:8; notas de 11:2, 11:5 e 11:7 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 12:1–51.
+
+
+## 2026-11-06 — revisão de Êxodo 12:1–51
+
+- Conferência integral do capítulo 12 contra o Texto Massorético.
+- Ajuste em 12:21 para “Retirai e tomai”, preservando os dois imperativos hebraicos.
+- Notas lexicais em 12:3, 12:21 e 12:42; notas anteriores do capítulo preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 13:1–22.
