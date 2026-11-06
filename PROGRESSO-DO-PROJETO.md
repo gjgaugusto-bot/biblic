@@ -710,3 +710,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas ampliadas em 28:32, 28:38 e 28:41; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 29:1–46.
+
+
+## 2026-11-06 — revisão de Êxodo 29:1–46
+
+- Conferência integral do capítulo 29 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 29:6, 29:13, 29:18 e 29:22; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 30:1–38.
