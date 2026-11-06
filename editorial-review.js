@@ -59,9 +59,9 @@
       addLegacyBook(
         0,
         GENESIS_TEXT,
-        "revisado",
-        "Registro anterior do projeto e declaração do proprietário (2026-11-06)",
-        "Estado anterior preservado: Gênesis foi considerado revisado. A conferência final de abertura permanece registrada como pendência do livro; esta migração não rebaixa os trechos aprovados."
+        "em_revisao",
+        "Texto hebraico massorético (WLC, Westminster Leningrad Codex) e tradução de trabalho da Enciclopédia Bíblica",
+        "Gênesis está parcialmente integrado. Os capítulos 1–6 estão presentes nesta edição; os capítulos 7–50 permanecem pendentes. Os estados de revisão foram mantidos como em revisão; esta migração não constitui aprovação exegética."
       );
     }
   } catch (error) {
