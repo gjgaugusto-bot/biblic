@@ -233,3 +233,11 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 18:1–27.
+
+
+### Continuidade de conteúdo — Êxodo 18 (2026-11-06)
+
+- Êxodo 18:1–27 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas acrescentadas em 18:19 e 18:23; notas anteriores de 18:1, 18:3, 18:11 e 18:21 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 19:1–25.
