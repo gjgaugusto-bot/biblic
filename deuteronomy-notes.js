@@ -83,3 +83,38 @@ window.TRANSLATION_NOTES[4][6] = {
   24:{term:"לְטוֹב לָנוּ כָּל־הַיָּמִים (letov lanu kol-hayyamim)",text:"“Para nosso bem todos os dias”. A obediência é apresentada como caminho para a preservação e a vida da comunidade."},
   25:{term:"צְדָקָה (tsedaqah)",text:"“Justiça” ou “retidão”. Aqui descreve a condição de agir corretamente diante de YHWH ao observar o mandamento recebido."}
 };
+
+window.TRANSLATION_NOTES[4][7] = {
+  2:{term:"הַחֲרֵם תַּחֲרִים (haḥarem taḥarim)",text:"Construção enfática do verbo חרם: dedicar ao interdito, retirar do uso comum ou destruir. A nota registra a força do termo sem suavizar a linguagem de guerra."},
+  6:{term:"עַם קָדוֹשׁ (am qadosh)",text:"“Povo santo”, isto é, separado para YHWH e pertencente a ele; a eleição é descrita como relação de aliança."},
+  7:{term:"חָשַׁק (ḥashaq)",text:"Verbo de afeição ou apego. A escolha de Israel não decorre de grandeza numérica, mas do amor e do compromisso de YHWH."},
+  9:{term:"חֶסֶד (ḥesed)",text:"Lealdade amorosa, bondade comprometida ou fidelidade de aliança. O termo descreve a constância de YHWH para com os que o amam."},
+  10:{term:"אֶל־פָּנָיו (el-panav)",text:"Expressão literalmente “em sua face/diante dele”. Neste contexto, indica retribuição direta, sem demora ou intermediação."},
+  13:{term:"דְּגָן ... תִּירוֹשׁ ... יִצְהָר (dagan ... tirosh ... yitshar)",text:"Cereal, vinho novo e azeite: produtos agrícolas básicos que representam a fertilidade e a provisão da terra."},
+  16:{term:"מוֹקֵשׁ (moqesh)",text:"“Armadilha” ou “laço”. Servir aos deuses das nações seria uma cilada espiritual e política para Israel."},
+  22:{term:"מְעַט מְעַט (me'at me'at)",text:"“Pouco a pouco”. A expulsão gradual é relacionada à prevenção do aumento dos animais selvagens caso a terra ficasse desocupada."},
+  25:{term:"תּוֹעֵבָה (to'evah)",text:"“Abominação”. Termo de repulsa ritual e moral; objetos associados ao culto estrangeiro não devem ser apropriados."}
+};
+window.TRANSLATION_NOTES[4][8] = {
+  2:{term:"לְמַעַן עַנֹּתְךָ (lema'an annotkha)",text:"“Para te humilhar/afligir”. A experiência do deserto é apresentada como disciplina e prova que revela o conteúdo do coração."},
+  3:{term:"מֹצָא פִי־יְהוָה (motsa fi-YHWH)",text:"“O que procede da boca de YHWH”. A expressão ultrapassa a ideia de alimento físico e aponta para a dependência da palavra e da provisão divina."},
+  5:{term:"יְיַסֵּר אִישׁ אֶת־בְּנוֹ (yeyasser ish et-beno)",text:"“Um homem disciplina seu filho”. O verbo יסר pode indicar instruir, corrigir ou disciplinar; a imagem é de formação paternal."},
+  8:{term:"דְּבַשׁ (devash)",text:"“Mel”. Pode referir-se a mel de abelhas ou, em contextos agrícolas, a um produto doce da terra; a lista celebra a abundância."},
+  9:{term:"מְחָצֵב (meḥatsav)",text:"Lugar de onde se extrai ou corta metal. A menção de ferro e cobre destaca os recursos minerais da terra."},
+  14:{term:"וְרָם לְבָבֶךָ (veram levavekha)",text:"“Teu coração se elevará”. A metáfora descreve orgulho e autossuficiência que levam ao esquecimento de YHWH."},
+  15:{term:"נָחָשׁ שָׂרָף (naḥash saraf)",text:"“Serpente abrasadora”. Designação de serpentes venenosas, cuja mordida produz sensação de queimação."},
+  18:{term:"כֹּחַ לַעֲשׂוֹת חָיִל (koaḥ la'asot ḥayil)",text:"“Força para adquirir riqueza”. חַיִל pode indicar recursos, capacidade ou prosperidade; o texto atribui a YHWH a capacidade de produzir riqueza."}
+};
+window.TRANSLATION_NOTES[4][9] = {
+  2:{term:"בְּנֵי עֲנָק (bene Anaq)",text:"“Filhos de Anaque”, povo lembrado por sua estatura e força. A expressão é uma designação étnica, não necessariamente descendência literal de um único indivíduo."},
+  3:{term:"אֵשׁ אֹכְלָה (esh okhlah)",text:"“Fogo consumidor”. A metáfora descreve YHWH avançando à frente de Israel para subjugar os povos; não deve ser confundida com uma afirmação de mérito militar israelita."},
+  4:{term:"בְּצִדְקָתִי (betsidqati)",text:"“Por minha justiça”. O capítulo rejeita explicitamente a interpretação de que a posse da terra seja recompensa pela virtude de Israel."},
+  6:{term:"עַם־קְשֵׁה־עֹרֶף (am-qesheh-oref)",text:"“Povo de dura cerviz”. Metáfora de animal que resiste ao jugo; descreve obstinação e resistência à orientação."},
+  9:{term:"אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה (arba'im yom ve-arba'im laylah)",text:"“Quarenta dias e quarenta noites”. Fórmula de duração completa, destacando a permanência de Moisés no monte."},
+  10:{term:"מַעֲשֵׂה אֶצְבַּע אֱלֹהִים (ma'aseh etsba Elohim)",text:"“Escritas pelo dedo de Deus”. Expressão antropomórfica que atribui a escrita diretamente à ação divina."},
+  12:{term:"מַסֵּכָה (massekhah)",text:"“Imagem fundida”. Refere-se a objeto moldado por fundição, aqui o bezerro feito durante a ausência de Moisés."},
+  14:{term:"הֶרֶף מִמֶּנִּי (heref mimmenni)",text:"“Deixa-me”. A ordem divina apresenta a intercessão como momento decisivo na narrativa da possibilidade de destruição do povo."},
+  17:{term:"וָאֲשַׁבֵּר אֹתָם (va'ashabber otam)",text:"“Quebrei-as”. Moisés quebra as tábuas diante do povo como gesto simbólico da ruptura da aliança."},
+  21:{term:"דַּק לֶעָפָר (daq le'afar)",text:"“Pó fino”. A sequência de queimar, esmagar e triturar enfatiza a completa destruição do ídolo."},
+  26:{term:"פָּדִיתָ (padita)",text:"“Resgataste”. O verbo פדה expressa libertação mediante resgate; Moisés fundamenta sua súplica na ação salvadora de YHWH."}
+};
