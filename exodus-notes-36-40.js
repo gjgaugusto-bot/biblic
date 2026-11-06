@@ -7,6 +7,7 @@ Object.assign(window.TRANSLATION_NOTES[1],{
 3:{term:"נְדָבָה (nedavah)",text:"Oferta voluntária, apresentada espontaneamente."},
 8:{term:"מַעֲשֵׂה חֹשֵׁב (ma'aseh choshev)",text:"Trabalho de artesão habilidoso, com desenho elaborado ou tecido trabalhado."},
 18:{term:"קֶרֶס (qeres)",text:"Gancho ou colchete que unia as partes da cobertura da tenda."},
+19:{term:"תְּחָשִׁים (techashim)",text:"Material de pele de identificação incerta. A tradução conserva “tahash” em vez de afirmar que se trata de uma espécie animal específica."},
 37:{term:"מָסָךְ (masakh)",text:"Cortina ou biombo de entrada; distingue-se do véu interno."}
 },
 37:{
@@ -27,6 +28,7 @@ Object.assign(window.TRANSLATION_NOTES[1],{
 2:{term:"אֵפוֹד (efod)",text:"Éfode, vestimenta sacerdotal associada ao peitoral e às pedras memoriais das tribos."},
 6:{term:"פִּתּוּחֵי חוֹתָם (pittuchei chotam)",text:"Gravação como a de um selo: inscrição entalhada em pedra."},
 8:{term:"חֹשֶׁן (choshen)",text:"Peitoral sacerdotal que carregava as pedras associadas às tribos de Israel."},
+10:{term:"אֹדֶם (odem) / פִּטְדָה (pitdah) / בָּרֶקֶת (bareqet) e demais nomes das pedras",text:"Os nomes hebraicos das pedras do peitoral são antigos e nem sempre permitem identificação mineral segura. Os equivalentes portugueses são tradicionais; diferentes traduções atribuem nomes distintos a algumas pedras."},
 30:{term:"צִיץ (tsits); קֹדֶשׁ לַיהוָה (qodesh laYHWH)",text:"“Lâmina/ornamento” e “Santidade a YHWH”: placa de ouro presa ao turbante do sumo sacerdote, com inscrição de consagração."}
 },
 40:{
