@@ -78,6 +78,7 @@ window.TRANSLATION_NOTES = {
   }
 };
 
+for (const chapter of [2,3,4,6,12,22,29,30,32,41,43]) { window.TRANSLATION_NOTES[0][chapter] ||= {}; }
 Object.assign(window.TRANSLATION_NOTES[0][2], {
   23:{term:"אִישׁ / אִשָּׁה (ish / ishah)",text:"O versículo constrói um jogo sonoro entre ish (“homem”) e ishah (“mulher”). A frase explica a designação por meio de um jogo de palavras hebraico, não de uma etimologia histórica."}
 });
