@@ -368,3 +368,102 @@ window.NUMBERS_TEXT[7] = [
   "Todos os animais do sacrifício de comunhão foram vinte e quatro bois, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano. Essa foi a dedicação do altar depois de sua unção.",
   "Quando Moisés entrava na Tenda do Encontro para falar com YHWH, ouvia a voz que lhe falava de cima da cobertura da Arca do Testemunho, de entre os dois querubins; assim YHWH falava com ele."
 ];
+
+/* Números 8 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[8] = [
+  "YHWH falou a Moisés, dizendo:",
+  "Fala a Arão e dize-lhe: Quando acenderes as lâmpadas, as sete lâmpadas iluminarão a parte dianteira do candelabro.",
+  "Arão assim fez: acendeu as lâmpadas voltadas para a parte dianteira do candelabro, conforme YHWH havia ordenado a Moisés.",
+  "Esta era a obra do candelabro: era de ouro batido, desde sua haste até suas flores; era feito segundo o modelo que YHWH havia mostrado a Moisés.",
+  "YHWH falou a Moisés, dizendo:",
+  "Toma os levitas dentre os filhos de Israel e purifica-os.",
+  "Assim farás para purificá-los: asperge sobre eles a água da purificação; que passem navalha por todo o corpo, lavem suas roupas e purifiquem-se.",
+  "Tomem um novilho e sua oferta de cereal: farinha fina misturada com azeite; tomarás também outro novilho como oferta pelo pecado.",
+  "Farás os levitas aproximarem-se da Tenda do Encontro e reunirás toda a comunidade dos filhos de Israel.",
+  "Farás os levitas aproximarem-se diante de YHWH, e os filhos de Israel imporão as mãos sobre os levitas.",
+  "Arão apresentará os levitas diante de YHWH como oferta movida dos filhos de Israel, para que realizem o serviço de YHWH.",
+  "Os levitas porão as mãos sobre a cabeça dos dois novilhos; oferecerás um como oferta pelo pecado e o outro como holocausto a YHWH, para fazer expiação pelos levitas.",
+  "Farás os levitas ficarem diante de Arão e de seus filhos e os apresentarás como oferta movida a YHWH.",
+  "Assim separarás os levitas dentre os filhos de Israel, e os levitas serão meus.",
+  "Depois disso, os levitas entrarão para servir na Tenda do Encontro. Tu os purificarás e os apresentarás como oferta movida.",
+  "Pois eles me foram inteiramente entregues dentre os filhos de Israel; tomei-os para mim em lugar de todo aquele que abre o ventre, isto é, de todo primogênito dos filhos de Israel.",
+  "Porque todo primogênito entre os filhos de Israel, tanto dos seres humanos como dos animais, é meu; no dia em que feri todos os primogênitos na terra do Egito, consagrei-os para mim.",
+  "Tomei os levitas em lugar de todos os primogênitos dos filhos de Israel.",
+  "Separei os levitas dentre os filhos de Israel e os dei como dádiva a Arão e a seus filhos, dentre os filhos de Israel, para realizarem o serviço dos filhos de Israel na Tenda do Encontro e fazerem expiação por eles, para que não haja praga entre os filhos de Israel quando se aproximarem do santuário.",
+  "Moisés, Arão e toda a comunidade dos filhos de Israel fizeram com os levitas conforme tudo o que YHWH havia ordenado a Moisés a respeito deles; assim fizeram os filhos de Israel.",
+  "Os levitas purificaram-se e lavaram suas roupas; Arão os apresentou como oferta movida diante de YHWH e fez expiação por eles, para purificá-los.",
+  "Depois disso, os levitas entraram para realizar seu serviço na Tenda do Encontro, diante de Arão e de seus filhos. Conforme YHWH havia ordenado a Moisés a respeito dos levitas, assim fizeram com eles.",
+  "YHWH falou a Moisés, dizendo:",
+  "Esta é a regra dos levitas: de vinte e cinco anos para cima, entrarão para servir no serviço da Tenda do Encontro.",
+  "A partir dos cinquenta anos, retirar-se-ão do serviço ativo e não mais trabalharão nele.",
+  "Poderão auxiliar seus irmãos na Tenda do Encontro, cumprindo encargos, mas não executarão o serviço. Assim farás com os levitas quanto aos seus encargos."
+];
+
+
+/* Números 9 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[9] = [
+  "YHWH falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois de saírem da terra do Egito, dizendo:",
+  "Que os filhos de Israel celebrem a Páscoa no tempo determinado.",
+  "No décimo quarto dia deste mês, ao crepúsculo, celebrareis a Páscoa no tempo determinado; fareis conforme todos os seus estatutos e todas as suas prescrições.",
+  "Moisés falou aos filhos de Israel para que celebrassem a Páscoa.",
+  "Assim, celebraram a Páscoa no primeiro mês, no décimo quarto dia do mês, ao crepúsculo, no deserto do Sinai; conforme tudo o que YHWH havia ordenado a Moisés, assim fizeram os filhos de Israel.",
+  "Havia, porém, alguns homens que estavam impuros por causa de um morto e não podiam celebrar a Páscoa naquele dia. Apresentaram-se diante de Moisés e de Arão naquele mesmo dia.",
+  "Esses homens disseram: Estamos impuros por causa de um morto. Por que seríamos impedidos de apresentar a oferta de YHWH no tempo determinado, entre os filhos de Israel?",
+  "Moisés lhes respondeu: Esperai, e ouvirei o que YHWH ordenará a respeito de vós.",
+  "YHWH falou a Moisés, dizendo:",
+  "Fala aos filhos de Israel: Se alguém dentre vós ou dentre vossas gerações futuras estiver impuro por causa de um morto ou estiver em viagem distante, ainda assim celebrará a Páscoa para YHWH.",
+  "Celebrá-la-á no segundo mês, no décimo quarto dia, ao crepúsculo; com pães sem fermento e ervas amargas a comerão.",
+  "Não deixarão dela até a manhã, nem quebrarão osso algum dela; conforme todo o estatuto da Páscoa, celebrá-la-ão.",
+  "Mas o homem que estiver puro e não estiver em viagem e deixar de celebrar a Páscoa será eliminado de seu povo, pois não apresentou a oferta de YHWH no tempo determinado; esse homem levará sua culpa.",
+  "Se um estrangeiro residente entre vós celebrar a Páscoa para YHWH, fará conforme o estatuto e a prescrição da Páscoa. Haverá um só estatuto para vós, tanto para o estrangeiro como para o natural da terra.",
+  "No dia em que o Tabernáculo foi erguido, a nuvem cobriu o Tabernáculo, a Tenda do Testemunho; à tarde, havia sobre o Tabernáculo algo como aparência de fogo até a manhã.",
+  "Assim acontecia continuamente: a nuvem o cobria, e à noite havia aparência de fogo.",
+  "Sempre que a nuvem se elevava de sobre a Tenda, depois disso os filhos de Israel partiam; e no lugar onde a nuvem se detinha, ali os filhos de Israel acampavam.",
+  "Conforme a ordem de YHWH, os filhos de Israel partiam e, conforme a ordem de YHWH, acampavam; enquanto a nuvem permanecia sobre o Tabernáculo, ficavam acampados.",
+  "Quando a nuvem permanecia muitos dias sobre o Tabernáculo, os filhos de Israel guardavam o encargo de YHWH e não partiam.",
+  "Às vezes a nuvem permanecia poucos dias sobre o Tabernáculo; conforme a ordem de YHWH, acampavam e, conforme a ordem de YHWH, partiam.",
+  "Às vezes a nuvem permanecia desde a tarde até a manhã; quando se elevava pela manhã, partiam. Se se elevava de dia ou de noite, partiam.",
+  "Se a nuvem permanecesse sobre o Tabernáculo por dois dias, um mês ou mais tempo, os filhos de Israel ficavam acampados e não partiam; quando ela se elevava, partiam.",
+  "Conforme a ordem de YHWH acampavam e conforme a ordem de YHWH partiam; guardavam o encargo de YHWH, segundo a ordem de YHWH transmitida por Moisés."
+];
+
+
+/* Números 10 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[10] = [
+  "YHWH falou a Moisés, dizendo:",
+  "Faze para ti duas trombetas de prata; fá-las-ás de obra batida. Elas servirão para convocar a comunidade e para fazer partir os acampamentos.",
+  "Quando ambas forem tocadas, toda a comunidade se reunirá contigo à entrada da Tenda do Encontro.",
+  "Mas, se apenas uma for tocada, os chefes, cabeças dos milhares de Israel, se reunirão contigo.",
+  "Quando fizerdes soar toques de alarme, partirão os acampamentos que estão acampados a leste.",
+  "Quando fizerdes soar toques de alarme pela segunda vez, partirão os acampamentos que estão acampados ao sul. Haverá toques de alarme para suas partidas.",
+  "Para reunir a assembleia, porém, tocareis as trombetas sem fazer soar o alarme.",
+  "Os filhos de Arão, os sacerdotes, tocarão as trombetas; isso será para vós um estatuto perpétuo, por todas as vossas gerações.",
+  "Quando, em vossa terra, sairdes à guerra contra o adversário que vos oprime, fareis soar o alarme com as trombetas; sereis lembrados diante de YHWH, vosso Deus, e sereis salvos de vossos inimigos.",
+  "Também nos dias de vossa alegria, nas festas fixas e no início de vossos meses, tocareis as trombetas sobre vossos holocaustos e sacrifícios de comunhão; elas serão para vós memorial diante de vosso Deus. Eu sou YHWH, vosso Deus.",
+  "No segundo ano, no segundo mês, no vigésimo dia do mês, a nuvem se elevou de sobre o Tabernáculo do Testemunho.",
+  "Os filhos de Israel partiram do deserto do Sinai, seguindo suas etapas; a nuvem se deteve no deserto de Parã.",
+  "Partiram pela primeira vez, conforme a ordem de YHWH transmitida por Moisés.",
+  "À frente partiu o estandarte do acampamento dos filhos de Judá, segundo seus grupos; Naassom, filho de Aminadabe, estava à frente de suas tropas.",
+  "À frente das tropas da tribo dos filhos de Issacar estava Natanael, filho de Zuar.",
+  "À frente das tropas da tribo dos filhos de Zebulom estava Eliabe, filho de Helom.",
+  "O Tabernáculo foi desmontado, e os filhos de Gérson e os filhos de Merari partiram, transportando-o.",
+  "Depois partiu o estandarte do acampamento de Rúben, segundo seus grupos; Elizur, filho de Sedeur, estava à frente de suas tropas.",
+  "À frente das tropas da tribo dos filhos de Simeão estava Selumiel, filho de Zurisadai.",
+  "À frente das tropas da tribo dos filhos de Gade estava Eliasafe, filho de Deuel.",
+  "Então partiram os coatitas, transportando os objetos sagrados; o Tabernáculo seria erguido antes da chegada deles.",
+  "Depois partiu o estandarte do acampamento dos filhos de Efraim, segundo seus grupos; Elisama, filho de Amiúde, estava à frente de suas tropas.",
+  "À frente das tropas da tribo dos filhos de Manassés estava Gamaliel, filho de Pedazur.",
+  "À frente das tropas da tribo dos filhos de Benjamim estava Abidã, filho de Gideoni.",
+  "Por último, como retaguarda de todos os acampamentos, partiu o estandarte do acampamento dos filhos de Dã, segundo seus grupos; Aiezer, filho de Amisadai, estava à frente de suas tropas.",
+  "À frente das tropas da tribo dos filhos de Aser estava Pagiel, filho de Ocrã.",
+  "À frente das tropas da tribo dos filhos de Naftali estava Aira, filho de Enã.",
+  "Essa era a ordem de marcha dos filhos de Israel, segundo seus grupos, quando partiam.",
+  "Moisés disse a Hobabe, filho de Reuel, o midianita, sogro de Moisés: Estamos partindo para o lugar sobre o qual YHWH disse: Eu o darei a vós. Vem conosco, e te faremos bem, pois YHWH prometeu o bem a Israel.",
+  "Ele respondeu: Não irei; voltarei à minha terra e à minha parentela.",
+  "Moisés disse: Não nos deixes, pois tu conheces os lugares do deserto onde podemos acampar e serás para nós como olhos.",
+  "Se vieres conosco, compartilharemos contigo o bem que YHWH nos conceder.",
+  "Partiram, pois, da montanha de YHWH, caminho de três dias; a Arca da Aliança de YHWH ia adiante deles durante esses três dias, para procurar um lugar de descanso para eles.",
+  "A nuvem de YHWH estava sobre eles de dia, quando partiam do acampamento.",
+  "Quando a Arca partia, Moisés dizia: Levanta-te, YHWH, e sejam dispersos os teus inimigos; fujam diante de ti os que te odeiam.",
+  "Quando ela repousava, dizia: Volta, YHWH, às miríades de milhares de Israel."
+];
