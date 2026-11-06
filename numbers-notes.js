@@ -172,11 +172,13 @@ window.TRANSLATION_NOTES[3][15] = {
 };
 /* Notas lexicais — Números 16. */
 window.TRANSLATION_NOTES[3][16] = {
+  2:{term:"קְרִאֵי מוֹעֵד (qerei mo'ed)",text:"Expressão difícil: literalmente, “chamados da assembleia” ou “convocados para a reunião”. Designa os homens de destaque que participam da contestação."},
   3:{term:"רַב־לָכֶם (rav lakhem)",text:"“Basta-vos/já é demais”. Fórmula de contestação; Moisés a retoma no versículo 7 em resposta aos levitas."},
   5:{term:"וְאֵת אֲשֶׁר יִבְחַר־בּוֹ (ve'et asher yivchar bo)",text:"“Aquele que escolher”. A prova proposta por Moisés deixa a decisão sobre o serviço sagrado a cargo de YHWH."},
   7:{term:"קְטֹרֶת (qetoret)",text:"Incenso aromático queimado no culto. O episódio transforma um ato sacerdotal em teste da legitimidade da reivindicação."},
   9:{term:"הַמְעַט מִכֶּם (hame'at mikem)",text:"“É pouco para vós?”. Pergunta retórica que destaca o privilégio já concedido aos levitas."},
   13:{term:"אֶרֶץ זָבַת חָלָב וּדְבַשׁ (erets zavat chalav udevash)",text:"“Terra que mana leite e mel”. Datã e Abirão usam ironicamente a fórmula tradicional para o Egito, invertendo a avaliação da libertação."},
+  14:{term:"הַעֵינֵי הָאֲנָשִׁים הָהֵם תְּנַקֵּר (ha'einei ha'anashim hahem tenaqqer)",text:"“Arrancarás os olhos daqueles homens?”. Pergunta retórica e acusatória; a imagem sugere tentar cegar ou enganar os homens, não uma descrição literal de ação já realizada."},
   30:{term:"בְּרִיאָה יִבְרָא (beri'ah yivra)",text:"Construção enfática: “YHWH criará uma criação/coisa nova”. Anuncia um acontecimento extraordinário como sinal judicial."},
   32:{term:"שְׁאוֹל (She'ol)",text:"Mundo dos mortos, domínio dos falecidos na linguagem hebraica antiga; não deve ser automaticamente equiparado a uma descrição sistemática posterior do inferno."},
   38:{term:"פִּחוּתִים (pichutim)",text:"Lâminas/placas batidas. Os incensários são remodelados como revestimento do altar e memorial contra a usurpação do serviço sacerdotal."},
