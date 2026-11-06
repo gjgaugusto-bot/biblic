@@ -3,7 +3,7 @@ window.TRANSLATION_NOTES = window.TRANSLATION_NOTES || {};
 window.TRANSLATION_NOTES[1] = window.TRANSLATION_NOTES[1] || {};
 Object.assign(window.TRANSLATION_NOTES[1], {
   16: {
-    1: {term:"מִדְבַּר־סִין (midbar-Sin)",text:"Topônimo tradicionalmente transliterado “deserto de Sim”. Não deve ser confundido com o Sinai; o texto distingue a região e o monte."},
+    1: {term:"מִדְבַּר־סִין (midbar-Sin)",text:"Topônimo tradicionalmente transliterado “deserto de Sin”. Não deve ser confundido com o Sinai; o texto distingue a região e o monte."},
     4: {term:"לֶחֶם (lechem)",text:"“Pão” pode designar alimento em sentido amplo. A narrativa usa a imagem de pão vindo do céu para o maná."},
     15: {term:"מָן הוּא (man hu)",text:"A expressão é associada à pergunta “que é isto?”. O próprio texto populariza a designação maná; a etimologia exata é discutida."},
     16: {term:"עֹמֶר (omer)",text:"Medida de capacidade para cereais e alimentos secos. O versículo a relaciona à porção individual; não equivale a uma medida moderna exata sem contexto."},
@@ -12,7 +12,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   },
   17: {
     2: {term:"רִיב (riv)",text:"Verbo de disputar, contender ou apresentar uma queixa. A narrativa faz jogo com o nome Meribá, ligado à contenda."},
-    6: {term:"צּוּר (tsur)",text:"“Rocha” ou grande formação rochosa. O texto não especifica sua composição ou localização precisa."},
+    6: {term:"צוּר (tsur)",text:"“Rocha” ou grande formação rochosa. O texto não especifica sua composição ou localização precisa."},
     7: {term:"מַסָּה וּמְרִיבָה (Massah u-Merivah)",text:"Massá associa-se a “provação”; Meribá, a “contenda”. Os nomes resumem os dois atos descritos no episódio."},
     15: {term:"יְהוָה נִסִּי (YHWH nissi)",text:"Expressão tradicionalmente entendida como “YHWH é meu estandarte”. Nessi deriva de nes, “estandarte/sinal elevado”."}
   },
@@ -26,7 +26,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     5: {term:"סְגֻלָּה (segullah)",text:"Propriedade particular, tesouro especial ou posse preciosa. A palavra descreve uma relação especial, sem significar que os demais povos deixem de pertencer a Deus."},
     6: {term:"מַמְלֶכֶת כֹּהֲנִים (mamlekhet kohanim)",text:"Expressão literalmente “reino de sacerdotes”. Pode indicar uma comunidade com função sacerdotal; a tradução mantém a imagem sem fixar uma interpretação institucional."},
     10: {term:"קִדַּשׁ (qiddesh)",text:"Verbo “consagrar/santificar”, isto é, separar para uma condição especial. A preparação envolve o povo e suas roupas."},
-    13: {term:"יֹבֵל (yovel)",text:"Termo relacionado ao toque prolongado do chifre de carneiro; em outros contextos dá origem à designação do jubileu. Aqui sinaliza o momento autorizado para avançar."},
+    13: {term:"יֹבֵל (yovel)",text:"Termo relacionado ao toque do chifre de carneiro; em outros contextos dá origem à designação do jubileu. Aqui sinaliza o momento autorizado para avançar."},
     18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."}
   },
   20: {
