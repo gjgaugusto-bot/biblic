@@ -283,7 +283,7 @@ window.TRANSLATION_NOTES[3][25] = {
   4:{term:"וְהוֹקַע (vehoka)",text:"Forma verbal associada a suspender, enforcar ou empalar publicamente; o modo exato da execução é discutido. A tradução explicita a execução pública sem afirmar um método além do que a forma permite determinar."},
   6:{term:"וַיַּקְרֵב אֶל־אֶחָיו (vayyaqrev el-echav)",text:"“Aproximou-se de seus irmãos/trouxe para junto deles”. O verbo קרב descreve trazer alguém para perto; não exige a ideia de apresentar formalmente a mulher."},
   11:{term:"בְּקַנְאוֹ אֶת־קִנְאָתִי (beqanno et-qin'ati)",text:"“Ao ser zeloso com o meu zelo”. A repetição da raiz קנא (qana) enfatiza que Fineias age com zelo correspondente ao zelo divino e à aliança."},
-  12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."}
+  12:{term:"בְּרִית שָׁלוֹם (berit shalom)",text:"“Aliança de paz/bem-estar”. שָׁלוֹם abrange integridade e estabilidade, não apenas ausência de conflito."},
   15:{term:"רֹאשׁ אֻמּוֹת בֵּית־אָב (rosh ummot beit-av)",text:"“Chefe de clãs/casas paternas”. O pronome masculino no final do versículo retoma Zur, pai de Cosbi, e o identifica como chefe de um grupo familiar midianita."},
 };
 /* Notas lexicais — Números 26. */
@@ -313,7 +313,7 @@ window.TRANSLATION_NOTES[3][28] = {
   3:{term:"הָאִשֶּׁה (ha’ishsheh)",text:"“Oferta feita pelo fogo”. A expressão designa a oferta apresentada no altar pelo fogo e não é sinônimo de עֹלָה (olah), “holocausto”; os termos podem aparecer juntos, como em Números 28:3 e 28:19."},
   6:{term:"עֹלַת תָּמִיד (olat tamid)",text:"“Holocausto contínuo/regular”. Refere-se à oferta diária da manhã e do entardecer."},
   7:{term:"שֵׁכָר (shekhar)",text:"Bebida fermentada ou forte usada na libação; o termo não deve ser confundido com a oferta de vinho em todos os contextos."},
-  26:{term:"יוֹם הַבִּכּוּרִים (yom habikkurim)",text:"“Dia das primícias”, associado à Festa das Semanas e à apresentação da nova colheita."}
+  26:{term:"יוֹם הַבִּכּוּרִים (yom habikkurim)",text:"“Dia das primícias”, associado à Festa das Semanas e à apresentação da nova colheita."},
   14:{term:"נִסְכֵּיהֶם (niskêhem)",text:"“Suas libações”. As quantidades de vinho variam conforme o tipo de animal oferecido, como especificado neste versículo."},
 };
 /* Notas lexicais — Números 29. */
@@ -387,6 +387,6 @@ window.TRANSLATION_NOTES[3][35] = {
 window.TRANSLATION_NOTES[3][36] = {
   2:{term:"נַחֲלָה (nachalah)",text:"“Herança”. A questão jurídica é a preservação da parcela tribal transmitida às filhas de Zelofeade."},
   4:{term:"יוֹבֵל (yovel)",text:"“Jubileu”. O ciclo de restituição da propriedade tornaria permanente a transferência de uma herança entre tribos, segundo a preocupação apresentada."},
-  6:{term:"לַטּוֹב בְּעֵינֵיהֶם (latov be'eineihem)",text:"“Com quem lhes parecer bem”. A escolha matrimonial é permitida, com a condição de permanecer dentro do clã da tribo paterna."}
+  6:{term:"לַטּוֹב בְּעֵינֵיהֶם (latov be'eineihem)",text:"“Com quem lhes parecer bem”. A escolha matrimonial é permitida, com a condição de permanecer dentro do clã da tribo paterna."},
   11:{term:"בְּנֵי דֹדֵיהֶן (bene dodeihen)",text:"“Filhos de seus tios paternos”, isto é, primos pelo lado do pai. O casamento mantém a herança dentro do grupo familiar da tribo de Manassés."},
 };
