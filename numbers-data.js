@@ -20,7 +20,7 @@ window.NUMBERS_TEXT[1] = [
   "de Naftali, Aira, filho de Enã.",
   "Esses foram os convocados da comunidade, os chefes das tribos de seus pais, cabeças dos milhares de Israel.",
   "Moisés e Arão tomaram esses homens, que haviam sido designados nominalmente.",
-  "No primeiro dia do segundo mês, reuniram toda a comunidade, que foi registrada segundo suas famílias e casas paternas, contando nominalmente os homens de vinte anos para cima, cabeça por cabeça,",
+  "No primeiro dia do segundo mês, reuniram toda a comunidade, e seus membros declararam sua linhagem segundo suas famílias e casas paternas, contando nominalmente os homens de vinte anos para cima, cabeça por cabeça,",
   "como YHWH havia ordenado a Moisés. Ele os registrou no deserto do Sinai.",
   "Os descendentes de Rúben, primogênito de Israel, foram registrados segundo suas gerações, famílias e casas paternas, contando nominalmente cada homem, cabeça por cabeça, todos os homens de vinte anos para cima, aptos para o serviço militar.",
   "Os registrados da tribo de Rúben foram quarenta e seis mil e quinhentos.",
