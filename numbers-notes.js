@@ -60,3 +60,14 @@ window.TRANSLATION_NOTES[3][6] = {
   18:{term:"תַּחַת הַזָּבַח (tachat hazzavach)",text:"“Debaixo do sacrifício”. O cabelo consagrado é queimado no fogo associado à oferta de comunhão, encerrando ritualmente o período de separação."},
   24:{term:"יְבָרֶכְךָ (yevarekhekha)",text:"“Que te abençoe”. A bênção sacerdotal invoca YHWH como agente da proteção, graça e paz."}
 };
+
+/* Notas lexicais — Números 7. */
+window.TRANSLATION_NOTES[3][7] = {
+  1:{term:"כַלּוֹת (kallot)",text:"Forma de כלה, “concluir/terminar”. A abertura situa a dedicação do altar depois de concluída a montagem do santuário."},
+  3:{term:"עֶגְלֹת צָב (eglot tsav)",text:"Carroças cobertas ou carroças de transporte. O substantivo צב tem interpretação lexical discutida; o contexto de transporte dos componentes do Tabernáculo favorece veículos cobertos."},
+  9:{term:"בַּכָּתֵף יִשָּׂאוּ (bakkatef yissa'u)",text:"“Carregarão sobre o ombro”. A ausência de carroças para os coatitas está ligada ao transporte manual dos objetos sagrados."},
+  10:{term:"חֲנֻכַּת (chanukkat)",text:"“Dedicação” ou “inauguração”. A raiz חנך indica iniciar/consagrar algo para seu uso, aqui o altar."},
+  13:{term:"מִזְרָק (mizraq)",text:"Bacia ou recipiente de aspersão. Distingue-se da travessa (קַעֲרָה), embora ambos sejam utensílios de prata usados na oferta."},
+  17:{term:"זֶבַח הַשְּׁלָמִים (zevach hashelamim)",text:"Sacrifício de comunhão ou de bem-estar. A oferta inclui animais partilhados ritualmente, não sendo simplesmente um holocausto integral."},
+  89:{term:"מִדַּבֵּר (middabber)",text:"Particípio reflexivo/intensivo de דבר, com sentido de “falando”. O versículo encerra o capítulo enfatizando a comunicação divina a partir do espaço acima da cobertura da Arca."}
+};
