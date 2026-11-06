@@ -17,7 +17,7 @@ Esta auditoria é estrutural/editorial. Não certifica revisão exegética integ
 
 | Livro | Texto | Notas lexicais | Observação |
 |---|---|---|---|
-| Gênesis | O objeto de dados encontrado contém apenas os capítulos 1–2 (56 versículos) | Estrutura antiga embutida no app.js foi mantida à parte nesta etapa | Capítulos 3–50 não foram localizados no objeto extraído (48 capítulos ausentes); completar antes de declarar o livro integral |
+| Gênesis | O objeto de dados encontrado contém capítulos 1–6 (160 versículos) | Estrutura antiga embutida no app.js foi mantida à parte nesta etapa | Capítulos 7–50 ainda não foram integrados (44 capítulos ausentes); completar antes de declarar o livro integral |
 | Êxodo | Arquivos em lotes cobrem capítulos 1–40 | Notas distribuídas em translation-notes.js e arquivos por lotes | Estrutura fragmentada; precisa de inventário automático unificado |
 | Levítico | 27 capítulos em leviticus-data.js | leviticus-notes.js | A cobertura das notas é parcial; inventariar por capítulo/versículo |
 | Números | 36 capítulos em numbers-data.js | notes para os capítulos 1–36 | Não implica nota em cada versículo |
@@ -26,7 +26,7 @@ Esta auditoria é estrutural/editorial. Não certifica revisão exegética integ
 
 ## Pendências antes de publicação geral
 
-1. Completar Gênesis 4–50 ou restringir claramente a disponibilidade do livro aos capítulos existentes.
+1. Completar Gênesis 7–50 ou restringir claramente a disponibilidade do livro aos capítulos existentes.
 2. Gerar inventário real de versículos e notas de todos os livros, não apenas contagem de chaves.
 3. Harmonizar fontes-base e registrar diferenças justificadas; não trocar fontes sem conferir o texto.
 4. Padronizar a apresentação das notas no leitor e no painel administrativo.
