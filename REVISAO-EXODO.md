@@ -307,4 +307,33 @@ Demais versículos (7:1–2, 7:4–8, 7:10–12, 7:16–29): conferidos quanto �
 - Brown–Driver–Briggs, verbete תַּנִּין (*tannin*), sentidos “serpente/dragão/monstro marinho”: https://stronger.encyclopaediabiblica.com/en/lexeme/H8577N
 - Victor P. Hamilton, *Exodus: An Exegetical Commentary*, seção “Taming and Transforming the Tannin” (Êxodo 7:8–13), que distingue תַּנִּין (*tannin*) de נָחָשׁ (*nachash*): https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
 
-**Próximo ponto:** Êxodo 8:1–28. Não repetir a conferência de Êxodo 7 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 9:1–35. Não repetir a conferência de Êxodo 7 sem evidência concreta de erro novo.
+
+
+### Êxodo 8 — conferência textual e lexical integral (8:1–28)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma expressão idiomática foi explicitada no texto; as demais incertezas foram preservadas em notas.
+
+Correção no texto:
+- **8:5:** “Digna-te a indicar-me” foi ajustado para **“Toma para ti a honra de escolher”**, refletindo הִתְפָּאֵר עָלַי (*hitpa'er alai*), literalmente “gloria-te sobre mim/toma honra sobre mim”. Moisés concede ao faraó a honra de escolher quando a praga cessará.
+
+Notas lexicais acrescentadas/ampliadas:
+- **8:5:** registrada a dificuldade da expressão הִתְפָּאֵר עָלַי (*hitpa'er alai*); a Septuaginta a entende como “designa para mim”, enquanto a leitura contextual mais provável concede ao faraó a vantagem de escolher o momento.
+- **8:12–14:** כִּנִּים (*kinnim*), nome do inseto da terceira praga, tem identificação zoológica incerta: piolhos, mosquitos, mosquitos-pólvora, pulgas, carrapatos e outros pequenos insetos foram propostos. “Piolhos” foi mantido como tradução tradicional, sem afirmar espécie segura.
+- **8:15:** חזק (*chazaq*, fortalecer/tornar firme) descreve o coração do faraó; a nota distingue essa raiz de כבד (*kaved*, pesar) em 8:11 e das raízes já registradas em Êxodo 7.
+- **8:17 e 8:20:** עָרֹב (*arov*) designa um enxame cuja composição não é certa. “Enxames” foi mantido sem especificar moscas ou outra espécie; há também interpretações como enxame misto de insetos e animais.
+- **8:19:** פְדֻת (*pedut*) é raro e seu sentido é incerto: “resgate/libertação” ou “separação/distinção”. “Distinção” foi mantido pelo contexto de separação entre Gósen e o restante do Egito em 8:22.
+- **8:22:** וְהִפְלֵיתִי (*vehipleti*, de פלה) significa separar/distinguir/pôr à parte. “Separarei” comunica a proteção especial de Gósen.
+- **8:26:** תּוֹעֲבַת מִצְרַיִם (*to'avat Mitzrayim*) é literalmente “abominação dos egípcios”. O texto não especifica o animal ou a prática; a tradução mantém a formulação genérica.
+
+Demais versículos (8:1–4, 8:6–11, 8:13–16, 8:18, 8:20–21 e 8:23–28): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 8: https://www.mechon-mamre.org/p/pt/pt0208.htm
+- NET Bible, Êxodo 8:5 e 8:9, sobre הִתְפָּאֵר עָלַי (*hitpa'er alai*): https://classic.net.bible.org/passage.php?passage=Exo+8%3A9%2C10
+- NET Bible, Êxodo 8:16–18, sobre as possíveis identificações de כִּנִּים (*kinnim*): https://classic.net.bible.org/passage.php/passage.php?passage=Exo+8+16-18
+- NET Bible, Êxodo 8:22, sobre הִפְלֵיתִי (*hipleti*, separar/distinguish): https://classic.net.bible.org/verse.php?book=Exo&chapter=8&verse=22
+- Sefaria, Êxodo 8:19, variantes de tradução para פְדֻת (*pedut*): https://www.sefaria.org/Exodus.8.19?lang=bi&vhe=hebrew%7CTanach_with_Ta%27amei_Hamikra&with=Translations
+- Sefaria / JPS, Êxodo 8:17, opções para עָרֹב (*arov*): https://www.sefaria.org/Exodus.8.17?lang=bi&ven=english%7CTanakh%3A_The_Holy_Scriptures%2C_published_by_JPS&vhe=hebrew%7CTanach_with_Ta%27amei_Hamikra&with=Translations
+
+**Próximo ponto:** Êxodo 9:1–35. Não repetir a conferência de Êxodo 8 sem evidência concreta de erro novo.
