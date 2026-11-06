@@ -735,3 +735,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Estado global de Êxodo permanece **Em revisão**; não marcar os versículos como aprovados apenas por concluir esta primeira passada.
 - Próximo capítulo: **Êxodo 31**.
 - Gênesis continua fechado definitivamente; não reiniciar sua revisão.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 31:1–18 passou pela primeira conferência textual e lexical; refinamento em 31:5 e nota correspondente registrados em REVISAO-EXODO.md.
+- Êxodo 1–31 documentados na primeira passada.
+- Próximo capítulo: Êxodo 32.
+- Gênesis continua fechado definitivamente.
