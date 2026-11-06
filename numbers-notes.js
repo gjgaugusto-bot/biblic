@@ -14,7 +14,7 @@ window.TRANSLATION_NOTES[3][1] = {
 /* Notas lexicais — Números 2. */
 window.TRANSLATION_NOTES[3][2] = {
   2:{term:"דֶּגֶל (degel)",text:"“Estandarte” ou “bandeira” que identifica cada grande divisão do acampamento. O termo não designa apenas um objeto decorativo: organiza a disposição coletiva das tribos."},
-  2:{term:"מִנֶּגֶד (minneged)",text:"Expressa posição “em frente”, “a certa distância” ou “defronte”. A distância em relação à Tenda do Encontro preserva a centralidade do santuário e a ordem do acampamento."},
+  3:{term:"מִנֶּגֶד (minneged)",text:"Expressa posição “em frente”, “a certa distância” ou “defronte”. A distância em relação à Tenda do Encontro preserva a centralidade do santuário e a ordem do acampamento."},
   3:{term:"קֵדְמָה מִזְרָחָה (qedmah mizrachah)",text:"Duas expressões direcionais reforçam a orientação para o lado do nascente, isto é, o leste. O acampamento de Judá ocupa a posição de honra na marcha."},
   9:{term:"רִאשֹׁנָה יִסָּעוּ (rishonah yissa'u)",text:"“Partirão primeiro”. O verbo נסע (nasa') é o termo recorrente para levantar acampamento e partir; aqui define a ordem processional das divisões."},
   17:{term:"אִישׁ עַל־יָדוֹ (ish al-yado)",text:"Literalmente, “cada homem junto à sua mão/lado”. A expressão indica que cada grupo deve manter sua posição designada na formação, tanto ao acampar quanto ao marchar."},
