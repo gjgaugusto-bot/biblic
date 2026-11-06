@@ -65,6 +65,8 @@ Foram conferidos integralmente os 16 versículos do capítulo 30 do projeto e os
 
 Foram conferidos integralmente os 42 versículos de Números 32 e os 56 versículos de Números 33 com o texto hebraico do Mechon-Mamre. Em 32:32, “do outro lado do Jordão” substituiu “deste lado”; em 32:38, “construíram” substituiu “reconstruíram”; em 33:4, foi removida a repetição de “os filhos de Israel partiram de Ramessés”, que pertence ao versículo seguinte; e em 33:53, a tradução foi ajustada para explicitar a expulsão dos habitantes da terra. A nota lexical de 32:11 foi corrigida para citar מִלְאוּ אַחֲרָי, e o separador ausente no bloco de notas de 32 foi corrigido. Os capítulos 32 e 33 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 29 versículos de Números 34 e os 34 versículos de Números 35 com o texto hebraico do Mechon-Mamre. Em 35:20 e 35:22, “de emboscada/sem estar à espreita” substituiu “com intenção/sem intenção”, preservando a distinção hebraica entre agir à espreita e agir sem emboscada; em 35:31–32, “não tomareis resgate” substituiu “não aceitarei resgate”, mantendo o sujeito plural do mandamento. Foi acrescentada nota lexical para בִּצְדִיָּה (35:20), e corrigidos separadores ausentes nos objetos de notas de 34 e 35. Os capítulos 34 e 35 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
