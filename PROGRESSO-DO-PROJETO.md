@@ -617,3 +617,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 18:1–27.
+
+
+## 2026-11-06 — revisão de Êxodo 18:1–27
+
+- Conferência integral do capítulo 18 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas sintáticas em 18:19 e 18:23; notas anteriores de 18:1, 18:3, 18:11 e 18:21 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 19:1–25.
