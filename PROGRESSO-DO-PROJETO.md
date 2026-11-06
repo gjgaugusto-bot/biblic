@@ -535,3 +535,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas em 8:5, 8:12, 8:15, 8:17, 8:19, 8:22 e 8:26.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 9:1–35.
+
+
+## 2026-11-06 — revisão de Êxodo 9:1–35
+
+- Conferência integral do capítulo 9 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas/acrescentadas em 9:6, 9:12, 9:16, 9:31, 9:32, 9:34 e 9:35.
+- Registradas a tensão sobre a totalidade do rebanho, as fases agrícolas e as diferenças entre os verbos ligados ao coração do faraó.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 10:1–29.
