@@ -164,3 +164,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 10:1–29.
+
+
+### Êxodo 10:1–29
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais em 10:2, 10:10, 10:13, 10:19 e 10:21.
+- Registradas a nuance de hit'allalti, a possível alusão a Rá, os ventos oriental/ocidental e a escuridão palpável.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 11:1–10.
