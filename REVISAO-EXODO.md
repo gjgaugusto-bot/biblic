@@ -882,3 +882,32 @@ Demais versículos (30:2–11, 30:14–22, 30:25–33 e 30:36–38): conferidos 
 - Rashi sobre Êxodo 30:35, explicação da mistura do incenso com sal: https://www.sefaria.org/Rashi_on_Exodus.30.35
 
 **Próximo ponto:** Êxodo 31:1–18. Não repetir a conferência de Êxodo 30 sem evidência concreta de erro novo.
+
+
+### Êxodo 30 — conferência textual e lexical integral (30:1–38)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético**, com comparação do texto hebraico e de traduções de referência. A estrutura do capítulo foi preservada; três escolhas do texto foram refinadas e as ambiguidades materiais/lexicais foram registradas sem impor identificações não demonstráveis.
+
+Correções e refinamentos no texto:
+- **30:7:** “quando preparar as lâmpadas” foi ajustado para **“quando cuidar das lâmpadas”**, refletindo בְּהֵיטִיבוֹ (*beheitivo*), da raiz יטב (*yatav*), “fazer bem/ajustar”. No contexto, descreve o cuidado regular das lâmpadas, possivelmente incluindo aparar os pavios; “cuidar” evita especificar um procedimento não explicitado.
+- **30:23:** “mirra pura” foi ajustado para **“mirra fluida”**, opção mais próxima da expressão מֹר דְּרוֹר (*mor deror*), tradicionalmente entendida como mirra que flui livremente. “Mirra pura” permanece como alternativa interpretativa registrada.
+- **30:32:** “sobre o corpo de pessoa comum” foi ajustado para **“sobre a carne de ninguém”**. O hebraico עַל־בְּשַׂר אָדָם (*al-besar adam*) diz literalmente “sobre carne humana” e não contém o qualificativo “comum”; a formulação anterior restringia indevidamente o alcance aparente da proibição.
+
+Notas lexicais acrescentadas/ampliadas:
+- **30:7–8:** registradas as diferenças entre בְּהֵיטִיבוֹ (*beheitivo*, cuidar/ajustar as lâmpadas) e וּבְהַעֲלֹת (*uva-ha'alot*, fazer as lâmpadas arderem/acendê-las). A redação portuguesa não deve apagar a distinção dos dois momentos diários.
+- **30:13:** corrigida uma duplicação de chave no objeto de notas: as entradas de בֶּקַע (*beqa*, meio siclo) e גֵּרָה (*gerah*, unidade menor) estavam ambas sob a chave 13; a segunda sobrescrevia a primeira em JavaScript. Agora os dois termos estão reunidos numa única nota, preservando as informações.
+- **30:18:** כִּיּוֹר (*kiyor*) é a bacia/lavatório e כַּנּוֹ (*kanno*) sua base ou suporte; ambos são especificados como bronze.
+- **30:23–24:** מֹר דְּרוֹר (*mor deror*) é traduzido tradicionalmente como mirra fluida/pura; קִדָּה (*qiddah*) é tradicionalmente identificada como cássia, mas a identificação botânica não é absolutamente segura.
+- **30:25:** רֹקַח מִרְקַחַת (*roqach mirqachat*) descreve a composição aromática preparada por perfumista, com repetição da raiz ligada à preparação de perfumes.
+- **30:32:** a formulação hebraica refere-se à carne humana sem acrescentar “comum”; a nota registra a razão para não limitar a proibição a pessoas leigas.
+- **30:34–35:** nataf e shechelet têm identificação material/botânica incerta; “estoraque” e “ônica” são equivalentes tradicionais, não certezas. מְמֻלָּח (*memullach*) deriva de מלח (*malach*, “salgar”), justificando “temperada com sal”.
+
+Demais versículos (30:1–6, 30:8–22, 30:24–31 e 30:33–38): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração adicional considerada necessária. Permanecem registradas as incertezas sobre a forma exata de alguns utensílios, especiarias e materiais antigos.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 30: https://www.mechon-mamre.org/p/pt/pt0230.htm
+- Sefaria, Êxodo 30:1–38, texto hebraico e tradução JPS (2023): https://www.sefaria.org/Exodus.30.1-38
+- Chabad, Êxodo 30 e comentários de Rashi, consultado para as tradições interpretativas sobre os objetos e o óleo sagrado: https://www.chabad.org/torah-texts/9891/Tanakh-The-Hebrew-Bible/Torah-The-Pentateuch/Shemot-Exodus/Chapter-30
+- Mechon-Mamre, Êxodo 30:23–35, para a formulação dos ingredientes do óleo e do incenso: https://mechon-mamre.org/p/pt/pt0230.htm
+
+**Próximo ponto:** Êxodo 31:1–18. Não repetir a conferência de Êxodo 30 sem evidência concreta de erro novo.
