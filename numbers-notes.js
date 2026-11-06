@@ -191,6 +191,7 @@ window.TRANSLATION_NOTES[3][17] = {
   2:{term:"מַטֶּה (matteh)",text:"“Vara” e também “tribo”. O objeto representa a casa tribal e a autoridade de seu chefe."},
   5:{term:"יִפְרָח (yifrach)",text:"“Florescerá”. O sinal não é apenas brotar: a vara de Arão produz flores e frutos, confirmando a escolha divina."},
   8:{term:"שְׁקֵדִים (sheqedim)",text:"“Amêndoas”. A vara seca produz frutos, sinal extraordinário de vida e confirmação sacerdotal."},
+  8:{term:"וַיִּגְמֹל שְׁקֵדִים (vayyigmol sheqedim)",text:"O verbo גמל (gamal) indica amadurecer/produzir fruto. A vara não apenas floresce: chega a produzir amêndoas maduras, completando a imagem de fecundidade extraordinária."},
   10:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Guarda/memorial”. A vara é preservada como testemunho permanente contra a rebelião."}
 };
 /* Notas lexicais — Números 18. */
@@ -198,6 +199,8 @@ window.TRANSLATION_NOTES[3][18] = {
   1:{term:"עֲוֹן (avon)",text:"“Culpa/iniquidade”. No contexto, designa a responsabilidade de responder pela santidade do santuário e pelo exercício do sacerdócio."},
   7:{term:"עֲבֹדַת מַתָּנָה (avodat mattanah)",text:"“Serviço de dádiva”. O sacerdócio é apresentado como encargo concedido por Deus, não como direito autônomo."},
   19:{term:"בְּרִית מֶלַח (berit melach)",text:"“Aliança de sal”. Imagem de permanência e estabilidade para a porção sacerdotal."},
+  15:{term:"פֶּטֶר רֶחֶם (peter rechem)",text:"“O que abre o ventre”. Expressão para o primogênito, aquele que primeiro rompe o ventre materno; a regra distingue o resgate de seres humanos e de animais impuros."},
+  23:{term:"וְהֵם יִשְׂאוּ עֲוֹנָם (vehem yis'u avonam)",text:"“Eles levarão sua iniquidade/culpa”. O pronome retoma os levitas, que respondem por seu próprio encargo e por qualquer transgressão relacionada ao serviço sagrado."},
   21:{term:"מַעֲשֵׂר (ma'aser)",text:"“Dízimo”, literalmente a décima parte. É destinado aos levitas em razão do serviço da Tenda do Encontro."},
   26:{term:"תְּרוּמָה (terumah)",text:"“Contribuição elevada/separada”. Os levitas também entregam a décima parte do dízimo recebido."},
   30:{term:"גֹּרֶן (goren) e יֶקֶב (yeqev)",text:"“Eira” e “lagar”. Imagens agrícolas usadas para descrever a porção selecionada dos produtos recebidos."}
