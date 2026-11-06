@@ -112,3 +112,60 @@ Object.assign(window.TRANSLATION_NOTES[0][41], {
 Object.assign(window.TRANSLATION_NOTES[0][43], {
   14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
 });
+
+Object.assign(window.TRANSLATION_NOTES[1], {
+  11: {
+    1: {term:"גָּרֵשׁ יְגָרֵשׁ (garesh yegaresh)",text:"A repetição do infinitivo absoluto com o verbo finito intensifica a ação: o faraó os expulsará de fato, por completo."},
+    7: {term:"לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ",text:"Literalmente, “nenhum cão afiará/moverá a língua”. É uma expressão idiomática de ausência de reação ou ameaça; “nenhum cão rosnará” comunica a ideia sem transformar a frase numa descrição zoológica precisa."},
+    8: {term:"אֲשֶׁר בְּרַגְלֶיךָ (asher beraglecha)",text:"A expressão significa literalmente “que estão aos teus pés”. Pode indicar os que seguem o faraó ou estão sob sua autoridade; “sob teu comando” explicita essa relação."}
+  },
+  12: {
+    6: {term:"בֵּין הָעַרְבָּיִם (bein ha'arbayim)",text:"Expressão literalmente “entre os dois entardeceres”. Sua delimitação temporal foi interpretada de modos diferentes; a tradução preserva a forma hebraica sem impor um horário exato."},
+    11: {term:"פֶּסַח (pesach)",text:"Nome da Páscoa, associado no contexto ao verbo “passar por cima/poupar” (vv. 13, 23 e 27). A relação etimológica é discutida; a nota registra o jogo narrativo sem tratá-lo como certeza absoluta."},
+    22: {term:"אֵזוֹב (ezov)",text:"Planta chamada tradicionalmente “hissopo”. A identificação botânica exata da planta bíblica é incerta; o nome convencional foi mantido."},
+    40: {term:"מוֹשַׁב (moshav)",text:"O substantivo pode designar permanência, residência ou período de habitação. O texto massorético menciona 430 anos de permanência dos filhos de Israel no Egito; outras tradições textuais antigas apresentam formulação ampliada."},
+    42: {term:"לֵיל שִׁמֻּרִים (leil shimurim)",text:"Expressão “noite de vigílias/observâncias”. O versículo associa a noite à vigília de YHWH em favor de Israel e à observância de Israel em suas gerações."}
+  },
+  13: {
+    4: {term:"חֹדֶשׁ הָאָבִיב (chodesh ha'aviv)",text:"Abibe é o nome antigo do mês associado ao início da primavera e à maturação das espigas. Mais tarde, o mês passou a ser chamado Nisã."},
+    16: {term:"טוֹטָפֹת (totafot)",text:"Termo raro para o sinal/faixa entre os olhos. Seu significado exato e sua etimologia são incertos; a tradução conserva a imagem do texto."},
+    18: {term:"חֲמֻשִׁים (chamushim)",text:"Pode significar “armados”, “equipados” ou “organizados para a marcha”. “Em formação de guerra” procura preservar a ideia de preparação sem afirmar uma disposição militar específica."}
+  },
+  14: {
+    8: {term:"בְּיָד רָמָה (beyad ramah)",text:"Expressão “com mão erguida”, que indica saída aberta e confiante, não uma fuga às escondidas."},
+    19: {term:"מַלְאַךְ הָאֱלֹהִים (mal'ach ha'Elohim)",text:"A expressão significa “mensageiro/anjo de Deus”. O texto o identifica com a presença que guiava o acampamento; “mensageiro” mantém o sentido lexical de mal'ach."},
+    24: {term:"אַשְׁמֹרֶת הַבֹּקֶר (ashmoret habboqer)",text:"É a “vigília da manhã”, uma divisão da noite. Não indica necessariamente o nascer do sol, mas o período final da noite."}
+  },
+  15: {
+    8: {term:"קָפְאוּ (qafe'u)",text:"Verbo ligado a coagular, congelar ou solidificar. A imagem poética descreve as águas como se tivessem se tornado firmes; “coalharam” preserva a metáfora sem sugerir necessariamente gelo literal."},
+    11: {term:"נֶאְדָּר בַּקֹּדֶשׁ (ne' dar baqodesh)",text:"Expressão “glorioso em santidade” ou “majestoso em santidade”. O paralelismo poético celebra a singularidade de YHWH."},
+    17: {term:"מִקְּדָשׁ (miqdash)",text:"Significa “santuário” ou lugar sagrado. O cântico projeta a habitação de Deus como destino do povo; a nota não identifica por si só um edifício específico."}
+  },
+  16: {
+    15: {term:"מָן הוּא (man hu)",text:"A pergunta “Que é isto?” (man hu) é associada pelo relato ao nome maná. O texto apresenta uma explicação narrativa do nome, não necessariamente sua etimologia histórica."},
+    31: {term:"גַּד (gad)",text:"Nome de uma semente, geralmente identificada como coentro. A comparação descreve aparência e cor do maná, não sua composição botânica."},
+    36: {term:"עֹמֶר (omer)",text:"Medida de capacidade para grãos e alimentos. O versículo a relaciona ao efa como sua décima parte; não se deve converter para litros sem fixar uma estimativa metrológica."}
+  },
+  17: {
+    7: {term:"מַסָּה וּמְרִיבָה (Massah u-Merivah)",text:"Os nomes fazem jogos de palavras com “provar/pôr à prova” e “discutir/contender”. A narrativa explica os nomes a partir do comportamento do povo."},
+    16: {term:"כִּי־יָד עַל־כֵּס יָהּ (ki-yad al-kes Yah)",text:"Frase hebraica difícil, literalmente “uma mão sobre o trono de Yah”. Pode ser uma fórmula de juramento ou uma imagem de desafio; a tradução conserva a formulação literal e não fecha a interpretação."}
+  },
+  18: {
+    3: {term:"גֵּרְשֹׁם (Gershom)",text:"O nome é associado à frase “fui estrangeiro (ger) em terra alheia”. Trata-se de uma explicação narrativa por jogo sonoro, não necessariamente de uma etimologia histórica."},
+    4: {term:"אֱלִיעֶזֶר (Eliezer)",text:"Nome composto por elementos que significam “meu Deus é auxílio” ou “Deus é meu auxílio”, conforme a análise da construção."},
+    21: {term:"אַנְשֵׁי־חַיִל (anshei chayil)",text:"Expressão para homens capazes, competentes ou valorosos. O contexto acrescenta critérios éticos e de temor a Deus; não se limita à força física."}
+  },
+  19: {
+    5: {term:"סְגֻלָּה (segullah)",text:"Significa propriedade especial, tesouro particular ou bem precioso. A imagem expressa a relação particular de aliança, embora toda a terra pertença a Deus."},
+    6: {term:"מַמְלֶכֶת כֹּהֲנִים (mamlechet kohanim)",text:"Expressão “reino de sacerdotes”. Pode indicar uma comunidade com função sacerdotal ou um reino caracterizado pelo sacerdócio; a tradução mantém a formulação concisa."},
+    13: {term:"בִּמְשֹׁךְ הַיֹּבֵל (bimshoch hayovel)",text:"A expressão se refere ao prolongamento do toque do chifre de carneiro. O texto liga esse sinal ao momento em que o povo poderá subir ao monte."}
+  },
+  20: {
+    4: {term:"פֶּסֶל (pesel)",text:"Designa uma imagem esculpida ou ídolo. O versículo proíbe fabricar uma imagem cultual que represente seres celestes, terrestres ou aquáticos."},
+    5: {term:"אֵל קַנָּא (El qanna)",text:"Expressão “Deus zeloso”. O adjetivo descreve zelo pela lealdade exclusiva da aliança; não deve ser confundido automaticamente com uma emoção humana descontrolada."},
+    7: {term:"לַשָּׁוְא (lashav)",text:"Pode significar “para o vazio”, “falsamente” ou “sem propósito”. A proibição alcança o uso indevido do nome divino, não apenas uma fala leviana."},
+    13: {term:"רָצַח (ratsach)",text:"Verbo relacionado a homicídio/assassinato, não o termo hebraico genérico para qualquer ato de matar. “Não assassinarás” preserva essa distinção lexical, embora a aplicação jurídica do mandamento exija considerar outros textos."},
+    17: {term:"חָמַד (chamad)",text:"Verbo “desejar/cobiçar”. O contexto descreve o desejo voltado ao que pertence ao próximo; “cobiçar” preserva a força da proibição."},
+    24: {term:"אַזְכִּיר אֶת־שְׁמִי (azkir et shemi)",text:"Literalmente, “fizer lembrar meu nome” ou “mencionar meu nome”. A construção pode indicar o lugar em que Deus faz seu nome ser lembrado/invocado; a tradução evita restringir o sentido a uma única forma ritual."}
+  }
+});
