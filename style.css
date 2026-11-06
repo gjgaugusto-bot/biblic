@@ -191,3 +191,7 @@ footer{padding-top:25px;padding-bottom:34px}
 .book-info-editor .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
 .book-info-editor .filebtn{display:inline-flex;align-items:center;justify-content:center;padding:11px 15px;cursor:pointer}
 @media(max-width:700px){.opening-banner{margin:12px 0;padding:25px 14px}.opening-banner strong{max-width:20ch}.book-info-editor .actions>*{width:100%}}
+
+
+/* Contraste mínimo WCAG AA para abas não selecionadas do leitor. */
+.chapter-tab[aria-selected="false"]{background:#4a4a4a!important;color:#fff!important;border-color:#4a4a4a!important}
