@@ -22,7 +22,7 @@ window.EXODUS_TEXT[31] = [
 "Quando terminou de falar com Moisés no monte Sinai, deu-lhe as duas tábuas do testemunho, tábuas de pedra escritas pelo dedo de Deus."
 ];
 window.EXODUS_TEXT[32] = [
-"O povo viu que Moisés demorava a descer do monte. Reuniu-se em torno de Arão e lhe disse: Levanta-te, faze para nós deuses que caminhem à nossa frente, pois não sabemos o que aconteceu a esse Moisés, o homem que nos tirou da terra do Egito.",
+"O povo viu que Moisés demorava a descer do monte. Reuniu-se contra Arão e lhe disse: Levanta-te, faze para nós deuses que caminhem à nossa frente, pois não sabemos o que aconteceu a esse Moisés, o homem que nos tirou da terra do Egito.",
 "Arão lhes respondeu: Tirai os brincos de ouro das orelhas de vossas mulheres, filhos e filhas e trazei-os a mim.",
 "Todo o povo tirou os brincos de ouro das orelhas e os levou a Arão.",
 "Ele recebeu o ouro de suas mãos, moldou-o com uma ferramenta e fez dele um bezerro fundido. Então disseram: Israel, estes são teus deuses, que te fizeram subir da terra do Egito.",
@@ -52,10 +52,10 @@ window.EXODUS_TEXT[32] = [
 "Os filhos de Levi fizeram conforme a palavra de Moisés; naquele dia caíram do povo cerca de três mil homens.",
 "Moisés disse: Hoje fostes consagrados para YHWH, cada um à custa de seu filho e de seu irmão, para que hoje vos seja concedida uma bênção.",
 "No dia seguinte, Moisés disse ao povo: Cometestes um grande pecado. Agora subirei a YHWH; talvez eu possa fazer expiação pelo vosso pecado.",
-"Moisés voltou a YHWH e disse: Ah! Este povo cometeu um grande pecado: fez para si deuses de ouro.",
+"Moisés voltou a YHWH e disse: Ah! Este povo cometeu um grande pecado: fez para si uma divindade de ouro.",
 "Agora, se perdoares o pecado deles...; mas, se não, apaga-me, peço-te, do livro que escreveste.",
 "YHWH respondeu a Moisés: Aquele que pecou contra mim, a esse apagarei do meu livro.",
-"Agora vai, conduz o povo ao lugar de que te falei. Meu mensageiro irá à tua frente; mas, no dia em que eu fizer prestação de contas, punirei o pecado deles.",
+"Agora vai, conduz o povo ao lugar de que te falei. Meu mensageiro irá à tua frente; mas, no dia em que eu os visitar, punirei o pecado deles.",
 "YHWH feriu o povo por causa do bezerro que Arão havia feito."
 ];
 window.EXODUS_TEXT[33] = [
