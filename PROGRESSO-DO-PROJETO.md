@@ -608,3 +608,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais ampliadas/acrescentadas em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 17:1–16.
+
+
+## 2026-11-06 — revisão de Êxodo 17:1–16
+
+- Conferência integral do capítulo 17 contra o Texto Massorético.
+- Ajuste em 17:16 para “uma mão está sobre o trono de Yah”, mais próximo de עַל (*al*).
+- Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 18:1–27.
