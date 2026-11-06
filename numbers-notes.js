@@ -257,6 +257,7 @@ window.TRANSLATION_NOTES[3][23] = {
   8:{term:"מָה אֶקֹּב (mah eqqov)",text:"“Como amaldiçoarei?”. O paralelismo afirma que a maldição humana não pode revogar a bênção divina."},
   9:{term:"הֶן־עָם לְבָדָד יִשְׁכֹּן (hen am levadoad yishkon)",text:"“Eis um povo que habita à parte”. Expressa a distinção de Israel entre as nações; a frase não deve ser reduzida automaticamente a isolamento geográfico."},
   10:{term:"רֹבַע יִשְׂרָאֵל (rova Yisrael)",text:"“Quarta parte de Israel”. Expressão de difícil interpretação, talvez referência a uma divisão ou acampamento do povo."},
+  12:{term:"אֹתוֹ אֶשְׁמֹר לְדַבֵּר (oto eshmor ledabber)",text:"Literalmente, “isso guardarei para falar”. O verbo שמר aqui expressa cuidado ou atenção: Balaão afirma que deve falar aquilo que YHWH coloca em sua boca."},
   19:{term:"וְיִתְנֶחָם (veyitnecham)",text:"“Mudar de ideia/arrependimento”. O paralelismo nega que Deus seja volúvel como um ser humano."},
   3:{term:"שְׁפִי (shefi)",text:"Lugar elevado, descampado ou isolado. O termo descreve o local para onde Balaão se retira, sem indicar necessariamente uma montanha ou santuário."},
   21:{term:"לֹא־הִבִּיט אָוֶן (lo hibbit aven)",text:"“Não viu/observou iniquidade”. O sujeito implícito é YHWH, retomado na mesma linha como aquele que está com Israel; a tradução explicita esse sujeito."},
