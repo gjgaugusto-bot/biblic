@@ -62,6 +62,14 @@ try {
   assert.equal(await page.locator('[data-section="characters"]').getAttribute("aria-selected"), "true", "As abas devem funcionar pelo teclado");
   await scanAccessibility(page, "leitor de capítulo");
 
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator("#oldBooks .book").nth(1).click();
+  await page.locator('#chapterLinks [data-chapter-number="2"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("O pai das filhas é chamado Reuel"), "A nota de Êxodo 2:18 deve explicar a variação Reuel/Jetro/Yeter");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="5"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("e a culpa é do teu próprio povo"), "Êxodo 5:16 deve preservar a conjunção aditiva");
+  assert.ok((await page.locator("#reader").innerText()).includes("A oração final é concisa"), "A nota gramatical de Êxodo 5:16 deve estar disponível");
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
