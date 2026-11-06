@@ -23,7 +23,7 @@ window.EXODUS_TEXT = {
 "Então o rei do Egito chamou as parteiras e lhes disse: «Por que fizeram isso e deixaram os meninos viver?»",
 "As parteiras responderam ao faraó: «As mulheres hebreias não são como as egípcias; são vigorosas e dão à luz antes que a parteira chegue até elas».",
 "Deus tratou bem as parteiras; o povo se multiplicou e se tornou muito numeroso.",
-"E, porque as parteiras temeram a Deus, ele lhes estabeleceu casas.",
+"E, porque as parteiras temeram a Deus, ele lhes fez casas.",
 "Então o faraó ordenou a todo o seu povo: «Todo menino que nascer, lancem-no no Nilo; mas toda menina, deixem-na viver»."
 ],
 2: [
