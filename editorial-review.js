@@ -47,7 +47,7 @@
             at: "2026-11-06",
             source: source,
             observation: observation,
-            reason: "Migração do estado editorial anterior; nenhuma aprovação foi criada por esta implementação."
+            reason: "Estado inicial migrado do registro editorial documentado; consultar fonte e observação acima."
           }]
         };
       });
