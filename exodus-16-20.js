@@ -123,7 +123,7 @@ window.EXODUS_TEXT[20] = [
   "«Eu sou YHWH, seu Deus, que o tirei da terra do Egito, da casa da escravidão.",
   "Não tenha outros deuses diante de mim.",
   "Não faça para si imagem esculpida, nem representação alguma do que há no céu acima, na terra abaixo ou nas águas debaixo da terra.",
-  "Não se curve diante delas nem as sirva, pois eu, YHWH, seu Deus, sou Deus zeloso, que visito a culpa dos pais nos filhos, até a terceira e a quarta geração dos que me rejeitam,",
+  "Não se curve diante delas nem as sirva, pois eu, YHWH, seu Deus, sou Deus zeloso, que visito a culpa dos pais nos filhos, até a terceira e a quarta geração dos que me odeiam,",
   "mas faço misericórdia a milhares dos que me amam e guardam meus mandamentos.",
   "Não tome o nome de YHWH, seu Deus, em vão, pois YHWH não considerará inocente quem tomar seu nome em vão.",
   "Lembre-se do dia de sábado, para santificá-lo.",
@@ -142,7 +142,7 @@ window.EXODUS_TEXT[20] = [
   "O povo permaneceu de longe, enquanto Moisés se aproximou da escuridão espessa onde Deus estava.",
   "YHWH disse a Moisés: «Assim dirá aos filhos de Israel: Vocês viram que falei com vocês desde os céus.",
   "Não façam deuses de prata para estar comigo, nem façam para si deuses de ouro.",
-  "Faça para mim um altar de terra e ofereça sobre ele seus holocaustos e suas ofertas de comunhão, suas ovelhas e seus bois. Em todo lugar onde eu fizer lembrar meu nome, virei a você e o abençoarei.",
+  "Faça para mim um altar de terra e ofereça sobre ele seus holocaustos e suas ofertas de comunhão, suas ovelhas e seus bois. Em todo lugar onde eu fizer com que meu nome seja lembrado, virei a você e o abençoarei.",
   "Se fizer para mim um altar de pedras, não o construa com pedras lavradas; pois, se passar sua ferramenta sobre elas, você as profanará.",
   "Não suba ao meu altar por degraus, para que sua nudez não seja exposta sobre ele»."
 ];
