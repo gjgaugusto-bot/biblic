@@ -1,6 +1,6 @@
 # Controle de progresso — Enciclopédia Bíblica
 
-Última atualização: 2026-11-05
+Última atualização: 2026-11-06
 
 ## Estado atual confirmado
 
@@ -416,3 +416,23 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Os dados salvos apenas no navegador (`localStorage`) não são incluídos no snapshot GitHub. É necessário exportar o backup JSON separadamente.
 - Nenhuma alteração foi integrada em `main`; o PR #35 continua draft; o site não foi publicado.
 - Base congelada: `base-imutavel-2026-11-06`. Continuidade: `trabalho-base-2026-11-06`.
+
+
+## Controle editorial por versículo — implementação em andamento (2026-11-06)
+
+- Criada a branch de trabalho `feat/controle-editorial-versiculos-2026-11-06`, derivada do estado atual de `main` após confirmar que a branch `trabalho-base-2026-11-06` estava 148 commits atrás e não continha a integração atual de Êxodo. A base congelada não foi alterada.
+- Adicionado `editorial-review.js` com os quatro estados oficiais, transições controladas, fonte/observação para aprovação, motivo e fonte obrigatórios para reabertura e histórico por versículo.
+- O estado-base migra Gênesis como Revisado, conforme a declaração anterior do proprietário, e Êxodo como Em revisão, conforme `REVISAO-EXODO.md`. A migração não executa uma nova revisão acadêmica.
+- Os demais livros permanecem Pendente até a análise específica.
+- O painel preserva registros órfãos caso a quantidade de versículos mude; não rebaixa automaticamente trechos revisados.
+- O campo `editorialReviews` foi integrado à exportação/importação JSON, ao backup automático local e à validação do backup.
+- Criado `REGISTRO-EDITORIAL.md` como referência versionada das regras e da migração inicial.
+- Atualizados `CRITERIOS-EDITORIAIS.md`, `BACKUPS.md`, o validador estrutural e os testes Playwright.
+- Limite: alterações feitas no painel continuam locais ao navegador até que o backup JSON seja exportado e versionado no repositório. Não há sincronização remota automática.
+- Aguardar execução do workflow no Pull Request e conferir a interface; nenhuma alteração foi integrada em `main` nem publicada.
+
+### Próximas etapas editoriais
+
+1. Conferir a conferência final de abertura de Gênesis sem rebaixar os versículos já aprovados.
+2. Retomar Êxodo com revisão hebraica versículo por versículo, atualizando estados somente após a conferência real.
+3. Depois de estabilizado o fluxo, avançar livro por livro até Apocalipse, registrando correções, fontes, pendências e reaberturas.
