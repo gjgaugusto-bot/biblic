@@ -144,4 +144,31 @@ Demais versículos (1:2–4, 1:6, 1:8–14, 1:17–18 e 1:22): conferidos quanto
 - OpenBible, léxico de עָצַם (*'atsam*): https://www.openbible.com/strongs/hebrew/6105.htm
 - *Harvard Theological Review*, “Beyond Boundaries: Ethnicity, Gender, and Class in Exod 1:8–2:10” (2025), para a ambivalência de חָיוֹת (*chayot*): https://doi.org/10.1017/S0017816025100667
 
-**Próximo ponto:** Êxodo 2:1–25. Não repetir a conferência de Êxodo 1 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 3:1–22. Não repetir a conferência de Êxodo 1 sem evidência concreta de erro novo.
+
+
+### Êxodo 2 — conferência textual e lexical integral (2:1–25)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** A revisão preservou a estrutura e a tradução de trabalho; uma correção textual foi necessária.
+
+Correção no texto:
+- **2:12:** “escondeu-o na areia” foi ajustado para **“enterrou-o na areia”**. O verbo טמן (*taman*) pode significar esconder/ocultar, mas o léxico BDB identifica especificamente Êxodo 2:12 como ocultação de um cadáver na areia, isto é, enterrá-lo.
+
+Notas lexicais acrescentadas:
+- **2:2:** טוֹב (*tov*, “bom”) pode, ao descrever uma criança, transmitir beleza ou boa aparência; a tradução “bom” foi mantida por ser literal, com a nuance registrada.
+- **2:3:** תֵּבָה (*tevah*) significa caixa/arca/recipiente e é o mesmo substantivo empregado para a arca de Noé em Gênesis 6–9. “Arca” foi mantido para preservar a ligação literária; גֹּמֶא (*gome*) identifica o papiro.
+- **2:12:** registrada a faixa semântica de טמן (*taman*), “esconder/enterrar”, e a razão contextual para “enterrou”.
+- **2:17:** וַיּוֹשִׁעָן (*vayyoshi'an*, de ישׁע) significa “salvou/livrou”; “socorreu-as” foi mantido como equivalente idiomático, registrando o papel de Moisés como resgatador. A nota também registra o eco entre “expulsaram-nas” (גרש) e o tema de Gérson/forasteiro.
+- **2:25:** יָדַע (*yada*, “conhecer/saber”) aparece sem objeto expresso no hebraico; “tomou conhecimento deles” explicita o referente pelo contexto, como fazem várias traduções.
+
+Demais versículos (2:1, 2:4–11, 2:13–16 e 2:18–24): conferidos quanto à correspondência com o hebraico e ao português. As notas existentes de 2:10 (Moisés/*mashah*) e 2:22 (Gérson/*ger hayiti*) foram preservadas; não houve necessidade de reescrita adicional.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 2: https://www.mechon-mamre.org/p/pt/pt0202.htm
+- Sefaria, testemunhos de tradução e comentário sobre טוֹב em Êxodo 2:2: https://voices.sefaria.org/sheets/699469
+- Gary A. Rendsburg, “Literary Unity of the Exodus Narrative”, sobre תֵּבָה em Êxodo 2 e Gênesis 6–9: https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/archive/LiteraryUnityoftheExodusNarrative.pdf
+- Brown–Driver–Briggs, verbete טָמַן (*taman*), incluindo Êxodo 2:12 como ocultação/enterro de cadáver na areia: https://bible.by/strong/hebrew/2934/dict/brown-driver-briggs/
+- NET Bible, Êxodo 2:17, sobre וַיּוֹשִׁעָן (*vayyoshi'an*): https://classic.net.bible.org/passage.php/xml/passage.php?passage=Exo+2%3A16%2C17
+- NET Bible, Êxodo 2:25, sobre יָדַע (*yada*) sem objeto expresso: https://classic.net.bible.org/verse.php?book=Exo&chapter=2&verse=25
+
+**Próximo ponto:** Êxodo 3:1–22. Não repetir a conferência de Êxodo 2 sem evidência concreta de erro novo.
