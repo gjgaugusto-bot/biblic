@@ -388,3 +388,13 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo permanece **Em revisão** no controle por versículo.
 - Próximo trecho: Êxodo 35:1–35.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE**.
+
+
+## Atualização de continuidade — Êxodo 35 (2026-11-06)
+
+- Êxodo 1–35: primeira conferência textual e lexical documentada.
+- Ajustes em Êxodo 35:11, 35:24, 35:25 e 35:33; notas sobre o fogo no sábado, adornos, fiação e materiais do tabernáculo.
+- Harmonizada a tradução do trabalho de pedras em Êxodo 31:5 e 35:33.
+- Êxodo permanece **Em revisão** no controle por versículo.
+- Próximo trecho: Êxodo 36:1–38.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE**.
