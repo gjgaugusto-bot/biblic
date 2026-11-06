@@ -459,3 +459,325 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
 - PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
 - Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
+
+
+## 2026-11-06 — publicação do controle editorial e revisão de Êxodo 1
+
+- PR #36 integrado à `main` pelo commit `2d65a9262fdb87354d4b8c0530a88f87898b0f2d`.
+- GitHub Actions, workflow “Publicar site no GitHub Pages”, run `42269769636`: conclusão **success**.
+- Criada branch `review/exodo-1-5-2026-11-06` para a sequência de revisão de conteúdo, derivada da `main` atualizada.
+- Êxodo 1:1–22 passou por conferência integral com o Texto Massorético e fontes lexicais/comentários. Correções em 1:15 e 1:20; notas novas em 1:1, 1:5, 1:15, 1:16, 1:19, 1:20 e 1:21; nota anterior de 1:7 preservada.
+- Nenhuma reescrita geral foi feita. As escolhas interpretativas incertas foram mantidas como notas.
+- O registro textual da passagem está em `REVISAO-EXODO.md`. O painel ainda mantém os versículos de Êxodo em “Em revisão” até que as transições individuais sejam registradas nele com fonte e observação.
+- Próximo ponto: Êxodo 2:1–25.
+
+
+## 2026-11-06 — revisão de Êxodo 2:1–25
+
+- Conferência integral do capítulo 2 contra o Texto Massorético.
+- Correção em Êxodo 2:12: “escondeu-o na areia” → “enterrou-o na areia” (טמן, *taman*, ocultar/enterrar; no contexto, ocultação de cadáver na areia).
+- Notas acrescentadas em 2:2, 2:3, 2:12, 2:17 e 2:25; notas de 2:10 e 2:22 mantidas.
+- Nenhuma reescrita ampla; a ambiguidade lexical foi preservada nas notas.
+- Próximo ponto de revisão: Êxodo 3:1–22.
+
+
+## 2026-11-06 — revisão de Êxodo 3:1–22
+
+- Conferência integral do capítulo 3 contra o Texto Massorético.
+- Correções em 3:3–4: o verbo סור (*sur*) indica desviar-se/afastar-se do caminho; o texto agora preserva essa ação nos dois versículos.
+- Notas acrescentadas em 3:2–3; notas existentes de 3:14 e 3:19 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 4:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 4:1–31
+
+- Conferência integral do capítulo 4 contra o Texto Massorético.
+- Ajuste em 4:11 para refletir שׂים (*sim*), “pôr/colocar”, em formulação idiomática “deu ao ser humano uma boca”.
+- Notas acrescentadas em 4:6, 4:10, 4:11 e 4:31; notas de 4:13, 4:18 e 4:24–26 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 5:1–23.
+
+
+## 2026-11-06 — revisão de Êxodo 5:1–23
+
+- Conferência integral do capítulo 5 contra o Texto Massorético.
+- Ajuste em 5:16 para preservar a coordenação hebraica “e a culpa é do teu próprio povo”; variante antiga registrada.
+- Notas lexicais em 5:3, 5:7, 5:8, 5:16 e 5:21.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 6:1–30.
+
+
+## 2026-11-06 — revisão de Êxodo 6:1–30
+
+- Conferência integral do capítulo 6 contra o Texto Massorético.
+- Ajuste em 6:3 para refletir a forma nifal “não fui conhecido por eles”.
+- Ajuste em 6:26 para “Estes são Arão e Moisés”.
+- Notas lexicais e gramaticais em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota anterior de 6:9 preservada.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 7:1–29.
+
+
+## 2026-11-06 — revisão de Êxodo 7:1–29
+
+- Conferência integral do capítulo 7 contra o Texto Massorético.
+- Nenhuma alteração no corpo da tradução.
+- Notas lexicais em 7:3, 7:13, 7:14 e 7:15; nota anterior de 7:9 preservada.
+- Distinções registradas entre as raízes qashah, chazaq e kaved e entre tannin e nachash.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 8:1–28.
+
+
+## 2026-11-06 — revisão de Êxodo 8:1–28
+
+- Conferência integral do capítulo 8 contra o Texto Massorético.
+- Ajuste em 8:5 para “Toma para ti a honra de escolher”, refletindo a expressão idiomática hitpa'er alai.
+- Notas em 8:5, 8:12, 8:15, 8:17, 8:19, 8:22 e 8:26.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 9:1–35.
+
+
+## 2026-11-06 — revisão de Êxodo 9:1–35
+
+- Conferência integral do capítulo 9 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas/acrescentadas em 9:6, 9:12, 9:16, 9:31, 9:32, 9:34 e 9:35.
+- Registradas a tensão sobre a totalidade do rebanho, as fases agrícolas e as diferenças entre os verbos ligados ao coração do faraó.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 10:1–29.
+
+
+## 2026-11-06 — revisão de Êxodo 10:1–29
+
+- Conferência integral do capítulo 10 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas/acrescentadas em 10:2, 10:10, 10:13, 10:19 e 10:21.
+- Registradas as nuances de hit'allalti, o possível jogo sonoro com Rá, os ventos oriental/ocidental e a escuridão palpável.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 11:1–10.
+
+
+## 2026-11-06 — revisão de Êxodo 11:1–10
+
+- Conferência integral do capítulo 11 contra o Texto Massorético.
+- Ajustes em 11:1, 11:4 e 11:8 para refletir melhor a posição de כָּלָה, o valor de כַּחֲצֹת e o gesto de prostração.
+- Notas lexicais ampliadas/acrescentadas em 11:1, 11:4 e 11:8; notas de 11:2, 11:5 e 11:7 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 12:1–51.
+
+
+## 2026-11-06 — revisão de Êxodo 12:1–51
+
+- Conferência integral do capítulo 12 contra o Texto Massorético.
+- Ajuste em 12:21 para “Retirai e tomai”, preservando os dois imperativos hebraicos.
+- Notas lexicais em 12:3, 12:21 e 12:42; notas anteriores do capítulo preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 13:1–22.
+
+
+## 2026-11-06 — revisão de Êxodo 13:1–22
+
+- Conferência integral do capítulo 13 contra o Texto Massorético.
+- Corrigido erro tipográfico em 13:11.
+- Ajustado 13:17 para “o povo não mude de ideia”; corrigida a nota que confundia as raízes נחה (conduzir) e נחם (mudar de ideia).
+- Nota ampliada em 13:18 sobre chamushim e Yam Suf.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 14:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 14:1–31
+
+- Conferência integral do capítulo 14 contra o Texto Massorético.
+- Ajuste em 14:6 para “atrelou seu carro”, refletindo אסר (*asar*).
+- Nota lexical acrescentada em 14:6; notas anteriores de 14:2, 8, 13, 15, 20–21, 24–25 e 30 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 15:1–27.
+
+
+## 2026-11-06 — revisão de Êxodo 15:1–27
+
+- Conferência integral do cântico e da narrativa do capítulo 15 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 15:2, 15:8, 15:11 e 15:17; nota de 15:23 preservada.
+- Registradas as leituras possíveis de ve'anvehu, ned, nora tehilot e a metáfora de plantar Israel.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 16:1–36.
+
+
+## 2026-11-06 — revisão de Êxodo 16:1–36
+
+- Conferência integral do capítulo 16 contra o Texto Massorético.
+- Ajuste em 16:14 para “algo fino e em flocos”.
+- Notas lexicais ampliadas/acrescentadas em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 17:1–16.
+
+
+## 2026-11-06 — revisão de Êxodo 17:1–16
+
+- Conferência integral do capítulo 17 contra o Texto Massorético.
+- Ajuste em 17:16 para “uma mão está sobre o trono de Yah”, mais próximo de עַל (*al*).
+- Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 18:1–27.
+
+
+## 2026-11-06 — revisão de Êxodo 18:1–27
+
+- Conferência integral do capítulo 18 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas sintáticas em 18:19 e 18:23; notas anteriores de 18:1, 18:3, 18:11 e 18:21 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 19:1–25.
+
+
+## 2026-11-06 — revisão de Êxodo 19:1–25
+
+- Conferência integral do capítulo 19 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 19:22 sobre יִפְרֹץ (*yifrotz*), “irromper/abrir brecha”; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 20:1–26.
+
+
+## 2026-11-06 — revisão de Êxodo 20:1–26
+
+- Conferência integral do capítulo 20 contra o Texto Massorético.
+- Ajuste em 20:25 para concordância singular com o altar: “erguer sua ferramenta sobre ele, você o profanará”.
+- Nota lexical acrescentada em 20:25; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 21:1–36.
+
+
+## 2026-11-06 — revisão de Êxodo 21:1–36
+
+- Conferência integral do capítulo 21 contra o Texto Massorético.
+- Ajuste em 21:23 para “se houver dano”, sem o adjetivo “grave” não expresso no hebraico.
+- Notas anteriores preservadas, incluindo a ambiguidade jurídica de 21:22–23.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 22:1–31.
+
+
+## 2026-11-06 — revisão de Êxodo 22:1–31
+
+- Conferência integral do capítulo 22 contra o Texto Massorético.
+- Ajuste em 22:29 para “a abundância de tua colheita e o produto de teus lagares”.
+- Nota lexical acrescentada em 22:29; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 23:1–33.
+
+
+## 2026-11-06 — revisão de Êxodo 23:1–33
+
+- Conferência integral do capítulo 23 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 23:26 sobre perda gestacional e infertilidade; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 24:1–18.
+
+
+## 2026-11-06 — revisão de Êxodo 24:1–18
+
+- Conferência integral do capítulo 24 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas anteriores de 24:7, 24:8 e 24:10 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 25:1–40.
+
+
+## 2026-11-06 — revisão de Êxodo 25:1–40
+
+- Conferência integral do capítulo 25 contra o Texto Massorético.
+- Ajustes em 25:29 para a ordem dos utensílios e em 25:38 para distinguir pinças de bandejas de cinzas.
+- Notas lexicais acrescentadas em 25:29 e 25:38; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 26:1–37.
+
+
+## 2026-11-06 — revisão de Êxodo 26:1–37
+
+- Conferência integral do capítulo 26 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 26:17, 26:24 e 26:36 sobre encaixes, armações dos cantos e a cortina de entrada.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 27:1–21.
+
+
+## 2026-11-06 — revisão de Êxodo 27:1–21
+
+- Conferência integral do capítulo 27 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais ampliadas em 27:5 e 27:9 sobre a moldura do altar e as cortinas do pátio.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 28:1–43.
+
+
+## 2026-11-06 — revisão de Êxodo 28:1–43
+
+- Conferência integral do capítulo 28 contra o Texto Massorético.
+- Ajuste em 28:41 para “os investirás no sacerdócio”, distinguindo “encher a mão” de “santificar”.
+- Notas ampliadas em 28:32, 28:38 e 28:41; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 29:1–46.
+
+
+## 2026-11-06 — revisão de Êxodo 29:1–46
+
+- Conferência integral do capítulo 29 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 29:6, 29:13, 29:18 e 29:22; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 30:1–38.
+
+
+## 2026-11-06 — revisão de Êxodo 30:1–38
+
+- Conferência integral do capítulo 30 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais ampliadas em 30:1, 30:13 e 30:35; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 31:1–18.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 1–30: primeira passada textual e lexical documentada no registro REVISAO-EXODO.md.
+- Êxodo 30: refinadas as traduções de 30:7, 30:23 e 30:32; ampliadas as notas de termos técnicos e especiarias; corrigida chave duplicada de nota em 30:13.
+- Estado global de Êxodo permanece **Em revisão**; não marcar os versículos como aprovados apenas por concluir esta primeira passada.
+- Próximo capítulo: **Êxodo 31**.
+- Gênesis continua fechado definitivamente; não reiniciar sua revisão.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 31:1–18 passou pela primeira conferência textual e lexical; refinamento em 31:5 e nota correspondente registrados em REVISAO-EXODO.md.
+- Êxodo 1–31 documentados na primeira passada.
+- Próximo capítulo: Êxodo 32.
+- Gênesis continua fechado definitivamente.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 32:1–35 passou pela primeira conferência textual e lexical; ajustes em 32:1, 32:31 e 32:34 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–32 documentados na primeira passada.
+- Próximo capítulo: Êxodo 33.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 33:1–23 passou pela primeira conferência textual e lexical; ajustes em 33:6 e 33:10 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–33 documentados na primeira passada.
+- Próximo capítulo: Êxodo 34.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 34:1–35 passou pela primeira conferência textual e lexical; notas sobre os atributos divinos, aliança, calendário agrícola, brilho do rosto de Moisés e véu registradas em REVISAO-EXODO.md.
+- Êxodo 1–34 documentados na primeira passada.
+- Próximo capítulo: Êxodo 35.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 35:1–35 passou pela primeira conferência textual e lexical; ajustes em 35:11, 35:24, 35:25 e 35:33 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–35 documentados na primeira passada.
+- Próximo capítulo: Êxodo 36.
+
+
+## 2026-11-06 — encerramento de Êxodo 1–40
+
+- Conferência textual e lexical integral de Êxodo 36–40 concluída.
+- Ajustes registrados: 36:22 “espigas encaixadas uma na outra”; 37:23 “pinças e bandejas para recolher as cinzas”; 38:21 “sob a supervisão de Itamar”; 39:30 “lâmina do diadema sagrado”.
+- Notas e fontes finais adicionadas em `REVISAO-EXODO.md`.
+- **Êxodo 1–40: REVISADO** no estado editorial. O painel foi atualizado para migrar todos os versículos de Êxodo para Revisado, preservando registros Reaberto.
+- Gênesis permanece fechado definitivamente e fora da fila.
+- Próximo ponto: Levítico 1.

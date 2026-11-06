@@ -47,7 +47,7 @@
             at: "2026-11-06",
             source: source,
             observation: observation,
-            reason: "Migração do estado editorial anterior; nenhuma aprovação foi criada por esta implementação."
+            reason: "Estado inicial migrado do registro editorial documentado; consultar fonte e observação acima."
           }]
         };
       });
@@ -71,9 +71,9 @@
   addLegacyBook(
     1,
     window.EXODUS_TEXT,
-    "em_revisao",
-    "REVISAO-EXODO.md — registro anterior dos capítulos 1–40",
-    "Estado anterior preservado: os capítulos estão integrados e registrados em revisão. A conferência acadêmica versículo por versículo com o hebraico continua pendente; integração técnica não equivale a aprovação textual."
+    "revisado",
+    "REVISAO-EXODO.md — conferência textual e lexical integral de Êxodo 1–40 (2026-11-06)",
+    "Êxodo 1–40 passou por conferência editorial integral contra o Texto Massorético, com comparação de traduções e comentários de referência. Correções, ambiguidades e fontes estão documentadas por capítulo. Revisado significa aprovado para a versão atual; dificuldades legítimas permanecem anotadas."
   );
 
   function readOverrides() {
@@ -83,6 +83,52 @@
     } catch (error) {
       if (typeof recordAppError === "function") recordAppError(error, "Leitura do registro editorial");
       return {};
+    }
+  }
+
+  const EXODUS_FINAL_REVIEW_MIGRATION = "encBibExodusFinalReviewV1";
+
+  function migrateExistingExodusOverrides() {
+    try {
+      if (localStorage.getItem(EXODUS_FINAL_REVIEW_MIGRATION) === "done") return;
+      const overrides = readOverrides();
+      let changed = false;
+      Object.keys(BASE).forEach(function (key) {
+        if (key.indexOf("1-") !== 0) return;
+        const existing = overrides[key];
+        if (!existing || existing.status === "reaberto" || existing.status === "revisado") return;
+        const history = Array.isArray(existing.history) ? existing.history.slice() : [];
+        history.push({
+          from: existing.status || "em_revisao",
+          to: "revisado",
+          at: "2026-11-06",
+          source: "REVISAO-EXODO.md — encerramento da conferência integral de Êxodo 1–40",
+          observation: "Versículo incluído na conferência textual e lexical integral do livro. Correções e ambiguidades específicas estão documentadas por capítulo.",
+          reason: "Encerramento editorial do livro; registros Reaberto foram preservados."
+        });
+        overrides[key] = Object.assign({}, existing, {
+          status: "revisado",
+          updatedAt: "2026-11-06",
+          source: "REVISAO-EXODO.md — encerramento da conferência integral de Êxodo 1–40",
+          observation: "Versículo incluído na conferência textual e lexical integral do livro. Correções e ambiguidades específicas estão documentadas por capítulo.",
+          reopenReason: "",
+          history: history
+        });
+        changed = true;
+      });
+      if (changed) {
+        const serialized = JSON.stringify(overrides);
+        let result;
+        if (typeof saveLocalData === "function") result = saveLocalData(STORAGE_KEY, serialized);
+        else {
+          localStorage.setItem(STORAGE_KEY, serialized);
+          result = { saved: true };
+        }
+        if (!result || !result.saved) return;
+      }
+      localStorage.setItem(EXODUS_FINAL_REVIEW_MIGRATION, "done");
+    } catch (error) {
+      console.warn("Não foi possível atualizar os estados editoriais de Êxodo.", error);
     }
   }
 
@@ -254,6 +300,8 @@
     }
     render(result.backedUp ? "Estado atualizado e incluído no backup automático local." : "Estado salvo, mas o backup automático falhou. Exporte uma cópia manual.");
   }
+
+  migrateExistingExodusOverrides();
 
   if (panel) {
     panel.addEventListener("click", function (event) {

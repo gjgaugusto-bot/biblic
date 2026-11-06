@@ -17,6 +17,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     20: {term:"יָחֳרָם (yochoram)",text:"Forma de חרם, ligada a colocar sob interdito ou consagrar à destruição; termo jurídico-cultual específico."},
     24: {term:"נֶשֶׁךְ (neshekh)",text:"“Juro” ou cobrança de interesse, pertencente ao vocabulário de empréstimos e obrigações econômicas."},
     28: {term:"אֱלֹהִים (elohim)",text:"O termo pode designar Deus ou autoridades judiciais, conforme a leitura e a tradição interpretativa. A tradução “Deus” segue uma opção possível, mas a ambiguidade lexical deve permanecer registrada."},
+    29: {term:"מְלֵאָתְךָ וְדִמְעֲךָ (mele'atekha vedim'akha)",text:"מְלֵאָתְךָ (*mele'atekha*) indica a plenitude/abundância da produção agrícola; וְדִמְעֲךָ (*vedim'akha*) significa literalmente “teu gotejar/tuas gotas”, entendido como o produto líquido dos lagares (vinho e possivelmente azeite). A instrução é não atrasar a entrega das ofertas da colheita e das prensas. “A abundância de tua colheita e o produto de teus lagares” mantém a imagem sem reduzir a expressão a celeiros e recipientes."},
   },
   23: {
     2: {term:"רַבִּים (rabbim)",text:"“Muitos” ou “maioria”. O versículo alerta contra a pressão coletiva quando ela conduz à injustiça."},
@@ -24,7 +25,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     14: {term:"שָׁלֹשׁ רְגָלִים (shalosh regalim)",text:"Expressão literalmente ligada a “três pés/vezes”, usada para as três festas de peregrinação em que os israelitas compareciam diante de YHWH. “Três vezes por ano” traduz a frequência, enquanto a nota registra o caráter de peregrinação."},
     15: {term:"אָבִיב (aviv)",text:"Nome do mês associado ao amadurecimento das espigas; mais tarde corresponde a Nisã no calendário judaico."},
     20: {term:"מַלְאָךְ (mal'akh)",text:"“Mensageiro”. A palavra descreve a função de enviado e, por si só, não determina a natureza do mensageiro."},
-    28: {term:"צִרְעָה (tsir'ah)",text:"Inseto identificado tradicionalmente como vespa ou marimbondo; a identificação zoológica exata não é certa."}
+    28: {term:"צִרְעָה (tsir'ah)",text:"Inseto identificado tradicionalmente como vespa ou marimbondo; a identificação zoológica exata não é certa."},
+    26: {term:"מְשַׁכֵּלָה (meshakkelah) / עֲקָרָה (aqarah)",text:"מְשַׁכֵּלָה (*meshakkelah*) descreve a que perde filhos/sofre aborto ou perda gestacional; עֲקָרָה (*aqarah*) é mulher estéril. A dupla expressão cobre perda de gravidez e infertilidade, sem definir causas médicas."}
   },
   24: {
     7: {term:"סֵפֶר הַבְּרִית (sefer habberit)",text:"“Livro da aliança”: o registro escrito das palavras lidas por Moisés ao povo."},
@@ -37,8 +39,10 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     10: {term:"אַמָּה (ammah)",text:"Côvado, medida antiga baseada aproximadamente no antebraço. Seu valor variava conforme época e padrão."},
     17: {term:"כַּפֹּרֶת (kapporet)",text:"Cobertura da arca, tradicionalmente chamada propiciatório. O nome se relaciona à raiz כפר, cujo campo inclui expiação/cobertura."},
     18: {term:"כְּרֻבִים (keruvim)",text:"Seres celestiais ou guardiões na iconografia do antigo Oriente Próximo; “querubins” é a transliteração tradicional."},
+    29: {term:"קְעָרֹת (qe'arot) / כַּפּוֹת (kappot) / קְשׂוֹת (qesot) / מְנַקִּיּוֹת (menakkiyyot)",text:"Quatro utensílios da mesa, cuja forma exata é discutida: pratos/bandejas, colheres ou conchas, jarras/pitchers e taças/bacias. A cláusula sobre verter libações aplica-se especialmente às jarras e taças finais; a tradução mantém essa distinção."},
     30: {term:"לֶחֶם פָּנִים (lechem panim)",text:"Literalmente “pão da face/presença”, designação dos pães dispostos continuamente diante de YHWH."},
     31: {term:"מְנוֹרָה (menorah)",text:"Candelabro ou suporte de lâmpadas. A descrição especifica uma peça única de ouro batido com sete lâmpadas."},
+    38: {term:"מַלְקָחֶיהָ וּמַחְתֹּתֶיהָ (malqacheha umahtoteha)",text:"מַלְקָחִים (*malqachim*) são pinças/tenazes para manusear e ajustar os pavios; מַחְתּוֹת (*machtot*) são bandejas ou pequenos recipientes para recolher as mechas queimadas e cinzas. “Bandejas para recolher as cinzas” evita confundir esses recipientes com apagadores propriamente ditos."},
     39: {term:"כִּכָּר (kikkar)",text:"Unidade de peso antiga, geralmente traduzida “talento”; seu peso variava, portanto a conversão moderna é aproximada."}
   }
 });
