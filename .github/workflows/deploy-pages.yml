@@ -2,7 +2,7 @@ name: Publicar site no GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, exodo-traducao-2026-11-06]
   workflow_dispatch:
 
 permissions:
