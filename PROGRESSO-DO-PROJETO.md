@@ -599,3 +599,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Registradas as leituras possíveis de ve'anvehu, ned, nora tehilot e a metáfora de plantar Israel.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 16:1–36.
+
+
+## 2026-11-06 — revisão de Êxodo 16:1–36
+
+- Conferência integral do capítulo 16 contra o Texto Massorético.
+- Ajuste em 16:14 para “algo fino e em flocos”.
+- Notas lexicais ampliadas/acrescentadas em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 17:1–16.
