@@ -17,7 +17,7 @@ Esta auditoria é estrutural/editorial. Não certifica revisão exegética integ
 
 | Livro | Texto | Notas lexicais | Observação |
 |---|---|---|---|
-| Gênesis | O objeto de dados encontrado contém apenas os capítulos 1–2 (76 versículos) | Estrutura antiga embutida no app.js foi mantida à parte nesta etapa | Capítulos 3–50 não foram localizados no objeto extraído (48 capítulos ausentes); completar antes de declarar o livro integral |
+| Gênesis | O objeto de dados encontrado contém apenas os capítulos 1–2 (56 versículos) | Estrutura antiga embutida no app.js foi mantida à parte nesta etapa | Capítulos 3–50 não foram localizados no objeto extraído (48 capítulos ausentes); completar antes de declarar o livro integral |
 | Êxodo | Arquivos em lotes cobrem capítulos 1–40 | Notas distribuídas em translation-notes.js e arquivos por lotes | Estrutura fragmentada; precisa de inventário automático unificado |
 | Levítico | 27 capítulos em leviticus-data.js | leviticus-notes.js | A cobertura das notas é parcial; inventariar por capítulo/versículo |
 | Números | 36 capítulos em numbers-data.js | notes para os capítulos 1–36 | Não implica nota em cada versículo |
