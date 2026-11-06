@@ -226,7 +226,7 @@ window.TRANSLATION_NOTES[3][20] = {
   13:{term:"מְרִיבָה (Merivah)",text:"“Contenda”. O nome das águas recorda o conflito de Israel com YHWH."},
   24:{term:"נֶאֱסַף אֶל־עַמָּיו (ne'esaf el-ammav)",text:"“Reunido ao seu povo”. Fórmula para a morte, com a imagem de reunião aos antepassados."},
   19:{term:"רַק אֵין־דָּבָר בְּרַגְלַי (raq ein davar beraglay)",text:"Expressão difícil, literalmente próxima de “nada há em meus pés”. No contexto da passagem por Edom, indica que Israel não pretende causar dano nem desviar-se da rota; a tradução conserva a ideia de passagem pacífica."},
-  26:{term:"בִּגְדֵי הַקֹּדֶשׁ (bigdei haqqodesh)",text:"“Vestes sagradas”. A transferência das vestes de Arão para Eleazar simboliza a continuidade do sacerdócio."}
+  26:{term:"בְּגָדָיו (begadav)",text:"“Suas vestes”. O versículo usa o termo geral para as roupas de Arão; a transferência delas para Eleazar simboliza a continuidade do sacerdócio, embora o hebraico aqui não especifique “vestes sagradas”."}
 };
 
 /* Notas lexicais — Números 21. */
