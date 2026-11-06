@@ -1,4 +1,4 @@
-/* Notas lexicais — Deuteronômio 1. Termos selecionados do hebraico massorético. */
+/* Notas lexicais — Deuteronômio 1–34. 261 notas selecionadas do hebraico massorético; auditoria estrutural global concluída. */
 window.TRANSLATION_NOTES = window.TRANSLATION_NOTES || {};
 window.TRANSLATION_NOTES[4] = window.TRANSLATION_NOTES[4] || {};
 window.TRANSLATION_NOTES[4][1] = {
@@ -170,7 +170,8 @@ window.TRANSLATION_NOTES[4][14] = {
   5:{term:"יַחְמוּר (yaḥmur)",text:"Nome de animal cuja identificação zoológica exata é discutida; a tradução conserva uma designação tradicional aproximada."},
   21:{term:"לֹא תְבַשֵּׁל גְּדִי (lo tevashel gedi)",text:"“Não cozinharás o cabrito”. A proibição aparece no contexto das regras alimentares; sua aplicação histórica mais ampla é discutida."},
   22:{term:"עַשֵּׂר תְּעַשֵּׂר (asser te'asser)",text:"“Separarás o dízimo”. A forma verbal intensificada destaca a obrigação de reservar parte da produção."},
-  28:{term:"מִקְצֵה שָׁלֹשׁ שָׁנִים (miqtseh shalosh shanim)",text:"“Ao fim de cada três anos”. O dízimo desse ciclo é armazenado nas cidades para sustentar levitas e pessoas vulneráveis."}
+  28:{term:"מִקְצֵה שָׁלֹשׁ שָׁנִים (miqtseh shalosh shanim)",text:"“Ao fim de cada três anos”. O dízimo desse ciclo é armazenado nas cidades para sustentar levitas e pessoas vulneráveis."},
+  20:{term:"כָּל־עוֹף טָהוֹר (kol-‘of tahor)",text:"“Toda ave pura”. A fórmula retoma a permissão de 14:11; o hebraico usa aqui עוֹף, enquanto 14:11 usa צִפּוֹר. A repetição da ideia no texto não é duplicação acidental do versículo."}
 };
 window.TRANSLATION_NOTES[4][15] = {
   1:{term:"מִקֵּץ שֶׁבַע־שָׁנִים (miqqets sheva shanim)",text:"“Ao fim de cada sete anos”. A remissão periódica estrutura o tratamento das dívidas entre membros da comunidade."},
@@ -294,7 +295,7 @@ window.TRANSLATION_NOTES[4][28] = {
 };
 
 window.TRANSLATION_NOTES[4][29] = {
-  1:{term:"בְּרִית (berit)",text:"“Aliança”. O versículo distingue a aliança estabelecida em Moabe daquela feita em Horebe."},
+  1:{term:"בְּרִית (berit)",text:"“Aliança”. O versículo distingue a aliança estabelecida em Moabe daquela feita em Horebe. Na numeração da BHS, este versículo é Deuteronômio 28:69; esta edição segue a divisão corrente que o apresenta como 29:1."},
   4:{term:"לֵב לָדַעַת (lev lada'at)",text:"“Coração para compreender”. No pensamento hebraico, coração inclui entendimento, vontade e decisão."},
   10:{term:"חֹטֵב עֵצֶיךָ ... שֹׁאֵב מֵימֶיךָ",text:"“Cortador de lenha ... tirador de água”. A expressão abrange trabalhadores de diferentes posições dentro da comunidade."},
   18:{term:"שֹׁרֶשׁ פֹּרֶה רֹאשׁ וְלַעֲנָה",text:"Imagem de uma raiz que produz veneno e absinto; representa a origem de infidelidade e amargura."},
@@ -330,7 +331,7 @@ window.TRANSLATION_NOTES[4][32] = {
 };
 window.TRANSLATION_NOTES[4][33] = {
   2:{term:"אֵשׁ דָּת (esh dat)",text:"Expressão difícil, tradicionalmente associada a “fogo de lei”. A tradução mantém a imagem de fogo ligada à manifestação divina e à instrução."},
-  6:{term:"אַל־יָמֹת",text:"“Que não morra”. A bênção de Rúben pede preservação e continuidade da tribo."},
+  6:{term:"אַל־יָמֹת ... מִסְפָּר",text:"“Que não morra ... que seus homens não sejam poucos”. מִסְפָּר significa “número/contagem” e, neste contexto poético, é entendido como “poucos”; a oração pede a preservação e continuidade da tribo de Rúben."},
   8:{term:"תֻּמֶּיךָ וְאוּרֶיךָ",text:"Tumim e Urim eram objetos sacerdotais associados à consulta e ao discernimento de decisões divinas."},
   12:{term:"בֵּין כְּתֵפָיו",text:"“Entre seus ombros”. Imagem poética de abrigo e proteção junto a YHWH."},
   16:{term:"נְזִיר אֶחָיו",text:"“Separado dentre seus irmãos”. Designação de José como alguém distinguido entre os irmãos."},
@@ -340,7 +341,7 @@ window.TRANSLATION_NOTES[4][33] = {
 window.TRANSLATION_NOTES[4][34] = {
   1:{term:"רֹאשׁ הַפִּסְגָּה",text:"“Cume do Pisga”. Pisga designa a elevação montanhosa de onde Moisés contempla a terra."},
   5:{term:"עֶבֶד יְהוָה",text:"“Servo de YHWH”. Título honorífico que caracteriza Moisés no encerramento do livro."},
-  6:{term:"וְלֹא־יָדַע אִישׁ אֶת־קְבֻרָתוֹ",text:"“Ninguém conhece seu túmulo”. O texto destaca que o local do sepultamento permaneceu desconhecido."},
+  6:{term:"וַיִּקְבֹּר אֹתוֹ ... וְלֹא־יָדַע אִישׁ",text:"“Ele o sepultou ... ninguém conhece”. O sujeito do verbo “sepultou” não é explicitado no próprio versículo; a leitura tradicional frequentemente o identifica com YHWH. A tradução conserva a forma pronominal sem acrescentar o nome ao corpo do texto."},
   7:{term:"לֹא־כָהֲתָה עֵינוֹ",text:"“Seus olhos não haviam enfraquecido”. A descrição sublinha a vitalidade de Moisés mesmo aos 120 anos."},
   10:{term:"פָּנִים אֶל־פָּנִים",text:"“Face a face”. Expressão que caracteriza a relação singular de Moisés com YHWH."}
 };
