@@ -105,7 +105,7 @@ window.TRANSLATION_NOTES[3][11] = {
   17:{term:"וְאָצַלְתִּי (ve'atzalti)",text:"“Tomarei/retirarei” do espírito que está sobre Moisés. A imagem indica participação dos anciãos na capacitação para carregar a responsabilidade do povo."},
   25:{term:"וַיִּתְנַבְּאוּ (vayyitnabbə'u)",text:"“Profetizaram”. O verbo pode indicar fala inspirada ou manifestação profética; o texto não registra o conteúdo dessas falas."},
   31:{term:"שְׂלָוִים (selavim)",text:"Codornizes. A narrativa descreve uma grande concentração de aves trazidas pelo vento; não se deve confundir com o maná."},
-  32:{term:"עֲשָׂרָה חֳמָרִים (asarah chomarim)",text:"“Dez ômeres/hômeres”. Medida de capacidade de grande volume; a quantidade funciona na narrativa como sinal da coleta excessiva."},
+  32:{term:"עֲשָׂרָה חֳמָרִים (asarah chomarim)",text:"“Dez hômeres”. O substantivo חֹמֶר (homer) designa uma grande medida de capacidade, distinta do עֹמֶר (omer), medida muito menor. A quantidade funciona na narrativa como sinal da coleta extraordinariamente abundante."},
   34:{term:"קִבְרוֹת הַתַּאֲוָה (qivrot hatta'avah)",text:"“Sepulturas do desejo”. O nome do lugar interpreta o episódio pela cobiça/desejo intenso que dominou o povo."}
 };
 /* Notas lexicais — Números 12. */
