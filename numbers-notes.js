@@ -59,7 +59,8 @@ window.TRANSLATION_NOTES[3][5] = {
   14:{term:"רוּחַ קִנְאָה (ruach qin'ah)",text:"“Espírito de ciúme” ou “impulso de ciúme”. A expressão descreve a suspeita que leva o marido ao procedimento ritual, não uma prova de culpa."},
   15:{term:"מִנְחַת קְנָאֹת (minchat qena'ot)",text:"“Oferta de cereal por ciúme”. O termo קנאות está no plural e associa a oferta ao procedimento ritual motivado pela suspeita de infidelidade."},
   18:{term:"מֵי הַמָּרִים (mei hammarim)",text:"“Águas amargas”. A expressão nomeia a água ritual que recebe a função de testemunhar a maldição condicional."},
-  22:{term:"אָמֵן אָמֵן (amen amen)",text:"A repetição de “amém” expressa a aceitação solene da fórmula juramentada e de suas consequências."}
+  22:{term:"אָמֵן אָמֵן (amen amen)",text:"A repetição de “amém” expressa a aceitação solene da fórmula juramentada e de suas consequências."},
+  23:{term:"וּמָחָה (umachah)",text:"“Apagará” ou “dissolverá”. O sacerdote apaga as maldições escritas no rolo na água amarga; a imagem é de transferir a escrita para a água, não simplesmente lavar um objeto."}
 };
 /* Notas lexicais — Números 6. */
 window.TRANSLATION_NOTES[3][6] = {
@@ -81,6 +82,7 @@ window.TRANSLATION_NOTES[3][7] = {
   9:{term:"בַּכָּתֵף יִשָּׂאוּ (bakkatef yissa'u)",text:"“Carregarão sobre o ombro”. A ausência de carroças para os coatitas está ligada ao transporte manual dos objetos sagrados."},
   10:{term:"חֲנֻכַּת (chanukkat)",text:"“Dedicação” ou “inauguração”. A raiz חנך indica iniciar/consagrar algo para seu uso, aqui o altar."},
   13:{term:"קַעֲרַת־כֶּסֶף / מִזְרָק (qe'arat-kesef / mizraq)",text:"A primeira expressão designa uma travessa ou prato de prata; מִזְרָק é uma bacia usada para recolher ou aspergir líquidos rituais. São recipientes distintos."},
+  14:{term:"כַּף זָהָב (kaf zahav)",text:"“Concha/colher de ouro”. כַּף designa um utensílio côncavo usado para apresentar ou manipular incenso; não é um vaso genérico. Por isso, a lista das ofertas dos chefes foi refinada para “concha de ouro”."},
   17:{term:"זֶבַח הַשְּׁלָמִים (zevach hashelamim)",text:"Sacrifício de comunhão ou de bem-estar. A oferta inclui animais partilhados ritualmente, não sendo simplesmente um holocausto integral."},
   89:{term:"מִדַּבֵּר (middabber)",text:"Forma participial de דבר, “falar”. A voz é descrita como falando a Moisés de cima da cobertura da Arca, entre os querubins."}
 };
@@ -100,10 +102,12 @@ window.TRANSLATION_NOTES[3][9] = {
   6:{term:"טָמֵא לָנֶפֶשׁ (tame lanefesh)",text:"Literalmente, “impuro por uma pessoa/morto”. É impureza ritual decorrente do contato com um cadáver, não uma avaliação moral."},
   10:{term:"בְּדֶרֶךְ רְחֹקָה (bederekh rechokah)",text:"“Em viagem distante”. A expressão estabelece uma exceção para quem não pode celebrar a Páscoa na data ordinária."},
   11:{term:"עַל־מַצּוֹת וּמְרֹרִים (al-matsot umerorim)",text:"“Com pães sem fermento e ervas amargas”. O texto descreve os acompanhamentos da refeição pascal da segunda celebração."},
+  12:{term:"וְלֹא־יַשְׁאִירוּ מִמֶּנּוּ עַד־בֹּקֶר (velo-yash'iru ממנו ad-boqer)",text:"“Não deixarão nada dela até a manhã”. O verbo שׁאר significa deixar/restar; a instrução proíbe que qualquer parte da Páscoa permaneça até o amanhecer."},
   13:{term:"וְנִכְרְתָה (venikhretah)",text:"“Será eliminada/cortada”. Fórmula de sanção comunitária; o texto não especifica aqui o mecanismo concreto da exclusão."},
   14:{term:"גֵּר (ger)",text:"“Estrangeiro residente” ou “forasteiro integrado”. A lei prevê que participe da Páscoa sob o mesmo estatuto ritual do natural da terra."},
   15:{term:"מַרְאֵה אֵשׁ (mar'eh esh)",text:"“Aparência de fogo”. O texto descreve a manifestação visível sobre o Tabernáculo sem identificar o fenômeno com fogo material comum."},
-  19:{term:"מִשְׁמֶרֶת יְהוָה (mishmeret YHWH)",text:"“Encargo/ordem de YHWH”. A expressão caracteriza a espera e a partida como obediência à orientação divina."}
+  19:{term:"מִשְׁמֶרֶת יְהוָה (mishmeret YHWH)",text:"“Encargo/ordem de YHWH”. A expressão caracteriza a espera e a partida como obediência à orientação divina."},
+  22:{term:"יָמִים (yamim)",text:"Em 9:22, a sequência é “dois dias, um mês ou dias”: o texto abrange permanências curtas ou prolongadas. “Vários dias” explicita o plural sem reduzir a expressão a um período indefinido."}
 };
 /* Notas lexicais — Números 10. */
 window.TRANSLATION_NOTES[3][10] = {
