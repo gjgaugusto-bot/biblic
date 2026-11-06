@@ -136,7 +136,7 @@ window.TRANSLATION_NOTES[3][14] = {
   18:{term:"וְנַקֵּה לֹא יְנַקֶּה (venaqeh lo yenaqqeh)",text:"Fórmula enfática: “de modo algum deixa impune”. A misericórdia proclamada não elimina a responsabilidade pelo mal."},
   22:{term:"עֶשֶׂר פְּעָמִים (eser pe'amim)",text:"“Dez vezes”. Número que funciona como expressão de repetidas provas e rebeliões; não exige que se identifiquem dez episódios isolados na narrativa."},
   24:{term:"רוּחַ אַחֶרֶת (ruach acheret)",text:"“Outro espírito”. Caracteriza a disposição diferente de Calebe, que permanece fiel em vez de aderir ao medo coletivo."},
-  34:{term:"תִּנְאוּאֵת (tinnu'u et)",text:"Forma verbal ligada à experiência de oposição/hostilidade divina. A tradução procura preservar a ideia de que a comunidade experimentará a consequência de sua rebeldia."},
+  34:{term:"תְּנוּאָתִי (tenu'ati)",text:"“Minha oposição/hostilidade”. O substantivo descreve a resposta divina contrária à comunidade rebelde; a forma é rara e sua nuance exata é discutida."},
   45:{term:"חָרְמָה (Chormah)",text:"Hormá, topônimo associado à raiz חרם (cherem), “consagrar à destruição”. A relação etimológica não deve ser tomada como certeza sobre a origem histórica do nome."}
 };
 
@@ -147,8 +147,7 @@ window.TRANSLATION_NOTES[3][15] = {
   24:{term:"בִּשְׁגָגָה (bishgagah)",text:"“Por erro/sem intenção”. A seção distingue a transgressão involuntária da ação deliberada descrita nos versículos 30–31."},
   30:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. Idioma para agir deliberadamente e com desafio, em contraste com o pecado por inadvertência."},
   31:{term:"הִכָּרֵת תִּכָּרֵת (hikkaret tikkaret)",text:"Infinitivo absoluto seguido do verbo finito, intensificando a sentença: “certamente será eliminada”. A forma não determina por si só o mecanismo da sanção."},
-  38:{term:"צִיצִת (tsitsit)",text:"Franjas/tufos nas extremidades da veste. O texto lhes atribui função memorial para lembrar os mandamentos."},
-  38:{term:"פְּתִיל תְּכֵלֶת (petil tekhelet)",text:"Cordão de azul-violeta (tekhelet), corante antigo de identificação difícil. A tradução conserva a referência cromática sem fixar uma tonalidade moderna exata."},
+  38:{term:"צִיצִת (tsitsit) e פְּתִיל תְּכֵלֶת (petil tekhelet)",text:"Franjas/tufos nas extremidades da veste, cada qual com um cordão de tekhelet, corante azul-violeta antigo cuja tonalidade exata é incerta. O conjunto funciona como memorial dos mandamentos."},
   39:{term:"וְלֹא תָתוּרוּ (velo taturu)",text:"“Não exploreis/não sigais”. O verbo retoma o campo lexical da exploração da terra no capítulo 13; aqui descreve seguir desejos do coração e dos olhos."}
 };
 /* Notas lexicais — Números 16. */
