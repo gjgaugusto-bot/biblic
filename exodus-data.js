@@ -109,5 +109,30 @@ window.EXODUS_TEXT = {
 "Moisés e Arão foram e reuniram todos os anciãos dos filhos de Israel.",
 "Arão falou todas as palavras que YHWH havia dito a Moisés e fez os sinais diante dos olhos do povo.",
 "O povo acreditou; e, quando ouviram que YHWH havia visitado os filhos de Israel e visto sua aflição, inclinaram-se e se prostraram."
+],
+5: [
+"Depois disso, Moisés e Arão foram e disseram ao faraó: «Assim diz YHWH, Deus de Israel: Deixa meu povo ir, para que celebre uma festa em minha honra no deserto».",
+"O faraó respondeu: «Quem é YHWH, para que eu ouça sua voz e deixe Israel ir? Não conheço YHWH e também não deixarei Israel ir».",
+"Eles disseram: «O Deus dos hebreus veio ao nosso encontro. Deixa-nos ir, por favor, caminho de três dias pelo deserto, para sacrificarmos a YHWH, nosso Deus, para que ele não nos atinja com peste ou espada».",
+"O rei do Egito lhes disse: «Por que, Moisés e Arão, vocês afastam o povo de seus trabalhos? Voltem às suas tarefas!»",
+"O faraó disse: «Vejam, o povo da terra já é numeroso, e vocês querem fazê-lo parar de carregar suas cargas?»",
+"Naquele mesmo dia, o faraó ordenou aos capatazes do povo e aos seus supervisores:",
+"«Não forneçam mais palha ao povo para fazer tijolos, como antes. Que eles mesmos vão e recolham palha para si.",
+"Mas a quantidade de tijolos que faziam antes continuará sendo exigida deles; não diminuam nada, pois estão ociosos. Por isso clamam: ‘Vamos sacrificar ao nosso Deus’.",
+"Que o trabalho pese sobre esses homens; que se ocupem dele e não deem atenção a palavras falsas».",
+"Os capatazes do povo e seus supervisores saíram e disseram ao povo: «Assim diz o faraó: ‘Não vos darei palha.",
+"Vão vocês mesmos buscar palha onde a encontrarem; mas nada será diminuído do vosso trabalho».",
+"Então o povo se espalhou por toda a terra do Egito para recolher restolho em lugar de palha.",
+"Os capatazes os pressionavam, dizendo: «Completai vossas tarefas diárias, como quando havia palha».",
+"Os supervisores dos filhos de Israel, que os capatazes do faraó haviam colocado sobre eles, foram espancados. Perguntaram-lhes: «Por que não completastes hoje, como antes, a quantidade exigida de tijolos, nem ontem nem hoje?»",
+"Os supervisores dos filhos de Israel foram e clamaram ao faraó: «Por que fazes assim com teus servos?",
+"Não se dá palha aos teus servos, mas nos dizem: ‘Fazei tijolos!’ E eis que teus servos são espancados, embora a culpa seja do teu próprio povo».",
+"Ele respondeu: «Vocês estão ociosos, ociosos! Por isso dizem: ‘Vamos sacrificar a YHWH’.",
+"Agora, vão trabalhar! Não vos será dada palha, mas entregareis a quantidade determinada de tijolos».",
+"Os supervisores dos filhos de Israel viram que estavam em situação ruim, pois lhes diziam: «Não diminuireis nada da quantidade diária de tijolos».",
+"Ao saírem da presença do faraó, encontraram Moisés e Arão, que estavam à espera deles.",
+"E disseram-lhes: «Que YHWH olhe para vocês e julgue, pois fizeram nosso cheiro ser repugnante aos olhos do faraó e aos olhos de seus servos, colocando uma espada na mão deles para nos matar».",
+"Moisés voltou-se para YHWH e disse: «Senhor, por que fizeste mal a este povo? Por que me enviaste?",
+"Desde que fui ao faraó para falar em teu nome, ele tem feito mal a este povo, e tu de modo algum livraste teu povo»."
 ]
 };
