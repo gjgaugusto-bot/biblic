@@ -16,8 +16,10 @@
 
 ## Próxima etapa de conteúdo
 
-- Retomar o estudo em Gênesis 5, respeitando integralmente as regras editoriais abaixo.
-- Não marcar capítulo como concluído até passar pela revisão textual, conferência das referências/dados e confirmação do usuário quando aplicável.
+- Gênesis é considerado revisado no controle editorial anterior; falta a conferência final de abertura, sem rebaixar os versículos aprovados.
+- Êxodo 1–40 está integrado; a revisão acadêmica versículo por versículo com o hebraico continua pendente/em andamento.
+- Depois de estabilizar o controle editorial, avançar pelos demais livros até Apocalipse.
+- Não marcar capítulo como concluído sem conferência textual, fontes e registro do resultado.
 
 ## Regras editoriais obrigatórias
 
@@ -44,7 +46,7 @@ Um capítulo só pode receber status **REVISADO** quando:
 - [ ] A alteração passou pelas verificações automáticas.
 - [ ] O resultado foi registrado neste arquivo com data, arquivos/commit e estado.
 
-Status permitidos: **RASCUNHO**, **EM REVISÃO**, **REVISADO**, **PUBLICADO**. Publicado não significa automaticamente revisado: os dois estados devem ser registrados separadamente.
+Estados editoriais por versículo: **Pendente**, **Em revisão**, **Revisado** e **Reaberto**. Publicação é um estado técnico separado e nunca substitui a aprovação editorial.
 
 ## Registro de alterações e decisões
 
@@ -414,7 +416,7 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Mantida a verificação de contagem dos versículos dos 50 capítulos de Gênesis. Essa verificação confirma estrutura, não fidelidade semântica.
 - Escopo não certificado: a revisão semântica verso a verso de Gênesis ainda depende de leitura especializada em hebraico bíblico; a biblioteca de estudos também não foi validada como fonte acadêmica.
 - Os dados salvos apenas no navegador (`localStorage`) não são incluídos no snapshot GitHub. É necessário exportar o backup JSON separadamente.
-- Nenhuma alteração foi integrada em `main`; o PR #35 continua draft; o site não foi publicado.
+- Nenhuma alteração foi integrada em `main`; o PR #35 foi integrado à branch `base-imutavel-2026-11-06` (merge commit `0d879f02df46fb1b4a5a2d87fe1c21bfba06187b`); ele não foi integrado em `main` nesta etapa.
 - Base congelada: `base-imutavel-2026-11-06`. Continuidade: `trabalho-base-2026-11-06`.
 
 
