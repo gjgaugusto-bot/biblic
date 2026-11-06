@@ -53,6 +53,9 @@ window.TRANSLATION_NOTES[3][5] = {
   2:{term:"צָרוּעַ (tsaru'a)",text:"Pessoa atingida por afecção cutânea ritual que a torna impura; não se deve restringir automaticamente o termo ao diagnóstico moderno de lepra."},
   6:{term:"מָעַל מַעַל (ma'al ma'al)",text:"Construção enfática do verbo מעל, “agir com infidelidade” ou “cometer transgressão”. A falta contra o próximo também é descrita como quebra de fidelidade diante de YHWH."},
   7:{term:"וְהִתְוַדּוּ (vehitvadu)",text:"“Confessará”. O verbo designa reconhecimento verbal da falta, associado aqui à restituição material."},
+  8:{term:"גֹּאֵל (go'el)",text:"Parente resgatador ou representante familiar. Se não houver pessoa com esse papel para receber a restituição, o valor é entregue ao sacerdote como pertencente a YHWH."},
+  9:{term:"תְּרוּמָה (terumah)",text:"“Contribuição” ou “porção elevada”. Designa uma parcela separada dentre os bens consagrados e destinada ao sacerdote; não é necessariamente uma oferta sacrificial."},
+  15:{term:"מִנְחַת קְנָאֹת (minchat qena'ot)",text:"“Oferta de cereal por ciúme”. O termo קנאות está no plural e associa a oferta ao procedimento ritual motivado pela suspeita de infidelidade."}
   14:{term:"רוּחַ קִנְאָה (ruach qin'ah)",text:"“Espírito de ciúme” ou “impulso de ciúme”. A expressão descreve a suspeita que leva o marido ao procedimento ritual, não uma prova de culpa."},
   18:{term:"מֵי הַמָּרִים (mei hammarim)",text:"“Águas amargas”. A expressão nomeia a água ritual que recebe a função de testemunhar a maldição condicional."},
   22:{term:"אָמֵן אָמֵן (amen amen)",text:"A repetição de “amém” expressa a aceitação solene da fórmula juramentada e de suas consequências."}
@@ -60,6 +63,9 @@ window.TRANSLATION_NOTES[3][5] = {
 /* Notas lexicais — Números 6. */
 window.TRANSLATION_NOTES[3][6] = {
   2:{term:"נָזִיר (nazir)",text:"Pessoa separada ou consagrada por voto. O termo vem da raiz נזר, “separar-se/consagrar-se”; não deve ser confundido com “nazareno”."},
+  2:{term:"יַפְלִא לִנְדֹּר (yafli lindor)",text:"Expressão ligada a fazer um voto especial ou extraordinário. O verbo פלא destaca o caráter excepcional da dedicação voluntária."},
+  7:{term:"נֵזֶר אֱלֹהָיו (nezer elohav)",text:"“Consagração de seu Deus” ou “sinal de consagração ao seu Deus”. נֵזֶר pode designar consagração e também uma insígnia/coroa; aqui indica o estado consagrado do nazireu, simbolicamente situado sobre a cabeça."},
+  11:{term:"חַטָּאת / עֹלָה (chatat / olah)",text:"Dois tipos distintos de oferta: a חַטָּאת é oferta de purificação (tradicionalmente “pelo pecado”), enquanto עֹלָה é holocausto, consumido integralmente no altar."}
   3:{term:"מִשְׁרַת עֲנָבִים (mishrat anavim)",text:"Mosto ou bebida extraída das uvas. A proibição abrange produtos da videira, não apenas vinho fermentado."},
   5:{term:"פֶּרַע שְׂעַר (pera se'ar)",text:"Cabelo deixado crescer sem corte. Funciona como sinal visível da consagração durante o período do voto."},
   9:{term:"תַּעַר (ta'ar)",text:"Navalha. O corte da cabeça após a contaminação acidental marca reinício ritual, não o cumprimento normal do voto."},
@@ -71,6 +77,9 @@ window.TRANSLATION_NOTES[3][6] = {
 window.TRANSLATION_NOTES[3][7] = {
   1:{term:"כַלּוֹת (kallot)",text:"Forma de כלה, “concluir/terminar”. A abertura situa a dedicação do altar depois de concluída a montagem do santuário."},
   3:{term:"עֶגְלֹת צָב (eglot tsav)",text:"Carroças cobertas ou carroças de transporte. O substantivo צב tem interpretação lexical discutida; o contexto de transporte dos componentes do Tabernáculo favorece veículos cobertos."},
+  2:{term:"הָעֹמְדִים עַל־הַפְּקֻדִים (ha'omedim al-hapekudim)",text:"Literalmente, “os que estavam sobre os recenseados”. A expressão indica chefes encarregados dos homens registrados, sem especificar que tenham realizado pessoalmente a contagem."},
+  13:{term:"קַעֲרַת־כֶּסֶף / מִזְרָק (qe'arat-kesef / mizraq)",text:"A primeira expressão designa uma travessa ou prato de prata; מִזְרָק é uma bacia usada para recolher ou aspergir líquidos rituais. São recipientes distintos."},
+  89:{term:"מִדַּבֵּר (middabber)",text:"Forma participial de דבר, “falar”. A voz é descrita como falando a Moisés de cima da cobertura da Arca, entre os querubins."}
   9:{term:"בַּכָּתֵף יִשָּׂאוּ (bakkatef yissa'u)",text:"“Carregarão sobre o ombro”. A ausência de carroças para os coatitas está ligada ao transporte manual dos objetos sagrados."},
   10:{term:"חֲנֻכַּת (chanukkat)",text:"“Dedicação” ou “inauguração”. A raiz חנך indica iniciar/consagrar algo para seu uso, aqui o altar."},
   13:{term:"מִזְרָק (mizraq)",text:"Bacia ou recipiente de aspersão. Distingue-se da travessa (קַעֲרָה), embora ambos sejam utensílios de prata usados na oferta."},
@@ -81,6 +90,10 @@ window.TRANSLATION_NOTES[3][7] = {
 window.TRANSLATION_NOTES[3][8] = {
   2:{term:"בְּהַעֲלֹתְךָ (beha'alotekha)",text:"Literalmente, “ao fazer subir”. O verbo descreve o acendimento/elevação das lâmpadas do candelabro."},
   7:{term:"מֵי חַטָּאת (mei chatat)",text:"“Água de purificação” ou “água para purificação”. O termo חטאת pode designar a oferta pelo pecado, mas aqui integra um rito de purificação."},
+  2:{term:"בְּהַעֲלֹתְךָ (beha'alotekha)",text:"Literalmente, “quando fizeres subir”. O verbo descreve o ato de acender/erguer as lâmpadas; o foco da instrução é a direção em que devem iluminar."},
+  7:{term:"הַזֵּה ... מֵי חַטָּאת (hazzeh ... mei chatat)",text:"O imperativo הַזֵּה significa “asperge”. A expressão seguinte designa água ritual de purificação, não água comum nem uma oferta sacrificial."},
+  16:{term:"נְתֻנִים נְתֻנִים (netunim netunim)",text:"Repetição enfática do particípio “dados/entregues”. Destaca que os levitas foram inteiramente separados para YHWH em lugar dos primogênitos."},
+  24:{term:"לִצְבֹא צָבָא (litsvo tsava)",text:"Expressão idiomática para ingressar no serviço organizado do santuário. צָבָא pode significar exército, mas aqui se refere ao serviço levítico."}
   11:{term:"תְּנוּפָה (tenufah)",text:"“Oferta movida”. Gesto ritual de apresentação diante de YHWH; a imagem de movimento não deve ser confundida com uma oferta que os levitas literalmente carregassem para longe."},
   19:{term:"לְכַפֵּר (lekhapper)",text:"“Fazer expiação”. A raiz כפר expressa o rito de remoção/neutralização da culpa ou impureza, aqui ligado ao serviço levítico."},
   24:{term:"מִבֶּן חָמֵשׁ וְעֶשְׂרִים (mibben chamesh ve'esrim)",text:"“A partir dos vinte e cinco anos”. Em Números 4, a idade de serviço é apresentada como trinta anos; a diferença é textual e interpretativa, não deve ser apagada. Uma explicação tradicional entende os cinco anos como período de aprendizagem."}
