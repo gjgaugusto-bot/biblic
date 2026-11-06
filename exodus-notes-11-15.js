@@ -3,10 +3,12 @@ window.TRANSLATION_NOTES = window.TRANSLATION_NOTES || {};
 window.TRANSLATION_NOTES[1] = window.TRANSLATION_NOTES[1] || {};
 Object.assign(window.TRANSLATION_NOTES[1], {
   11: {
-    1:{term:"גָּרֵשׁ יְגָרֵשׁ (garesh yegaresh)",text:"Infinitivo absoluto seguido de forma verbal do mesmo radical, construção enfática: literalmente, “expulsando, expulsará”. A tradução registra a força da expressão sem apagar a ênfase."},
+    1:{term:"כָּלָה גָּרֵשׁ יְגָרֵשׁ (kalah garesh yegaresh)",text:"A construção combina כָּלָה (*kalah*, “completamente/por inteiro”) com infinitivo absoluto e verbo do mesmo radical גָּרֵשׁ (*garesh*, “expulsar”). A ênfase de “certamente expulsará por completo” recai sobre a expulsão, não sobre a primeira saída. A tradução foi ajustada para deixar essa relação clara."},
     2:{term:"שָׁאַל (sha'al)",text:"Verbo básico “pedir/perguntar”; em certos contextos, “solicitar”. Não significa necessariamente tomar emprestado com intenção de devolver. A nota evita decidir a questão jurídica ou narrativa que o verbo isolado não resolve."},
+    4:{term:"כַּחֲצֹת הַלַּיְלָה (kachatsot halaylah)",text:"Expressão com כְּ (*ke*, “como/por volta de”) e חֲצוֹת (*chatsot*, meia-noite). “Por volta da meia-noite” preserva o valor aproximativo, em vez de fixar um instante cronométrico exato."},
     5:{term:"בְּכוֹר (bekhor)",text:"“Primogênito”, isto é, o primeiro a abrir o ventre ou o primeiro filho. O versículo aplica o termo a humanos e animais; não se deve restringi-lo automaticamente ao filho mais velho vivo."},
-    7:{term:"חָרַץ־כֶּלֶב לְשֹׁנוֹ (charats-kelev leshono)",text:"Expressão idiomática difícil, literalmente próxima de “um cão não afiará sua língua”. A imagem comunica ausência de perturbação ou ameaça; a tradução conserva a figura em vez de substituí-la por uma interpretação livre."}
+    7:{term:"חָרַץ־כֶּלֶב לְשֹׁנוֹ (charats-kelev leshono)",text:"Expressão idiomática difícil, literalmente próxima de “um cão não afiará sua língua”. A imagem comunica ausência de perturbação ou ameaça; a tradução conserva a figura em vez de substituí-la por uma interpretação livre."},
+    8:{term:"וְיִשְׁתַּחֲווּ לִי (veyishtachavu li) / בְּחֳרִי־אָף (bechori af)",text:"וְיִשְׁתַּחֲווּ (*hishtachavu*) descreve prostrar-se ou prestar homenagem, gesto mais intenso que apenas inclinar a cabeça. בְּחֳרִי־אָף (*bechori af*) é idiomático: literalmente, “no ardor da ira”, isto é, com grande indignação."}
   },
   12: {
     2:{term:"חֹדֶשׁ (chodesh)",text:"Pode designar “mês” e está ligado à ideia de novidade/renovação, também usada para a lua nova. O texto estabelece uma nova referência para a contagem dos meses de Israel."},
