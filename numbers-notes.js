@@ -264,3 +264,25 @@ window.TRANSLATION_NOTES[3][27] = {
   20:{term:"הוֹד (hod)",text:"“Majestade/autoridade”. Moisés transfere a Josué parte de sua dignidade pública para que a comunidade o reconheça."},
   21:{term:"מִשְׁפַּט הָאוּרִים (mishpat ha'urim)",text:"“Juízo dos Urim”. Meio sacerdotal de consulta divina; o texto não descreve aqui seu procedimento material."}
 };
+
+/* Notas lexicais — Números 28. */
+window.TRANSLATION_NOTES[3][28] = {
+  2:{term:"קָרְבָּנִי לַחְמִי (qorbani lachmi)",text:"“Minha oferta, meu alimento”. Linguagem cultual que apresenta as ofertas como alimento oferecido no altar, não como necessidade física da divindade."},
+  6:{term:"עֹלַת תָּמִיד (olat tamid)",text:"“Holocausto contínuo/regular”. Refere-se à oferta diária da manhã e do entardecer."},
+  7:{term:"שֵׁכָר (shekhar)",text:"Bebida fermentada ou forte usada na libação; o termo não deve ser confundido com a oferta de vinho em todos os contextos."},
+  26:{term:"יוֹם הַבִּכּוּרִים (yom habikkurim)",text:"“Dia das primícias”, associado à Festa das Semanas e à apresentação da nova colheita."}
+};
+/* Notas lexicais — Números 29. */
+window.TRANSLATION_NOTES[3][29] = {
+  1:{term:"יוֹם תְּרוּעָה (yom teru'ah)",text:"“Dia de aclamação/toque”. תְּרוּעָה pode designar toque de trombeta, alarme ou aclamação festiva."},
+  7:{term:"וְעִנִּיתֶם אֶת־נַפְשֹׁתֵיכֶם (ve'innitem et-nafshotekhem)",text:"“Afligireis vossas pessoas/almas”. Fórmula de humilhação e abstinência associada ao Dia da Expiação."},
+  12:{term:"חַג (chag)",text:"“Festa”. Aqui introduz a celebração de sete dias do sétimo mês, conhecida como Festa das Cabanas."},
+  35:{term:"עֲצֶרֶת (atseret)",text:"“Assembleia solene/conclusiva”. O termo designa uma reunião festiva especial; seu sentido preciso é debatido."}
+};
+/* Notas lexicais — Números 30. */
+window.TRANSLATION_NOTES[3][30] = {
+  2:{term:"לֶאְסֹר אִסָּר (le'esor issar)",text:"“Obrigar-se por compromisso”. A construção reforça a natureza vinculante do voto ou juramento."},
+  3:{term:"לֹא יַחֵל דְּבָרוֹ (lo yachel devaro)",text:"“Não profanará/quebrará sua palavra”. O voto exige cumprimento do que foi pronunciado."},
+  6:{term:"מִבְטָא שְׂפָתֶיהָ (mivta sefateha)",text:"“Expressão precipitada de seus lábios”. Refere-se a uma declaração impulsiva que cria obrigação."},
+  14:{term:"לְעַנֹּת נָפֶשׁ (le'annot nefesh)",text:"“Afligir a si mesma”. Expressão ligada a práticas de abstinência e humilhação voluntária."}
+};
