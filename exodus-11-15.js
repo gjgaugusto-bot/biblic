@@ -83,7 +83,7 @@ window.EXODUS_TEXT[13] = [
 "Quando teu filho te perguntar no futuro: ‘Que é isto?’, responderás: ‘Com mão forte YHWH nos tirou do Egito, da casa de servidão.",
 "Quando o faraó se obstinou e não nos deixou partir, YHWH matou todo primogênito na terra do Egito, desde o primogênito humano até o primogênito dos animais. Por isso sacrifico a YHWH todo macho que abre o ventre, e resgato todo primogênito de meus filhos’.",
 "Isso será como sinal sobre tua mão e como faixa entre teus olhos, pois com mão forte YHWH nos tirou do Egito».",
-"Quando o faraó deixou o povo partir, Deus não o conduziu pelo caminho da terra dos filisteus, embora fosse mais perto, pois Deus disse: «Para que o povo não se arrependa ao ver a guerra e volte ao Egito».",
+"Quando o faraó deixou o povo partir, Deus não o conduziu pelo caminho da terra dos filisteus, embora fosse mais perto, pois Deus disse: «Para que o povo não mude de ideia ao ver a guerra e volte ao Egito».",
 "Deus fez o povo dar a volta pelo caminho do deserto, em direção ao mar de Juncos. Os filhos de Israel subiram do Egito preparados para a batalha.",
 "Moisés levou consigo os ossos de José, pois este havia feito os filhos de Israel jurar solenemente, dizendo: «Certamente Deus vos visitará; então levareis daqui meus ossos convosco».",
 "Partiram de Sucote e acamparam em Etã, à beira do deserto.",
