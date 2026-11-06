@@ -46,6 +46,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     13: {term:"רָצַח (ratsach)",text:"Verbo para matar/assassinar, frequentemente usado para homicídio ilícito. Não é o verbo hebraico genérico mais amplo para qualquer morte."},
     17: {term:"חָמַד (chamad)",text:"Desejar ou cobiçar. O verbo descreve desejo voltado ao que pertence ao próximo; a lista inclui pessoas, bens e animais."},
     21: {term:"עֲרָפֶל (arafel)",text:"Escuridão espessa ou nuvem densa. A palavra descreve a manifestação no monte como algo encoberto e temível."},
-    24: {term:"מִזְבַּח אֲדָמָה (mizbach adamah)",text:"“Altar de terra”. O termo adamah é solo/terra cultivável; a instrução contrasta com a construção de pedras lavradas."}
+    24: {term:"מִזְבַּח אֲדָמָה (mizbach adamah)",text:"“Altar de terra”. O termo adamah é solo/terra cultivável; a instrução contrasta com a construção de pedras lavradas."},
+    25: {term:"חַרְבְּךָ הֵנַפְתָּ עָלֶיהָ (charbekha henaf'ta aleha)",text:"חַרְבְּךָ (*charbekha*) significa literalmente “tua espada”, mas no contexto de construção do altar é entendido metonimicamente como ferramenta/chisel de trabalho. הֵנַפְתָּ (*henaf'ta*) é “erguer/brandir”. O sufixo singular de עָלֶיהָ (*aleha*) e וַתְּחַלְּלֶהָ (*vatechalleleha*, “tu o profanarás”) refere-se ao altar, por isso a tradução usa “sobre ele/o profanará”, não “sobre elas/as profanará”."}
   }
 });
