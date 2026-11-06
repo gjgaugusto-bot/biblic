@@ -113,3 +113,35 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 38:8:** ampliada a nota sobre as mulheres junto à entrada da tenda. O verbo צבא pode indicar reunião em grupos ou serviço organizado; a função exata permanece incerta.
 
 - **Êxodo 4:24–26:** corrigida a nota explicativa: o sujeito de “procurou matá-lo” é explicitamente YHWH no hebraico; a ambiguidade está no objeto do verbo e nos referentes de “pés” e “a ele”.
+
+
+### Êxodo 1 — conferência textual e lexical integral (1:1–22)
+
+**Passagem concluída em 2026-11-06; o estado geral do capítulo permanece “Em revisão” no painel até que a transição individual seja registrada nele.** A conferência foi feita contra o Texto Massorético, com comparação de notas técnicas e comentários. Não foi feita reescrita geral do capítulo.
+
+Correções no texto:
+- **1:15:** “parteiras das hebreias” foi ajustado para **“parteiras hebreias”**, seguindo a leitura mais direta da vocalização massorética. A alternativa “parteiras das hebreias” é registrada como interpretação textual alternativa antiga, não apagada da discussão.
+- **1:20:** “o povo se multiplicou e se tornou muito numeroso” foi ajustado para **“o povo se multiplicou e se tornou muito poderoso”**, distinguindo וַיִּרֶב (*vayyirev*, multiplicar-se) de וַיַּעַצְמוּ (*vayya'atzmu*, tornar-se forte/poderoso ou numeroso).
+
+Notas lexicais acrescentadas:
+- **1:1:** mudança de referente de בְּנֵי יִשְׂרָאֵל (*benei Yisrael*): os filhos individuais de Jacó em 1:1–4; o povo em 1:7.
+- **1:5:** נֶפֶשׁ (*nefesh*) no sentido de pessoas/indivíduos; יֹצְאֵי יֶרֶךְ־יַעֲקֹב (*yotsei yerekh Yaakov*) como descendentes diretos. Registrada a variante setenta/setenta e cinco: Texto Massorético = setenta; tradição grega e dois manuscritos de Qumran = setenta e cinco.
+- **1:15:** registrada a leitura massorética “parteiras hebreias” e a interpretação alternativa “parteiras das hebreias”.
+- **1:16:** אָבְנַיִם (*'ovnayim*) é termo raro, entendido geralmente como assento/equipamento de parto; há proposta de tijolos de parto. “Assentos de parto” foi mantido como tradução cautelosa.
+- **1:19:** חָיוֹת (*chayot*) pode indicar mulheres vigorosas/vivas e também evocar “animais”; “vigorosas” foi mantido sem eliminar a ambivalência.
+- **1:20:** registrado o campo semântico de עצם (*'atsam*), “ser forte/poderoso” ou “ser numeroso”.
+- **1:21:** בָּתִּים (*batim*, “casas”) pode designar também famílias ou dinastias; “casas” foi mantido, sem decidir a natureza exata da bênção.
+
+Demais versículos (1:2–4, 1:6, 1:8–14, 1:17–18 e 1:22): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual considerada necessária nesta passagem. A nota existente de 1:7 sobre שׁרץ (*sharats*, pulular/enxamear) foi mantida.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 1: https://new.mechon-mamre.org/p/pt/pt0201.htm
+- NET Bible, Êxodo 1:1–7 e notas sobre *nefesh*, descendência direta, variantes numéricas e sequência verbal: https://classic.net.bible.org/passage.php?passage=exo+1:1-7
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, comentários a Êxodo 1:15–21 (análises de *'ovnayim*, *chayot* e *batim*).
+- Kevin McGeough, “Birth Bricks, Potter’s Wheels, and Exodus 1,16”, *Biblica* 87 (2006), 305–318: https://www.bsw.org/biblica/vol-87-2006/birth-bricks-potter-s-wheels-and-exodus-1-16/107/
+- HyPr Bible, verbete realia para אָבְנַיִם (*'ovnayim*): https://hypr.bible/en/lexicon/realia/birthstool/
+- NET Bible, Êxodo 1:21, nota sobre “casas/famílias”: https://classic.net.bible.org/verse.php/verse.php?book=Exo&chapter=1&tab=commentaries&verse=21
+- OpenBible, léxico de עָצַם (*'atsam*): https://www.openbible.com/strongs/hebrew/6105.htm
+- *Harvard Theological Review*, “Beyond Boundaries: Ethnicity, Gender, and Class in Exod 1:8–2:10” (2025), para a ambivalência de חָיוֹת (*chayot*): https://doi.org/10.1017/S0017816025100667
+
+**Próximo ponto:** Êxodo 2:1–25. Não repetir a conferência de Êxodo 1 sem evidência concreta de erro novo.
