@@ -23,8 +23,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   22:{term:"נִקְרַת הַצּוּר (niqrat hatsur)",text:"Fenda ou abertura da rocha. O termo descreve o abrigo onde Moisés é colocado."}
 },
 34: {
-  6:{term:"רַחוּם וְחַנּוּן (rachum vechannun)",text:"“Compassivo e gracioso/misericordioso”. A fórmula apresenta atributos centrais do caráter divino."},
-  6:{term:"חֶסֶד וֶאֱמֶת (chesed ve'emet)",text:"“Amor leal e fidelidade/verdade”. A expressão reúne compromisso duradouro e confiabilidade."},
+  6:{term:"רַחוּם וְחַנּוּן (rachum vechannun); חֶסֶד וֶאֱמֶת (chesed ve'emet)",text:"“Compassivo e gracioso/misericordioso”; “amor leal e fidelidade/verdade”. A fórmula reúne atributos centrais do caráter divino: compaixão, compromisso duradouro e confiabilidade."},
   7:{term:"נֹשֵׂא עָוֹן (nose avon)",text:"“Que carrega/perdoa a iniquidade”. A linguagem de carregar o erro funciona como metáfora de perdão."},
   13:{term:"אֲשֵׁרִים (asherim)",text:"Postes ou objetos cultuais associados à deusa Aserá; a identificação material exata varia conforme contexto arqueológico e textual."},
   29:{term:"קָרַן (qaran)",text:"Verbo relacionado a “raios” ou “emitir brilho”. A tradição de tradução varia entre rosto resplandecente e imagem de raios."},
