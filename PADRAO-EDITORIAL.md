@@ -24,7 +24,7 @@ Todo livro com tradução publicada deve oferecer:
 
 ## Organização dos arquivos
 
-A organização física pode ser dividida em lotes, mas a interface deve consumir um único objeto de dados por livro e um único espaço lógico de notas por livro. A fragmentação de arquivos (como os lotes de Êxodo) não deve alterar o contrato de dados.
+A organização física pode ser dividida em lotes, mas a interface deve consumir um único objeto de dados por livro e um único espaço lógico de notas por livro. Notas usam o contrato window.TRANSLATION_NOTES[índiceDoLivro][capítulo][versículo] com os campos term e text. Cada livro deve ter arquivo(s) de notas próprios; a fragmentação em lotes (como Êxodo) não deve alterar o contrato de dados. As notas são seletivas e não precisam existir em todos os versículos, mas sua distribuição deve ser inventariada e descrita sem alegar cobertura integral.
 
 ## Padrão de fonte
 
