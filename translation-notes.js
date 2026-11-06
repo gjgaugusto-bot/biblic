@@ -62,7 +62,8 @@ window.TRANSLATION_NOTES = {
       7: {term:"וַיִּשְׁרְצוּ (vayishretsu)",text:"Verbo da raiz שׁרץ, que pode descrever enxamear, pulular ou multiplicar-se abundantemente. A sequência de verbos intensifica a imagem do crescimento de Israel; “multiplicaram-se abundantemente” transmite o sentido, embora não reproduza a imagem de “pulular”."}
     },
     2: {
-      10: {term:"מֹשֶׁה (Moshe) / מְשִׁיתִהוּ (meshitihu)",text:"O versículo associa o nome Moshe ao verbo hebraico משה (mashah, “tirar/puxar para fora”), em um jogo de palavras com “eu o tirei das águas”. Isso explica a narrativa do nome, mas não encerra a discussão sobre sua origem histórica, que também foi relacionada ao egípcio."}
+      10: {term:"מֹשֶׁה (Moshe) / מְשִׁיתִהוּ (meshitihu)",text:"O versículo associa o nome Moshe ao verbo hebraico משה (mashah, “tirar/puxar para fora”), em um jogo de palavras com “eu o tirei das águas”. Isso explica a narrativa do nome, mas não encerra a discussão sobre sua origem histórica, que também foi relacionada ao egípcio."},
+      22: {term:"גֵּרְשֹׁם (Gershom) / גֵּר הָיִיתִי (ger hayiti)",text:"O nome Gershom é associado à frase “fui estrangeiro/forasteiro em terra estrangeira”. A narrativa faz um jogo sonoro com ger (“forasteiro”) e sham (“ali”), sem que isso precise ser tratado como etimologia histórica definitiva."}
     },
     3: {
       14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."},
