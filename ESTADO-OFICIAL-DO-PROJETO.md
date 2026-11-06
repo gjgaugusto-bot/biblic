@@ -126,3 +126,10 @@ Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, 
 - Êxodo 1–10 estão **Revisados** no controle por versículo (273 registros com fonte, observação e histórico de transição). Êxodo 11–40 permanece **Em revisão**.
 - Próximo lote editorial: iniciar a segunda conferência de Êxodo 11–15, sem reiniciar a primeira passada já documentada.
 - Branch de trabalho: `revisao-academica-exodo-1-5-2026-11-06`. A validação automatizada e a revisão do PR ainda estão pendentes.
+
+
+## Atualização de integração — PR #38 (2026-11-06)
+
+- PR #38 foi integrado à `main` no commit `81b540802da6099e5c0106ef41ae8bc15f63ab70`.
+- O workflow GitHub Pages correspondente, run [42314255062](https://github.com/gjgaugusto-bot/biblic/actions/runs/42314255062), concluiu com sucesso; a padronização editorial está publicada.
+- A revisão de Êxodo 1–10 permanece isolada no PR de conteúdo e ainda aguarda validação/revisão própria.
