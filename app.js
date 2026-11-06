@@ -206,6 +206,25 @@ const BOOK_INFO={
       ['Lugar no Pentateuco','Apresenta as origens do mundo e da humanidade e introduz a história da família de Israel, que continua nos livros seguintes do Pentateuco.']
     ],
     note:'A atribuição tradicional a Moisés e as hipóteses acadêmicas sobre a composição são informações de naturezas diferentes. A ficha registra ambas sem transformar uma posição debatida em certeza.'
+  },
+  1:{
+    intro:'Ficha de referência histórica, literária e bibliográfica. Datas e autoria são apresentadas distinguindo a tradição religiosa das discussões acadêmicas.',
+    fields:[
+      ['Nome hebraico','Shemot (שְׁמוֹת), “nomes”, palavra inicial do livro na Bíblia Hebraica.'],
+      ['Nome “Êxodo”','Do grego éxodos, “saída” ou “partida”; o título destaca a saída dos israelitas do Egito narrada no livro.'],
+      ['Posição na Bíblia','Segundo livro da Bíblia e do Pentateuco (Torá), depois de Gênesis.'],
+      ['Capítulos','40 capítulos.'],
+      ['Idioma original','Hebraico bíblico.'],
+      ['Autoria — tradição','A tradição judaica e cristã atribui a autoria a Moisés, dentro da tradição dos cinco livros da Lei.'],
+      ['Autoria — estudos acadêmicos','O livro não identifica expressamente um único autor. Estudos acadêmicos investigam sua formação a partir de tradições e materiais reunidos e editados ao longo do tempo; não há consenso sobre autoria ou modelo de composição.'],
+      ['Data de composição','Não existe uma data consensual para a composição final. As propostas acadêmicas situam a formação do Pentateuco em diferentes etapas e períodos; datas específicas permanecem debatidas.'],
+      ['Época dos acontecimentos narrados','A narrativa situa os israelitas no Egito, sua saída e a jornada pelo deserto até o Sinai. A data histórica desses acontecimentos é debatida e não pode ser fixada apenas pelo texto.'],
+      ['Contexto histórico e geográfico','O cenário narrativo percorre o Egito, o mar, o deserto e o monte Sinai/Horebe, no contexto mais amplo do antigo Oriente Próximo.'],
+      ['Estrutura do livro','Êxodo 1–18 narra a opressão no Egito, a vocação de Moisés, as pragas, a saída e a jornada até o Sinai; 19–24 apresenta a aliança e instruções; 25–40 trata do tabernáculo, do episódio do bezerro de ouro e da construção e consagração do santuário.'],
+      ['Gêneros e formas literárias','Narrativas, genealogias, poesia, leis, instruções rituais e descrições do tabernáculo.'],
+      ['Lugar no Pentateuco','Continua a narrativa familiar de Gênesis e apresenta a saída do Egito, a jornada no deserto e os acontecimentos no Sinai, que antecedem a continuação em Levítico e Números.']
+    ],
+    note:'A atribuição tradicional a Moisés, as afirmações do próprio texto sobre registros escritos e as hipóteses acadêmicas sobre a formação do livro são informações de naturezas diferentes. A ficha as distingue e não apresenta uma data controversa como fato estabelecido.'
   }
 };
 function renderBookInfo(){
@@ -325,3 +344,4 @@ $('clearData').onclick=()=>{
 };
 document.querySelectorAll('.navbtn,.bottom-tab').forEach(b=>b.onclick=()=>show(b.dataset.view));$('backBooks').onclick=()=>show('home');$('search').oninput=e=>renderBooks(e.target.value);
 renderBooks();renderGuides();renderSymbols();renderCharacters();
+

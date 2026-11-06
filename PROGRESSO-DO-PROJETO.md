@@ -350,3 +350,16 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Nenhum texto bíblico, dado de estudo, simbologia ou conteúdo editorial foi alterado.
 - Branch: `fix-contraste-abas-capitulo`. Validação automatizada pelo workflow do Pull Request ainda pendente; não declarar a correção aprovada até o resultado do CI.
 - Próximo passo: executar o workflow, revisar qualquer falha residual e só então solicitar revisão humana.
+
+## Ficha “Sobre o livro” — Êxodo (2026-11-05)
+
+- Criada ficha bibliográfica para Êxodo, exibida ao abrir o livro no mesmo componente usado por Gênesis.
+- Campos incluídos: nome hebraico e título grego, posição no cânon, capítulos, idioma, autoria tradicional e discussão acadêmica, datação, período narrativo, contexto geográfico, estrutura, formas literárias e lugar no Pentateuco.
+- Autoria, datação da composição e historicidade dos eventos estão descritas com ressalvas, sem tratar questões debatidas como consenso. Conteúdo de referência conferido com a introdução acadêmica da Society for Old Testament Study e a apresentação de Princeton sobre Êxodo.
+- Arquivos alterados: `app.js` e `index.html` (versão de cache do script atualizada).
+- Base de trabalho: branch `biografia-exodo-main`, criada a partir de `origin/main`, pois `origin/desenvolvimento` não continha a ficha de Gênesis que serve de padrão.
+- Nenhum texto bíblico, resumo de capítulo, personagem, simbologia ou dado local do navegador foi alterado.
+- Verificações automatizadas e inspeção visual ainda pendentes; não declarar publicação.
+- Estado: IMPLEMENTADO EM BRANCH; VALIDAÇÃO AUTOMÁTICA E INSPEÇÃO VISUAL PENDENTES.
+
+Referências de consulta: Society for Old Testament Study, [Exodus](https://www.sots.ac.uk/wiki/exodus); Princeton University Press, [The Book of Exodus: A Biography](https://assets.press.princeton.edu/chapters/i13379.pdf).
