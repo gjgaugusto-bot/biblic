@@ -105,3 +105,5 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 17:16:** acrescentada nota para כִּי־יָד עַל־כֵּס יָהּ (*ki-yad al-kes Yah*), frase obscura que pode funcionar como fórmula de juramento ou declaração de guerra permanente. A tradução registra uma leitura possível sem tratá-la como certa.
 - **Êxodo 20:5:** “dos que me rejeitam” foi ajustado para “dos que me odeiam”, correspondendo mais diretamente a לְשֹׂנְאָי (*leson'ai*).
 - **Êxodo 20:24:** ajustada a construção portuguesa para “onde eu fizer com que meu nome seja lembrado”.
+
+- **Êxodo 23:14:** acrescentada nota para שָׁלֹשׁ רְגָלִים (*shalosh regalim*), expressão que identifica as três festas de peregrinação; “três vezes por ano” preserva a frequência, e a nota explicita o caráter de peregrinação.
