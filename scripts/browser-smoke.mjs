@@ -79,13 +79,17 @@ try {
   await firstReviewRow.locator("[data-review-observation]").fill("Conferência simulada para teste automatizado.");
   await firstReviewRow.locator("[data-review-apply]").click();
   assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Revisado","A transição Em revisão → Revisado deve funcionar com evidência");
+  assert.equal(await firstReviewRow.locator("[data-review-target] option[value=pendente]").count(),0,"Um trecho revisado não pode voltar a Pendente");
   await page.locator('[data-review-row="1-1-1"] details').evaluate(element => element.open = true);
   await page.locator('[data-review-row="1-1-1"] [data-review-target]').selectOption("reaberto");
   await page.locator('[data-review-row="1-1-1"] [data-review-source]').fill("Nova fonte de teste");
+  await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("");
+  await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
+  assert.ok((await page.locator('[data-review-row="1-1-1"] [data-review-message]').innerText()).includes("motivo concreto"),"A reabertura sem justificativa deve ser bloqueada");
   await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("Erro concreto simulado para validar a reabertura.");
   await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
   assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Reaberto","A reabertura exige e registra fonte e motivo");
-  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-1-1"].history.length),2,"O histórico de transições deve ser preservado");
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-1-1"].history.length),3,"O histórico de transições deve preservar a migração e as duas mudanças");
   await page.locator("#editBook").selectOption("0");
   await page.locator("#editChapter").selectOption("4");
   const marker = "Teste automático de persistência — não é conteúdo editorial.";
