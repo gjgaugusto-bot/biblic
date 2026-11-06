@@ -55,6 +55,8 @@ Foram conferidos integralmente os 29 versículos de Números 20 e os 35 versícu
 
 Foram conferidos integralmente os 41 versículos de Números 22 e os 30 versículos de Números 23 com o texto hebraico do Mechon-Mamre. Em 22:40, foi retirada a palavra “porções”, que não aparece expressamente no hebraico; em 23:12, a formulação foi ajustada para explicitar o sentido de “ter o cuidado de falar”, e foi acrescentada nota lexical para אֹתוֹ אֶשְׁמֹר לְדַבֵּר. Os capítulos 22 e 23 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 25 versículos de Números 24 e os 18 versículos de Números 25 com o texto hebraico do Mechon-Mamre. Em 24:8, a imagem foi ajustada para mencionar os chifres do boi selvagem; em 24:14, “aconselhar-te” substituiu “advertir-te”; em 24:17, “extremidades de Moabe” substituiu “têmporas de Moabe”; e 24:22 foi reformulado para conservar a referência a Caim/Queneu e a pergunta temporal. Em 25:15, a relação sintática foi esclarecida, identificando Zur como chefe do clã. Foram acrescentadas notas lexicais para 24:22 e 25:15. Os capítulos 24 e 25 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
