@@ -96,3 +96,50 @@ window.JOSHUA_TEXT[4] = [
 "Pois YHWH, vosso Deus, secou as águas do Jordão diante de vós até que atravessásseis, assim como YHWH, vosso Deus, fez ao mar de Juncos, que secou diante de nós até que o atravessássemos,",
 "para que todos os povos da terra conheçam a mão de YHWH, que ela é poderosa, e para que temais YHWH, vosso Deus, todos os dias”."
 ];
+
+window.JOSHUA_TEXT[5] = [
+"Quando todos os reis dos amorreus que estavam a oeste do Jordão e todos os reis dos cananeus que estavam junto ao mar ouviram que YHWH havia secado as águas do Jordão diante dos filhos de Israel, até que atravessassem, seu coração desfaleceu, e já não houve neles coragem diante dos filhos de Israel.",
+"Naquele tempo, YHWH disse a Josué: “Faze para ti facas de pedra e torna a circuncidar os filhos de Israel pela segunda vez”.",
+"Josué fez para si facas de pedra e circuncidou os filhos de Israel em Gibeate-Haaralote.",
+"E esta foi a razão pela qual Josué os circuncidou: todo o povo que havia saído do Egito, os homens, todos os homens de guerra, haviam morrido no deserto, pelo caminho, depois de saírem do Egito.",
+"Todo o povo que saiu era circuncidado; mas todo o povo nascido no deserto, pelo caminho, depois da saída do Egito, não havia sido circuncidado.",
+"Pois os filhos de Israel caminharam quarenta anos pelo deserto, até que toda a nação, isto é, os homens de guerra que haviam saído do Egito, pereceu, porque não ouviram a voz de YHWH. YHWH lhes jurara que não lhes deixaria ver a terra que havia jurado a seus pais dar-nos, terra que mana leite e mel.",
+"Em lugar deles, levantou seus filhos; a estes Josué circuncidou, pois eram incircuncisos, porque não os haviam circuncidado pelo caminho.",
+"Quando toda a nação terminou de ser circuncidada, permaneceram em seus lugares no acampamento até se recuperarem.",
+"Então YHWH disse a Josué: “Hoje removi de sobre vós a vergonha do Egito”. Por isso, aquele lugar foi chamado Gilgal até hoje.",
+"Os filhos de Israel acamparam em Gilgal e celebraram a Páscoa no décimo quarto dia do mês, à tarde, nas planícies de Jericó.",
+"No dia seguinte à Páscoa, naquele mesmo dia, comeram do produto da terra: pães sem fermento e grãos tostados.",
+"No dia seguinte, depois de comerem do produto da terra, o maná cessou; os filhos de Israel já não tiveram maná, mas naquele ano comeram do fruto da terra de Canaã.",
+"Quando Josué estava perto de Jericó, levantou os olhos e viu um homem em pé diante dele, com a espada desembainhada na mão. Josué foi até ele e perguntou: “És dos nossos ou dos nossos adversários?”",
+"Ele respondeu: “Não; sou o comandante do exército de YHWH. Acabo de chegar”. Então Josué caiu com o rosto em terra, adorou e lhe perguntou: “Que diz meu senhor ao seu servo?”",
+"O comandante do exército de YHWH disse a Josué: “Tira as sandálias dos pés, porque o lugar em que estás é santo”. E Josué assim fez."
+];
+window.JOSHUA_TEXT[6] = [
+"Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava.",
+"YHWH disse a Josué: “Vê, entreguei Jericó em tuas mãos, juntamente com seu rei e seus homens valentes.",
+"Todos vós, homens de guerra, rodeareis a cidade, dando uma volta ao redor dela. Assim fareis durante seis dias.",
+"Sete sacerdotes levarão sete trombetas de chifre de carneiro diante da arca; no sétimo dia rodeareis a cidade sete vezes, e os sacerdotes tocarão as trombetas.",
+"Quando se fizer soar longamente o chifre de carneiro, assim que ouvirdes o som da trombeta, todo o povo dará um grande brado; então o muro da cidade cairá abaixo, e o povo subirá, cada um avançando diante de si”.",
+"Josué, filho de Num, chamou os sacerdotes e lhes disse: “Levantai a arca da aliança, e sete sacerdotes levem sete trombetas de chifre de carneiro diante da arca de YHWH”.",
+"E disse ao povo: “Avançai e rodeai a cidade; os homens armados passarão adiante da arca de YHWH”.",
+"Quando Josué falou ao povo, os sete sacerdotes que levavam as sete trombetas de chifre de carneiro diante de YHWH avançaram e tocaram as trombetas; a arca da aliança de YHWH os seguia.",
+"Os homens armados iam à frente dos sacerdotes que tocavam as trombetas, e a retaguarda seguia a arca; as trombetas soavam continuamente.",
+"Josué ordenara ao povo: “Não gritareis, nem fareis ouvir a vossa voz, nem sairá palavra alguma de vossa boca, até o dia em que eu vos disser: ‘Gritai!’ Então gritareis”.",
+"A arca de YHWH rodeou a cidade, dando uma volta; depois entraram no acampamento e ali passaram a noite.",
+"Josué levantou-se de madrugada, e os sacerdotes levaram a arca de YHWH.",
+"Os sete sacerdotes que levavam as sete trombetas de chifre de carneiro diante da arca de YHWH caminhavam e tocavam as trombetas; os homens armados iam adiante deles, e a retaguarda seguia a arca de YHWH. As trombetas soavam continuamente.",
+"No segundo dia rodearam a cidade uma vez e voltaram ao acampamento. Assim fizeram durante seis dias.",
+"No sétimo dia levantaram-se ao romper da manhã e rodearam a cidade da mesma maneira, sete vezes. Somente naquele dia rodearam a cidade sete vezes.",
+"Na sétima volta, quando os sacerdotes tocaram as trombetas, Josué disse ao povo: “Gritai, porque YHWH vos entregou a cidade!",
+"A cidade será consagrada ao interdito, ela e tudo o que nela há, para YHWH. Somente Raabe, a prostituta, viverá, ela e todos os que estiverem com ela em casa, porque escondeu os mensageiros que enviamos.",
+"Quanto a vós, guardai-vos do que foi consagrado ao interdito, para que não tomeis nada do que está sob o interdito e, assim, torneis o acampamento de Israel objeto de interdito e lhe tragais desgraça.",
+"Toda a prata, o ouro e os utensílios de bronze e de ferro são consagrados a YHWH; entrarão no tesouro de YHWH”.",
+"O povo gritou, e tocaram as trombetas. Quando o povo ouviu o som da trombeta e deu um grande brado, o muro caiu abaixo; o povo subiu à cidade, cada um avançando diante de si, e tomaram a cidade.",
+"Consagraram ao interdito tudo o que havia na cidade: homens e mulheres, jovens e idosos, bois, ovelhas e jumentos, ao fio da espada.",
+"Josué disse aos dois homens que haviam explorado a terra: “Entrai na casa da mulher prostituta e tirai de lá a mulher e todos os que lhe pertencem, conforme lhe jurastes”.",
+"Os jovens que haviam sido espiões entraram e tiraram Raabe, seu pai, sua mãe, seus irmãos e todos os que lhe pertenciam; trouxeram também todos os seus parentes e os colocaram fora do acampamento de Israel.",
+"Queimaram a cidade e tudo o que nela havia; somente a prata, o ouro e os utensílios de bronze e de ferro colocaram no tesouro da casa de YHWH.",
+"Josué preservou a vida de Raabe, a prostituta, da casa de seu pai e de todos os que lhe pertenciam; ela habitou no meio de Israel até hoje, porque escondeu os mensageiros que Josué enviara para explorar Jericó.",
+"Naquele tempo, Josué fez este juramento: “Maldito diante de YHWH seja o homem que se levantar e reconstruir esta cidade de Jericó: lançará seus fundamentos ao preço de seu primogênito e colocará suas portas ao preço de seu filho mais novo”.",
+"Assim YHWH esteve com Josué, e sua fama se espalhou por toda a terra."
+];
