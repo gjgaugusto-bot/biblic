@@ -369,3 +369,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Ajustes em 32:1, 32:31 e 32:34 e justificativas documentados.
 - Estado por versículo permanece **Em revisão** até transição individual com fonte e observação.
 - Próximo trecho: Êxodo 33:1–23.
+
+
+## Atualização de continuidade — Êxodo 33 (2026-11-06)
+
+- Primeira conferência textual e lexical de Êxodo 33:1–23 registrada em REVISAO-EXODO.md.
+- Ajustes em 33:6 e 33:10 e justificativas documentados.
+- Estado por versículo permanece **Em revisão** até transição individual com fonte e observação.
+- Próximo trecho: Êxodo 34:1–35.
