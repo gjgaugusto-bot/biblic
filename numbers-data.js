@@ -954,7 +954,10 @@ window.NUMBERS_TEXT[24] = [
   "Navios virão da costa de Quitim; oprimirão Assur e oprimirão Héber, mas também eles chegarão à destruição.",
   "Então Balaão se levantou, partiu e voltou ao seu lugar; Balac também seguiu seu caminho."
 ];
-\n\n/* Números 25 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */\nwindow.NUMBERS_TEXT[25] = [
+
+
+/* Números 25 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[25] = [
   "Israel permaneceu em Sitim, e o povo começou a prostituir-se com as filhas de Moabe.",
   "Elas convidaram o povo aos sacrifícios de seus deuses; o povo comeu e se inclinou diante de seus deuses.",
   "Israel se vinculou a Baal-Peor, e a ira de YHWH se acendeu contra Israel.",
@@ -973,7 +976,10 @@ window.NUMBERS_TEXT[24] = [
   "YHWH falou a Moisés, dizendo:",
   "Hostilizai os midianitas e feri-os,",
   "pois eles vos hostilizaram por meio de suas ciladas, com que vos enganaram no caso de Peor e no caso de Cosbi, filha do chefe de Midiã, sua irmã, morta no dia da praga por causa de Peor."
-];\n\n/* Números 26 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */\nwindow.NUMBERS_TEXT[26] = [
+];
+
+/* Números 26 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[26] = [
   "Depois da praga, YHWH disse a Moisés e a Eleazar, filho de Arão, o sacerdote:",
   "Fazei o censo de toda a comunidade dos filhos de Israel, de vinte anos para cima, segundo as casas de seus pais, de todos os que podem sair à guerra em Israel.",
   "Moisés e Eleazar, o sacerdote, falaram com eles nas planícies de Moabe, junto ao Jordão, na altura de Jericó, dizendo:",
@@ -1039,7 +1045,10 @@ window.NUMBERS_TEXT[24] = [
   "Esses são os registrados por Moisés e Eleazar, o sacerdote, que contaram os filhos de Israel nas planícies de Moabe, junto ao Jordão, na altura de Jericó.",
   "Entre eles não havia homem dos que Moisés e Arão, o sacerdote, haviam contado no deserto do Sinai,",
   "pois YHWH lhes dissera que morreriam no deserto. Não restou deles nenhum, exceto Calebe, filho de Jefoné, e Josué, filho de Num."
-];\n\n/* Números 27 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */\nwindow.NUMBERS_TEXT[27] = [
+];
+
+/* Números 27 — tradução própria de trabalho a partir do hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[27] = [
   "Então se aproximaram as filhas de Zelofeade, filho de Héfer, filho de Gileade, filho de Maquir, filho de Manassés, das famílias de Manassés, filho de José. Estes eram os nomes de suas filhas: Maalá, Noa, Hogla, Milca e Tirza.",
   "Elas se apresentaram diante de Moisés, de Eleazar, o sacerdote, dos chefes e de toda a comunidade, à entrada da Tenda do Encontro, dizendo:",
   "Nosso pai morreu no deserto. Ele não estava entre a assembleia dos que se ajuntaram contra YHWH na assembleia de Corá; morreu por seu próprio pecado e não teve filhos.",
