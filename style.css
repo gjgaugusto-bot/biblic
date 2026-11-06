@@ -179,3 +179,15 @@ footer{padding-top:25px;padding-bottom:34px}
 
 /* Aviso das traduções em destaque no início da página */
 .hero .translation-notice{position:relative;z-index:1;max-width:850px;margin:22px auto 8px;padding:18px 22px;border:2px solid #fff;border-left:9px solid #555;background:#f1f1f0;color:#111;font-family:Arial,sans-serif;font-size:1.1rem;font-weight:700;line-height:1.6;box-shadow:0 6px 18px #0009}
+
+
+/* Destaque editorial de abertura e editor de fichas bibliográficas */
+.opening-banner{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;margin:22px 0 18px;padding:clamp(24px,4vw,42px) 18px;text-align:center;background:linear-gradient(125deg,#090909,#303030 52%,#101010);border:3px double #b9b9b3;box-shadow:inset 0 0 0 6px #ffffff10,0 10px 26px #0003;color:#fff}
+.opening-banner:before{content:"";position:absolute;inset:8px;border:1px solid #bdbdb888;pointer-events:none}
+.opening-banner strong{position:relative;z-index:1;font-family:Georgia,'Times New Roman',serif;font-size:clamp(1.45rem,4vw,2.8rem);font-weight:normal;letter-spacing:.035em;line-height:1.2;text-wrap:balance;text-shadow:0 2px 8px #000}
+.opening-banner-ornament{position:relative;z-index:1;color:#deded8;font-size:1.05rem;letter-spacing:.55em}
+.book-info-editor{margin:22px 0}
+.book-info-editor small{font-size:.82em;color:#555}
+.book-info-editor .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.book-info-editor .filebtn{display:inline-flex;align-items:center;justify-content:center;padding:11px 15px;cursor:pointer}
+@media(max-width:700px){.opening-banner{margin:12px 0;padding:25px 14px}.opening-banner strong{max-width:20ch}.book-info-editor .actions>*{width:100%}}
