@@ -352,3 +352,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo continua em **Em revisão** no controle por versículo. A conclusão da primeira passada de um capítulo não equivale à transição individual de cada versículo para **Revisado**.
 - Próximo ponto de trabalho: Êxodo 31:1–18.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE** e fora da fila.
+
+
+## Atualização de continuidade — Êxodo 31 (2026-11-06)
+
+- Êxodo 1–31: primeira conferência textual e lexical documentada.
+- Êxodo 31:5 refinado para “trabalhar pedras e engastá-las”; nota lexical ampliada.
+- Êxodo permanece **Em revisão** no controle por versículo; a primeira passada não aprova automaticamente cada versículo.
+- Próximo trecho: Êxodo 32:1–35.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE** e fora da fila.
