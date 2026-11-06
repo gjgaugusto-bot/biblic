@@ -79,9 +79,9 @@
   addLegacyBook(
     3,
     window.NUMBERS_TEXT,
-    "revisado",
-    "Texto massorético (Mechon-Mamre e Sefaria como referências de consulta), revisão editorial interna por lotes (capítulos 1–36) e auditoria estrutural global da Enciclopédia Bíblica",
-    "Fechamento editorial de Números nesta edição, autorizado pelo responsável pelo projeto. Os 36 capítulos e 1.288 versículos foram integrados; foram realizadas revisões textuais e lexicais por lotes, com consulta a referências hebraicas e correções documentadas de tradução, terminologia sacrificial, notas lexicais e omissões identificadas. A auditoria global confirmou sintaxe JavaScript válida, presença dos 36 conjuntos de notas, ausência de referências lexicais fora dos limites dos capítulos e integridade estrutural dos dados. O estado revisado fica registrado como base versionada do repositório, não apenas como edição local do navegador. Este fechamento editorial não constitui certificação acadêmica independente, colação crítica de manuscritos nem garantia de inexistência de futuras erratas; eventuais correções posteriores poderão ser registradas como nova revisão ou reabertura.";
+    "em_revisao",
+    "Texto massorético (Mechon-Mamre e Sefaria como referências de consulta); revisão integral versículo por versículo em andamento",
+    "A revisão integral foi reaberta para conferência de todos os 1.288 versículos com o hebraico massorético. As rodadas anteriores foram revisões seletivas por lotes e auditorias estruturais; não devem ser interpretadas como colação completa de cada versículo. O fechamento como revisado ficará suspenso até que os 36 capítulos sejam efetivamente conferidos, corrigidos quando necessário e auditados ao final. A revisão é editorial interna e não constitui certificação acadêmica independente nem colação crítica de variantes manuscritas."
   );
 
   addLegacyBook(
