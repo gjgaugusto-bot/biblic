@@ -116,3 +116,13 @@ Expandir `scripts/browser-smoke.mjs` para testar explicitamente busca e filtros 
 ### Instrução para a próxima sessão/modelo
 
 Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, `PROTOCOLO-DE-TRABALHO.md`, `REGISTRO-EDITORIAL.md` e os relatórios do livro em andamento. Não confiar em memória da conversa para decidir o estado do repositório; verificar a branch `main` e preservar todo trabalho existente. Não reiniciar Gênesis nem reconstruir livros já integrados. Continuar com lotes grandes, registrar alterações e validar antes de publicar.
+
+
+## Atualização de continuidade — segunda conferência de Êxodo 1–5 (2026-11-06)
+
+- Segunda conferência comparativa de Êxodo 1–5 registrada em `REVISAO-EXODO.md`.
+- Ajuste objetivo em Êxodo 5:16: removida a concessiva “embora”, substituída pela coordenação “e”, conforme a conjunção hebraica וְ.
+- Nota acrescentada para a variação Reuel/Jetro/Yeter em Êxodo 2:18; 3:1; 4:18, preservando as formas do texto e a discussão acadêmica.
+- Êxodo 1–10 estão **Revisados** no controle por versículo (273 registros com fonte, observação e histórico de transição). Êxodo 11–40 permanece **Em revisão**.
+- Próximo lote editorial: iniciar a segunda conferência de Êxodo 11–15, sem reiniciar a primeira passada já documentada.
+- Branch de trabalho: `revisao-academica-exodo-1-5-2026-11-06`. A validação automatizada e a revisão do PR ainda estão pendentes.
