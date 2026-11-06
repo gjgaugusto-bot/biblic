@@ -18,7 +18,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   },
   18: {
     1: {term:"כֹּהֵן (kohen)",text:"“Sacerdote” ou oficiante cultual. Jetro é identificado como sacerdote de Midiã; o texto não detalha aqui suas funções."},
-    3: {term:"גֵּרְשֹׁם (Gershom)",text:"O nome é associado no próprio versículo à condição de estrangeiro (ger) em terra alheia; trata-se de uma explicação narrativa do nome."},
+    3: {term:"גֵּרְשֹׁם (Gershom)",text:"O próprio versículo faz um jogo entre גֵּר (ger, “residente estrangeiro”) e שָׁם (sham, “ali”): “fui estrangeiro ali, em terra alheia”. É uma explicação narrativa do nome, não necessariamente sua etimologia histórica."},
     11: {term:"זָדוּ (zadu)",text:"Forma verbal ligada a agir arrogantemente ou tratar alguém com insolência. O final do versículo é sintaticamente difícil e admite diferentes traduções."},
     21: {term:"אַנְשֵׁי־חַיִל (anshei-chayil)",text:"Literalmente “homens de força/capacidade”. No contexto administrativo, descreve pessoas competentes, não apenas força física; o mesmo versículo também exige que rejeitem o ganho desonesto (betsa)."}
   },
