@@ -105,3 +105,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 3:2–3; notas anteriores de 3:14 e 3:19 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 4:1–31.
+
+
+### Continuidade de conteúdo — Êxodo 4 (2026-11-06)
+
+- Êxodo 4:1–31 conferido integralmente contra o Texto Massorético.
+- Ajuste em 4:11: “Quem fez a boca do homem?” → “Quem deu ao ser humano uma boca?”, refletindo שׂים (*sim*, pôr/colocar) em formulação idiomática.
+- Notas acrescentadas em 4:6, 4:10, 4:11 e 4:31; notas anteriores de 4:13, 4:18 e 4:24–26 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 5:1–23.
