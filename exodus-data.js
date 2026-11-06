@@ -88,7 +88,7 @@ window.EXODUS_TEXT = {
 "«Se não acreditarem em ti nem derem ouvidos ao primeiro sinal, acreditarão no segundo sinal.",
 "Se não acreditarem nem mesmo nesses dois sinais e não derem ouvidos à tua voz, tomarás água do Nilo e a derramarás sobre a terra seca; a água que tomares do Nilo se tornará sangue sobre a terra seca».",
 "Moisés disse a YHWH: «Por favor, meu Senhor, nunca fui homem de palavras, nem ontem nem anteontem, nem desde que falas ao teu servo; pois sou pesado de boca e pesado de língua».",
-"YHWH lhe disse: «Quem fez a boca do homem? Ou quem faz alguém mudo ou surdo, alguém que vê ou cego? Não sou eu, YHWH?",
+"YHWH lhe disse: «Quem deu ao ser humano uma boca? Ou quem faz alguém ficar mudo ou surdo, enxergar ou ficar cego? Não sou eu, YHWH?",
 "Agora, vai; eu estarei com a tua boca e te ensinarei o que deves falar».",
 "Mas ele disse: «Por favor, meu Senhor, envia outra pessoa, peço-te».",
 "Então a ira de YHWH se acendeu contra Moisés, e ele disse: «Não está aí Arão, teu irmão, o levita? Sei que ele pode falar muito bem. Além disso, eis que ele está saindo ao teu encontro; quando te vir, ficará alegre em seu coração.",
