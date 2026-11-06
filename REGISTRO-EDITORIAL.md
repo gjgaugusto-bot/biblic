@@ -77,3 +77,17 @@ Os estados migrados são gerados pelo módulo `editorial-review.js` e ficam rast
 ### Regra de encerramento
 
 Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Não voltar a revisar o livro por nova conversa, perda de contexto, troca de ferramenta/modelo ou preferência estilística. Só reabrir versículos específicos mediante evidência objetiva de erro relevante ou fonte nova que justifique correção concreta; registrar motivo, fonte e escopo. O livro sai da fila de trabalho.
+
+
+## Êxodo — registro de revisão de conteúdo (2026-11-06)
+
+### Êxodo 1:1–22
+- Primeira conferência textual integral concluída contra o Texto Massorético.
+- Correções objetivas: 1:15 (“parteiras hebreias”, leitura massorética mais direta) e 1:20 (“o povo se multiplicou e se tornou muito poderoso”, distinguindo os verbos hebraicos).
+- Notas lexicais registradas: 1:1, 1:5, 1:15, 1:16, 1:19, 1:20 e 1:21; nota existente de 1:7 preservada.
+- Fontes e justificativas detalhadas em `REVISAO-EXODO.md`.
+- Estado operacional no painel: permanece **Em revisão** até a transição individual de cada versículo, com fonte e observação. Esta anotação de progresso não altera automaticamente o localStorage do navegador.
+- Próximo trecho pendente: Êxodo 2:1–25.
+
+### Política de continuidade
+Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se surgir evidência concreta de erro relevante ou fonte nova que justifique uma alteração específica, documentando o motivo e os versículos afetados.
