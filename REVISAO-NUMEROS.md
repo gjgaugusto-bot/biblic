@@ -45,6 +45,8 @@ A leitura dos dois capítulos resultou em refinamentos de tradução em Números
 
 Na mesma etapa, foram conferidos integralmente os 16 versículos de Números 12 e os 33 versículos de Números 13 com o texto hebraico completo do Mechon-Mamre. Foram refinadas as traduções de 12:8, 13:20 e 13:24, e acrescentada uma nota lexical em 13:20. Os capítulos 12 e 13 ficam registrados como conferidos com base nesse testemunho do Texto Massorético.
 
+Em seguida, foram conferidos integralmente os 45 versículos de Números 14 e os 41 versículos de Números 15 com o texto hebraico completo do Mechon-Mamre. Números 14 não exigiu alteração substancial nesta colação; em 15:24, a tradução foi refinada para explicitar que o erro ocorreu sem ser percebido pela comunidade, e a nota lexical correspondente foi ajustada. Os capítulos 14 e 15 ficam registrados como conferidos com base nesse testemunho do Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
