@@ -1,6 +1,6 @@
 /* Gênesis — dados de tradução separados da lógica do leitor.
    Capítulos 1–2: conteúdo preexistente; fonte-base não documentada neste arquivo.
-   Capítulos 3–6: tradução de trabalho conferida com o Westminster Leningrad Codex (WLC), em espelho estruturado do Open Scriptures Hebrew Bible.
+   Capítulos 3–10: tradução de trabalho conferida com o Westminster Leningrad Codex (WLC), em espelho estruturado do Open Scriptures Hebrew Bible.
    Fonte WLC/OSHB: https://github.com/openscriptures/morphhb/blob/master/wlc/Gen.xml
    Espelho estruturado consultado: https://github.com/midvash/bible-data/blob/main/versions/he/wlc/books/Gen.json
    Texto massorético vocalizado; não é alegação de acesso a autógrafos. Revisão exegética independente pendente. */
