@@ -363,3 +363,13 @@ Verificação estática independente após as gravações: arquivos presentes; s
 - Estado: IMPLEMENTADO EM BRANCH; VALIDAÇÃO AUTOMÁTICA E INSPEÇÃO VISUAL PENDENTES.
 
 Referências de consulta: Society for Old Testament Study, [Exodus](https://www.sots.ac.uk/wiki/exodus); Princeton University Press, [The Book of Exodus: A Biography](https://assets.press.princeton.edu/chapters/i13379.pdf).
+
+## Auditoria integral de Gênesis — 2026-11-06
+
+- A revisão está em andamento; nenhum capítulo foi certificado como tradução acadêmica revisada.
+- Fonte de conferência definida: texto hebraico do Westminster Leningrad Codex (WLC), disponibilizado no projeto Open Scriptures Hebrew Bible (OSHB). O texto-base WLC é de domínio público; os dados de lemas/morfologia OSHB exigem atribuição CC BY 4.0.
+- Auditoria estrutural inicial dos 50 capítulos: foram detectadas omissões em Gênesis 2:1 e Gênesis 8:20–22. As lacunas foram reinseridas no texto do site nesta etapa.
+- Gênesis 41–50 ainda continha texto de Almeida 1911 com ortografia antiga; portanto, não pode ser apresentado como tradução de trabalho própria baseada no hebraico. A substituição e conferência desses dez capítulos continua pendente.
+- Gênesis 1–40 contém rascunhos de tradução próprios, mas ainda requer conferência semântica verso a verso com o WLC; contagem correta de versículos, isoladamente, não comprova fidelidade.
+- Verificação de interface identificou contraste insuficiente na aba inativa “Simbologias” (3,41:1; mínimo WCAG AA 4,5:1). Foi aplicada regra de contraste mais forte às abas não selecionadas. O teste de navegador deverá ser executado novamente.
+- Status editorial geral: EM REVISÃO. Não usar “tradução fiel certificada”, “revisado” ou “concluído” até validação por pessoa com competência em hebraico bíblico.
