@@ -7,6 +7,7 @@ window.TRANSLATION_NOTES[3][1] = {
   16:{term:"קְרוּאֵי הָעֵדָה (qeru'ei ha'edah)",text:"“Convocados” ou “designados da assembleia”. O particípio está ligado à ideia de chamar; aqui identifica os representantes reconhecidos pela comunidade."},
   47:{term:"לֹא הָתְפָּקְדוּ (lo hotpaqedu)",text:"Forma verbal passiva/reflexiva de פקד (paqad), verbo usado para contar, inspecionar ou registrar. A exclusão dos levitas desta lista é funcional: eles recebem atribuições próprias em relação ao santuário."},
   50:{term:"מִשְׁכַּן הָעֵדֻת (mishkan ha'edut)",text:"“Tabernáculo do Testemunho”. Mishkan é a habitação/tenda; edut, “testemunho”, relaciona-se às tábuas/aliança guardadas no santuário. A expressão identifica o santuário móvel de Israel."},
+  51:{term:"הַזָּר הַקָּרֵב (hazzar haqqarev)",text:"“O não autorizado que se aproxima”. זָר (zar) designa quem é alheio ao grupo ou à função autorizada; no contexto, refere-se a quem não está habilitado a executar o serviço levítico/sacerdotal no santuário, não simplesmente a um desconhecido."},
   53:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Guarda”, “encargo” ou “serviço confiado”. O termo enfatiza a responsabilidade contínua dos levitas de proteger e cuidar do santuário e de suas funções."}
 };
 
