@@ -228,4 +228,31 @@ Demais versículos (4:1–5, 4:7–9, 4:12, 4:14–17 e 4:19–30): conferidos q
 - NET Bible e léxicos sobre צָרַעַת (*tsara'at*), termo amplo para afecções de pele, não equivalente seguro à hanseníase moderna: https://classic.net.bible.org/search.php?in=notes&mode=notes&page=3&search=skin
 - Adam J. Howell, “The Firstborn Son of Moses as the ‘Relative of Blood’ in Exodus 4.24–26”, *Journal for the Study of the Old Testament* 35/1 (2010), 63–76: https://doi.org/10.1177/0309089210378962
 
-**Próximo ponto:** Êxodo 5:1–23. Não repetir a conferência de Êxodo 4 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 6:1–30. Não repetir a conferência de Êxodo 4 sem evidência concreta de erro novo.
+
+
+### Êxodo 5 — conferência textual e lexical integral (5:1–23)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma correção de coordenação foi feita; as demais decisões foram registradas em notas sem reescrita desnecessária.
+
+Correção no texto:
+- **5:16:** “embora a culpa seja do teu próprio povo” foi ajustado para **“e a culpa é do teu próprio povo”**, acompanhando a coordenação de וְ (*ve*, “e”) e a leitura massorética que atribui a falha aos responsáveis egípcios pela palha. A variante antiga “tu pecas contra teu povo” permanece documentada.
+
+Notas lexicais acrescentadas:
+- **5:3:** נִקְרָא עָלֵינוּ (*niqra aleinu*) é uma construção idiomática relacionada a קרא (*qara*, chamar); “veio ao nosso encontro” expressa a ideia de encontro/manifestaçao sem traduzir mecanicamente a forma passiva.
+- **5:7 e 5:12:** תֶּבֶן (*teven*) designa a palha fornecida para os tijolos; קַשׁ (*qash*) em 5:12 designa restolho/palha recolhida no campo. “Palha” e “restolho” mantêm a distinção.
+- **5:8:** מַתְכֹּנֶת (*matkonet*) significa medida/cota estabelecida; no contexto, a quantidade diária de tijolos.
+- **5:16:** וְחָטָאת עַמֶּךָ (*vechattat ammekha*) apresenta dificuldade gramatical no Texto Massorético. A leitura adotada é “a culpa é do teu povo”; a Septuaginta e a tradição siríaca refletem uma leitura alternativa equivalente a “tu pecas contra o teu povo”.
+- **5:21:** הִבְאַשְׁתֶּם אֶת־רֵיחֵנוּ (*hiv'ashtem et re'achenu*) significa literalmente “fizestes nosso odor ficar fétido”; é metáfora de reputação tornada odiosa/repugnante. A tradução conserva o sentido idiomático.
+
+Demais versículos (5:1–2, 5:4–6, 5:9–15, 5:17–20 e 5:22–23): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 5: https://www.mechon-mamre.org/p/pt/pt0205.htm
+- NET Bible, Êxodo 5:8, sobre מַתְכֹּנֶת (*matkonet*) como cota de tijolos: https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=8
+- NET Bible, Êxodo 5:16, sobre a dificuldade gramatical de וְחָטָאת עַמֶּךָ e a variante antiga: https://classic.net.bible.org/verse.php?book=Exo&chapter=5&verse=16
+- NET Bible, Êxodo 5:21, sobre a metáfora “fizestes nosso odor ficar fétido”: https://classic.net.bible.org/verse.php?book=Exo&chapter=5&tab=commentaries&theme=false&verse=21
+- Ibn Ezra sobre Êxodo 5:21, leitura figurada de odor/reputação: https://www.sefaria.org/Ibn_Ezra_on_Exodus.5.21
+- NET Bible, Êxodo 5:3, léxico de דֶּבֶר (*dever*, peste) e חֶרֶב (*cherev*, espada): https://classic.net.bible.org/passage.php?passage=Exo+5%3A3
+
+**Próximo ponto:** Êxodo 6:1–30. Não repetir a conferência de Êxodo 5 sem evidência concreta de erro novo.
