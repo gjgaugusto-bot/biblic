@@ -14,6 +14,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   27: {
     2: {term:"קַרְנֹת (qarnot)",text:"“Chifres” do altar: projeções nos quatro cantos, parte integrante do objeto ritual."},
     3: {term:"מִזְרָקֹת (mizreqot)",text:"Bacias usadas no serviço sacrificial, especialmente para manipular ou recolher sangue."},
+    5: {term:"כַּרְכֹּב (karkov)",text:"Moldura, borda saliente ou rebordo ao redor do altar. A rede de bronze fica sob essa moldura, aproximadamente até a metade da altura; “borda” é uma opção neutra."},
+    9: {term:"קְלָעִים (qela'im)",text:"Cortinas/panos suspensos que formam a delimitação do pátio. Não são o mesmo elemento que o véu interno (parokhet) ou a tela de entrada do tabernáculo (masakh)."},
     20: {term:"כָּתִית (katit)",text:"Azeite obtido por esmagamento/pilagem, geralmente entendido como óleo puro de azeitonas trituradas."},
     21: {term:"נֵר תָּמִיד (ner tamid)",text:"“Lâmpada contínua”. A expressão indica manutenção regular da iluminação, não necessariamente uma chama ininterrupta em todos os sentidos."}
   },
