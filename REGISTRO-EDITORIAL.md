@@ -385,3 +385,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Notas ampliadas sobre 34:6–7, 34:9–14, 34:22 e 34:29–35; texto-base preservado.
 - Estado por versículo permanece **Em revisão** até transição individual com fonte e observação.
 - Próximo trecho: Êxodo 35:1–35.
+
+
+## Atualização de continuidade — Êxodo 35 (2026-11-06)
+
+- Primeira conferência textual e lexical de Êxodo 35:1–35 registrada em REVISAO-EXODO.md.
+- Ajustes em 35:11, 35:24, 35:25 e 35:33; harmonização com 31:5 documentada.
+- Estado por versículo permanece **Em revisão** até transição individual com fonte e observação.
+- Próximo trecho: Êxodo 36:1–38.
