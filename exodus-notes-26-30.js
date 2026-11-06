@@ -21,7 +21,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     36: {term:"קֹדֶשׁ לַיהוָה (qodesh la-YHWH)",text:"“Consagrado a YHWH” ou “santidade para YHWH”; inscrição que identifica a dedicação sacerdotal."}
   },
   29: {
-    9: {term:"מִלֵּא יָד (mille yად)",text:"Expressão idiomática de “encher a mão”, usada para a investidura/consagração ao sacerdócio."},
+    9: {term:"מִלֵּא יָד (mille yad)",text:"Expressão idiomática de “encher a mão”, usada para a investidura/consagração ao sacerdócio."},
     20: {term:"תְּנוּךְ (tenukh)",text:"Lóbulo ou cartilagem da orelha. O rito também marca polegar da mão e do pé direitos."},
     24: {term:"תְּנוּפָה (tenufah)",text:"Oferta movida ou apresentada ritualmente diante de YHWH; o gesto exato é discutido."},
     40: {term:"הִין (hin)",text:"Medida antiga de líquidos. O valor exato variou conforme período e sistema de medidas."}
