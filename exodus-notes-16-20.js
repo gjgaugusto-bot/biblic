@@ -34,7 +34,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     10: {term:"קִדַּשׁ (qiddesh)",text:"Verbo “consagrar/santificar”, isto é, separar para uma condição especial. A preparação envolve o povo e suas roupas."},
     13: {term:"יֹבֵל (yovel)",text:"Termo relacionado ao toque do chifre de carneiro; em outros contextos dá origem à designação do jubileu. Aqui sinaliza o momento autorizado para avançar."},
     15: {term:"אַל־תִּגְּשׁוּ אֶל־אִשָּׁה (al-tiggeshu el-ishah)",text:"Literalmente, “não vos aproximeis de mulher”. No contexto de preparação ritual para a manifestação no Sinai, a expressão é entendida como abstinência de relações sexuais durante o período de consagração; o texto não usa aqui um termo técnico para o ato sexual."},
-    18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."}
+    18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."},
+    22: {term:"יִפְרֹץ בָּהֶם (yifrotz bahem)",text:"Da raiz פרץ (*parats*), “abrir brecha/irromper”. A imagem é a de YHWH irrompendo contra os transgressores, isto é, agindo destrutivamente; “irrompa contra eles” conserva a metáfora hebraica."}
   },
   20: {
     3: {term:"עַל־פָּנָי (al-panai)",text:"Literalmente “diante de minha face”. A expressão pode significar “além de mim”, “em minha presença” ou “em oposição a mim”; a tradução evita reduzir a nuance."},
