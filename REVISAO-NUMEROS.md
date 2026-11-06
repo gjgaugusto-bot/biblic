@@ -47,6 +47,8 @@ Na mesma etapa, foram conferidos integralmente os 16 versículos de Números 12 
 
 Em seguida, foram conferidos integralmente os 45 versículos de Números 14 e os 41 versículos de Números 15 com o texto hebraico completo do Mechon-Mamre. Números 14 não exigiu alteração substancial nesta colação; em 15:24, a tradução foi refinada para explicitar que o erro ocorreu sem ser percebido pela comunidade, e a nota lexical correspondente foi ajustada. Os capítulos 14 e 15 ficam registrados como conferidos com base nesse testemunho do Texto Massorético.
 
+Na sequência, foram conferidos os 50 versículos do capítulo 16 e os 13 versículos do capítulo 17 do projeto. A numeração foi alinhada cuidadosamente: os versículos 1–35 do capítulo 16 do projeto correspondem a Números 16:1–35 no Mechon-Mamre; os versículos 36–50 correspondem a Números 17:1–15; e o capítulo 17 do projeto corresponde a Números 17:16–28. Essa diferença de divisão foi preservada, sem deslocar versículos entre capítulos no site. Foi refinada a redação de 16:41 e corrigida a transliteração do termo hebraico na nota de 16:38. Ambos os capítulos ficam registrados como conferidos com base no texto massorético completo do Mechon-Mamre.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
