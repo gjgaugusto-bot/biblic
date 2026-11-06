@@ -459,3 +459,14 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
 - PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
 - Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
+
+
+## 2026-11-06 — publicação do controle editorial e revisão de Êxodo 1
+
+- PR #36 integrado à `main` pelo commit `2d65a9262fdb87354d4b8c0530a88f87898b0f2d`.
+- GitHub Actions, workflow “Publicar site no GitHub Pages”, run `42269769636`: conclusão **success**.
+- Criada branch `review/exodo-1-5-2026-11-06` para a sequência de revisão de conteúdo, derivada da `main` atualizada.
+- Êxodo 1:1–22 passou por conferência integral com o Texto Massorético e fontes lexicais/comentários. Correções em 1:15 e 1:20; notas novas em 1:1, 1:5, 1:15, 1:16, 1:19, 1:20 e 1:21; nota anterior de 1:7 preservada.
+- Nenhuma reescrita geral foi feita. As escolhas interpretativas incertas foram mantidas como notas.
+- O registro textual da passagem está em `REVISAO-EXODO.md`. O painel ainda mantém os versículos de Êxodo em “Em revisão” até que as transições individuais sejam registradas nele com fonte e observação.
+- Próximo ponto: Êxodo 2:1–25.
