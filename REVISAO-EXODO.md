@@ -107,3 +107,5 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 20:24:** ajustada a construção portuguesa para “onde eu fizer com que meu nome seja lembrado”.
 
 - **Êxodo 23:14:** acrescentada nota para שָׁלֹשׁ רְגָלִים (*shalosh regalim*), expressão que identifica as três festas de peregrinação; “três vezes por ano” preserva a frequência, e a nota explicita o caráter de peregrinação.
+
+- Êxodo 2:22: nota acrescentada sobre o nome Gershom e o jogo de palavras com a expressão hebraica *ger hayiti*.
