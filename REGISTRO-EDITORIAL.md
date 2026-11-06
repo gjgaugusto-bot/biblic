@@ -127,3 +127,13 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 6:1–30.
+
+
+### Êxodo 6:1–30
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 6:3 para a forma passiva nifal “não fui conhecido por eles”.
+- Ajuste em 6:26 para “Estes são Arão e Moisés”.
+- Notas lexicais/gramaticais em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota de 6:9 preservada.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 7:1–29.
