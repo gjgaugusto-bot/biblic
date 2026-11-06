@@ -143,6 +143,12 @@ try {
   assert.ok(overflow <= 1, `A página não deve ter rolagem horizontal no celular (overflow: ${overflow}px)`);
   assert.equal(await mobile.locator("#search").count(), 0, "A página móvel também não deve exibir o campo de busca removido");
   assert.equal(await mobile.locator(".book").count(), 66, "Os 66 livros devem continuar visíveis no celular");
+  await mobile.setViewportSize({ width: 320, height: 720 });
+  const narrowOverflow = await mobile.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+  assert.ok(narrowOverflow <= 1, `A página não deve ter rolagem horizontal em telas de 320 px (overflow: ${narrowOverflow}px)`);
+  await mobile.emulateMedia({ reducedMotion: "reduce" });
+  const reducedMotion = await mobile.locator(".book").first().evaluate(element => getComputedStyle(element).transitionProperty);
+  assert.equal(reducedMotion, "none", "A interface deve respeitar a preferência por movimento reduzido");
 
   assert.deepEqual(pageErrors, [], "Não devem ocorrer exceções JavaScript no navegador");
   if (axeFindings.length) {
