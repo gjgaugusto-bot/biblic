@@ -76,3 +76,21 @@ window.TRANSLATION_NOTES[5][8] = {
   30:{term:"מִזְבֵּחַ (mizbeaḥ)",text:"Altar, lugar de oferta sacrificial. A narrativa passa da batalha à renovação pública do compromisso com a instrução de YHWH."},
   33:{term:"גֵּר (ger)",text:"Estrangeiro residente. Sua presença na assembleia mostra que a leitura da aliança inclui também quem vive no meio de Israel."}
 };
+
+
+window.TRANSLATION_NOTES[5][9] = {
+  4:{term:"כָּרְתוּ לָנוּ בְּרִית (karte'u lanu berit)",text:"“Fazei uma aliança conosco”. O verbo כרַת, literalmente “cortar”, integra a expressão idiomática hebraica para estabelecer uma aliança."},
+  14:{term:"וְאֶת־פִּי יְהוָה לֹא שָׁאָלוּ (ve'et pi YHWH lo sha'alu)",text:"“Não consultaram a boca de YHWH”. A frase evidencia a falha decisiva: Israel avaliou as provisões, mas não buscou orientação divina."},
+  15:{term:"נִשְׁבְּעוּ לָהֶם (nishbe'u lahem)",text:"Juraram a eles. O juramento cria uma obrigação que os líderes consideram vinculante, mesmo após descobrirem o engano."},
+  21:{term:"חֹטְבֵי עֵצִים וְשֹׁאֲבֵי מַיִם (ḥotve etsim ve-sho'ave mayim)",text:"“Cortadores de lenha e tiradores de água”. Designa serviço subordinado ligado às necessidades da congregação e do santuário."},
+  27:{term:"הַמִּזְבֵּחַ (ha-mizbeaḥ)",text:"O altar de YHWH. O texto relaciona o serviço dos gibeonitas à manutenção do culto comunitário."}
+};
+window.TRANSLATION_NOTES[5][10] = {
+  1:{term:"אֲדֹנִי־צֶדֶק (Adoni-tsedeq)",text:"Nome do rei de Jerusalém, tradicionalmente entendido como “meu senhor é justiça” ou “senhor de justiça”. A narrativa o apresenta como líder da coalizão contra Gibeão."},
+  10:{term:"וַיְהֻמֵּם (vayehummem)",text:"Verbo de confundir, lançar em pânico ou desorganizar. A derrota é atribuída à intervenção de YHWH."},
+  11:{term:"אֲבָנִים גְּדֹלוֹת (avanim gedolot)",text:"Grandes pedras de granizo. O relato distingue as mortes causadas pelo granizo das causadas pela espada israelita."},
+  12:{term:"דּוֹם (dom)",text:"Imperativo de דמם: ficar imóvel, calar-se ou deter-se. A fala poética de Josué dirige-se ao sol e à lua."},
+  13:{term:"סֵפֶר הַיָּשָׁר (sefer hayashar)",text:"“Livro do Justo”, coleção poética antiga citada também em 2 Samuel 1:18. A obra não foi preservada integralmente."},
+  24:{term:"שִׂימוּ רַגְלֵיכֶם (simu raglekhem)",text:"“Ponde os vossos pés”. O gesto de colocar os pés sobre o pescoço dos reis simboliza submissão e vitória militar."},
+  40:{term:"כָּל־הַנְּשָׁמָה (kol-ha-neshamah)",text:"“Todo ser que respira”. Fórmula abrangente do relato de guerra; deve ser lida como linguagem do próprio texto antigo, sem suavizar seu conteúdo violento."}
+};
