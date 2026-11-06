@@ -137,3 +137,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 7:1–29.
+
+
+### Êxodo 7:1–29
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais em 7:3, 7:13, 7:14 e 7:15; nota de 7:9 preservada.
+- Distinções registradas entre קשה (*qashah*), חזק (*chazaq*), כבד (*kaved*), תַּנִּין (*tannin*) e נָחָשׁ (*nachash*).
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 8:1–28.
