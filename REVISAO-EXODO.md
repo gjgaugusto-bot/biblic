@@ -1049,3 +1049,112 @@ Demais versículos (35:1–10, 35:12–23, 35:26–32 e 35:34–35): conferidos 
 - Rashi sobre Êxodo 35:3 e 35:22–26, interpretações tradicionais sobre fogo no sábado, adornos e fiação: https://www.chabad.org/library/bible_cdo/aid/9896/jewish/Chapter-35.htm
 
 **Próximo ponto:** Êxodo 36:1–38. Não repetir a conferência de Êxodo 35 sem evidência concreta de erro novo.
+
+
+### Êxodo 36 — conferência textual e lexical integral (36:1–38)
+
+**Capítulo conferido contra o Texto Massorético**, com comparação da descrição da construção e das instruções anteriores de Êxodo 26. O capítulo acompanha de perto o modelo já descrito; a terminologia foi mantida consistente com os capítulos anteriores.
+
+Refinamento no texto:
+- **36:22:** “duas espigas paralelas” foi ajustado para **“duas espigas encaixadas uma na outra”**. יָדֹת (*yadot*) designa saliências/espigas de encaixe e מְשֻׁלָּבֹת (*meshullavot*) indica que estão unidas/encaixadas; “paralelas” acrescentava uma geometria que o hebraico não exige.
+
+Notas lexicais:
+- **36:1–2:** חֲכַם־לֵב (*chacham-lev*, “sábio de coração”) e נָשָׂא לֵב (*nasa lev*, literalmente “o coração o moveu/ergueu”) descrevem habilidade e disposição voluntária para o trabalho.
+- **36:3, 6–7:** נְדָבָה (*nedavah*) é oferta voluntária; o texto diz que o material era suficiente e ainda sobrava.
+- **36:8, 35–37:** מַעֲשֵׂה חֹשֵׁב (*ma'aseh choshev*) descreve trabalho de desenho/tecelagem habilidosa; רֹקֵם (*roqem*) identifica o trabalho de bordador. A distinção entre véu interno e cortina de entrada foi preservada.
+- **36:18–19:** קֶרֶס (*qeres*) é gancho/colchete de união; תְּחָשִׁים (*techashim*) permanece sem identificação zoológica segura, por isso “tahash” é conservado.
+- **36:20–29:** as armações, encaixes, bases e uniões dos cantos foram conferidos em paralelo com Êxodo 26; a nota de 36:22 registra a dificuldade do termo técnico sem impor uma reconstrução arquitetônica definitiva.
+
+Demais versículos (36:1–21 e 36:23–38): conferidos quanto à correspondência com o hebraico, medidas, materiais e sequência de montagem; nenhuma outra alteração considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, Êxodo 36, texto hebraico massorético: https://mechon-mamre.org/p/pt/pt0236.htm
+- NET Bible, Êxodo 36, notas sobre armações, encaixes e componentes: https://classic.net.bible.org/bible.php/o/w/verse.php?book=Exo&chapter=36&verse=2
+- Jay Sklar, comentário de Êxodo, estrutura literária de 36:8–38 e correspondência com as instruções anteriores: https://www.thegospelcoalition.org/commentary/exodus/
+
+### Êxodo 37 — conferência textual e lexical integral (37:1–29)
+
+**Capítulo conferido contra o Texto Massorético**, comparando a arca, a mesa, o candelabro, o altar do incenso, o óleo e o incenso com as instruções dos capítulos 25 e 30.
+
+Refinamento no texto:
+- **37:23:** “espevitadores e apagadores” foi ajustado para **“pinças e bandejas para recolher as cinzas”**, harmonizando a terminologia com a nota de Êxodo 25:38. מַלְקָחִים (*malqachim*) são pinças/tenazes; מַחְתּוֹת (*machtot*) são recipientes/bandejas para brasas ou resíduos, não apagadores propriamente ditos.
+
+Notas lexicais:
+- **37:6–9:** כַּפֹּרֶת (*kapporet*) é a cobertura da arca, tradicionalmente chamada propiciatório; כְּרוּבִים (*keruvim*) designa os querubins representados sobre ela.
+- **37:10–16:** os utensílios da mesa incluem pratos, colheres, recipientes e jarras; a identificação exata de alguns nomes é discutida.
+- **37:17–24:** מְנוֹרָה (*menorah*) é o candelabro de ouro batido, formado como uma só peça; os termos dos cálices, botões, flores e utensílios foram preservados sem modernizar a forma ritual.
+- **37:25–29:** o altar do incenso e os ingredientes aromáticos retomam as instruções de Êxodo 30; רֹקֵחַ (*roqeach*) é o preparador/perfumista especializado.
+
+Demais versículos (37:1–22 e 37:24–29): conferidos quanto a dimensões, materiais, montagem e correspondência com as instruções anteriores; nenhuma outra alteração considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, Êxodo 37, texto hebraico massorético: https://mechon-mamre.org/p/pt/pt0237.htm
+- NET Bible, Êxodo 37:1–38:31, notas sobre os utensílios do altar e do santuário: https://classic.net.bible.org/passage.php/o/w/passage.php?passage=Exo+37%3A1--38%3A31
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, discussão dos utensílios e da sequência de construção: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+
+### Êxodo 38 — conferência textual e lexical integral (38:1–31)
+
+**Capítulo conferido contra o Texto Massorético**, incluindo o altar de bronze, a bacia, o pátio e o inventário dos metais. As quantidades e os cálculos do tributo foram verificados em conjunto.
+
+Refinamento no texto:
+- **38:21:** “por meio de Itamar” foi ajustado para **“sob a supervisão de Itamar”**. A expressão בְּיַד (*beyad*, “pela mão de”) é uma fórmula de responsabilidade/supervisão administrativa, como confirma a nota da NET Bible sobre o trabalho dos levitas sob a direção de Itamar.
+
+Notas lexicais:
+- **38:3–7:** os nomes dos utensílios do altar designam panelas, pás, bacias, garfos/tenazes e recipientes para brasas; a terminologia foi mantida em coerência com os demais inventários.
+- **38:8:** מַרְאֹת (*mar'ot*) são espelhos metálicos polidos. הַצֹּבְאֹת אֲשֶׁר צָבְאוּ (*hatsove'ot asher tsave'u*) admite discussão sobre o serviço/agrupamento das mulheres; a tradução “mulheres que serviam” permanece acompanhada de nota que não afirma uma função além do que o versículo permite.
+- **38:21:** פְּקוּדֵי (*pequdei*) introduz a prestação de contas/inventário dos materiais; “pela mão de Itamar” expressa supervisão.
+- **38:24–31:** os totais de ouro, prata e bronze foram conferidos. O meio siclo por pessoa corresponde a 301.775 siclos, isto é, cem talentos mais 1.775 siclos; o número de recenseados é 603.550. As bases e demais peças correspondem aos totais declarados.
+
+Demais versículos (38:1–20 e 38:22–31): conferidos quanto a medidas, materiais, distribuição espacial e totais; nenhuma outra alteração considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, Êxodo 38, texto hebraico massorético: https://new.mechon-mamre.org/p/pt/pt0238.htm
+- NET Bible, Êxodo 37:1–38:31, notas sobre o inventário e a expressão “pela mão de Itamar”: https://classic.net.bible.org/passage.php/o/w/passage.php?passage=Exo+37%3A1--38%3A31
+- Jay Sklar, comentário de Êxodo, estrutura da prestação de contas e do pátio: https://www.thegospelcoalition.org/commentary/exodus/
+
+### Êxodo 39 — conferência textual e lexical integral (39:1–43)
+
+**Capítulo conferido contra o Texto Massorético**, comparando as vestes sacerdotais e o inventário final com as instruções de Êxodo 28. A sequência, os materiais, as pedras e os elementos de fixação foram mantidos; as incertezas de identificação mineral não foram tratadas como certezas.
+
+Refinamento no texto:
+- **39:30:** “lâmina sagrada da coroa” foi refinado para **“lâmina do diadema sagrado”**, distinguindo צִיץ (*tsits*, a placa/lâmina de ouro) de נֵזֶר הַקֹּדֶשׁ (*nezer haqodesh*, o diadema sagrado). A inscrição “Santidade a YHWH” permanece.
+
+Notas lexicais:
+- **39:2–7:** אֵפוֹד (*efod*) é a vestimenta sacerdotal associada às ombreiras e às pedras memoriais; as pedras gravadas como selos carregam os nomes das tribos.
+- **39:8–21:** חֹשֶׁן (*choshen*) é o peitoral. Os nomes antigos das pedras preciosas não permitem identificar com segurança todos os minerais modernos; os equivalentes tradicionais foram mantidos com ressalva.
+- **39:22–26:** o manto azul, a abertura reforçada, as romãs e as campainhas reproduzem os elementos especificados em Êxodo 28.
+- **39:27–31:** as túnicas, turbantes, calções, cinto e placa de ouro foram conferidos; צִיץ (*tsits*) é a placa/lâmina e נֵזֶר (*nezer*) destaca o caráter de diadema/consagração.
+- **39:32–43:** o inventário final recapitula os elementos do santuário; a sequência vai dos objetos do espaço mais sagrado aos utensílios, pátio e vestes. A avaliação de Moisés e sua bênção concluem a narrativa da construção.
+
+Demais versículos (39:1–29 e 39:31–43): conferidos quanto à correspondência com Êxodo 28, materiais, montagem e sequência narrativa; nenhuma outra alteração considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, Êxodo 39, texto hebraico massorético: https://mechon-mamre.org/p/pt/pt0239.htm
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, comentário de Êxodo 39:33–43 e inventário: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+- Jay Sklar, comentário de Êxodo, estrutura das vestes e entrega do tabernáculo: https://www.thegospelcoalition.org/commentary/exodus/
+
+### Êxodo 40 — conferência textual e lexical integral (40:1–38)
+
+**Capítulo conferido contra o Texto Massorético**, incluindo a ordem de montagem, a unção e consagração, a execução por Moisés e a manifestação da nuvem e da glória de YHWH. A repetição de “como YHWH ordenara a Moisés” foi preservada como elemento estrutural do capítulo.
+
+Notas lexicais:
+- **40:2, 17:** הַחֹדֶשׁ הָרִאשׁוֹן (*hachodesh harishon*) é o primeiro mês, identificado no calendário bíblico como abibe/nissã; a data de montagem é o primeiro dia do segundo ano.
+- **40:9–11:** מָשַׁח (*mashach*) é ungir; קֹדֶשׁ קָדָשִׁים (*qodesh qadashim*, “santíssimo”) marca a consagração máxima do altar.
+- **40:12–15:** a lavagem, as vestes e a unção de Arão e seus filhos correspondem à investidura sacerdotal; “sacerdócio perpétuo” preserva a linguagem de continuidade geracional.
+- **40:20:** הָעֵדֻת (*ha'edut*, “o Testemunho”) refere-se às tábuas depositadas na arca; a tradução mantém a designação sem acrescentar explicação ao corpo.
+- **40:34–38:** כְּבוֹד יְהוָה (*kevod YHWH*, “glória de YHWH”) enche o tabernáculo; שָׁכַן (*shakhan*, habitar/permanecer) descreve a nuvem que repousa sobre ele. O fogo noturno é dito estar “nela”, isto é, na nuvem, e a imagem foi preservada.
+
+Demais versículos (40:1–8, 40:12–33 e 40:34–38): conferidos quanto à ordem, localização dos utensílios, fórmulas de execução e sequência da narrativa; nenhuma outra alteração considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, Êxodo 40, texto hebraico massorético: https://www.mechon-mamre.org/p/pt/pt0240.htm
+- Victor P. Hamilton, *Exodus: An Exegetical Commentary*, notas gramaticais e lexicais de Êxodo 40:34–38: https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Exodus-An-Exegetical-Commentary-by-Victor-P.-Hamilton-z-lib.org_.epub_.pdf
+- Jay Sklar, comentário de Êxodo, estrutura de Êxodo 40:1–38: https://www.thegospelcoalition.org/commentary/exodus/
+
+---
+
+## Fechamento da primeira revisão integral de Êxodo 1–40
+
+Em 2026-11-06, os quarenta capítulos de Êxodo foram conferidos em primeira passada textual e lexical contra o Texto Massorético, com comparação de traduções e comentários de referência. As correções e notas específicas estão registradas por capítulo acima. O estado editorial do livro passa a **Revisado** no controle por versículo.
+
+“Revisado” significa que a tradução passou pela conferência editorial documentada e está aprovada para a versão atual; não significa que toda dificuldade textual ou interpretativa desapareceu. Ambiguidades legítimas permanecem assinaladas nas notas. Uma reabertura futura exige erro concreto ou fonte relevante, com justificativa registrada. Não reiniciar a revisão por mudança de conversa, sessão ou ferramenta.
