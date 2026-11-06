@@ -80,8 +80,8 @@
     3,
     window.NUMBERS_TEXT,
     "em_revisao",
-    "Texto massorético (Mechon-Mamre e Sefaria como referências de consulta); revisão integral versículo por versículo em andamento",
-    "A revisão integral foi reaberta para conferência de todos os 1.288 versículos com o hebraico massorético. As rodadas anteriores foram revisões seletivas por lotes e auditorias estruturais; não devem ser interpretadas como colação completa de cada versículo. O fechamento como revisado ficará suspenso até que os 36 capítulos sejam efetivamente conferidos, corrigidos quando necessário e auditados ao final. A revisão é editorial interna e não constitui certificação acadêmica independente nem colação crítica de variantes manuscritas."
+    "Texto massorético (Miqra according to the Masorah/Sefaria, Mechon-Mamre e BHS quando acessível); auditoria estrutural global concluída, revisão textual integral pendente",
+    "Auditoria estrutural global concluída: 36 capítulos e 1.288 versículos presentes; contagens conferem com a estrutura esperada; não há versículos vazios, blocos sem fechamento, chaves de notas duplicadas ou notas fora da faixa de versículos. Esta verificação não comprova a correção de cada tradução. As rodadas textuais anteriores foram seletivas, não uma colação integral de todos os versículos. Há limitações documentadas de acesso ao texto BHS completo em alguns capítulos (notadamente 10–11, 25 e parte das páginas 27–36); por isso o estado permanece em revisão. Próxima etapa: cotejo textual contínuo, versículo por versículo, com registro de fonte por capítulo e resolução das limitações de cobertura. Revisão editorial interna, sem certificação acadêmica independente nem colação crítica de variantes manuscritas."
   );
 
   addLegacyBook(
