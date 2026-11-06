@@ -40,10 +40,13 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     40: {term:"הִין (hin)",text:"Medida antiga de líquidos. O valor exato variou conforme período e sistema de medidas."}
   },
   30: {
+    1: {term:"מִזְבֵּחַ מִקְטַר קְטֹרֶת (mizbeach miqtar qetoret)",text:"Altar destinado à queima do incenso, distinto do altar dos holocaustos no pátio. A designação enfatiza a função do altar interno."},
     12: {term:"כֹּפֶר (kofer)",text:"Resgate ou preço de compensação. Aqui o meio siclo é apresentado como resgate pela vida no recenseamento."},
+    13: {term:"בֶּקַע (beqa)",text:"Unidade equivalente a meio siclo; o próprio versículo informa que vinte geras formam um siclo, portanto um beqa corresponde a dez geras."},
     13: {term:"גֵּרָה (gerah)",text:"Unidade pequena de peso/moeda; vinte geras correspondiam a um siclo segundo o texto."},
     23: {term:"מֹר דְּרוֹר (mor deror)",text:"Mirra de qualidade ou mirra fluida/pura; a expressão identifica uma especiaria da composição do óleo."},
     24: {term:"קִדָּה (qiddah)",text:"Especiaria tradicionalmente identificada como cássia. A identificação botânica exata e sua relação com outras plantas aromáticas antigas não são totalmente seguras."},
-    34: {term:"נָטָף (nataf) / שְׁחֵלֶת (shechelet)",text:"Nataf é tradicionalmente identificado como estoraque ou uma resina aromática; shechelet, como ônica ou outro ingrediente aromático. As identificações botânicas e materiais são incertas."}
+    34: {term:"נָטָף (nataf) / שְׁחֵלֶת (shechelet)",text:"Nataf é tradicionalmente identificado como estoraque ou uma resina aromática; shechelet, como ônica ou outro ingrediente aromático. As identificações botânicas e materiais são incertas."},
+    35: {term:"מְמֻלָּח (memullach)",text:"Particípio da raiz מלח (*malach*), “salgar”. O incenso era temperado com sal, além de ser puro e santo; a palavra não indica apenas que a mistura estava “bem misturada”."}
   }
 });
