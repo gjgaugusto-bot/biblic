@@ -95,3 +95,7 @@ Fontes consultadas: Mechon-Mamre, Êxodo 31 e 34; texto hebraico massorético.
 - **Êxodo 28:17–18 e 39:10–11:** corrigida a transposição dos nomes das pedras entre as duas primeiras fileiras e harmonizada a lista nos capítulos 28 e 39. As identificações continuam assinaladas como tradicionais e incertas.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
+
+### Ajuste estrutural das notas de Êxodo 1–10
+
+- **Êxodo 3:** unificadas as notas dos versículos 14 e 19 em um único objeto de capítulo. Isso evita que uma chave de capítulo duplicada faça uma das notas sobrescrever a outra no JavaScript.
