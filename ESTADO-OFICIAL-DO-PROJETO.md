@@ -310,3 +310,11 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas anteriores do capítulo preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 27:1–21.
+
+
+### Continuidade de conteúdo — Êxodo 27 (2026-11-06)
+
+- Êxodo 27:1–21 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 27:5 e 27:9 sobre a moldura do altar e as cortinas do pátio; notas anteriores preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 28:1–43.
