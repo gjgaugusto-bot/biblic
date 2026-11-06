@@ -29,10 +29,10 @@ window.EXODUS_TEXT = {
 2: [
 "Um homem da casa de Levi foi e tomou por mulher uma filha de Levi.",
 "A mulher concebeu e deu à luz um filho. Vendo que ele era bom, escondeu-o por três meses.",
-"Quando já não pôde escondê-lo, tomou para ele uma arca de papiro, revestiu-a com betume e piche, colocou nele o menino e o pôs entre os juncos, à margem do Nilo.",
+"Quando já não pôde escondê-lo, tomou para ele uma arca de papiro, revestiu-a com betume e piche, colocou nela o menino e a pôs entre os juncos, à margem do Nilo.",
 "Sua irmã ficou de longe, para saber o que lhe aconteceria.",
 "A filha do faraó desceu para banhar-se no Nilo, enquanto suas moças caminhavam pela margem do rio. Ela viu o cesto entre os juncos e enviou sua serva para apanhá-lo.",
-"Ela o abriu e viu o menino: eis que era um bebê que chorava. Teve compaixão dele e disse: «Este é um dos meninos dos hebreus».",
+"Ela a abriu e viu o menino; e eis que o menino chorava. Teve compaixão dele e disse: «Este é um dos meninos dos hebreus».",
 "Então a irmã do menino disse à filha do faraó: «Devo ir chamar para ti uma mulher que amamente, dentre as hebreias, para que amamente o menino para ti?»",
 "A filha do faraó lhe respondeu: «Vai». A moça foi e chamou a mãe do menino.",
 "A filha do faraó lhe disse: «Leva este menino e amamenta-o para mim; eu te darei o teu pagamento». A mulher tomou o menino e o amamentou.",
