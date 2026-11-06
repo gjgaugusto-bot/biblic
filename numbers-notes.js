@@ -348,11 +348,11 @@ window.TRANSLATION_NOTES[3][31] = {
 window.TRANSLATION_NOTES[3][32] = {
   5:{term:"אַל־תַּעֲבִרֵנוּ (al ta'avirenu)",text:"“Não nos faças atravessar”. O pedido inicial das tribos é permanecer a leste do Jordão, antes do compromisso de lutar com os irmãos."},
   7:{term:"תְּנִיאוּן (teni'un)",text:"Causativo de נוא: “desanimar, fazer recuar”. A preocupação de Moisés é que a decisão enfraqueça a disposição de toda a comunidade."},
-  11:{term:"מִלְּבִלְתִּי (milevilti)",text:"Construção que expressa falta ou ausência: “por não terem seguido plenamente”. O texto ressalta a fidelidade integral como contraste."},
+  11:{term:"מִלְאוּ אַחֲרָי (mile'u acharai)",text:"“Seguiram-me plenamente”. A expressão descreve fidelidade integral a YHWH; o versículo seguinte usa a mesma raiz para Calebe e Josué."},
   17:{term:"חֲלוּצִים (chalutzim)",text:"“Armados/preparados”. O termo descreve os homens equipados para marchar à frente de Israel."},
   22:{term:"וְנִכְבְּשָׁה הָאָרֶץ (venichbe-shah ha'aretz)",text:"“Quando a terra for subjugada”. A concessão territorial fica condicionada ao cumprimento do compromisso coletivo."},
   24:{term:"מוֹצָא פִיכֶם (motza fikhem)",text:"“O que saiu de vossa boca”. A palavra empenhada é tratada como obrigação pública."},
-  33:{term:"חֲצִי שֵׁבֶט מְנַשֶּׁה (chatzi shevet Menasheh)",text:"A meia tribo de Manassés aparece incluída na concessão territorial, embora sua participação não tenha sido apresentada no pedido inicial de Gade e Rúben."}
+  33:{term:"חֲצִי שֵׁבֶט מְנַשֶּׁה (chatzi shevet Menasheh)",text:"A meia tribo de Manassés aparece incluída na concessão territorial, embora sua participação não tenha sido apresentada no pedido inicial de Gade e Rúben."},
   4:{term:"הִכָּה (hikkah)",text:"“Feriu/subjugou”. No contexto da conquista, o verbo descreve a derrota dos povos que ocupavam a região, não um dano literal causado à terra."},
 };
 
