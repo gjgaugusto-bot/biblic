@@ -86,3 +86,15 @@ Antes de iniciar uma nova etapa:
 - Em caso de conflito entre lembrança de conversa e repositório, conferir o histórico e pedir esclarecimento se o conteúdo do usuário estiver em dúvida.
 
 Ao encerrar cada etapa, atualizar o registro de progresso. Não depender apenas da memória do chat.
+
+
+## 8. Base congelada e continuidade a partir de 2026-11-06
+
+- A branch `base-imutavel-2026-11-06` é a referência congelada após a auditoria técnica. Não fazer commits, atualizações de arquivo ou force push nela.
+- A branch `trabalho-base-2026-11-06` nasce do mesmo commit e é o ponto de partida das próximas tarefas. Para mudanças grandes, criar branches de recurso derivadas dela e retornar por Pull Request.
+- A branch `arquivo-pre-auditoria-2026-11-06` preserva o estado anterior às correções desta auditoria.
+- A branch `main` representa a publicação e não deve ser alterada nesta fase.
+- O PR #35 permanece draft, aberto e não integrado. Não mesclar, publicar ou disparar deploy sem pedido explícito do proprietário.
+- A branch congelada é preservada por procedimento, não por uma trava técnica confirmada. A integração atual não tem permissão para criar regras de proteção; não afirmar que a branch está bloqueada contra escrita.
+- O snapshot do código não inclui dados que estejam somente no `localStorage` do navegador. Antes de limpar o navegador, trocar de dispositivo ou reinstalar o aplicativo, exportar e guardar o backup JSON.
+- Ao iniciar cada nova conversa, ler este protocolo, `BASE-IMUTAVEL.md` e `PROGRESSO-DO-PROJETO.md`; conferir o SHA atual das branches e trabalhar somente na branch de trabalho.
