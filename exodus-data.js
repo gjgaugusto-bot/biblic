@@ -7,7 +7,7 @@ window.EXODUS_TEXT = {
 "Rúben, Simeão, Levi e Judá;",
 "Issacar, Zebulom e Benjamim;",
 "Dã e Naftali, Gade e Aser.",
-"Todas as pessoas descendentes de Jacó eram setenta; José, porém, já estava no Egito.",
+"O total dos descendentes de Jacó era de setenta pessoas; José, porém, já estava no Egito.",
 "José morreu, assim como todos os seus irmãos e toda aquela geração.",
 "Os filhos de Israel foram fecundos, multiplicaram-se abundantemente, tornaram-se numerosos e muito poderosos; e a terra ficou cheia deles.",
 "Então se levantou sobre o Egito um novo rei, que não conhecera José.",
