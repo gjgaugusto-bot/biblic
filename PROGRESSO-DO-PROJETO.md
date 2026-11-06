@@ -516,3 +516,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais e gramaticais em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota anterior de 6:9 preservada.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 7:1–29.
+
+
+## 2026-11-06 — revisão de Êxodo 7:1–29
+
+- Conferência integral do capítulo 7 contra o Texto Massorético.
+- Nenhuma alteração no corpo da tradução.
+- Notas lexicais em 7:3, 7:13, 7:14 e 7:15; nota anterior de 7:9 preservada.
+- Distinções registradas entre as raízes qashah, chazaq e kaved e entre tannin e nachash.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 8:1–28.
