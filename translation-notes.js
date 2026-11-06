@@ -71,7 +71,7 @@ window.TRANSLATION_NOTES = {
     },
     4: {
       13: {term:"שְׁלַח נָא בְּיַד תִּשְׁלָח",text:"Expressão idiomática difícil, literalmente próxima de “envia, por favor, pela mão daquele que enviarás”. “Envia outra pessoa” comunica uma interpretação provável, mas não reproduz a forma hebraica."},
-      18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. A tradução conserva a diferença das formas (“Yeter” e “Jetro”); não se trata de duas pessoas distintas no contexto narrativo."},
+      18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. O sacerdote também é chamado Reuel em Êxodo 2:18. A identificação das formas como referências à mesma pessoa é comum, mas a relação entre os nomes não é explicada pelo texto; a tradução preserva cada forma."},
       24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. YHWH é explicitamente o sujeito de “procurou matá-lo”, mas o objeto do verbo — Moisés ou o filho — é discutido. O referente de “pés” e a identidade exata daquele que é tocado também permanecem incertos. A tradução evita resolver essas questões por conjectura."}
     },
     6: {
@@ -128,4 +128,13 @@ Object.assign((window.TRANSLATION_NOTES[0][41] ||= {}), {
 });
 Object.assign((window.TRANSLATION_NOTES[0][43] ||= {}), {
   14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
+});
+
+
+// Complementos da segunda conferência de Êxodo 1–5.
+Object.assign((window.TRANSLATION_NOTES[1][2] ||= {}), {
+  18: {term:"רְעוּאֵל (Reuel) / יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"O pai das filhas é chamado Reuel neste versículo; em Êxodo 3:1 e 4:18, o sacerdote de Midiã ligado a Moisés aparece como Jetro/Yeter. Muitos intérpretes identificam as designações com a mesma pessoa, mas a relação entre os nomes é discutida. A tradução conserva as formas de cada passagem sem harmonizá-las."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][5] ||= {}), {
+  16: {term:"וְחָטָאת עַמֶּךָ (vechatat amekha)",text:"A oração final é concisa e pode ser entendida como “e a culpa é do teu povo” ou “e teu povo é culpado”. A conjunção וְ (ve-) é aditiva; por isso, a tradução evita a concessiva “embora”, que não está expressa no hebraico. A formulação portuguesa mantém a leitura de responsabilidade sem decidir além do contexto."}
 });
