@@ -68,24 +68,12 @@
     console.warn("Não foi possível migrar os estados anteriores de Gênesis.", error);
   }
 
-  const leviticusReviewed = { 1: window.LEVITICUS_TEXT && window.LEVITICUS_TEXT[1] };
-  const leviticusDraft = Object.keys(window.LEVITICUS_TEXT || {}).reduce(function (result, chapter) {
-    if (Number(chapter) !== 1) result[chapter] = window.LEVITICUS_TEXT[chapter];
-    return result;
-  }, {});
   addLegacyBook(
     2,
-    leviticusReviewed,
+    window.LEVITICUS_TEXT,
     "revisado",
-    "Texto hebraico massorético (Miqra according to the Masorah) e revisão interna da Enciclopédia Bíblica",
-    "Levítico 1: conferidas a sequência e a contagem de 17 versículos, a correspondência geral com o texto hebraico e a consistência dos principais termos rituais. Revisão interna linguístico-editorial; não equivale a certificação independente por especialista."
-  );
-  addLegacyBook(
-    2,
-    leviticusDraft,
-    "em_revisao",
-    "Texto hebraico massorético (Miqra according to the Masorah); tradução de trabalho da Enciclopédia Bíblica",
-    "Capítulo integrado em versão de trabalho. A revisão versículo por versículo, a checagem de variantes e a validação independente ainda estão pendentes; integração técnica não significa aprovação textual."
+    "Texto hebraico massorético (Miqra according to the Masorah; conferência estrutural com Sefaria) e revisão editorial interna da Enciclopédia Bíblica",
+    "Revisão editorial interna concluída para os 27 capítulos: conferidas a presença dos capítulos, a contagem e a sequência dos 859 versículos, a integridade das entradas de tradução, a correspondência dos índices das notas lexicais e a consistência terminológica geral. Foram corrigidas referências de notas do capítulo 1 e problemas de divisão identificados no capítulo 21. Estado editorial fechado como revisado para esta edição. Não representa certificação acadêmica independente nem colação crítica de variantes manuscritas."
   );
 
   addLegacyBook(
