@@ -6,7 +6,10 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     1: {term:"מִשְׁכָּן (mishkan)",text:"“Morada” ou tabernáculo; relaciona-se à ideia de habitar. O capítulo descreve cortinas, armação e divisões do santuário."},
     7: {term:"עִזִּים (izzim)",text:"“Cabras” ou pelos de cabra. As cortinas dessa matéria formavam uma cobertura externa."},
     14: {term:"תְּחָשִׁים (techashim)",text:"Material de pele de identificação incerta; propostas incluem couro trabalhado ou pele de animal marinho."},
-    31: {term:"פָּרֹכֶת (parokhet)",text:"Véu ou cortina divisória, especialmente a que separava o Lugar Santo do Lugar Santíssimo."}
+    17: {term:"יָדֹת (yadot)",text:"Literalmente “mãos”; no contexto das armações, são projeções/encaixes ou espigas que se ajustam às bases. A forma exata da estrutura é discutida; “saliências” conserva a imagem sem fixar uma reconstrução arquitetônica."},
+    24: {term:"תֹּאֲמִים (to'amim) / תַּמִּים (tamim)",text:"תֹּאֲמִים (*to'amim*) significa “em pares/duplas”; תַּמִּים (*tamim*) pode indicar inteiras, completas ou unidas. O versículo descreve as armações dos cantos, mas sua construção exata é notoriamente difícil; a tradução “duplas embaixo e unidas no alto por uma argola” é uma leitura possível."},
+    31: {term:"פָּרֹכֶת (parokhet)",text:"Véu ou cortina divisória, especialmente a que separava o Lugar Santo do Lugar Santíssimo."},
+    36: {term:"מָסָךְ (masakh)",text:"Cortina/tela de entrada, distinta da פָּרֹכֶת (*parokhet*) interna que separava o Lugar Santo do Lugar Santíssimo. A tradução usa “cortina” para ambas, mas as funções arquitetônicas são diferentes."}
   },
   27: {
     2: {term:"קַרְנֹת (qarnot)",text:"“Chifres” do altar: projeções nos quatro cantos, parte integrante do objeto ritual."},
