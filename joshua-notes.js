@@ -156,3 +156,51 @@ window.TRANSLATION_NOTES[5][18] = {
   10:{term:"וַיְחַלֶּק (vayḥalleq)",text:"“Repartiu/dividiu”. O verbo descreve a atribuição efetiva dos territórios às tribos por meio do sorteio."},
   28:{term:"יְבוּסִי הִיא יְרוּשָׁלַם (Yevusi hi Yerushalayim)",text:"“O jebuseu, isto é, Jerusalém”. O texto identifica a cidade pelo nome e pela população que nela habitava naquele período."}
 };
+
+
+window.TRANSLATION_NOTES[5][19] = {
+  1:{term:"גּוֹרָל (goral)",text:"“Sorte” ou lote. O sorteio determina a distribuição territorial entre as tribos."},
+  9:{term:"מֵחֶבֶל בְּנֵי יְהוּדָה (meḥevel bene Yehudah)",text:"A porção de Simeão é retirada do território de Judá, porque a herança de Judá era extensa."},
+  47:{term:"וַיַּעֲלוּ בְנֵי דָן (vayya'alu bene Dan)",text:"“Os filhos de Dã subiram”. O verbo introduz a migração militar para Lesém, também chamada Dã."},
+  49:{term:"נַחֲלָה (naḥalah)",text:"Herança territorial. O relato conclui a distribuição e registra a porção pessoal concedida a Josué."}
+};
+window.TRANSLATION_NOTES[5][20] = {
+  2:{term:"עָרֵי מִקְלָט (arei miqlat)",text:"“Cidades de refúgio”. Instituições destinadas a proteger quem causasse uma morte não intencional."},
+  3:{term:"שֹׁגֵג (shogeg)",text:"Quem age sem intenção ou por inadvertência, em contraste com o homicida deliberado."},
+  5:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador do sangue”, parente responsável por buscar reparação pela morte de um familiar."},
+  6:{term:"עַד־מוֹת הַכֹּהֵן הַגָּדוֹל (ad mot hakkohen haggadol)",text:"“Até a morte do sumo sacerdote”. O texto estabelece o marco temporal para o retorno do refugiado à sua cidade."}
+};
+window.TRANSLATION_NOTES[5][21] = {
+  2:{term:"מִגְרָשׁ (migrash)",text:"Campo aberto ou pastagem ao redor da cidade, reservado para os rebanhos e atividades dos levitas."},
+  4:{term:"בְּנֵי אַהֲרֹן (bene Aharon)",text:"Os descendentes de Arão, ramo sacerdotal dos coatitas, recebem cidades em diversas tribos."},
+  12:{term:"שְׂדֵה הָעִיר (sedeh ha'ir)",text:"“Campo da cidade”. O texto distingue a área urbana e seus arredores da propriedade rural atribuída a Calebe."},
+  41:{term:"אַרְבָּעִים וּשְׁמֹנֶה עִיר (arba'im ushemonah ir)",text:"“Quarenta e oito cidades”. É o total das cidades levíticas distribuídas entre as tribos."},
+  43:{term:"כָּל־הָאָרֶץ (kol ha'arets)",text:"“Toda a terra”. A fórmula resume o cumprimento da promessa territorial, em linguagem teológica abrangente."},
+  45:{term:"לֹא־נָפַל דָּבָר (lo nafal davar)",text:"Literalmente, “nenhuma palavra caiu”. Idioma que afirma que nenhuma promessa divina deixou de se cumprir."}
+};
+window.TRANSLATION_NOTES[5][22] = {
+  5:{term:"דָּבַר (davar)",text:"“Palavra” ou “assunto”. A ordem enfatiza fidelidade integral à instrução recebida."},
+  10:{term:"גָּדוֹל לְמַרְאֶה (gadol lemareh)",text:"“Grande à vista”. A descrição destaca a imponência do altar construído junto ao Jordão."},
+  16:{term:"מַעַל (ma'al)",text:"Infidelidade ou violação de confiança, frequentemente usada para descrever uma transgressão contra a aliança."},
+  20:{term:"חֵרֶם (ḥerem)",text:"Coisa consagrada ou interditada. A referência a Acã recorda que uma transgressão individual afetou toda a comunidade."},
+  27:{term:"עֵד (ed)",text:"“Testemunha”. O altar é explicado como sinal memorial de pertencimento comum ao culto de YHWH."},
+  34:{term:"עֵד (ed)",text:"O nome do altar, “Testemunha”, resume a função que as tribos orientais lhe atribuíram."}
+};
+window.TRANSLATION_NOTES[5][23] = {
+  1:{term:"זָקֵן בָּא בַּיָּמִים (zaqen ba bayyamim)",text:"Expressão idiomática: “velho e avançado em idade”."},
+  6:{term:"חֲזַקְתֶּם מְאֹד (ḥazaqtem me'od)",text:"“Sede muito fortes”. Exortação para manter com firmeza a fidelidade à Lei."},
+  8:{term:"דְּבֵקִים (deveqim)",text:"“Apegados”, “unidos”. O verbo descreve lealdade contínua a YHWH."},
+  13:{term:"לְמוֹקֵשׁ וּלְפַח (lemqosh ulefaḥ)",text:"“Laço e armadilha”. Metáforas para os perigos espirituais e sociais da convivência idólatra."},
+  14:{term:"לֹא־נָפַל דָּבָר (lo nafal davar)",text:"“Nenhuma palavra falhou”. A mesma fórmula de cumprimento aparece no resumo da fidelidade divina."}
+};
+window.TRANSLATION_NOTES[5][24] = {
+  1:{term:"שְׁכֶם (Shekhem)",text:"Siquém, local de reunião ligado às memórias patriarcais e à renovação da aliança."},
+  2:{term:"מֵעֵבֶר הַנָּהָר (me'ever hannahar)",text:"“Além do Rio”, referência à região situada além do Eufrates, de onde veio a família de Abraão."},
+  14:{term:"בְּתָמִים וּבֶאֱמֶת (betamim uve'emet)",text:"“Com integridade e fidelidade”. A convocação exige lealdade sincera e prática, não apenas declaração verbal."},
+  15:{term:"בְּחַרוּ לָכֶם (beḥaru lakhem)",text:"“Escolhei para vós”. A escolha é apresentada como decisão pública e consciente de quem servir."},
+  19:{term:"אֵל קַדּוֹשִׁים (El qedoshim)",text:"“Deus santo”. A forma plural funciona como intensificação da santidade divina; o versículo ressalta a seriedade da aliança."},
+  25:{term:"בְּרִית (berit)",text:"Aliança ou pacto. Em Siquém, o compromisso é formalizado com estatutos e ordenanças."},
+  26:{term:"סֵפֶר תּוֹרַת אֱלֹהִים (sefer torat Elohim)",text:"“Livro da Lei de Deus”. O registro escrito preserva as palavras da renovação da aliança."},
+  29:{term:"עֶבֶד יְהוָה (eved YHWH)",text:"“Servo de YHWH”, título honorífico atribuído a Josué no encerramento de sua vida."},
+  32:{term:"מֵאָה קְשִׂיטָה (me'ah qesitah)",text:"“Cem peças de prata”. Qesitah é uma unidade monetária antiga cujo valor exato não é conhecido."}
+};
