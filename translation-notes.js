@@ -71,7 +71,7 @@ window.TRANSLATION_NOTES = {
     },
     4: {
       13: {term:"שְׁלַח נָא בְּיַד תִּשְׁלָח",text:"Expressão idiomática difícil, literalmente próxima de “envia, por favor, pela mão daquele que enviarás”. “Envia outra pessoa” comunica uma interpretação provável, mas não reproduz a forma hebraica."},
-      18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. A tradução conserva a diferença das formas (“Yeter” e “Jetro”); não se trata de duas pessoas distintas no contexto narrativo."},
+      18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. O sacerdote também é chamado Reuel em Êxodo 2:18. A identificação das formas como referências à mesma pessoa é comum, mas a relação entre os nomes não é explicada pelo texto; a tradução preserva cada forma."},
       24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. YHWH é explicitamente o sujeito de “procurou matá-lo”, mas o objeto do verbo — Moisés ou o filho — é discutido. O referente de “pés” e a identidade exata daquele que é tocado também permanecem incertos. A tradução evita resolver essas questões por conjectura."}
     },
     6: {
@@ -82,7 +82,7 @@ window.TRANSLATION_NOTES = {
       9: {term:"תַּנִּין (tannin)",text:"Termo amplo para uma criatura grande e ameaçadora, que pode ser traduzido conforme o contexto como serpente, monstro ou grande réptil. Aqui designa a criatura em que o cajado se transforma; o hebraico não identifica uma espécie zoológica."}
     },
     9: {
-      6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias. Êxodo 9:3 especifica que a praga atinge os animais que estão no campo; por isso, a declaração de que “todo o gado do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
+      6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias; em 9:3, a lista inclui cavalos, jumentos, camelos, gado e ovelhas. Êxodo 9:3 delimita a praga aos animais que estão no campo; por isso, a declaração de que “todo o rebanho do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
     },
     8: {
       12: {term:"כִּנִּים (kinnim)",text:"O nome da terceira praga é incerto. As propostas incluem piolhos, mosquitos e pequenos insetos. “Piolhos” é uma escolha provisória, não uma identificação zoológica segura."},
@@ -128,4 +128,28 @@ Object.assign((window.TRANSLATION_NOTES[0][41] ||= {}), {
 });
 Object.assign((window.TRANSLATION_NOTES[0][43] ||= {}), {
   14:{term:"אֵל שַׁדַּי (El Shaddai)",text:"Título divino tradicionalmente traduzido “Deus Todo-Poderoso”. A etimologia de Shaddai é incerta; a tradução consagrada é convencional, não uma derivação lexical indiscutível."}
+});
+
+
+// Complementos da segunda conferência de Êxodo 1–5.
+Object.assign((window.TRANSLATION_NOTES[1][2] ||= {}), {
+  18: {term:"רְעוּאֵל (Reuel) / יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"O pai das filhas é chamado Reuel neste versículo; em Êxodo 3:1 e 4:18, o sacerdote de Midiã ligado a Moisés aparece como Jetro/Yeter. Muitos intérpretes identificam as designações com a mesma pessoa, mas a relação entre os nomes é discutida. A tradução conserva as formas de cada passagem sem harmonizá-las."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][5] ||= {}), {
+  16: {term:"וְחָטָאת עַמֶּךָ (vechatat amekha)",text:"A oração final é concisa e pode ser entendida como “e a culpa é do teu povo” ou “e teu povo é culpado”. A conjunção וְ (ve-) é aditiva; por isso, a tradução evita a concessiva “embora”, que não está expressa no hebraico. A formulação portuguesa mantém a leitura de responsabilidade sem decidir além do contexto."}
+});
+
+
+// Complementos da segunda conferência de Êxodo 6–10.
+Object.assign((window.TRANSLATION_NOTES[1][7] ||= {}), {
+  20: {term:"וַיָּרֶם בַּמַּטֶּה (vayarem bammatteh)",text:"O verbo está na terceira pessoa do singular e não repete o sujeito. Como a ordem imediatamente anterior é dirigida a Arão (7:19), ele é o agente mais provável; ainda assim, o narrador não escreve o nome nesse ponto. A tradução conserva o pronome e esta nota registra a inferência contextual."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][8] ||= {}), {
+  5: {term:"הִתְפָּאֵר עָלַי (hitpa'er alai)",text:"A expressão é literalmente próxima de “gloria-te sobre mim” ou “assume a honra sobre mim”. No diálogo, Moisés permite que o faraó indique o momento em que ele suplicará para remover as rãs. “Digna-te a indicar-me quando...” é uma interpretação idiomática, não uma equivalência palavra por palavra."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][9] ||= {}), {
+  14: {term:"אֶל־לִבְּךָ (el-libbekha)",text:"Literalmente, “ao teu coração”. A expressão é incomum nesse contexto; algumas traduções a interpretam como “sobre tua pessoa”, enquanto outras preservam “teu coração”. A imagem pode ecoar o tema do coração endurecido do faraó; a tradução mantém a forma literal e registra a interpretação."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][10] ||= {}), {
+  24: {term:"צֹאנְכֶם (tsonkhem)",text:"Tson é um coletivo para rebanhos de pequenos animais, especialmente ovelhas e cabras. “Ovelhas” isoladamente pode estreitar o sentido; “rebanhos” preserva o coletivo sem especificar a composição."}
 });
