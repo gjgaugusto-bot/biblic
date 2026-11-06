@@ -718,3 +718,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas ampliadas em 29:6, 29:13, 29:18 e 29:22; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 30:1–38.
+
+
+## 2026-11-06 — revisão de Êxodo 30:1–38
+
+- Conferência integral do capítulo 30 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais ampliadas em 30:1, 30:13 e 30:35; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 31:1–18.
