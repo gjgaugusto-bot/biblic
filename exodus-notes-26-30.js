@@ -24,7 +24,10 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     15: {term:"חֹשֶׁן מִשְׁפָּט (choshen mishpat)",text:"“Peitoral do juízo/decisão”, peça que continha as pedras e os Urim e Tumim."},
     17: {term:"אֹדֶם (odem) / פִּטְדָּה (pitdah) / בָּרֶקֶת (bareqet) e demais nomes das pedras",text:"Os nomes hebraicos das pedras do peitoral são antigos e nem sempre permitem identificação mineral segura. “Sárdio”, “topázio”, “carbúnculo” e os demais equivalentes são traduções tradicionais, mas as listas variam entre versões."},
     30: {term:"אוּרִים וְתֻמִּים (urim vetummim)",text:"Objetos associados à consulta oracular e à decisão. O significado literal e a forma material permanecem incertos."},
-    36: {term:"קֹדֶשׁ לַיהוָה (qodesh la-YHWH)",text:"“Consagrado a YHWH” ou “santidade para YHWH”; inscrição que identifica a dedicação sacerdotal."}
+    36: {term:"קֹדֶשׁ לַיהוָה (qodesh la-YHWH)",text:"“Consagrado a YHWH” ou “santidade para YHWH”; inscrição que identifica a dedicação sacerdotal."},
+    32: {term:"כְּפִי תַחְרָא (kefi tachra)",text:"Expressão rara e difícil para a forma do acabamento ao redor da abertura do manto. Tradicionalmente comparada à abertura de uma couraça/armadura; outras versões entendem como gola ou colarinho reforçado. O objetivo expresso é impedir que o tecido se rasgue."},
+    38: {term:"עֲוֹן הַקֳּדָשִׁים (avon haqodashim)",text:"Literalmente, “a culpa/iniquidade das coisas sagradas”. A formulação pode indicar que Arão assume a responsabilidade pelas falhas ligadas às ofertas consagradas, para que sejam aceitas diante de YHWH. Rashi também associa נשא (*nasa*, “carregar”) à ideia de obter perdão, sem apagar a imagem literal de carregar o peso."},
+    41: {term:"וּמִלֵּאתָ אֶת־יָדָם (umille'ta et-yadam)",text:"Literalmente, “encherás a mão deles”. É uma expressão técnica para investir/instalar alguém no ofício sacerdotal, não apenas uma repetição de “consagrar”. Por isso a tradução distingue “ungir”, “investir no sacerdócio” e “santificar”."}
   },
   29: {
     9: {term:"מִלֵּא יָד (mille yad)",text:"Expressão idiomática de “encher a mão”, usada para a investidura/consagração ao sacerdócio."},
