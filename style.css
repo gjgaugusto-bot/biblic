@@ -212,3 +212,14 @@ button.chapter-tab[aria-selected="false"]:focus{
  color:#fff!important;border-color:#111!important;opacity:1!important;filter:none!important;
  text-shadow:none!important;box-shadow:none!important;
 }
+
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}
