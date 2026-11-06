@@ -90,3 +90,16 @@ Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Não v
 - **Histórico:** a migração inicial de Êxodo como Em revisão permanece registrada; a nova transição para Revisado é acrescentada ao histórico, sem apagar a etapa anterior.
 
 Os capítulos **6–40** permanecem **Em revisão** até que cada lote passe pelo mesmo processo e seja registrado separadamente.
+
+
+## Êxodo — revisão por versículo dos capítulos 6–10 (2026-11-06)
+
+**Transição registrada:** 151 versículos (Êxodo 6:1–10:29) passaram de **Em revisão** para **Revisado** após a segunda conferência comparativa documentada em `REVISAO-EXODO.md`.
+
+- **Fonte-base:** Texto Massorético, conferido em Mechon-Mamre para Êxodo 6–10; Sefaria consultada para o lote 6–10.
+- **Fontes auxiliares para questões específicas:** Victor P. Hamilton sobre Êxodo 8:5; NET Bible sobre Êxodo 9:14; Brown–Driver–Briggs para מִקְנֶה (*miqneh*), conforme bibliografia no registro de Êxodo.
+- **Observação registrada em cada versículo:** texto comparado com o hebraico; sequência e sentido conferidos; escolhas lexicais, sujeitos implícitos e notas lexicais avaliados. Foram acrescentadas notas em 7:20, 8:5, 9:14 e 10:24; a nota de 9:6 foi ampliada.
+- **Limites:** não é colação crítica integral de manuscritos, certificação acadêmica independente nem declaração de que todas as questões exegéticas estejam encerradas. O estado pode ser reaberto somente com evidência concreta e fonte relevante, conforme as regras gerais.
+- **Histórico:** a migração inicial de Êxodo como Em revisão permanece registrada; a transição para Revisado é acrescentada ao histórico, sem apagar a etapa anterior.
+
+Com os capítulos 1–5, o lote **Êxodo 1–10 totaliza 273 versículos Revisados**. Os capítulos **11–40** permanecem **Em revisão** até que cada lote passe pelo mesmo processo e seja registrado separadamente.
