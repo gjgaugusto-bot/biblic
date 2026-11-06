@@ -17,7 +17,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 21–25 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
-| 26–30 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
+| 26–30 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 31–35 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 36–40 | Pendente | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 
@@ -71,3 +71,12 @@ Fontes consultadas: Mechon-Mamre, Êxodo 20; texto hebraico de Êxodo 20:7; trad
 - Êxodo 23:19: removida a palavra “melhor”, ausente da formulação hebraica explícita.
 
 Fontes consultadas: Mechon-Mamre, Êxodo 21–23; texto hebraico massorético.
+
+### Êxodo 26–30 — primeira passada
+
+- **Êxodo 26:14 e 25:5:** padronizado תְּחָשִׁים (*techashim*) como “peles de tahash”, evitando duas identificações especulativas diferentes para o mesmo material de pele.
+- **Êxodo 28:17–20:** acrescentada nota de cautela sobre a identificação das pedras do peitoral; os nomes portugueses são equivalentes tradicionais, não identificações mineralógicas certas.
+- **Êxodo 29:48:** corrigido erro tipográfico (“Habitararei” para “Habitarei”).
+- **Êxodo 30:24 e 30:34:** ampliadas as notas sobre cássia, estoraque e ônica, cujas identificações antigas não são inteiramente seguras.
+
+Fontes consultadas: Mechon-Mamre, Êxodo 28 e 30; referências lexicais para as pedras e especiarias antigas.
