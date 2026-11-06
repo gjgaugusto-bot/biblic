@@ -110,7 +110,7 @@ Object.assign(window.GENESIS_TEXT, {
 "Depois dessas coisas, a palavra de YHWH veio a Abrão numa visão: “Não temas, Abrão; eu sou teu escudo, e tua recompensa será muito grande”.",
 "Abrão respondeu: “Senhor YHWH, que me darás, se continuo sem filhos e o herdeiro da minha casa é Eliézer de Damasco?”",
 "Abrão disse ainda: “Não me deste descendência; eis que um servo nascido em minha casa será meu herdeiro”.",
-Então a palavra de YHWH veio a ele: “Este não será teu herdeiro; aquele que sair de tuas próprias entranhas será teu herdeiro”.",
+"Então a palavra de YHWH veio a ele: “Este não será teu herdeiro; aquele que sair de tuas próprias entranhas será teu herdeiro”.",
 "Deus o levou para fora e disse: “Olha para os céus e conta as estrelas, se és capaz de contá-las”. E acrescentou: “Assim será tua descendência”.",
 "Abrão confiou em YHWH, e isso lhe foi atribuído como justiça.",
 "YHWH lhe disse: “Eu sou YHWH, que te tirei de Ur dos caldeus para dar-te esta terra como herança”.",
