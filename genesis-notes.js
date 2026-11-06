@@ -124,3 +124,20 @@ Object.assign((window.TRANSLATION_NOTES[0][9] ||= {}), {
 Object.assign((window.TRANSLATION_NOTES[0][10] ||= {}), {
   5:{term:"אִיֵּי הַגּוֹיִם (iyyei hagoyim)",text:"Expressão que pode designar ilhas, litorais ou regiões costeiras dos povos. “Regiões costeiras” evita restringir a referência a ilhas no sentido geográfico moderno."}
 });
+
+// Notas lexicais selecionadas — Gênesis 11–15.
+Object.assign((window.TRANSLATION_NOTES[0][11] ||= {}), {
+  4:{term:"שֵׁם (shem)",text:"“Nome” também pode expressar reputação ou identidade pública. A construção da cidade e da torre é associada ao desejo de tornar célebre o próprio nome."},
+  9:{term:"בָּבֶל (Bavel)",text:"O narrador associa o nome Babel ao verbo בָּלַל (balal), “confundir”. Trata-se de uma explicação narrativa por jogo sonoro, não necessariamente da etimologia histórica do nome."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][12] ||= {}), {
+  1:{term:"לֶךְ־לְךָ (lekh-lekha)",text:"Expressão enfática de partida: literalmente algo como “vai para ti”. O chamado envolve deixar terra, parentesco e casa paterna, sem indicar inicialmente o destino pelo nome."},
+  5:{term:"הַנֶּפֶשׁ (hanefesh)",text:"O substantivo nefesh pode designar pessoa, vida ou ser vivente. Neste contexto, “as pessoas que haviam obtido” evita sugerir que se trate de criação de seres humanos."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][14] ||= {}), {
+  18:{term:"מַלְכִּי־צֶדֶק (Malki-tsedeq)",text:"Nome tradicionalmente entendido como “meu rei é justiça” ou “rei de justiça”. O texto o apresenta como rei de Salém e sacerdote do Deus Altíssimo."}
+});
+Object.assign((window.TRANSLATION_NOTES[0][15] ||= {}), {
+  6:{term:"וְהֶאֱמִן (vehe'emin)",text:"Forma do verbo אָמַן, ligado a firmeza e confiança. “Confiou em YHWH” comunica a resposta de Abrão; a frase seguinte atribui essa confiança como justiça."},
+  18:{term:"כָּרַת בְּרִית (karat berit)",text:"Expressão idiomática literalmente “cortar uma aliança”, associada ao rito dos animais divididos no contexto. “Estabeleceu uma aliança” comunica o sentido sem apagar a imagem ritual."}
+});
