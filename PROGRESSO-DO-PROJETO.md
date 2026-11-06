@@ -685,3 +685,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais acrescentadas em 25:29 e 25:38; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 26:1–37.
+
+
+## 2026-11-06 — revisão de Êxodo 26:1–37
+
+- Conferência integral do capítulo 26 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 26:17, 26:24 e 26:36 sobre encaixes, armações dos cantos e a cortina de entrada.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 27:1–21.
