@@ -59,6 +59,8 @@ Foram conferidos integralmente os 25 versículos de Números 24 e os 18 versícu
 
 Foram conferidos integralmente os 65 versículos de Números 26 e os 23 versículos de Números 27 com o texto hebraico do Mechon-Mamre. Em 27:20, “parte de tua autoridade” foi refinado para “parte de tua honra”, refletindo mais diretamente הוֹד (hod). A conferência também detectou e corrigiu um separador ausente no objeto de notas do capítulo 27, que poderia comprometer a leitura do arquivo JavaScript. Os capítulos 26 e 27 ficam registrados como conferidos com base no Texto Massorético.
 
+Foram conferidos integralmente os 31 versículos de Números 28 e os 40 versículos do capítulo 29 do projeto com o texto hebraico do Mechon-Mamre. A numeração do último versículo foi alinhada: o versículo 29:40 do projeto corresponde a Números 30:1 na divisão hebraica exibida pelo Mechon-Mamre. A tradução de 29:40 foi ajustada de “falou” para “disse”, refletindo וַיֹּאמֶר. Os capítulos 28 e 29 ficam registrados como conferidos com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
