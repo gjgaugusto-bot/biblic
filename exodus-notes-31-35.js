@@ -44,10 +44,13 @@ Object.assign(window.TRANSLATION_NOTES[1], {
 },
 35: {
   5:{term:"תְּרוּמָה (terumah)",text:"Contribuição/oferta separada para uma finalidade sagrada; não indica necessariamente sacrifício no altar."},
+  3:{term:"לֹא־תְבַעֲרוּ אֵשׁ (lo teva'aru esh)",text:"Proibição de acender/fazer arder fogo nas moradias no sábado. O versículo não especifica o uso do fogo nem detalha as categorias posteriores de trabalho sabático."},
+  11:{term:"קְרָסָיו (qerasav)",text:"Ganchos/grampos que unem as cortinas e componentes do tabernáculo. “Ganchos” foi mantido em coerência com a terminologia usada na descrição anterior do santuário."},
   10:{term:"חֲכַם־לֵב (chacham-lev)",text:"“Sábio de coração”: expressão que associa habilidade prática, discernimento e disposição interior."},
   19:{term:"בִּגְדֵי הַשְּׂרָד (bigdei haserad)",text:"Vestes de serviço/ministrantes. O significado técnico de serad é incerto; a tradução tradicional varia."},
-  22:{term:"חָח (chach)",text:"Argola, gancho ou joia usada como adorno; a lista reúne diferentes objetos de ouro."},
+  22:{term:"חָח (chach) / נֶזֶם (nezem) / טַבַּעַת (taba'at) / כּוּמָז (kumaz)",text:"A lista enumera adornos de ouro. Chach é tradicionalmente entendido como pulseira/bracelete ou outro adorno de braço; nezem pode ser argola de nariz ou brinco; taba'at é anel; kumaz é um adorno cuja identificação exata é incerta, com propostas como pendente. A expressão הָאֲנָשִׁים עַל־הַנָּשִׁים (ha'anashim al-hanashim) é interpretada como homens trazendo os objetos com/que estavam nas mulheres."},
   26:{term:"טָוָה (tavah)",text:"Fiar, torcer fibras para produzir fio. O versículo destaca a habilidade das mulheres na preparação dos materiais."},
+  33:{term:"חֲרֹשֶׁת אֶבֶן לְמַלֹּאת (charoshet even le-mallot)",text:"Trabalho de pedras destinadas a serem engastadas. A tradução harmoniza-se com Êxodo 31:5: “trabalhar pedras e engastá-las”, evitando restringir a operação a lapidação/polimento."},
   35:{term:"חָרָשׁ (charash)",text:"Artesão ou trabalhador especializado; o termo cobre diferentes ofícios, incluindo gravação, desenho e tecelagem."}
 }
 });
