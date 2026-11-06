@@ -111,3 +111,5 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - Êxodo 2:22: nota acrescentada sobre o nome Gershom e o jogo de palavras com a expressão hebraica *ger hayiti*.
 
 - **Êxodo 38:8:** ampliada a nota sobre as mulheres junto à entrada da tenda. O verbo צבא pode indicar reunião em grupos ou serviço organizado; a função exata permanece incerta.
+
+- **Êxodo 4:24–26:** corrigida a nota explicativa: o sujeito de “procurou matá-lo” é explicitamente YHWH no hebraico; a ambiguidade está no objeto do verbo e nos referentes de “pés” e “a ele”.
