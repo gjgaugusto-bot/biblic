@@ -126,3 +126,17 @@ window.TRANSLATION_NOTES[5][14] = {
   12:{term:"הָהָר הַזֶּה (ha-har hazzeh)",text:"“Esta montanha/região montanhosa”. Calebe reivindica a região de Hebrom, ainda ocupada pelos anaquins e protegida por cidades fortificadas."},
   15:{term:"וַתִּשְׁקֹט הָאָרֶץ מִמִּלְחָמָה (vatishqot ha-arets)",text:"“A terra descansou da guerra”. Fórmula editorial que encerra a unidade narrativa com a cessação das hostilidades."}
 };
+
+window.TRANSLATION_NOTES[5][15] = {
+  1:{term:"גּוֹרַל (goral)",text:"Lote ou sorteio. O capítulo descreve a distribuição territorial de Judá por limites, cidades e grupos familiares."},
+  8:{term:"גֵּי־בֶן־הִנֹּם (Gei-ben-Hinnom)",text:"Vale do filho de Hinom, ao sul de Jerusalém. O topônimo é geograficamente importante em textos posteriores e adquiriu associações religiosas negativas."},
+  18:{term:"בְּרָכָה (berakhah)",text:"Bênção, presente ou benefício concedido. No pedido de Acsa, a palavra introduz a solicitação concreta de fontes de água."},
+  32:{term:"חָצֵר (ḥatser)",text:"Povoado ou aldeia não fortificada, frequentemente associado a uma cidade maior. As listas distinguem centros urbanos e seus assentamentos dependentes."},
+  63:{term:"לֹא יָכְלוּ (lo yakhelu)",text:"“Não puderam”. A forma verbal registra a permanência dos jebuseus em Jerusalém, tensão que reaparece na história da cidade."}
+};
+window.TRANSLATION_NOTES[5][16] = {
+  1:{term:"מַיִם יְרִיחוֹ (mayim Yericho)",text:"“Águas de Jericó”. Referência às fontes ou águas próximas à cidade, usadas como marco geográfico da fronteira."},
+  4:{term:"מְנַשֶּׁה וְאֶפְרָיִם (Menasheh ve-Efrayim)",text:"Manassés e Efraim, os dois grupos tribais descendentes de José. Sua dupla herança explica a expressão “filhos de José”."},
+  9:{term:"הֶעָרִים הַמִּבְדָּלוֹת (he'arim hammivdalot)",text:"“As cidades separadas”. Indica cidades atribuídas a Efraim dentro do território de Manassés, formando enclaves ou porções destacadas."},
+  10:{term:"לֹא הוֹרִישׁוּ (lo horishu)",text:"“Não desapossaram/não expulsaram”. O verbo ירש pode significar tomar posse ou desalojar os ocupantes, conforme o contexto."}
+};
