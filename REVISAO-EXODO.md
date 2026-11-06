@@ -109,3 +109,5 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 23:14:** acrescentada nota para שָׁלֹשׁ רְגָלִים (*shalosh regalim*), expressão que identifica as três festas de peregrinação; “três vezes por ano” preserva a frequência, e a nota explicita o caráter de peregrinação.
 
 - Êxodo 2:22: nota acrescentada sobre o nome Gershom e o jogo de palavras com a expressão hebraica *ger hayiti*.
+
+- **Êxodo 38:8:** ampliada a nota sobre as mulheres junto à entrada da tenda. O verbo צבא pode indicar reunião em grupos ou serviço organizado; a função exata permanece incerta.
