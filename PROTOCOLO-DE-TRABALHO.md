@@ -106,3 +106,13 @@ Ao encerrar cada etapa, atualizar o registro de progresso. Não depender apenas 
 - Para não perder o conteúdo mais recente, a branch `feat/controle-editorial-versiculos-2026-11-06` foi criada a partir do HEAD atual de `main`, sem escrever em `main` nem na branch congelada.
 - Enquanto `trabalho-base-2026-11-06` permanecer atrás, novas branches de recurso devem partir do HEAD mais recente aprovado de `main` ou de uma branch de trabalho atualizada por PR. Nunca usar uma base antiga que omita conteúdo já integrado.
 - O PR #36 contém a implementação do controle editorial e permanece em draft até a validação automática e revisão do diff. Não integrar nem publicar sem autorização explícita.
+
+
+## 10. Estado oficial, retomada e proibição de retrabalho — 2026-11-06
+
+- Antes de qualquer atividade em nova conversa, ler obrigatoriamente `ESTADO-OFICIAL-DO-PROJETO.md`, além deste protocolo, `PROGRESSO-DO-PROJETO.md` e `REGISTRO-EDITORIAL.md`. Esse documento é a fonte de retomada; a ausência de memória do chat nunca autoriza recomeçar uma revisão.
+- Não repetir revisão de livro ou capítulo já concluído e documentado. Não rebaixar estado Revisado por troca de conversa, sessão, ferramenta ou modelo.
+- Gênesis já passou por várias revisões segundo o proprietário. Fazer somente a conferência final da abertura já combinada; não reiniciar os 50 capítulos. Depois de concluída e registrada, marcar o livro como fechado definitivamente. Reabrir apenas diante de evidência objetiva de erro relevante ou fonte nova que comprove problema real, com justificativa e escopo exato registrados.
+- Êxodo 1–40 já está integrado; continuar a revisão acadêmica verso a verso a partir dos registros existentes, sem reconstruir ou refazer a integração.
+- Ao concluir cada etapa, registrar o próximo ponto genuinamente pendente no estado oficial. A fila deve avançar em ordem até Apocalipse.
+- Não integrar PR nem publicar no site sem autorização explícita do proprietário.
