@@ -3,7 +3,7 @@
    Tradução própria; variantes e termos de difícil interpretação são assinalados nas notas. */
 window.EXODUS_TEXT = window.EXODUS_TEXT || {};
 window.EXODUS_TEXT[16] = [
-  "Partiram de Elim, e toda a comunidade dos filhos de Israel chegou ao deserto de Sim, que fica entre Elim e o Sinai, no décimo quinto dia do segundo mês depois de sua saída da terra do Egito.",
+  "Partiram de Elim, e toda a comunidade dos filhos de Israel chegou ao deserto de Sin, que fica entre Elim e o Sinai, no décimo quinto dia do segundo mês depois de sua saída da terra do Egito.",
   "Toda a comunidade dos filhos de Israel murmurou contra Moisés e Arão no deserto.",
   "Os filhos de Israel lhes disseram: «Quem dera tivéssemos morrido pela mão de YHWH na terra do Egito, quando nos sentávamos junto às panelas de carne e comíamos pão até nos fartarmos! Vocês nos trouxeram a este deserto para fazer toda esta assembleia morrer de fome».",
   "YHWH disse a Moisés: «Eis que farei chover pão do céu para vocês. O povo sairá e recolherá diariamente a porção de cada dia; assim o porei à prova, para ver se anda ou não segundo minha instrução.",
@@ -42,7 +42,7 @@ window.EXODUS_TEXT[16] = [
 ];
 
 window.EXODUS_TEXT[17] = [
-  "Toda a comunidade dos filhos de Israel partiu do deserto de Sim, seguindo suas etapas conforme a ordem de YHWH, e acampou em Refidim. Ali não havia água para o povo beber.",
+  "Toda a comunidade dos filhos de Israel partiu do deserto de Sin, seguindo suas etapas conforme a ordem de YHWH, e acampou em Refidim. Ali não havia água para o povo beber.",
   "O povo discutiu com Moisés e disse: «Dê-nos água para beber». Moisés respondeu: «Por que discutem comigo? Por que põem YHWH à prova?»",
   "Ali o povo teve sede de água e murmurou contra Moisés, dizendo: «Por que nos tirou do Egito? Para nos matar de sede, a nós, aos nossos filhos e aos nossos rebanhos?»",
   "Moisés clamou a YHWH: «Que farei com este povo? Por pouco não me apedrejam!»",
