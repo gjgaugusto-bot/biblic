@@ -309,7 +309,7 @@ const AUTO_BACKUP_HISTORY_KEY='encBibAutoBackupHistoryV1';
 const ERROR_LOG_KEY='encBibErrorLogV1';
 const BOOK_INFO_EDITS_KEY='encBibBookInfoEdits';
 const STUDY_CATEGORIES_KEY='encBibStudyCategories';
-const BACKUP_KEYS=[key,'encBibLexicalNotesV1','encBibGuides','encBibStudyEdits','encBibSymbols','encBibCharacters',BOOK_INFO_EDITS_KEY,STUDY_CATEGORIES_KEY];
+const BACKUP_KEYS=[key,'encBibLexicalNotesV1','encBibGuides','encBibStudyEdits','encBibSymbols','encBibCharacters',BOOK_INFO_EDITS_KEY,STUDY_CATEGORIES_KEY,'encBibEditorialReviewsV1'];
 function readLocalData(storageKey,fallback){
  try{const raw=localStorage.getItem(storageKey);return raw===null?fallback:JSON.parse(raw)}
  catch(error){if(storageKey!==ERROR_LOG_KEY)recordAppError(error,'Falha ao ler dados locais: '+storageKey);return fallback}
@@ -575,10 +575,10 @@ $('detailBack').onclick=()=>{if(detailOrigin==='reader'){openChapter(currentChap
 $('addCharacter').onclick=()=>{const name=$('characterName').value.trim(),bio=$('characterBio').value.trim();if(!name||!bio){$('characterStatus').textContent='Preencha o nome e a biografia.';return}const items=readLocalArray('encBibCharacters');items.push({name,bio,refs:$('characterRefs').value.trim()});const result=saveLocalData('encBibCharacters',JSON.stringify(items));if(!result.saved){$('characterStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('characterName').value=$('characterBio').value=$('characterRefs').value='';$('characterStatus').textContent=result.backedUp?'Personagem adicionado e incluído no backup automático local!':'Personagem salvo, mas o backup automático falhou. Exporte uma cópia manual.';renderCharacters() }
 $('addGuide').onclick=()=>{let name=$('guideName').value.trim();if(!name){$('guideStatus').textContent='Informe o nome da guia.';return}let guides=readLocalArray('encBibGuides');guides.push({name,description:$('guideDescription').value,content:$('guideContent').value});const result=saveLocalData('encBibGuides',JSON.stringify(guides));if(!result.saved){$('guideStatus').textContent='Não foi possível salvar. Seus campos foram mantidos.';return}$('guideName').value=$('guideDescription').value=$('guideContent').value='';$('guideStatus').textContent=result.backedUp?'Nova guia criada! Ela aparece na página inicial.':'Guia salva, mas o backup automático falhou. Exporte uma cópia manual.';renderGuides()};
 function renderGuides(){let g=readLocalArray('encBibGuides').filter(x=>x&&typeof x.name==='string');$('customGuides').innerHTML=g.length?'<div class="sectionhead"><h2>Guias personalizadas</h2></div>'+g.map(x=>`<article class="guidecard"><h3>${esc(x.name)}</h3><p>${esc(x.description)}</p><p>${esc(x.content)}</p></article>`).join(''):''}
-$('exportData').onclick=()=>{let url='';try{const payload={edits,lexicalNotes:readLocalObject('encBibLexicalNotesV1'),guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters'),bookInfoEdits:readLocalObject(BOOK_INFO_EDITS_KEY),studyCategories:readLocalObject(STUDY_CATEGORIES_KEY)},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);$('saveStatus').textContent='Arquivo de backup preparado para download.'}catch(error){if(url)URL.revokeObjectURL(url);recordAppError(error,'Falha ao exportar backup');$('saveStatus').textContent='Não foi possível exportar o backup. Seus dados locais não foram apagados.'}};
+$('exportData').onclick=()=>{let url='';try{const payload={edits,lexicalNotes:readLocalObject('encBibLexicalNotesV1'),guides:readLocalArray('encBibGuides'),studyEdits:readLocalObject('encBibStudyEdits'),symbols:readLocalArray('encBibSymbols'),characters:readLocalArray('encBibCharacters'),bookInfoEdits:readLocalObject(BOOK_INFO_EDITS_KEY),studyCategories:readLocalObject(STUDY_CATEGORIES_KEY),editorialReviews:readLocalObject('encBibEditorialReviewsV1')},blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='backup-enciclopedia-biblica.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);$('saveStatus').textContent='Arquivo de backup preparado para download.'}catch(error){if(url)URL.revokeObjectURL(url);recordAppError(error,'Falha ao exportar backup');$('saveStatus').textContent='Não foi possível exportar o backup. Seus dados locais não foram apagados.'}};
 function validateImportedBackup(data){
  if(!data||typeof data!=='object'||Array.isArray(data))return 'O arquivo não contém um objeto de backup válido.';
- const schemas={edits:'object',lexicalNotes:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array',bookInfoEdits:'object',studyCategories:'object'};
+ const schemas={edits:'object',lexicalNotes:'object',guides:'array',studyEdits:'object',symbols:'array',characters:'array',bookInfoEdits:'object',studyCategories:'object',editorialReviews:'object'};
  const present=Object.keys(schemas).filter(k=>Object.prototype.hasOwnProperty.call(data,k));
  if(!present.length)return 'O arquivo não contém campos reconhecidos da Enciclopédia Bíblica.';
  const stringFields={
@@ -589,7 +589,8 @@ function validateImportedBackup(data){
   symbols:['name','mark','text','refs'],
   characters:['name','bio','refs'],
   bookInfoEdits:['intro','note'],
-  studyCategories:['title','description']
+  studyCategories:['title','description'],
+  editorialReviews:[]
  };
  for(const field of present){
   const value=data[field],kind=schemas[field];
@@ -602,6 +603,14 @@ function validateImportedBackup(data){
     if(Object.prototype.hasOwnProperty.call(item,property)&&typeof item[property]!=='string')
      return 'O campo '+field+' contém um valor inválido em '+property+'.';
    }
+  }
+ }
+ if(data.editorialReviews){
+  const allowedStates=['pendente','em_revisao','revisado','reaberto'];
+  for(const [key,record] of Object.entries(data.editorialReviews)){
+   if(!/^\\d+-\\d+-\\d+$/.test(key)||!record||typeof record!=='object'||Array.isArray(record)||!allowedStates.includes(record.status))return 'O registro editorial contém uma chave ou estado inválido.';
+   if(record.history!==undefined&&(!Array.isArray(record.history)||record.history.some(event=>!event||typeof event!=='object'||Array.isArray(event)||!allowedStates.includes(event.to))))return 'O histórico editorial contém movimentações inválidas.';
+   for(const field of ['source','observation','reopenReason','updatedAt'])if(record[field]!==undefined&&typeof record[field]!=='string')return 'O registro editorial contém um campo inválido: '+field+'.';
   }
  }
  for(const field of ['guides','symbols','characters']){
@@ -621,7 +630,7 @@ $('importData').onchange=async e=>{
   try{
    if(Object.prototype.hasOwnProperty.call(data,'edits')){edits=data.edits;localStorage.setItem(key,JSON.stringify(edits))}
    if(Object.prototype.hasOwnProperty.call(data,'lexicalNotes'))localStorage.setItem('encBibLexicalNotesV1',JSON.stringify(data.lexicalNotes));
-   for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters'],['bookInfoEdits',BOOK_INFO_EDITS_KEY],['studyCategories',STUDY_CATEGORIES_KEY]]){
+   for(const [field,storageKey] of [['guides','encBibGuides'],['studyEdits','encBibStudyEdits'],['symbols','encBibSymbols'],['characters','encBibCharacters'],['bookInfoEdits',BOOK_INFO_EDITS_KEY],['studyCategories',STUDY_CATEGORIES_KEY],['editorialReviews','encBibEditorialReviewsV1']]){
     if(Object.prototype.hasOwnProperty.call(data,field))localStorage.setItem(storageKey,JSON.stringify(data[field]));
    }
    const backupData={};
@@ -636,7 +645,7 @@ $('importData').onchange=async e=>{
    [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>{if(previous[storageKey]===null)localStorage.removeItem(storageKey);else localStorage.setItem(storageKey,previous[storageKey])});
    throw storageError;
   }
-  renderGuides();renderSymbols();renderCharacters();renderStudyCategorySettings();fillBookInfoEditor();loadEdit();
+  renderGuides();renderSymbols();renderCharacters();renderStudyCategorySettings();fillBookInfoEditor();loadEdit();if(window.refreshEditorialReviewPanel)window.refreshEditorialReviewPanel();
   $('saveStatus').textContent='Backup importado e validado. Campos ausentes foram mantidos como estavam.';
  }catch(error){
   const message=error&&error.message?error.message:'Não foi possível ler esse arquivo de backup.';
@@ -645,11 +654,11 @@ $('importData').onchange=async e=>{
  }finally{e.target.value=''}
 }
 $('clearData').onclick=()=>{
- if(!confirm('Apagar todas as edições, guias, símbolos e personagens salvos neste navegador? Essa ação também apaga os backups automáticos locais. Exporte uma cópia antes, se quiser guardá-la.'))return;
+ if(!confirm('Apagar todas as edições, guias, símbolos, personagens e alterações locais do registro editorial salvos neste navegador? Essa ação também apaga os backups automáticos locais. Os estados-base versionados no repositório permanecem. Exporte uma cópia antes, se quiser guardá-la.'))return;
  try{
   [...BACKUP_KEYS,AUTO_BACKUP_KEY,AUTO_BACKUP_HISTORY_KEY].forEach(storageKey=>localStorage.removeItem(storageKey));
   edits={};renderGuides();renderSymbols();renderCharacters();renderStudyCategorySettings();fillBookInfoEditor();loadEdit();
-  $('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido.';
+  if(window.refreshEditorialReviewPanel)window.refreshEditorialReviewPanel();$('saveStatus').textContent='Dados locais apagados. O histórico de backups automáticos também foi removido; estados-base do repositório permanecem.';
  }catch(error){
   recordAppError(error,'Falha ao limpar dados locais');
   $('saveStatus').textContent='Não foi possível concluir a limpeza dos dados locais. Verifique as permissões de armazenamento do navegador.';
