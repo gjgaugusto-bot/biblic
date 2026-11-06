@@ -91,3 +91,12 @@ Gênesis está **FECHADO DEFINITIVAMENTE** no fluxo editorial do projeto. Não v
 
 ### Política de continuidade
 Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se surgir evidência concreta de erro relevante ou fonte nova que justifique uma alteração específica, documentando o motivo e os versículos afetados.
+
+
+### Êxodo 2:1–25
+- Conferência textual integral concluída contra o Texto Massorético.
+- Correção objetiva em 2:12: “escondeu-o na areia” → “enterrou-o na areia”.
+- Notas lexicais em 2:2, 2:3, 2:12, 2:17 e 2:25; notas de 2:10 e 2:22 preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 3:1–22.
