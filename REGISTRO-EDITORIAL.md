@@ -26,7 +26,7 @@ A chave de cada trecho segue `livro-capítulo-versículo`, usando os índices in
 ## Migração inicial do histórico existente
 
 - **Gênesis, capítulos 1–50:** os versículos presentes na tradução de trabalho recebem estado inicial **Revisado**, migrado da declaração anterior do proprietário de que Gênesis era considerado revisado. A conferência final de abertura continua anotada como pendência no nível do livro. A migração não representa uma nova revisão feita nesta etapa.
-- **Êxodo, capítulos 1–40:** os versículos presentes na tradução de trabalho recebem estado inicial **Em revisão**, preservando o estado anterior registrado em `REVISAO-EXODO.md`. A integração dos capítulos e as correções de primeira passada não são tratadas como aprovação acadêmica final.
+- **Êxodo, capítulos 1–40:** após a conferência textual e lexical integral documentada em `REVISAO-EXODO.md`, os versículos presentes na tradução de trabalho recebem estado **Revisado**. A migração conserva registros explicitamente **Reaberto** e acrescenta histórico aos registros locais que ainda estavam **Em revisão**.
 - **Demais livros:** permanecem **Pendente** até que a análise específica comece.
 
 Os estados migrados são gerados pelo módulo `editorial-review.js` e ficam rastreáveis no código. Alterações posteriores no painel são locais ao navegador até serem exportadas e versionadas.
@@ -393,3 +393,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Ajustes em 35:11, 35:24, 35:25 e 35:33; harmonização com 31:5 documentada.
 - Estado por versículo permanece **Em revisão** até transição individual com fonte e observação.
 - Próximo trecho: Êxodo 36:1–38.
+
+
+## Encerramento de Êxodo — 2026-11-06
+
+- Êxodo 1–40 foi conferido integralmente contra o Texto Massorético, com comparação de traduções e comentários de referência; correções, notas, ambiguidades e fontes estão registradas em `REVISAO-EXODO.md`.
+- Todos os versículos existentes de Êxodo passam a **Revisado** no estado-base do painel.
+- Registros locais **Reaberto** são preservados, sem serem apagados pela migração.
+- **Revisado** significa conferido e aprovado para a versão atual segundo os critérios editoriais; não significa infalibilidade nem elimina ambiguidades legítimas já anotadas.
+- Mudança de conversa, sessão ou ferramenta não reabre Êxodo. Reabertura exige erro concreto ou fonte relevante e justificativa documentada.
