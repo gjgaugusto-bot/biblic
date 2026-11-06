@@ -191,3 +191,13 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 13:1–22.
+
+
+### Êxodo 13:1–22
+- Conferência textual integral concluída contra o Texto Massorético.
+- Corrigido erro tipográfico em 13:11.
+- Ajustado 13:17 para “o povo não mude de ideia”; nota corrigida para distinguir נחה (conduzir) de נחם (mudar de ideia).
+- Nota de 13:18 ampliada sobre chamushim e Yam Suf.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 14:1–31.
