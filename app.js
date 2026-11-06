@@ -434,14 +434,14 @@ function fillBookInfoEditor(){
  const index=+$('bookInfoBook').value,data=getBookInfoData(index);
  if(!data){$('bookInfoIntro').value='';$('bookInfoFields').value='';$('bookInfoNote').value='';return}
  $('bookInfoIntro').value=data.intro||'';
- $('bookInfoFields').value=(data.fields||[]).map(([label,value])=>label+' | '+value).join('\\n');
+ $('bookInfoFields').value=(data.fields||[]).map(([label,value])=>label+' | '+value).join('\n');
  $('bookInfoNote').value=data.note||'';
  $('bookInfoStatus').textContent='Ficha carregada: '+BOOKS[index].name+'.';
 }
 BOOKS.forEach((book,index)=>$('bookInfoBook').add(new Option(book.name,index)));
 $('bookInfoBook').onchange=fillBookInfoEditor;
 $('saveBookInfo').onclick=()=>{
- const index=+$('bookInfoBook').value,intro=$('bookInfoIntro').value.trim(),note=$('bookInfoNote').value.trim(),lines=$('bookInfoFields').value.split(/\\r?\\n/).map(line=>line.trim()).filter(Boolean),fields=[];
+ const index=+$('bookInfoBook').value,intro=$('bookInfoIntro').value.trim(),note=$('bookInfoNote').value.trim(),lines=$('bookInfoFields').value.split(/\r?\n/).map(line=>line.trim()).filter(Boolean),fields=[];
  for(let i=0;i<lines.length;i++){
   const split=lines[i].indexOf('|');
   if(split<1||!lines[i].slice(split+1).trim()){$('bookInfoStatus').textContent='Revise a linha '+(i+1)+': use Título | Texto.';return}
