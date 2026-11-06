@@ -61,8 +61,12 @@ window.TRANSLATION_NOTES = {
     3: {
       19: {term:"וְלֹא בְּיָד חֲזָקָה",text:"A relação lógica da expressão é ambígua. Pode ser entendida como “a não ser por mão forte” — a resistência do faraó cederia diante da força — ou como “nem mesmo por mão forte”. A tradução de trabalho escolhe a primeira leitura."}
     },
+    3: {
+      14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."}
+    },
     4: {
       13: {term:"שְׁלַח נָא בְּיַד תִּשְׁלָח",text:"Expressão idiomática difícil, literalmente próxima de “envia, por favor, pela mão daquele que enviarás”. “Envia outra pessoa” comunica uma interpretação provável, mas não reproduz a forma hebraica."},
+      18: {term:"יֶתֶר (Yeter) / יִתְרוֹ (Yitro)",text:"No mesmo versículo, o texto massorético chama o sogro de Moisés primeiro de Yeter e, na fala seguinte, de Yitro. A tradução conserva a diferença das formas (“Yeter” e “Jetro”); não se trata de duas pessoas distintas no contexto narrativo."},
       24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. O hebraico não deixa inequívocos o sujeito de “procurou matá-lo”, o referente de “pés” e a identidade exata daquele que é tocado. A tradução evita resolver essas questões por conjectura."}
     },
     6: {
