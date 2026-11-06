@@ -553,3 +553,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Registradas as nuances de hit'allalti, o possível jogo sonoro com Rá, os ventos oriental/ocidental e a escuridão palpável.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 11:1–10.
+
+
+## 2026-11-06 — revisão de Êxodo 11:1–10
+
+- Conferência integral do capítulo 11 contra o Texto Massorético.
+- Ajustes em 11:1, 11:4 e 11:8 para refletir melhor a posição de כָּלָה, o valor de כַּחֲצֹת e o gesto de prostração.
+- Notas lexicais ampliadas/acrescentadas em 11:1, 11:4 e 11:8; notas de 11:2, 11:5 e 11:7 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 12:1–51.
