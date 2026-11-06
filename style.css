@@ -229,3 +229,33 @@ button.chapter-tab[aria-selected="false"]:focus{
 
 /* Editor de notas lexicais no próprio texto bíblico */
 .lexical-edit-toggle{margin-top:8px;padding:6px 10px;border:1px solid #8c7446;border-radius:4px;background:#fff;color:#5b4828;font-size:12px;cursor:pointer}.lexical-editor{margin-top:12px;padding:12px;border:1px solid #c8b98f;background:#fffdf8;border-radius:5px}.lexical-editor[hidden]{display:none}.lexical-editor label{display:block;margin:8px 0;color:#333;font-size:13px}.lexical-editor input,.lexical-editor textarea{display:block;width:100%;box-sizing:border-box;margin-top:4px;padding:9px;border:1px solid #aaa;border-radius:4px;background:#fff;color:#111;font:inherit}.lexical-editor-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.lexical-editor-actions button{padding:8px 11px;border:1px solid #777;border-radius:4px;background:#f4f4f2;color:#111;cursor:pointer}.lexical-editor-actions .primary{background:#333;color:#fff;border-color:#333}.lexical-editor-actions .danger{background:#fff0ef;color:#8a1717;border-color:#a33}
+
+
+/* Controle editorial por versículo */
+.editorial-review-panel{margin:22px 0 8px;padding:18px;border:1px solid #8b8b8b;background:#f7f7f5;color:#171717}
+.editorial-review-panel h3{margin:0 0 7px;font-family:Georgia,serif;font-size:1.2rem;font-weight:normal}
+.review-panel-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap}
+.review-panel-heading p,.review-migration-note{margin:5px 0 12px;color:#444;font-size:.9rem;line-height:1.5}
+.review-total{font-size:.85rem;font-weight:bold;white-space:nowrap}
+.review-counts{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0}
+.review-state{display:inline-block;padding:4px 8px;border:1px solid #777;border-radius:4px;font-size:.78rem;font-weight:bold}
+.review-state-pendente{background:#eee;color:#222}
+.review-state-em_revisao{background:#e5edf7;color:#183c62}
+.review-state-revisado{background:#e5f0e7;color:#174d28}
+.review-state-reaberto{background:#fff0dc;color:#70400a}
+.review-verse-list{display:grid;gap:9px}
+.review-verse{padding:12px;border:1px solid #aaa;background:#fff}
+.review-verse-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:8px}
+.review-select-label,.review-fields label{display:block;font-size:.88rem;font-weight:bold}
+.review-select-label select,.review-fields input,.review-fields textarea{display:block;width:100%;max-width:100%;margin-top:5px;padding:9px;border:1px solid #888;background:#fff;color:#111;font:inherit}
+.review-select-label select{max-width:260px}
+.review-details{margin-top:10px}
+.review-details summary{cursor:pointer;font-size:.88rem;text-decoration:underline}
+.review-fields{display:grid;gap:10px;margin-top:12px}
+.review-apply{justify-self:start;padding:9px 13px;border:1px solid #333;background:#222;color:#fff;cursor:pointer}
+.review-message,.review-global-message{margin:0;font-size:.86rem}
+.review-warning{padding:10px;border:1px solid #946b27;background:#fff5e5;color:#593900}
+.review-history{margin:5px 0 0;padding-left:22px;font-size:.84rem;line-height:1.5}
+.review-history li{margin:7px 0}
+.review-empty,.review-empty-history{color:#444;font-size:.9rem}
+@media(max-width:600px){.editorial-review-panel{padding:12px}.review-panel-heading{display:block}.review-total{display:inline-block;margin:5px 0}}
