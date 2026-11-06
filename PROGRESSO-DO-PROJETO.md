@@ -642,3 +642,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota lexical acrescentada em 20:25; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 21:1–36.
+
+
+## 2026-11-06 — revisão de Êxodo 21:1–36
+
+- Conferência integral do capítulo 21 contra o Texto Massorético.
+- Ajuste em 21:23 para “se houver dano”, sem o adjetivo “grave” não expresso no hebraico.
+- Notas anteriores preservadas, incluindo a ambiguidade jurídica de 21:22–23.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 22:1–31.
