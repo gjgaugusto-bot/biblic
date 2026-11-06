@@ -155,3 +155,37 @@ window.TRANSLATION_NOTES[4][12] = {
   31:{term:"כָּל־תּוֹעֲבַת יְהוָה (kol-to'avat YHWH)",text:"“Toda abominação para YHWH”. A crítica inclui práticas cultuais repudiadas, com referência explícita ao sacrifício de filhos no fogo."},
   32:{term:"לֹא תֹסֵף ... וְלֹא תִגְרַע (lo tosef ... velo tigra)",text:"“Não acrescentarás nem diminuirás”. Retoma a fórmula de 4:2 e encerra a seção com a exigência de fidelidade à instrução recebida."}
 };
+
+/* Deuteronômio 13–16 — notas lexicais selecionadas do hebraico massorético. */
+window.TRANSLATION_NOTES[4] = window.TRANSLATION_NOTES[4] || {};
+window.TRANSLATION_NOTES[4][13] = {
+  3:{term:"מְנַסֶּה יְהוָה (menasseh YHWH)",text:"“YHWH vos põe à prova”. O texto apresenta a fidelidade como discernimento mesmo diante de sinais extraordinários."},
+  5:{term:"סָרָה (sarah)",text:"“Afastar-se” ou “desviar-se”. A infração é descrita como tentativa de tirar o povo do caminho da aliança."},
+  10:{term:"סָקַל תִּסְקְלֶנּוּ (saqol tisqelennu)",text:"“Certamente o apedrejarás”. A repetição do infinitivo absoluto com o verbo finito intensifica a ordem no hebraico."},
+  15:{term:"הַחֲרֵם (haḥarem)",text:"“Dedicar à destruição”. Linguagem de banimento total da cidade e de seus bens no contexto jurídico-religioso antigo."}
+};
+window.TRANSLATION_NOTES[4][14] = {
+  1:{term:"לֹא תִתְגֹּדְדוּ (lo titgodedu)",text:"“Não fareis cortes no corpo”. O verbo descreve incisões corporais associadas ao luto; a proibição é ligada à identidade de Israel como filhos de Deus."},
+  2:{term:"עַם סְגֻלָּה (am segullah)",text:"“Povo particular”. Expressão de posse preciosa ou tesouro especial, associada à eleição de Israel."},
+  5:{term:"יַחְמוּר (yaḥmur)",text:"Nome de animal cuja identificação zoológica exata é discutida; a tradução conserva uma designação tradicional aproximada."},
+  21:{term:"לֹא תְבַשֵּׁל גְּדִי (lo tevashel gedi)",text:"“Não cozinharás o cabrito”. A proibição aparece no contexto das regras alimentares; sua aplicação histórica mais ampla é discutida."},
+  22:{term:"עַשֵּׂר תְּעַשֵּׂר (asser te'asser)",text:"“Separarás o dízimo”. A forma verbal intensificada destaca a obrigação de reservar parte da produção."},
+  28:{term:"מִקְצֵה שָׁלֹשׁ שָׁנִים (miqtseh shalosh shanim)",text:"“Ao fim de cada três anos”. O dízimo desse ciclo é armazenado nas cidades para sustentar levitas e pessoas vulneráveis."}
+};
+window.TRANSLATION_NOTES[4][15] = {
+  1:{term:"מִקֵּץ שֶׁבַע־שָׁנִים (miqqets sheva shanim)",text:"“Ao fim de cada sete anos”. A remissão periódica estrutura o tratamento das dívidas entre membros da comunidade."},
+  2:{term:"שְׁמִטָּה (shemittah)",text:"“Remissão”. Substantivo ligado ao verbo deixar cair ou liberar; designa a suspensão da cobrança da dívida."},
+  7:{term:"לֹא תְאַמֵּץ (lo teammets)",text:"“Não endurecerás”. A expressão exige que a necessidade do irmão não seja recebida com insensibilidade."},
+  8:{term:"פָתֹחַ תִּפְתַּח (fatoaḥ tiftaḥ)",text:"“Abrirás generosamente”. A repetição verbal intensifica a disposição de socorrer o necessitado."},
+  12:{term:"הָעִבְרִי אוֹ הָעִבְרִיָּה (ha'ivri o ha'ivriyah)",text:"“O hebreu ou a hebreia”. A lei inclui homens e mulheres na libertação após seis anos de serviço."},
+  17:{term:"מַרְצֵעַ (martséa)",text:"“Sovela”. Instrumento perfurante usado no rito que marca a permanência voluntária do servo."}
+};
+window.TRANSLATION_NOTES[4][16] = {
+  1:{term:"אָבִיב (aviv)",text:"“Abibe”. Nome antigo do mês associado ao amadurecimento das espigas; corresponde ao período da primavera."},
+  3:{term:"לֶחֶם עֹנִי (leḥem oni)",text:"“Pão de aflição”. O pão sem fermento recorda a saída apressada do Egito e a condição de opressão anterior."},
+  9:{term:"חֶרְמֵשׁ (ḥermesh)",text:"“Foice”. O início da contagem das semanas é marcado pelo começo da colheita do cereal em pé."},
+  10:{term:"חַג שָׁבֻעוֹת (ḥag shavuot)",text:"“Festa das Semanas”. Festa agrícola cuja celebração é associada à oferta voluntária e à bênção recebida."},
+  13:{term:"חַג הַסֻּכֹּת (ḥag hassukkot)",text:"“Festa das Cabanas”. Celebração de sete dias ligada à reunião da produção agrícola."},
+  18:{term:"שֹׁפְטִים וְשֹׁטְרִים (shofetim veshoterim)",text:"“Juízes e oficiais”. A administração da justiça inclui magistrados e agentes responsáveis pela execução das decisões."},
+  20:{term:"צֶדֶק צֶדֶק תִּרְדֹּף (tsedeq tsedeq tirdof)",text:"“Justiça, somente justiça, buscarás”. A repetição de tsedeq dá ênfase à busca contínua da justiça."}
+};
