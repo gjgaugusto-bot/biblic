@@ -743,3 +743,10 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Êxodo 1–31 documentados na primeira passada.
 - Próximo capítulo: Êxodo 32.
 - Gênesis continua fechado definitivamente.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 32:1–35 passou pela primeira conferência textual e lexical; ajustes em 32:1, 32:31 e 32:34 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–32 documentados na primeira passada.
+- Próximo capítulo: Êxodo 33.
