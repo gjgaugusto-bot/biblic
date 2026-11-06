@@ -203,7 +203,7 @@ window.EXODUS_TEXT = {
 "Arão estendeu a mão sobre as águas do Egito, e as rãs subiram e cobriram a terra do Egito.",
 "Os magos fizeram o mesmo por meio de suas artes secretas e fizeram subir rãs sobre a terra do Egito.",
 "O faraó chamou Moisés e Arão e disse: «Suplicai a YHWH que afaste as rãs de mim e do meu povo; então deixarei o povo ir para oferecer sacrifícios a YHWH».",
-"Moisés disse ao faraó: «Digna-te a indicar-me quando devo suplicar por ti, por teus servos e por teu povo, para que as rãs sejam eliminadas de ti e de tuas casas e permaneçam somente no Nilo».",
+"Moisés disse ao faraó: «Toma para ti a honra de escolher quando devo suplicar por ti, por teus servos e por teu povo, para que as rãs sejam eliminadas de ti e de tuas casas e permaneçam somente no Nilo».",
 "Ele respondeu: «Amanhã». Moisés disse: «Será conforme a tua palavra, para que saibas que não há ninguém como YHWH, nosso Deus.",
 "As rãs se afastarão de ti, de tuas casas, de teus servos e de teu povo; permanecerão somente no Nilo».",
 "Moisés e Arão saíram da presença do faraó, e Moisés clamou a YHWH por causa das rãs que havia enviado contra o faraó.",
