@@ -224,3 +224,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas ampliadas/acrescentadas em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 17:1–16.
+
+
+### Continuidade de conteúdo — Êxodo 17 (2026-11-06)
+
+- Êxodo 17:1–16 conferido integralmente contra o Texto Massorético.
+- Ajuste em 17:16 para “uma mão está sobre o trono de Yah”, mais próximo da preposição hebraica עַל (*al*).
+- Notas anteriores de 17:2, 17:6, 17:7, 17:15 e 17:16 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 18:1–27.
