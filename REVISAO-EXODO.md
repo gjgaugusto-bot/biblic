@@ -361,4 +361,27 @@ Demais versículos (9:1–5, 9:7–11, 9:13–15, 9:17–30 e 9:33): conferidos 
 - NET Bible, Êxodo 9:31–32, sobre o estágio da cevada/linho e o cereal כֻּסֶּמֶת (*kussemet*): https://classic.net.bible.org/passage.php?passage=Exo+9%3A31%2C32
 - Matthew McAffee, “The Heart of Pharaoh in Exodus 4–15”, *Bulletin for Biblical Research* 20.3 (2010), 331–354, análise lexical e gramatical das raízes חזק, כבד e קשה: https://azbyka.ru/wp-content/uploads/2019/04/The-Heart-of-Pharaoh-in-Exodus-4%E2%80%9315.pdf
 
-**Próximo ponto:** Êxodo 10:1–29. Não repetir a conferência de Êxodo 9 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 11:1–10. Não repetir a conferência de Êxodo 9 sem evidência concreta de erro novo.
+
+
+### Êxodo 10 — conferência textual e lexical integral (10:1–29)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas foram ampliadas para registrar expressões idiomáticas, direções dos ventos e a imagem da escuridão palpável.
+
+Notas lexicais acrescentadas/ampliadas:
+- **10:2:** הִתְעַלַּלְתִּי (*hit'allalti*) no hitpael pode significar zombar, brincar às custas de alguém, humilhar ou tratar duramente. Rashi entende “zombei”; a NET explica como fazer os egípcios parecerem tolos; Cassuto prefere “tratei duramente”. A tradução atual foi mantida como opção contextual, sem apagar a nuance de escárnio.
+- **10:10:** רָעָה נֶגֶד פְּנֵיכֶם (*ra'ah neged penekhem*) significa literalmente “há mal diante de vós”. Há uma proposta de jogo sonoro com Rá, o deus solar egípcio, em vista das pragas seguintes de gafanhotos e escuridão. A nota registra a possibilidade literária, sem tratá-la como consenso.
+- **10:13 e 10:19:** רוּחַ קָדִים (*ruach qadim*) é vento oriental; רוּחַ יָם (*ruach yam*) é literalmente “vento do mar”, isto é, vento ocidental no contexto. A tradução explicita as direções, preservando o contraste narrativo: o vento oriental traz os gafanhotos e o ocidental os leva embora.
+- **10:21:** וְיָמֵשׁ חֹשֶׁךְ (*v'yamesh choshekh*) descreve a escuridão como algo que pode ser sentido/apalpado. “Uma escuridão que se possa apalpar” foi mantido, preservando a imagem sensorial e a construção hebraica incomum.
+
+Nota anterior de **10:2** preservada e ampliada. Demais versículos (10:1, 10:3–9, 10:11–12, 10:14–18, 10:20, 10:22–29): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 10: https://new.mechon-mamre.org/p/pt/pt0210.htm
+- NET Bible, Êxodo 10:2, sobre הִתְעַלַּלְתִּי (*hit'allalti*) e as traduções “zombar/tratar duramente”: https://classic.net.bible.org/passage.php?passage=Exo+10%3A2
+- Rashi sobre Êxodo 10:2, interpretação “zombei”: https://www.sefaria.org/Rashi_on_Exodus.10.2.1
+- TheTorah.com, “YHWH’s War Against the Egyptian Sun-God Ra”, sobre o possível jogo sonoro em Êxodo 10:10: https://www.thetorah.com/article/yhwhs-war-against-the-egyptian-sun-god-ra
+- NET Bible, Êxodo 10:21, sobre וְיָמֵשׁ (*v'yamesh*), “ser sentido/apalpado”: https://classic.net.bible.org/passage.php?passage=Exo+10%3A21
+- Ibn Ezra sobre Êxodo 10:21, discussão da escuridão palpável: https://www.sefaria.org/Ibn_Ezra_on_Exodus.10.21
+
+**Próximo ponto:** Êxodo 11:1–10. Não repetir a conferência de Êxodo 10 sem evidência concreta de erro novo.
