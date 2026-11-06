@@ -369,7 +369,7 @@ window.TRANSLATION_NOTES[3][34] = {
   2:{term:"תִּפֹּל לָכֶם (tippol lakhem)",text:"“Cairá para vós”. A herança é descrita como porção atribuída, mais adiante vinculada ao sorteio."},
   5:{term:"נַחַל מִצְרַיִם (nachal Mitsrayim)",text:"“Ribeiro do Egito”. Designa o limite meridional ocidental; a identificação geográfica exata é discutida."},
   6:{term:"הַיָּם הַגָּדֹל (hayam hagadol)",text:"“Grande Mar”, designação do Mediterrâneo como fronteira ocidental."},
-  13:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O mecanismo expressa distribuição da terra sob a ordem divina."}
+  13:{term:"בְּגוֹרָל (begoral)",text:"“Por sorteio”. O mecanismo expressa distribuição da terra sob a ordem divina."},
   4:{term:"מַעֲלֵה עַקְרַבִּים (ma'aleh Aqrabbim)",text:"“Subida de Acrabim”. Marco topográfico da fronteira sul; a identificação exata do percurso e de alguns pontos geográficos permanece discutida."},
 };
 /* Notas lexicais — Números 35. */
@@ -379,8 +379,9 @@ window.TRANSLATION_NOTES[3][35] = {
   6:{term:"עָרֵי מִקְלָט (arei miqlat)",text:"“Cidades de refúgio”. Espaços de proteção provisória para quem causou uma morte sem intenção."},
   12:{term:"גֹּאֵל הַדָּם (go'el haddam)",text:"“Vingador/resgatador do sangue”. Parente com função de reivindicar justiça pela morte; a lei limita a ação ao distinguir homicídio intencional e não intencional."},
   25:{term:"כֹּהֵן הַגָּדֹל (kohen hagadol)",text:"“Sumo sacerdote”. Sua morte encerra o período de permanência do homicida involuntário na cidade de refúgio."},
-  33:{term:"תַּחֲנִיפוּ (tachanifu)",text:"Verbo raro ligado a poluir ou profanar. O sangue derramado contamina a terra, que não pode ser purificada sem justiça pelo sangue derramado."}
+  33:{term:"תַּחֲנִיפוּ (tachanifu)",text:"Verbo raro ligado a poluir ou profanar. O sangue derramado contamina a terra, que não pode ser purificada sem justiça pelo sangue derramado."},
   11:{term:"מִקְלָט (miqlat)",text:"“Refúgio”. As cidades são designadas como locais de proteção para quem matou sem intenção, até que a comunidade julgue o caso."},
+  20:{term:"בִּצְדִיָּה (bitsediyyah)",text:"“De emboscada/à espreita”. A expressão descreve a ação deliberada e preparada, em contraste com os casos repentinos e sem inimizade dos versículos 22–23."},
 };
 /* Notas lexicais — Números 36. */
 window.TRANSLATION_NOTES[3][36] = {
