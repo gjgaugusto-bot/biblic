@@ -1390,9 +1390,9 @@ window.NUMBERS_TEXT[35] = [
   "Se a ferir com uma pedra na mão, capaz de causar a morte, e ela morrer, é homicida; o homicida certamente será morto.",
   "Ou, se a ferir com instrumento de madeira na mão, capaz de causar a morte, e ela morrer, é homicida; o homicida certamente será morto.",
   "O vingador do sangue matará o homicida; ao encontrá-lo, ele o matará.",
-  "Se alguém empurrar outra pessoa por ódio, ou lançar algo contra ela com intenção, e ela morrer,",
+  "Se alguém empurrar outra pessoa por ódio ou lançar algo contra ela de emboscada, e ela morrer,",
   "ou, por inimizade, golpeá-la com a mão e ela morrer, aquele que golpeou certamente será morto; é homicida. O vingador do sangue matará o homicida ao encontrá-lo.",
-  "Mas, se alguém empurrar outra pessoa de repente, sem inimizade, ou lançar contra ela algum objeto sem intenção,",
+  "Mas, se alguém empurrar outra pessoa de repente, sem inimizade, ou lançar contra ela algum objeto sem estar à espreita,",
   "ou, sem vê-la, deixar cair sobre ela uma pedra capaz de causar a morte, e ela morrer, sem que houvesse inimizade e sem que buscasse seu mal,",
   "a comunidade julgará entre o que feriu e o vingador do sangue, segundo estas determinações.",
   "A comunidade livrará o homicida da mão do vingador do sangue e o fará voltar à cidade de refúgio para onde havia fugido; ali permanecerá até a morte do sumo sacerdote, que foi ungido com o óleo sagrado.",
@@ -1401,8 +1401,8 @@ window.NUMBERS_TEXT[35] = [
   "Pois o homicida deverá permanecer em sua cidade de refúgio até a morte do sumo sacerdote; depois da morte do sumo sacerdote, poderá voltar à terra de sua propriedade.",
   "Essas serão para vós determinações de direito por todas as vossas gerações, em todos os lugares onde habitardes.",
   "Todo aquele que matar uma pessoa será morto como homicida, mediante o depoimento de testemunhas; uma só testemunha não poderá depor contra alguém para condená-lo à morte.",
-  "Não aceitarei resgate pela vida de um homicida culpado de morte; ele certamente será morto.",
-  "Também não aceitarei resgate para que alguém fuja para sua cidade de refúgio e volte a habitar na terra antes da morte do sumo sacerdote.",
+  "Não tomareis resgate pela vida de um homicida culpado de morte; ele certamente será morto.",
+  "Também não tomareis resgate para que alguém que fugiu à sua cidade de refúgio volte a habitar na terra antes da morte do sumo sacerdote.",
   "Não profanareis a terra em que habitais, pois o sangue profana a terra; não haverá expiação pela terra por causa do sangue nela derramado, senão pelo sangue daquele que o derramou.",
   "Não contaminareis a terra em que habitais, no meio da qual eu habito; pois eu, YHWH, habito no meio dos filhos de Israel."
 ];
