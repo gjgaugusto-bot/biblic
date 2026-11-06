@@ -77,7 +77,7 @@ window.EXODUS_TEXT[13] = [
 "Naquele dia contarás a teu filho: ‘Isto é por causa do que YHWH fez por mim quando saí do Egito’.",
 "Será para ti um sinal sobre tua mão e uma lembrança entre teus olhos, para que a instrução de YHWH esteja em tua boca; pois com mão forte YHWH te tirou do Egito.",
 "Guardarás este estatuto no tempo determinado, de ano em ano.",
-"«Quando YHWH te introduzir na terra dos cananeus, conforme jurou a ti e a teus pais, e ta der,",
+"«Quando YHWH te introduzir na terra dos cananeus, conforme jurou a ti e a teus pais, e a der,",
 "separarás para YHWH todo aquele que abrir o ventre; todo primogênito macho dos animais que te pertencer será de YHWH.",
 "Todo primogênito de jumento resgatarás com um cordeiro; se não o resgatares, quebrar-lhe-ás a nuca. Resgatarás todo primogênito humano entre teus filhos.",
 "Quando teu filho te perguntar no futuro: ‘Que é isto?’, responderás: ‘Com mão forte YHWH nos tirou do Egito, da casa de servidão.",
