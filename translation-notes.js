@@ -138,7 +138,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   },
   15: {
     8: {term:"קָפְאוּ (qafe'u)",text:"Verbo ligado a coagular, congelar ou solidificar. A imagem poética descreve as águas como se tivessem se tornado firmes; “coalharam” preserva a metáfora sem sugerir necessariamente gelo literal."},
-    11: {term:"נֶאְדָּר בַּקֹּדֶשׁ (ne' dar baqodesh)",text:"Expressão “glorioso em santidade” ou “majestoso em santidade”. O paralelismo poético celebra a singularidade de YHWH."},
+    11: {term:"נֶאְדָּר בַּקֹּדֶשׁ (ne'edar baqodesh)",text:"Expressão “glorioso em santidade” ou “majestoso em santidade”. O paralelismo poético celebra a singularidade de YHWH."},
     17: {term:"מִקְּדָשׁ (miqdash)",text:"Significa “santuário” ou lugar sagrado. O cântico projeta a habitação de Deus como destino do povo; a nota não identifica por si só um edifício específico."}
   },
   16: {
