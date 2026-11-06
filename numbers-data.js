@@ -467,3 +467,62 @@ window.NUMBERS_TEXT[10] = [
   "Quando a Arca partia, Moisés dizia: Levanta-te, YHWH, e sejam dispersos os teus inimigos; fujam diante de ti os que te odeiam.",
   "Quando ela repousava, dizia: Volta, YHWH, às miríades de milhares de Israel."
 ];
+
+/* Números 11 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[11] = [
+  "O povo tornou-se como quem se queixa de uma adversidade aos ouvidos de YHWH. YHWH ouviu, e sua ira se acendeu; o fogo de YHWH ardeu entre eles e consumiu uma extremidade do acampamento.",
+  "O povo clamou a Moisés; Moisés orou a YHWH, e o fogo se apagou.",
+  "Aquele lugar foi chamado Taberá, porque o fogo de YHWH ardera entre eles.",
+  "A multidão misturada que estava no meio deles foi tomada por forte desejo; também os filhos de Israel voltaram a chorar e disseram: Quem nos dará carne para comer?",
+  "Lembramo-nos dos peixes que comíamos de graça no Egito, dos pepinos, dos melões, dos alhos-porós, das cebolas e dos alhos.",
+  "Agora, porém, nossa alma está seca; não há nada diante de nossos olhos, a não ser este maná.",
+  "O maná era como semente de coentro, e sua aparência era como a do bdélio.",
+  "O povo espalhava-se, recolhia-o, moía-o em moinhos ou o triturava num pilão; cozinhava-o em panelas e fazia dele bolos. Seu sabor era como o de bolo preparado com azeite.",
+  "Quando o orvalho descia sobre o acampamento durante a noite, o maná descia sobre ele.",
+  "Moisés ouviu o povo chorar, cada família à entrada de sua tenda. A ira de YHWH se acendeu grandemente, e Moisés ficou angustiado.",
+  "Moisés disse a YHWH: Por que fizeste mal a teu servo? Por que não achei favor aos teus olhos, para que pusesses sobre mim o peso de todo este povo?",
+  "Por acaso fui eu que concebi todo este povo? Fui eu que o gerei, para que me digas: Leva-o em teu colo, como a ama leva a criança de peito, até a terra que juraste dar a seus pais?",
+  "De onde tirarei carne para dar a todo este povo? Pois choram diante de mim, dizendo: Dá-nos carne para comer.",
+  "Não posso carregar sozinho todo este povo, pois é pesado demais para mim.",
+  "Se é assim que vais tratar-me, peço-te que me mates, se achei favor aos teus olhos, para que eu não veja minha própria desgraça.",
+  "YHWH disse a Moisés: Reúne para mim setenta homens dos anciãos de Israel, que sabes serem anciãos do povo e seus oficiais; traze-os à Tenda do Encontro, e que permaneçam ali contigo.",
+  "Descerei e falarei contigo ali; tomarei do espírito que está sobre ti e o porei sobre eles. Eles carregarão contigo o peso do povo, para que não o carregues sozinho.",
+  "Quanto ao povo, dirás: Santificai-vos para amanhã, e comereis carne; pois chorastes aos ouvidos de YHWH, dizendo: Quem nos dará carne para comer? Estávamos bem no Egito. Por isso YHWH vos dará carne, e comereis.",
+  "Não comereis apenas um dia, nem dois dias, nem cinco, nem dez, nem vinte dias,",
+  "mas durante um mês inteiro, até que vos saia pelas narinas e vos cause repulsa, porque rejeitastes YHWH, que está no meio de vós, e chorastes diante dele, dizendo: Por que saímos do Egito?",
+  "Moisés disse: O povo no meio do qual estou conta seiscentos mil homens a pé, e tu dizes: Dar-lhes-ei carne, e comerão durante um mês inteiro?",
+  "Poderiam ser abatidos para eles todos os rebanhos de ovelhas e bois, para que lhes bastasse? Ou todos os peixes do mar poderiam ser reunidos para eles, para que lhes bastassem?",
+  "YHWH respondeu a Moisés: Por acaso a mão de YHWH ficou curta? Agora verás se minha palavra se cumprirá ou não.",
+  "Moisés saiu e comunicou ao povo as palavras de YHWH. Reuniu setenta homens dos anciãos do povo e os colocou ao redor da Tenda.",
+  "YHWH desceu na nuvem e falou com ele; tomou do espírito que estava sobre Moisés e o pôs sobre os setenta anciãos. Quando o espírito repousou sobre eles, profetizaram, mas não continuaram.",
+  "Dois homens haviam ficado no acampamento; o nome de um era Eldade, e o do outro, Medade. O espírito repousou sobre eles; estavam entre os inscritos, mas não tinham saído à Tenda, e profetizaram no acampamento.",
+  "Um jovem correu e contou a Moisés: Eldade e Medade estão profetizando no acampamento.",
+  "Josué, filho de Num, servidor de Moisés desde sua juventude, respondeu: Meu senhor Moisés, impede-os!",
+  "Moisés lhe disse: Tens ciúmes por mim? Quem dera todo o povo de YHWH fosse profeta e que YHWH pusesse seu espírito sobre eles!",
+  "Então Moisés voltou ao acampamento, ele e os anciãos de Israel.",
+  "Levantou-se um vento enviado por YHWH, que trouxe codornizes do mar e as espalhou pelo acampamento, cerca de um dia de viagem de um lado e um dia de viagem do outro, ao redor do acampamento, e a cerca de dois côvados acima da superfície do solo.",
+  "O povo passou todo aquele dia, toda a noite e todo o dia seguinte recolhendo codornizes; o que menos recolheu juntou dez ômeres. Estenderam-nas ao redor do acampamento.",
+  "A carne ainda estava entre seus dentes, antes que fosse mastigada, quando a ira de YHWH se acendeu contra o povo, e YHWH feriu o povo com uma praga muito grande.",
+  "Aquele lugar foi chamado Quibrote-Hataavá, porque ali enterraram o povo que tivera desejo intenso.",
+  "De Quibrote-Hataavá, o povo partiu para Hazerote e ficou em Hazerote."
+];
+
+/* Números 12 — tradução própria de trabalho baseada no hebraico massorético; em revisão. */
+window.NUMBERS_TEXT[12] = [
+  "Miriã e Arão falaram contra Moisés por causa da mulher cuxita que ele havia tomado; pois ele havia tomado uma mulher cuxita.",
+  "E disseram: Por acaso YHWH falou somente por meio de Moisés? Não falou também por nosso intermédio? E YHWH ouviu.",
+  "Ora, Moisés era muito humilde, mais do que todos os homens que havia sobre a face da terra.",
+  "De repente, YHWH disse a Moisés, a Arão e a Miriã: Saí, vós três, para a Tenda do Encontro. E os três saíram.",
+  "YHWH desceu numa coluna de nuvem, pôs-se à entrada da Tenda e chamou Arão e Miriã; ambos se aproximaram.",
+  "Ele disse: Ouvi agora minhas palavras: Se houver entre vós um profeta, eu, YHWH, me darei a conhecer a ele em visão e falarei com ele em sonho.",
+  "Não é assim com meu servo Moisés; em toda a minha casa ele é fiel.",
+  "Com ele falo face a face, claramente, e não por enigmas; ele contempla a forma de YHWH. Por que, então, não tivestes temor de falar contra meu servo, contra Moisés?",
+  "A ira de YHWH se acendeu contra eles, e ele se retirou.",
+  "Quando a nuvem se afastou de sobre a Tenda, eis que Miriã estava com uma afecção cutânea, branca como a neve. Arão voltou-se para Miriã e viu que ela estava atingida pela afecção.",
+  "Arão disse a Moisés: Ah, meu senhor! Peço-te que não nos atribuas este pecado, pois agimos insensatamente e pecamos.",
+  "Que ela não fique como um morto cujo corpo já está meio consumido ao sair do ventre de sua mãe!",
+  "Moisés clamou a YHWH, dizendo: Ó Deus, peço-te que a cures!",
+  "YHWH respondeu a Moisés: Se o pai dela lhe tivesse cuspido no rosto, não ficaria ela envergonhada por sete dias? Que seja isolada fora do acampamento por sete dias; depois será recebida de volta.",
+  "Miriã ficou isolada fora do acampamento por sete dias, e o povo não partiu enquanto Miriã não foi recebida de volta.",
+  "Depois disso, o povo partiu de Hazerote e acampou no deserto de Parã."
+];
