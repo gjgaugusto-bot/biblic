@@ -155,3 +155,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 9:1–35.
+
+
+### Êxodo 9:1–35
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas lexicais ampliadas/acrescentadas em 9:6, 9:12, 9:16, 9:31, 9:32, 9:34 e 9:35.
+- Registradas a tensão textual sobre o rebanho, as fases agrícolas e as raízes distintas no motivo do coração do faraó.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 10:1–29.
