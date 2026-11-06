@@ -67,6 +67,8 @@ Foram conferidos integralmente os 42 versículos de Números 32 e os 56 versícu
 
 Foram conferidos integralmente os 29 versículos de Números 34 e os 34 versículos de Números 35 com o texto hebraico do Mechon-Mamre. Em 35:20 e 35:22, “de emboscada/sem estar à espreita” substituiu “com intenção/sem intenção”, preservando a distinção hebraica entre agir à espreita e agir sem emboscada; em 35:31–32, “não tomareis resgate” substituiu “não aceitarei resgate”, mantendo o sujeito plural do mandamento. Foi acrescentada nota lexical para בִּצְדִיָּה (35:20), e corrigidos separadores ausentes nos objetos de notas de 34 e 35. Os capítulos 34 e 35 ficam registrados como conferidos com base no Texto Massorético.
 
+Por fim, foram conferidos integralmente os 13 versículos de Números 36 com o texto hebraico do Mechon-Mamre. A tradução existente foi mantida após a comparação; a formulação “primos paternos” em 36:11 corresponde à expressão בני דודיה, “filhos dos irmãos de seu pai”. O capítulo 36 fica registrado como conferido com base no Texto Massorético.
+
 ## Limites desta auditoria
 
 Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
