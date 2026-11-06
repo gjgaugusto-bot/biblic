@@ -106,7 +106,7 @@ window.EXODUS_TEXT[28] = [
   "Estará sobre a testa de Arão, e Arão levará a culpa ligada às coisas sagradas que os filhos de Israel consagrarem em suas ofertas. Estará sempre sobre sua testa, para que sejam aceitas diante de YHWH.",
   "Farás a túnica de linho fino, e farás também um turbante de linho fino e uma faixa bordada.",
   "Para os filhos de Arão farás túnicas, faixas e turbantes, para honra e beleza.",
-  "Vestirás com eles teu irmão Arão e seus filhos; os ungirás, os consagrarás e os santificarás, para que me sirvam como sacerdotes.",
+  "Vestirás com eles teu irmão Arão e seus filhos; os ungirás, os investirás no sacerdócio e os santificarás, para que me sirvam como sacerdotes.",
   "Farás para eles calções de linho, para cobrir a nudez, da cintura até as coxas.",
   "Arão e seus filhos os usarão quando entrarem na tenda do encontro ou se aproximarem do altar para ministrar no santuário, para que não incorram em culpa e morram. Será uma norma perpétua para Arão e sua descendência."
 ];
