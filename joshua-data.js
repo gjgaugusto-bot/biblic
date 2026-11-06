@@ -1,7 +1,7 @@
 /* Josué 1–24 — tradução própria de trabalho a partir do hebraico massorético.
    Texto-base: Westminster Leningrad Codex (WLC), por meio do Open Scriptures Hebrew Bible (OSHB).
-   Estado: lote inicial integrado; capítulos restantes em preparação. Tradução e notas sujeitas a revisão.
-   Atribuição dos dados morfológicos OSHB: Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb (CC BY 4.0). O texto WLC é de domínio público. */
+   Estado: texto completo dos 24 capítulos integrado; revisão editorial global aplicada como primeira camada. A tradução e as notas permanecem sujeitas a revisão exegética final.
+   Critérios editoriais: manter YHWH como forma do nome divino; preservar distinções entre herança, porção, posse e sorteio conforme o contexto; uniformizar nomes próprios e fórmulas recorrentes sem apagar ambiguidades do hebraico. Atribuição dos dados morfológicos OSHB: Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb (CC BY 4.0). O texto WLC é de domínio público. */
 window.JOSHUA_TEXT = window.JOSHUA_TEXT || {};
 window.JOSHUA_TEXT[1] = [
   "Aconteceu, depois da morte de Moisés, servo de YHWH, que YHWH falou a Josué, filho de Num, auxiliar de Moisés, dizendo:",
@@ -103,7 +103,7 @@ window.JOSHUA_TEXT[5] = [
 "Josué fez para si facas de pedra e circuncidou os filhos de Israel em Gibeate-Haaralote.",
 "E esta foi a razão pela qual Josué os circuncidou: todo o povo que havia saído do Egito, os homens, todos os homens de guerra, haviam morrido no deserto, pelo caminho, depois de saírem do Egito.",
 "Todo o povo que saiu era circuncidado; mas todo o povo nascido no deserto, pelo caminho, depois da saída do Egito, não havia sido circuncidado.",
-"Pois os filhos de Israel caminharam quarenta anos pelo deserto, até que toda a nação, isto é, os homens de guerra que haviam saído do Egito, pereceu, porque não ouviram a voz de YHWH. YHWH lhes jurara que não lhes deixaria ver a terra que havia jurado a seus pais dar-nos, terra que mana leite e mel.",
+"Pois os filhos de Israel caminharam quarenta anos pelo deserto, até que toda a nação, isto é, os homens de guerra que haviam saído do Egito, pereceu, porque não ouviram a voz de YHWH. YHWH lhes jurara que não lhes deixaria ver a terra que havia jurado a seus pais dar-lhes, terra que mana leite e mel.",
 "Em lugar deles, levantou seus filhos; a estes Josué circuncidou, pois eram incircuncisos, porque não os haviam circuncidado pelo caminho.",
 "Quando toda a nação terminou de ser circuncidada, permaneceram em seus lugares no acampamento até se recuperarem.",
 "Então YHWH disse a Josué: “Hoje removi de sobre vós a vergonha do Egito”. Por isso, aquele lugar foi chamado Gilgal até hoje.",
