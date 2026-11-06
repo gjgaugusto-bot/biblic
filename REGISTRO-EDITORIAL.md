@@ -100,3 +100,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 3:1–22.
+
+
+### Êxodo 3:1–22
+- Conferência textual integral concluída contra o Texto Massorético.
+- Correções em 3:3–4 para refletir סור (*sur*), “desviar-se/afastar-se do caminho”.
+- Notas lexicais em 3:2–3; notas de 3:14 e 3:19 preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 4:1–31.
