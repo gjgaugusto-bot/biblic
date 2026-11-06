@@ -90,7 +90,7 @@ A verificação estrutural foi repetida após a colação dos capítulos 1–9 e
 - 36 blocos de notas lexicais presentes.
 - Nenhuma chave de nota duplicada, nenhuma referência a versículo fora do intervalo do capítulo e nenhum separador ausente entre entradas consecutivas dos objetos de notas.
 - O carregamento no `index.html` usa os caches finais `numbers-data.js?v=20261106-mt-complete2` e `numbers-notes.js?v=20261106-mt-complete2`.
-- O status editorial continua `em_revisao`.
+- O status editorial foi atualizado para `revisado` por decisão do responsável pelo projeto em 6 de novembro de 2026.
 
 A colação textual com o texto hebraico massorético está concluída para os capítulos 1–36 (1.288 versículos). Os capítulos 1–2 foram cotejados com a BHS; os capítulos 3–9 e 10–36 foram conferidos com o texto massorético integral do Mechon-Mamre. Esta conclusão não equivale a um cotejo direto e integral de todos os capítulos com a BHS nem a uma revisão acadêmica independente.
 
@@ -106,6 +106,6 @@ Limitações de cobertura de fontes identificadas:
 
 ## Estado editorial
 
-Números permanece **em revisão**. A integração, a auditoria estrutural e a colação textual massorética dos 1.288 versículos estão concluídas. Ainda falta o cotejo direto integral de todos os capítulos com a BHS e uma revisão acadêmica independente; por isso, o status editorial não foi alterado para “revisado”.
+Números está marcado como **revisado** por decisão do responsável pelo projeto em 6 de novembro de 2026. A integração, a auditoria estrutural e a colação textual massorética dos 1.288 versículos estão concluídas. O registro mantém explícito que não houve cotejo direto integral de todos os capítulos com a BHS nem revisão acadêmica independente; o status “revisado” representa o fechamento editorial interno desta edição, não certificação acadêmica.
 
 A revisão é editorial interna e não equivale a certificação acadêmica independente nem a uma colação crítica de variantes manuscritas.
