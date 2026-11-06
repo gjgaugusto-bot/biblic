@@ -2,9 +2,9 @@
 
 ## Estado da base
 - A branch `base-imutavel-2026-11-06` será a referência congelada desta auditoria.
-- A branch `trabalho-base-2026-11-06` será usada para as próximas alterações; nunca editar a branch de referência.
+- A branch `trabalho-base-2026-11-06` é um ponto histórico de continuidade, mas estava 148 commits atrás de `main` em 2026-11-06. A branch de recurso deste trabalho foi derivada do HEAD atual de `main`; nunca editar a branch de referência.
 - A branch `arquivo-pre-auditoria-2026-11-06` preserva o estado anterior às correções desta auditoria.
-- O Pull Request #35 permanece aberto em modo draft e não foi integrado à branch `main`.
+- O Pull Request #35 foi fechado e integrado à branch `base-imutavel-2026-11-06` (merge commit `0d879f02df46fb1b4a5a2d87fe1c21bfba06187b`); não foi integrado à branch `main`.
 - A branch `main` e o site publicado não foram alterados nesta etapa.
 
 ## Verificações automáticas
