@@ -37,7 +37,7 @@ window.EXODUS_TEXT = {
 "A filha do faraó lhe respondeu: «Vai». A moça foi e chamou a mãe do menino.",
 "A filha do faraó lhe disse: «Leva este menino e amamenta-o para mim; eu te darei o teu pagamento». A mulher tomou o menino e o amamentou.",
 "Quando o menino cresceu, ela o levou à filha do faraó, e ele se tornou filho dela. Ela lhe deu o nome de Moisés, dizendo: «Porque das águas eu o tirei».",
-"Naqueles dias, quando Moisés já era adulto, saiu ao encontro de seus irmãos e viu seus trabalhos forçados. Viu também um egípcio golpeando um hebreu, um de seus irmãos.",
+"Naqueles dias, quando Moisés cresceu, saiu ao encontro de seus irmãos e viu seus trabalhos forçados. Viu também um egípcio golpeando um hebreu, um de seus irmãos.",
 "Olhou para um lado e para o outro e, vendo que não havia ninguém, golpeou o egípcio e o escondeu na areia.",
 "No dia seguinte, saiu, e eis que dois homens hebreus estavam brigando. Disse ao culpado: «Por que golpeias o teu companheiro?»",
 "Ele respondeu: «Quem te constituiu chefe e juiz sobre nós? Pretendes matar-me como mataste o egípcio?» Moisés teve medo e disse: «Certamente o caso se tornou conhecido».",
@@ -48,10 +48,10 @@ window.EXODUS_TEXT = {
 "Elas responderam: «Um homem egípcio nos livrou das mãos dos pastores; além disso, tirou água para nós e deu de beber ao rebanho».",
 "Ele disse às filhas: «E onde está ele? Por que deixaram o homem? Chamem-no, para que coma pão».",
 "Moisés aceitou morar com aquele homem, e ele deu sua filha Zípora a Moisés.",
-"Ela deu à luz um filho, e Moisés lhe deu o nome de Gérson, pois disse: «Sou estrangeiro em terra alheia».",
+"Ela deu à luz um filho, e Moisés lhe deu o nome de Gérson, pois disse: «Tenho sido estrangeiro em terra alheia».",
 "Depois de muitos dias, morreu o rei do Egito. Os filhos de Israel gemiam por causa da servidão e clamaram; e o clamor deles por causa da servidão subiu a Deus.",
 "Deus ouviu o gemido deles, e Deus se lembrou de sua aliança com Abraão, com Isaque e com Jacó.",
-"Deus viu os filhos de Israel, e Deus os reconheceu."
+"Deus viu os filhos de Israel, e Deus tomou conhecimento deles."
 ],
 3: [
 "Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Midiã. Conduziu o rebanho para além do deserto e chegou ao Horebe, monte de Deus.",
