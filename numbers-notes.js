@@ -121,6 +121,8 @@ window.TRANSLATION_NOTES[3][11] = {
   4:{term:"הָאסַפְסֻף (ha'asafsuf)",text:"“Multidão misturada” ou grupo agregado. O termo designa os que acompanhavam Israel sem serem identificados simplesmente como membros das tribos."},
   7:{term:"מָן (man)",text:"Maná. O texto descreve sua aparência e preparo; a identificação botânica exata do bdélio mencionado na comparação permanece incerta."},
   10:{term:"וּבְעֵינֵי מֹשֶׁה רָע (u-ve'einei Moshe ra')",text:"Literalmente, “mau aos olhos de Moisés”. A frase avalia negativamente a situação também do ponto de vista de Moisés; não afirma por si só que ele estivesse apenas angustiado."},
+  12:{term:"הָאֹמֵן (ha'omen)",text:"Cuidador, tutor ou pessoa encarregada de criar uma criança. O particípio masculino descreve quem carrega e cuida da criança de peito; por isso, “cuidador” evita atribuir ao hebraico uma referência especificamente feminina."},
+  30:{term:"וַיֵּאָסֵף (vayye'asef)",text:"Forma nifal de אסף, com sentido de recolher-se ou retirar-se. No contexto, descreve Moisés e os anciãos recolhendo-se ao acampamento."},
   17:{term:"וְאָצַלְתִּי (ve'atzalti)",text:"“Tomarei/retirarei” do espírito que está sobre Moisés. A imagem indica participação dos anciãos na capacitação para carregar a responsabilidade do povo."},
   25:{term:"וַיִּתְנַבְּאוּ (vayyitnabbə'u)",text:"“Profetizaram”. O verbo pode indicar fala inspirada ou manifestação profética; o texto não registra o conteúdo dessas falas."},
   31:{term:"רוּחַ נָסַע מֵאֵת יְהוָה / שְׂלָוִים (ruach nasa me'et YHWH / selavim)",text:"O vento “partiu da parte de YHWH” e trouxe codornizes. O verbo נסע (nasa) é o verbo comum de partir/seguir viagem; a imagem apresenta o vento como movimento vindo de YHWH."},
