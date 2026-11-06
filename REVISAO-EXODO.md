@@ -255,4 +255,34 @@ Demais versículos (5:1–2, 5:4–6, 5:9–15, 5:17–20 e 5:22–23): conferid
 - Ibn Ezra sobre Êxodo 5:21, leitura figurada de odor/reputação: https://www.sefaria.org/Ibn_Ezra_on_Exodus.5.21
 - NET Bible, Êxodo 5:3, léxico de דֶּבֶר (*dever*, peste) e חֶרֶב (*cherev*, espada): https://classic.net.bible.org/passage.php?passage=Exo+5%3A3
 
-**Próximo ponto:** Êxodo 6:1–30. Não repetir a conferência de Êxodo 5 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 7:1–29. Não repetir a conferência de Êxodo 5 sem evidência concreta de erro novo.
+
+
+### Êxodo 6 — conferência textual e lexical integral (6:1–30)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Duas formulações foram ajustadas para refletir a morfologia e a construção hebraicas; as dificuldades interpretativas foram registradas em notas.
+
+Correções no texto:
+- **6:3:** “não me dei a conhecer a eles” foi ajustado para **“não fui conhecido por eles”**. נוֹדַעְתִּי (*noda'ti*) está no nifal, com valor passivo; a forma esperada para “não me dei a conhecer” seria hifil. A tradução não decide se a frase trata do nome em si ou da experiência do caráter de YHWH pelos patriarcas.
+- **6:26:** “Este é aquele Arão e Moisés” foi ajustado para **“Estes são Arão e Moisés”**, forma natural em português para a identificação de duas pessoas expressa pelo pronome demonstrativo singular הוּא (*hu*).
+
+Notas lexicais acrescentadas:
+- **6:1:** בְּיָד חֲזָקָה (*beyad chazakah*, “por mão forte”) aparece duas vezes; o sujeito das formas verbais de terceira pessoa pode ser entendido como o faraó, sob a ação de YHWH, e a tradução mantém “ele” sem fechar a referência.
+- **6:3:** além do nifal de נודע (*noda*), registra-se que אֵל שַׁדָּי (*El Shaddai*) é um título tradicionalmente traduzido “Deus Todo-Poderoso”, embora sua etimologia exata seja discutida.
+- **6:12 e 6:30:** עֲרַל שְׂפָתָיִם (*aral sefatayim*) significa literalmente “incircunciso de lábios”; é uma metáfora de dificuldade/inaptidão de fala. A expressão não é idêntica à imagem “pesado de boca” de 4:10, embora se relacione à mesma objeção de Moisés.
+- **6:20:** דֹּדָתוֹ (*dodato*) é lido no Texto Massorético como “irmã de seu pai”, isto é, tia paterna de Anrão. A Septuaginta e outras tradições antigas suavizam o parentesco para “prima”; a tradução segue o Texto Massorético.
+- **6:26:** הוּא אַהֲרֹן וּמֹשֶׁה (*hu Aharon u-Moshe*) usa pronome singular antes dos dois nomes; “Estes são Arão e Moisés” acomoda a construção ao português. O versículo seguinte inverte a ordem dos nomes.
+
+Nota anterior de **6:9** sobre מִקֹּצֶר רוּחַ (*miqqotser ruach*, angústia/estreiteza de espírito) foi preservada.
+
+Demais versículos (6:2, 6:4–8, 6:10–11, 6:13–19, 6:21–25 e 6:27–29): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 6: https://new.mechon-mamre.org/p/pt/pt0206.htm
+- NET Bible, Êxodo 6:3, sobre a forma nifal נוֹדַעְתִּי e אֵל שַׁדָּי: https://classic.net.bible.org/verse.php?book=exo&chapter=6&verse=3
+- Ibn Ezra sobre Êxodo 6:3, discussão da forma nifal e do conhecimento do nome: https://www.sefaria.org/Ibn_Ezra_on_Exodus.6.3.2
+- Jason S. DeRouchie, “Circumcision in the Hebrew Bible and Targums: Theology, Rhetoric, and the Handling of Metaphor”, *Bulletin for Biblical Research* 14.2 (2004), 175–203, sobre “lábios incircuncisos”: https://bcsmn.edu/wp-content/uploads/2016/11/Circumcision-in-Hebrew-Bible-and-Targums-DeRouchie.pdf
+- Jewish Virtual Library / *Encyclopaedia Judaica*, verbete “Jochebed”, sobre Êxodo 6:20 e Números 26:59: https://jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0011_0_10183.html
+- New American Bible Revised Edition, nota a Êxodo 6:20 sobre “irmã do pai” e a variante antiga “prima”: https://www.biblegateway.com/passage/?search=Exodus+6%3A20%2CNumbers+26%3A59-60&version=NABRE
+
+**Próximo ponto:** Êxodo 7:1–29. Não repetir a conferência de Êxodo 6 sem evidência concreta de erro novo.
