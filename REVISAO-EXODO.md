@@ -614,4 +614,28 @@ Demais versículos (19:1–4, 19:7–9, 19:11–12, 19:14, 19:16–17, 19:19–2
 - NET Bible, Êxodo 19:22, sobre יִפְרֹץ (*yifrotz*) e a metáfora de “irromper/fazer uma brecha”: https://classic.net.bible.org/verse.php?book=Exo&chapter=19&verse=22
 - Rashi sobre Êxodo 19:22, explicando a imagem como uma brecha de destruição entre o povo: https://www.sefaria.org/Rashi_on_Exodus.19.22
 
-**Próximo ponto:** Êxodo 20:1–26. Não repetir a conferência de Êxodo 19 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 21:1–36. Não repetir a conferência de Êxodo 19 sem evidência concreta de erro novo.
+
+
+### Êxodo 20 — conferência textual e lexical integral (20:1–26)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Uma referência pronominal foi ajustada; as notas anteriores sobre os mandamentos, o nome divino, o sábado, o homicídio e o altar foram preservadas.
+
+Correção no texto:
+- **20:25:** “se passar sua ferramenta sobre elas, você as profanará” foi ajustado para **“se erguer sua ferramenta sobre ele, você o profanará”**. O sufixo singular de עָלֶיהָ (*aleha*) e וַתְּחַלְּלֶהָ (*vatechalleleha*, “o profanarás”) refere-se ao altar, não às pedras no plural.
+
+Nota lexical acrescentada:
+- **20:25:** חַרְבְּךָ (*charbekha*) significa literalmente “tua espada”, mas no contexto de construção do altar é entendido metonimicamente como ferramenta/cinzel. הֵנַפְתָּ (*henaf'ta*) significa erguer/brandir; a nota explica por que a tradução mantém “ferramenta” e corrige os pronomes para o altar singular.
+
+Notas anteriores preservadas:
+- **20:3–5, 20:7–8, 20:13, 20:17, 20:21 e 20:24:** mantidas, incluindo “diante de minha face”, imagem esculpida, Deus zeloso, uso do nome em vão, lembrar o sábado, רָצַח (*ratsach*, homicídio), cobiça, escuridão espessa e altar de terra.
+
+Demais versículos (20:1–24, 20:26): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 20: https://mechon-mamre.org/p/pt/pt0220.htm
+- NET Bible, Êxodo 20:25–26, sobre חַרְבְּךָ (*charbekha*) como ferramenta no contexto e o sufixo singular referente ao altar: https://search.biblegateway.com/passage/?search=Exodus+20%3A25-26&version=NET
+- Interlinear hebraico, Êxodo 20:25, morfologia de הֵנַפְתָּ (*henaf'ta*) e וַתְּחַלְּלֶהָ (*vatechalleleha*): https://search.nepebrasil.org/interlinear/?chapter=20&livro=2&verse=25
+- NET Bible, Êxodo 20:13, sobre רָצַח (*ratsach*) como homicídio: https://classic.net.bible.org/verse.php?book=Exo&chapter=20&verse=13
+
+**Próximo ponto:** Êxodo 21:1–36. Não repetir a conferência de Êxodo 20 sem evidência concreta de erro novo.
