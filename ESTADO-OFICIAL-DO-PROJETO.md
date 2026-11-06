@@ -114,3 +114,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 4:6, 4:10, 4:11 e 4:31; notas anteriores de 4:13, 4:18 e 4:24–26 preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 5:1–23.
+
+
+### Continuidade de conteúdo — Êxodo 5 (2026-11-06)
+
+- Êxodo 5:1–23 conferido integralmente contra o Texto Massorético.
+- Ajuste em 5:16: “embora a culpa seja do teu próprio povo” → “e a culpa é do teu próprio povo”, acompanhando a coordenação hebraica; variante antiga documentada.
+- Notas acrescentadas em 5:3, 5:7, 5:8, 5:16 e 5:21.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 6:1–30.
