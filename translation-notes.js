@@ -70,7 +70,14 @@ window.TRANSLATION_NOTES = {
       24: {term:"Êxodo 4:24–26",text:"O episódio de Zípora contém pronomes e referentes ambíguos. O hebraico não deixa inequívocos o sujeito de “procurou matá-lo”, o referente de “pés” e a identidade exata daquele que é tocado. A tradução evita resolver essas questões por conjectura."}
     },
     6: {
-      3: {term:"לֹא נוֹדַעְתִּי לָהֶם (lo noda'ti lahem)",text:"A construção pode ser traduzida “não me dei a conhecer a eles” ou “não fui conhecido por eles”. A frase é debatida em relação à revelação do nome YHWH aos patriarcas; a tradução preserva a forma tradicional, sem afirmar que o nome fosse totalmente desconhecido."}
+      3: {term:"לֹא נוֹדַעְתִּי לָהֶם (lo noda'ti lahem)",text:"A construção pode ser traduzida “não me dei a conhecer a eles” ou “não fui conhecido por eles”. A frase é debatida em relação à revelação do nome YHWH aos patriarcas; a tradução preserva a forma tradicional, sem afirmar que o nome fosse totalmente desconhecido."},
+      9: {term:"מִקֹּצֶר רוּחַ (miqqotser ruach)",text:"Expressão literalmente próxima de “estreiteza/encurtamento de espírito”. Pode indicar angústia, abatimento ou impaciência; “angústia de espírito” expressa o sofrimento sob a servidão sem reduzir a expressão a irritação momentânea."}
+    },
+    7: {
+      9: {term:"תַּנִּין (tannin)",text:"Termo amplo para uma criatura grande e ameaçadora, que pode ser traduzido conforme o contexto como serpente, monstro ou grande réptil. Aqui designa a criatura em que o cajado se transforma; o hebraico não identifica uma espécie zoológica."}
+    },
+    9: {
+      6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias. Êxodo 9:3 especifica que a praga atinge os animais que estão no campo; por isso, a declaração de que “todo o gado do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
     },
     8: {
       12: {term:"כִּנִּים (kinnim)",text:"O nome da terceira praga é incerto. As propostas incluem piolhos, mosquitos e pequenos insetos. “Piolhos” é uma escolha provisória, não uma identificação zoológica segura."},
