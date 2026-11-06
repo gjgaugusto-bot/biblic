@@ -167,7 +167,7 @@ window.TRANSLATION_NOTES[3][14] = {
 window.TRANSLATION_NOTES[3][15] = {
   3:{term:"אִשֵּׁה רֵיחַ נִיחֹחַ (ishsheh reach nichoach)",text:"“Oferta feita pelo fogo, de aroma agradável”. אִשֶּׁה designa uma oferta apresentada pelo fogo; não é sinônimo lexical perfeito de עֹלָה (holocausto), embora possa acompanhar diferentes tipos de sacrifício."},
   20:{term:"רֵאשִׁית עֲרִסֹתֵכֶם (reshit arisoteikhem)",text:"“Primícias de vossas massas”. Refere-se à contribuição retirada da massa de cereal, posteriormente conhecida na tradição como separação da chalá."},
-  24:{term:"בִּשְׁגָגָה (bishgagah)",text:"“Por erro/sem intenção”. A seção distingue a transgressão involuntária da ação deliberada descrita nos versículos 30–31."},
+  24:{term:"מֵעֵינֵי הָעֵדָה ... לִשְׁגָגָה (me'einei ha'edah ... lishgagah)",text:"A expressão indica que o erro ocorreu sem ser percebido pela comunidade. O contraste com os versículos 30–31 distingue a transgressão inadvertida da ação deliberada e desafiadora."},
   30:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. Idioma para agir deliberadamente e com desafio, em contraste com o pecado por inadvertência."},
   31:{term:"הִכָּרֵת תִּכָּרֵת (hikkaret tikkaret)",text:"Infinitivo absoluto seguido do verbo finito, intensificando a sentença: “certamente será eliminada”. A forma não determina por si só o mecanismo da sanção."},
   32:{term:"מְקֹשֵׁשׁ עֵצִים (meqosheh etsim)",text:"“Recolhendo/juntando lenha”. O particípio descreve a atividade observada no sábado; o texto não especifica para que a lenha seria usada."},
