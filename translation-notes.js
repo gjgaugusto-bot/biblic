@@ -59,10 +59,8 @@ window.TRANSLATION_NOTES = {
   },
   1: {
     3: {
+      14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."},
       19: {term:"וְלֹא בְּיָד חֲזָקָה",text:"A relação lógica da expressão é ambígua. Pode ser entendida como “a não ser por mão forte” — a resistência do faraó cederia diante da força — ou como “nem mesmo por mão forte”. A tradução de trabalho escolhe a primeira leitura."}
-    },
-    3: {
-      14: {term:"אֶהְיֶה אֲשֶׁר אֶהְיֶה (ehyeh asher ehyeh)",text:"A forma ehyeh é do verbo היה (hayah, “ser/tornar-se”) e pode ser entendida com valor presente ou futuro, conforme o contexto. “EU SEREI O QUE SEREI” preserva a possibilidade futura; “EU SOU O QUE SOU” é outra tradução tradicional. A frase não deve ser reduzida a uma equivalência simples e indiscutível."}
     },
     4: {
       13: {term:"שְׁלַח נָא בְּיַד תִּשְׁלָח",text:"Expressão idiomática difícil, literalmente próxima de “envia, por favor, pela mão daquele que enviarás”. “Envia outra pessoa” comunica uma interpretação provável, mas não reproduz a forma hebraica."},
