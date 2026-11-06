@@ -710,4 +710,24 @@ Demais versículos (23:1, 23:3–10, 23:12–13, 23:16–19, 23:21–27 e 23:29�
 - NET Bible, Êxodo 23:2, sobre רַבִּים (*rabbim*) e a pressão da maioria: https://classic.net.bible.org/verse.php?book=Exo&chapter=23&verse=2
 - NET Bible, Êxodo 23:28, sobre צִרְעָה (*tsir'ah*) e as possíveis identificações do inseto: https://classic.net.bible.org/verse.php?book=Exo&chapter=23&verse=28
 
-**Próximo ponto:** Êxodo 24:1–18. Não repetir a conferência de Êxodo 23 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 25:1–40. Não repetir a conferência de Êxodo 23 sem evidência concreta de erro novo.
+
+
+### Êxodo 24 — conferência textual e lexical integral (24:1–18)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Não foi necessária alteração no corpo da tradução; as notas anteriores sobre o livro da aliança, a aspersão do sangue e o pavimento de safira foram preservadas.
+
+Notas anteriores preservadas:
+- **24:7:** סֵפֶר הַבְּרִית (*sefer habberit*), “livro da aliança”.
+- **24:8:** וַיִּזְרֹק (*vayyizroq*), aspergir/arremessar o sangue sobre o povo.
+- **24:10:** לִבְנַת הַסַּפִּיר (*livnat hassappir*), pavimento/obra de safira ou lápis-lazúli, sem identificação mineral conclusiva.
+
+Demais versículos (24:1–6, 24:9, 24:11–18): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual ou nota adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 24: https://mechon-mamre.org/p/pt/pt0224.htm
+- NET Bible, Êxodo 24:7–8, sobre o livro da aliança e a aspersão do sangue: https://classic.net.bible.org/passage.php?passage=Exo+24%3A7-8
+- NET Bible, Êxodo 24:10, sobre לִבְנַת הַסַּפִּיר (*livnat hassappir*) e a identificação do pavimento: https://classic.net.bible.org/verse.php?book=Exo&chapter=24&verse=10
+- Rashi sobre Êxodo 24:10, interpretação do pavimento como safira/lápis-lazúli: https://www.sefaria.org/Rashi_on_Exodus.24.10
+
+**Próximo ponto:** Êxodo 25:1–40. Não repetir a conferência de Êxodo 24 sem evidência concreta de erro novo.
