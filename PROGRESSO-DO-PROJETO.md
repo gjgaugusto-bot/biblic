@@ -479,3 +479,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas acrescentadas em 2:2, 2:3, 2:12, 2:17 e 2:25; notas de 2:10 e 2:22 mantidas.
 - Nenhuma reescrita ampla; a ambiguidade lexical foi preservada nas notas.
 - Próximo ponto de revisão: Êxodo 3:1–22.
+
+
+## 2026-11-06 — revisão de Êxodo 3:1–22
+
+- Conferência integral do capítulo 3 contra o Texto Massorético.
+- Correções em 3:3–4: o verbo סור (*sur*) indica desviar-se/afastar-se do caminho; o texto agora preserva essa ação nos dois versículos.
+- Notas acrescentadas em 3:2–3; notas existentes de 3:14 e 3:19 preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 4:1–31.
