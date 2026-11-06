@@ -384,4 +384,34 @@ Nota anterior de **10:2** preservada e ampliada. Demais versículos (10:1, 10:3�
 - NET Bible, Êxodo 10:21, sobre וְיָמֵשׁ (*v'yamesh*), “ser sentido/apalpado”: https://classic.net.bible.org/passage.php?passage=Exo+10%3A21
 - Ibn Ezra sobre Êxodo 10:21, discussão da escuridão palpável: https://www.sefaria.org/Ibn_Ezra_on_Exodus.10.21
 
-**Próximo ponto:** Êxodo 11:1–10. Não repetir a conferência de Êxodo 10 sem evidência concreta de erro novo.
+**Próximo ponto:** Êxodo 12:1–51. Não repetir a conferência de Êxodo 10 sem evidência concreta de erro novo.
+
+
+### Êxodo 11 — conferência textual e lexical integral (11:1–10)
+
+**Passagem conferida em 2026-11-06 contra o Texto Massorético.** Três ajustes foram feitos para preservar a posição do advérbio, o valor aproximativo da expressão temporal e a força do gesto de prostração.
+
+Correções no texto:
+- **11:1:** a posição de “por completo” foi ajustada. כָּלָה (*kalah*) integra a construção enfática כָּלָה גָּרֵשׁ יְגָרֵשׁ (*kalah garesh yegaresh*): “certamente vos expulsará por completo”. A ênfase recai sobre a expulsão completa, não sobre o primeiro ato de deixar partir.
+- **11:4:** “À meia-noite” foi ajustado para **“Por volta da meia-noite”**, refletindo a leitura aproximativa de כַּחֲצֹת (*kachatsot*). A forma também pode ser entendida como “quando a noite se dividir”; a nota preserva essa discussão.
+- **11:8:** “se curvarão diante de mim” foi ajustado para **“se prostrarão diante de mim”**, mais próximo de וְיִשְׁתַּחֲווּ (*veyishtachavu*), gesto de prostração/homenagem.
+
+Notas lexicais ampliadas/acrescentadas:
+- **11:1:** registrada a construção enfática com infinitivo absoluto e a posição de כָּלָה (*kalah*, “completamente”).
+- **11:2:** שָׁאַל (*sha'al*) significa pedir/solicitar, não necessariamente tomar emprestado com obrigação de devolver. “Peça” foi mantido; objetos de prata e ouro são descritos genericamente como objetos/utensílios, não necessariamente joias.
+- **11:4:** כַּחֲצֹת הַלַּיְלָה (*kachatsot halaylah*) admite a leitura “por volta da meia-noite” e a leitura “quando a noite se divide”; a tradução escolhe a primeira sem eliminar a segunda.
+- **11:5:** בְּכוֹר (*bekhor*, primogênito) é aplicado a pessoas e animais.
+- **11:7:** חָרַץ־כֶּלֶב לְשֹׁנוֹ (*charats-kelev leshono*) é a expressão figurada “um cão não afiará sua língua”, indicando ausência de perturbação ou ameaça.
+- **11:8:** וְיִשְׁתַּחֲווּ (*hishtachavu*) descreve prostrar-se/prestar homenagem; בְּחֳרִי־אָף (*bechori af*) significa literalmente “no ardor da ira”.
+
+Demais versículos (11:3, 11:6, 11:9–10): conferidos quanto à correspondência com o hebraico e ao português; nenhuma alteração textual adicional considerada necessária.
+
+**Fontes consultadas:**
+- Mechon-Mamre, texto hebraico massorético e tradução de Êxodo 11: https://mechon-mamre.org/p/pt/pt0211.htm
+- NET Bible, Êxodo 11:2, sobre שָׁאַל (*sha'al*) como pedir/solicitar e não necessariamente tomar emprestado: https://classic.net.bible.org/passage.php?passage=Exo+11%3A2
+- UBS, *A Handbook on Exodus*, Êxodo 11:2, sobre “objetos” de prata e ouro e a tradução de שָׁאַל: https://tips.translation.bible/tip_verse/exod-11-2/
+- Rashi sobre Êxodo 11:4, leitura “quando a noite se divide” e a tradição “por volta da meia-noite”: https://www.chabad.org/library/bible_cdo/aid/9872/jewish/Chapter-11.htm
+- Ibn Ezra sobre Êxodo 11:4, análise de כַּחֲצֹת (*kachatsot*): https://www.sefaria.org/Ibn_Ezra_on_Exodus.11.4?lang=bi
+- Léxico de וְיִשְׁתַּחֲווּ (*hishtachavu*), “prostrar-se/prestar homenagem”: https://www.kjvstudy.kennethreitz.org/book/Exodus/chapter/11/verse/8
+
+**Próximo ponto:** Êxodo 12:1–51. Não repetir a conferência de Êxodo 11 sem evidência concreta de erro novo.
