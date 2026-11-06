@@ -25,11 +25,15 @@ window.TRANSLATION_NOTES[3][2] = {
 /* Notas lexicais — Números 3. */
 window.TRANSLATION_NOTES[3][3] = {
   1:{term:"תּוֹלְדֹת (toledot)",text:"“Linhagem”, “descendência” ou “registro genealógico”. A fórmula introduz a genealogia sacerdotal de Arão e seus filhos."},
+  3:{term:"מִלֵּא יָדָם (millēʾ yādam)",text:"Literalmente, “encheu suas mãos”. É uma expressão idiomática de investidura ou consagração para uma função sacerdotal; não descreve apenas uma lavagem ou gesto físico das mãos."},
+  6:{term:"שֵׁרְתוּ אֹתוֹ (shērətū ʾotō)",text:"“Servirão a ele” ou “prestarão serviço a ele”. O pronome se refere a Arão; os levitas são apresentados como auxiliares do sacerdote."},
   4:{term:"אֵשׁ זָרָה (esh zarah)",text:"Literalmente, “fogo estranho” ou “fogo alheio”. A expressão indica uma oferta ritual não autorizada."},
   7:{term:"מִשְׁמֶרֶת (mishmeret)",text:"“Encargo”, “guarda” ou “responsabilidade confiada”. O termo descreve os deveres dos levitas em relação a Arão, à assembleia e ao santuário."},
   12:{term:"פֶּטֶר רֶחֶם (peter rechem)",text:"“Aquele que abre o ventre”, isto é, o primogênito. A expressão fundamenta a substituição dos primogênitos pelos levitas."},
   15:{term:"מִבֶּן־חֹדֶשׁ וָמַעְלָה (mibben-chodesh va-ma'lah)",text:"“De um mês de idade para cima”. Diferentemente do recenseamento militar, a contagem dos levitas inclui os meninos desde o primeiro mês."},
   28:{term:"שְׁמֹנַת אֲלָפִים וְשֵׁשׁ מֵאוֹת (shemōnat alafim ve-shesh me'ot)",text:"O texto massorético registra 8.600 coatitas. A soma dos três grupos (7.500 + 8.600 + 6.200) resulta em 22.300, enquanto 3:39 informa 22.000. A diferença de 300 costuma ser explicada como primogênitos levitas, mas o versículo não explicita essa dedução; a tensão numérica fica anotada."},
+  31:{term:"כְּלֵי הַקֹּדֶשׁ (kelē haqqōdesh)",text:"“Utensílios sagrados”. O versículo enumera os objetos confiados aos coatitas e inclui a cortina; a expressão final indica os objetos com os quais se realizava o serviço do santuário."},
+  38:{term:"קֵדְמָה ... מִזְרָחָה (qēdmāh ... mizrāḥāh)",text:"As duas expressões indicam a orientação para o leste, o lado do nascente. A repetição hebraica reforça a localização dos acampamentos de Moisés, Arão e seus filhos diante da entrada do santuário."},
   47:{term:"שֶׁקֶל הַקֹּדֶשׁ (sheqel haqqodesh)",text:"“Siclo do santuário”, padrão de peso usado para o pagamento. O texto fixa vinte geras por siclo e cinco siclos por pessoa."}
 };
 /* Notas lexicais — Números 4. */
