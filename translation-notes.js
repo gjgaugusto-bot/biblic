@@ -82,7 +82,7 @@ window.TRANSLATION_NOTES = {
       9: {term:"תַּנִּין (tannin)",text:"Termo amplo para uma criatura grande e ameaçadora, que pode ser traduzido conforme o contexto como serpente, monstro ou grande réptil. Aqui designa a criatura em que o cajado se transforma; o hebraico não identifica uma espécie zoológica."}
     },
     9: {
-      6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias. Êxodo 9:3 especifica que a praga atinge os animais que estão no campo; por isso, a declaração de que “todo o gado do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
+      6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias; em 9:3, a lista inclui cavalos, jumentos, camelos, gado e ovelhas. Êxodo 9:3 delimita a praga aos animais que estão no campo; por isso, a declaração de que “todo o rebanho do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
     },
     8: {
       12: {term:"כִּנִּים (kinnim)",text:"O nome da terceira praga é incerto. As propostas incluem piolhos, mosquitos e pequenos insetos. “Piolhos” é uma escolha provisória, não uma identificação zoológica segura."},
@@ -137,4 +137,19 @@ Object.assign((window.TRANSLATION_NOTES[1][2] ||= {}), {
 });
 Object.assign((window.TRANSLATION_NOTES[1][5] ||= {}), {
   16: {term:"וְחָטָאת עַמֶּךָ (vechatat amekha)",text:"A oração final é concisa e pode ser entendida como “e a culpa é do teu povo” ou “e teu povo é culpado”. A conjunção וְ (ve-) é aditiva; por isso, a tradução evita a concessiva “embora”, que não está expressa no hebraico. A formulação portuguesa mantém a leitura de responsabilidade sem decidir além do contexto."}
+});
+
+
+// Complementos da segunda conferência de Êxodo 6–10.
+Object.assign((window.TRANSLATION_NOTES[1][7] ||= {}), {
+  20: {term:"וַיָּרֶם בַּמַּטֶּה (vayarem bammatteh)",text:"O verbo está na terceira pessoa do singular e não repete o sujeito. Como a ordem imediatamente anterior é dirigida a Arão (7:19), ele é o agente mais provável; ainda assim, o narrador não escreve o nome nesse ponto. A tradução conserva o pronome e esta nota registra a inferência contextual."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][8] ||= {}), {
+  5: {term:"הִתְפָּאֵר עָלַי (hitpa'er alai)",text:"A expressão é literalmente próxima de “gloria-te sobre mim” ou “assume a honra sobre mim”. No diálogo, Moisés permite que o faraó indique o momento em que ele suplicará para remover as rãs. “Digna-te a indicar-me quando...” é uma interpretação idiomática, não uma equivalência palavra por palavra."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][9] ||= {}), {
+  14: {term:"אֶל־לִבְּךָ (el-libbekha)",text:"Literalmente, “ao teu coração”. A expressão é incomum nesse contexto; algumas traduções a interpretam como “sobre tua pessoa”, enquanto outras preservam “teu coração”. A imagem pode ecoar o tema do coração endurecido do faraó; a tradução mantém a forma literal e registra a interpretação."}
+});
+Object.assign((window.TRANSLATION_NOTES[1][10] ||= {}), {
+  24: {term:"צֹאנְכֶם (tsonkhem)",text:"Tson é um coletivo para rebanhos de pequenos animais, especialmente ovelhas e cabras. “Ovelhas” isoladamente pode estreitar o sentido; “rebanhos” preserva o coletivo sem especificar a composição."}
 });
