@@ -111,7 +111,11 @@ window.TRANSLATION_NOTES = {
       30: {term:"עֲרַל שְׂפָתָיִם (aral sefatayim)",text:"A mesma expressão “incircunciso de lábios” reaparece em 6:30 e reforça a objeção de Moisés sobre sua capacidade de falar. A metáfora é mantida literalmente na tradução, com a explicação em 6:12."}
     },
     7: {
-      9: {term:"תַּנִּין (tannin)",text:"Termo amplo para uma criatura grande e ameaçadora, que pode ser traduzido conforme o contexto como serpente, monstro ou grande réptil. Aqui designa a criatura em que o cajado se transforma; o hebraico não identifica uma espécie zoológica."}
+      3: {term:"אַקְשֶׁה (aqsheh, de קשה)",text:"O verbo está no hifil e significa “tornar duro/endurecer”. Neste versículo, YHWH declara que endurecerá o coração do faraó. Nos versículos 13 e 22 aparece outra raiz, חזק (*chazaq*, fortalecer/tornar firme), e em 7:14 כבד (*kaved*, estar pesado). As três imagens não devem ser achatadas como se fossem a mesma palavra."},
+      9: {term:"תַּנִּין (tannin)",text:"Termo amplo para uma criatura grande e ameaçadora, que pode ser traduzido conforme o contexto como serpente, monstro ou grande réptil. Aqui designa a criatura em que o cajado se transforma; o hebraico não identifica uma espécie zoológica."},
+      13: {term:"וַיֶּחֱזַק לֵב פַּרְעֹה (vayechezaq lev Pharaoh)",text:"A raiz חזק (*chazaq*) significa tornar-se forte/firme. A formulação é “o coração do faraó se fortaleceu”, não o verbo קשה (*qashah*) usado em 7:3. A tradução preserva a mudança lexical."},
+      14: {term:"כָּבֵד לֵב פַּרְעֹה (kaved lev Pharaoh)",text:"כָּבֵד (*kaved*) significa “pesado”. A imagem do coração pesado difere das raízes קשה (*qashah*, endurecer) e חזק (*chazaq*, fortalecer) usadas em outros versículos da narrativa."},
+      15: {term:"הַמַּטֶּה אֲשֶׁר־נֶהְפַּךְ לְנָחָשׁ (hamatteh asher nehepakh lenachash)",text:"Aqui aparece נָחָשׁ (*nachash*), o termo comum para serpente, distinto de תַּנִּין (*tannin*) em 7:9–12. A tradução mantém “serpente” neste versículo e “grande réptil” no sinal diante do faraó, preservando a diferença do hebraico."}
     },
     9: {
       6: {term:"מִקְנֵה (miqneh)",text:"Termo coletivo para animais de criação/possessões pecuárias. Êxodo 9:3 especifica que a praga atinge os animais que estão no campo; por isso, a declaração de que “todo o gado do Egito” morreu deve ser lida no contexto dessa exposição, especialmente diante das instruções e dos animais ainda presentes no campo em 9:19–20."}
