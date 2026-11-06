@@ -345,3 +345,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 31:1–18.
+
+
+## Atualização de continuidade — Êxodo 30 (2026-11-06)
+
+- Primeira conferência textual e lexical de Êxodo 30:1–38 registrada em REVISAO-EXODO.md.
+- Ajustes documentados em 30:7, 30:23 e 30:32; nota 30:13 consolidada para impedir sobrescrita por chave duplicada.
+- O capítulo permanece no estado **Em revisão** no painel por versículo. A revisão textual de primeira passada não altera automaticamente o estado individual para **Revisado**.
+- Próximo trecho: Êxodo 31:1–18.
