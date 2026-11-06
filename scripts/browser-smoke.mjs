@@ -71,6 +71,15 @@ try {
   assert.equal(await page.locator("#chapterSummary").inputValue(), marker, "A edição deve persistir após recarregar");
   await scanAccessibility(page, "painel administrativo");
 
+  const categoryTitle = "Simbologias de teste";
+  await page.locator("#studyCategoryTitleSymbols").fill(categoryTitle);
+  await page.locator("#saveStudyCategories").click();
+  assert.match(await page.locator("#studyCategoriesStatus").innerText(), /Abas atualizadas e salvas/);
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibStudyCategories"))["Símbolos"].title), categoryTitle, "As categorias devem ser salvas no armazenamento local");
+  await page.reload({ waitUntil: "networkidle" });
+  await page.locator(".navbtn[data-view=\"admin\"]").click();
+  assert.equal(await page.locator("#studyCategoryTitleSymbols").inputValue(), categoryTitle, "As categorias devem persistir após recarregar");
+
   await page.locator("#symbolName").fill("Símbolo de teste");
   await page.locator("#symbolText").fill("Descrição de teste isolada.");
   await page.locator("#addSymbol").click();
@@ -91,11 +100,17 @@ try {
   await page.locator("#exportData").click();
   const download = await downloadPromise;
   assert.equal(download.suggestedFilename(), "backup-enciclopedia-biblica.json");
+  const exportStream = await download.createReadStream();
+  const exportChunks = [];
+  for await (const chunk of exportStream) exportChunks.push(chunk);
+  const exportedBackup = JSON.parse(Buffer.concat(exportChunks).toString("utf8"));
+  assert.equal(exportedBackup.studyCategories["Símbolos"].title, categoryTitle, "O backup exportado deve incluir as categorias personalizadas");
 
   const importData = {
     edits: { "0-4": { title: "Título restaurado pelo teste" } },
     guides: [{ name: "Guia importada", description: "Descrição", content: "Conteúdo" }],
     studyEdits: {},
+    studyCategories: { "Símbolos": { title: "Categoria importada", description: "Descrição importada" } },
     symbols: [{ name: "Símbolo importado", text: "Descrição importada" }],
     characters: [{ name: "Personagem importado", bio: "Biografia importada" }]
   };
@@ -106,6 +121,8 @@ try {
   });
   await page.waitForFunction(() => document.querySelector("#saveStatus")?.textContent.includes("Backup importado e validado"));
   assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("enciclopediaBiblicaEditsV1"))["0-4"].title), "Título restaurado pelo teste");
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibStudyCategories"))["Símbolos"].title), "Categoria importada", "A importação deve restaurar as categorias personalizadas");
+  assert.equal(await page.locator("#studyCategoryTitleSymbols").inputValue(), "Categoria importada");
 
   page.once("dialog", dialog => dialog.accept());
   await page.locator("#clearData").click();
@@ -126,7 +143,7 @@ try {
     failures.push(`${axeFindings.length} violações detectáveis de acessibilidade`);
   }
   if (failures.length) throw new Error(failures.join("; "));
-  console.log("TESTES DE NAVEGADOR APROVADOS: busca, 66 livros, ficha do livro, capítulo 4, abas, persistência, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
+  console.log("TESTES DE NAVEGADOR APROVADOS: 66 livros, ficha do livro, capítulo 4, abas, persistência, categorias da biblioteca, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
 } catch (error) {
   console.error("FALHA NOS TESTES DE NAVEGADOR:", error);
   process.exitCode = 1;
