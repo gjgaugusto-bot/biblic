@@ -126,7 +126,7 @@ window.EXODUS_TEXT = {
 "Os capatazes os pressionavam, dizendo: «Completai vossas tarefas diárias, como quando havia palha».",
 "Os supervisores dos filhos de Israel, que os capatazes do faraó haviam colocado sobre eles, foram espancados. Perguntaram-lhes: «Por que não completastes hoje, como antes, a quantidade exigida de tijolos, nem ontem nem hoje?»",
 "Os supervisores dos filhos de Israel foram e clamaram ao faraó: «Por que fazes assim com teus servos?",
-"Não se dá palha aos teus servos, mas nos dizem: ‘Fazei tijolos!’ E eis que teus servos são espancados, embora a culpa seja do teu próprio povo».",
+"Não se dá palha aos teus servos, mas nos dizem: ‘Fazei tijolos!’ E eis que teus servos são espancados, e a culpa é do teu próprio povo».",
 "Ele respondeu: «Vocês estão ociosos, ociosos! Por isso dizem: ‘Vamos sacrificar a YHWH’.",
 "Agora, vão trabalhar! Não vos será dada palha, mas entregareis a quantidade determinada de tijolos».",
 "Os supervisores dos filhos de Israel viram que estavam em situação ruim, pois lhes diziam: «Não diminuireis nada da quantidade diária de tijolos».",
