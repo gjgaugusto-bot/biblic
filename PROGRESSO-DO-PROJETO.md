@@ -750,3 +750,10 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Êxodo 32:1–35 passou pela primeira conferência textual e lexical; ajustes em 32:1, 32:31 e 32:34 e notas correspondentes registrados em REVISAO-EXODO.md.
 - Êxodo 1–32 documentados na primeira passada.
 - Próximo capítulo: Êxodo 33.
+
+
+## Atualização editorial — 2026-11-06
+
+- Êxodo 33:1–23 passou pela primeira conferência textual e lexical; ajustes em 33:6 e 33:10 e notas correspondentes registrados em REVISAO-EXODO.md.
+- Êxodo 1–33 documentados na primeira passada.
+- Próximo capítulo: Êxodo 34.
