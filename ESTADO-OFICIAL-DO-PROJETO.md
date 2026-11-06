@@ -343,3 +343,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas ampliadas em 30:1, 30:13 e 30:35; notas anteriores sobre resgate, especiarias e incenso preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 31:1–18.
+
+
+## Atualização de continuidade — Êxodo 30 (2026-11-06)
+
+- Êxodo 1–30: primeira conferência textual e lexical documentada; Êxodo 30 foi acrescentado ao registro REVISAO-EXODO.md.
+- Correções em Êxodo 30:7, 30:23 e 30:32; correção da chave duplicada das notas em 30:13.
+- Êxodo continua em **Em revisão** no controle por versículo. A conclusão da primeira passada de um capítulo não equivale à transição individual de cada versículo para **Revisado**.
+- Próximo ponto de trabalho: Êxodo 31:1–18.
+- Gênesis permanece **FECHADO DEFINITIVAMENTE** e fora da fila.
