@@ -133,3 +133,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas acrescentadas em 6:1, 6:3, 6:12, 6:20, 6:26 e 6:30; nota de 6:9 preservada.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 7:1–29.
+
+
+### Continuidade de conteúdo — Êxodo 7 (2026-11-06)
+
+- Êxodo 7:1–29 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas acrescentadas em 7:3, 7:13, 7:14 e 7:15; nota anterior de 7:9 preservada.
+- Distinções registradas: קשה (*qashah*, endurecer), חזק (*chazaq*, fortalecer), כבד (*kaved*, estar pesado); תַּנִּין (*tannin*) e נָחָשׁ (*nachash*).
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 8:1–28.
