@@ -2,14 +2,14 @@
    Revisão lexical e de correspondência versicular; manter notas em exodus-notes-11-15.js. */
 window.EXODUS_TEXT = window.EXODUS_TEXT || {};
 window.EXODUS_TEXT[11] = [
-"YHWH disse a Moisés: «Ainda uma praga trarei sobre o faraó e sobre o Egito; depois disso, ele vos deixará partir daqui. Quando vos deixar partir por completo, certamente vos expulsará daqui.",
+"YHWH disse a Moisés: «Ainda uma praga trarei sobre o faraó e sobre o Egito; depois disso, ele vos deixará partir daqui. Quando vos deixar partir, certamente vos expulsará daqui por completo.",
 "Fala, por favor, aos ouvidos do povo: que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, objetos de prata e objetos de ouro».",
 "YHWH concedeu ao povo favor aos olhos dos egípcios. Além disso, o próprio Moisés era muito estimado na terra do Egito, aos olhos dos servos do faraó e aos olhos do povo.",
-"Moisés disse: «Assim diz YHWH: À meia-noite sairei pelo meio do Egito.",
+"Moisés disse: «Assim diz YHWH: Por volta da meia-noite sairei pelo meio do Egito.",
 "Todo primogênito na terra do Egito morrerá, desde o primogênito do faraó, que se assenta em seu trono, até o primogênito da serva que está atrás do moinho, e todo primogênito dos animais.",
 "Haverá grande clamor em toda a terra do Egito, como nunca houve e como jamais voltará a haver.",
 "Mas contra nenhum dos filhos de Israel um cão sequer afiará a língua, nem contra homem nem contra animal, para que saibais que YHWH faz distinção entre o Egito e Israel.",
-"Então todos estes teus servos descerão até mim, se curvarão diante de mim e dirão: ‘Sai, tu e todo o povo que te segue’. Depois disso, sairei». E Moisés saiu da presença do faraó ardendo em ira.",
+"Então todos estes teus servos descerão até mim, se prostrarão diante de mim e dirão: ‘Sai, tu e todo o povo que te segue’. Depois disso, sairei». E Moisés saiu da presença do faraó ardendo em ira.",
 "YHWH disse a Moisés: «O faraó não vos dará ouvidos, para que meus sinais se multipliquem na terra do Egito».",
 "Moisés e Arão fizeram todos esses sinais diante do faraó; mas YHWH fortaleceu o coração do faraó, e ele não deixou os filhos de Israel sair de sua terra."
 ];
