@@ -1,0 +1,54 @@
+# Relatório de auditoria global — Números
+
+Data: 6 de novembro de 2026  
+Repositório: `gjgaugusto-bot/biblic`
+
+## Resultado
+
+- 36 de 36 capítulos integrados.
+- 1.288 versículos presentes, com as contagens por capítulo conferidas.
+- Nenhum versículo vazio encontrado.
+- Todos os blocos dos capítulos e das notas têm fechamento estrutural detectável.
+- Nenhuma chave de nota lexical duplicada.
+- Nenhuma nota lexical aponta para versículo inexistente.
+- Os arquivos de dados, notas e controle editorial estão carregados no `index.html`, com versões de cache atualizadas.
+
+## Contagem por capítulo
+
+| Capítulo | Versículos | Capítulo | Versículos |
+|---:|---:|---:|---:|
+| 1 | 54 | 19 | 22 |
+| 2 | 34 | 20 | 29 |
+| 3 | 51 | 21 | 35 |
+| 4 | 49 | 22 | 41 |
+| 5 | 31 | 23 | 30 |
+| 6 | 27 | 24 | 25 |
+| 7 | 89 | 25 | 18 |
+| 8 | 26 | 26 | 65 |
+| 9 | 23 | 27 | 23 |
+| 10 | 36 | 28 | 31 |
+| 11 | 35 | 29 | 40 |
+| 12 | 16 | 30 | 16 |
+| 13 | 33 | 31 | 54 |
+| 14 | 45 | 32 | 42 |
+| 15 | 41 | 33 | 56 |
+| 16 | 50 | 34 | 29 |
+| 17 | 13 | 35 | 34 |
+| 18 | 32 | 36 | 13 |
+| **Total** | **1.288** | | |
+
+## Limites desta auditoria
+
+Esta é uma auditoria estrutural/editorial do repositório, não uma aprovação textual versículo por versículo. As revisões anteriores foram realizadas em lotes e com profundidade desigual; não é correto afirmar que todos os 1.288 versículos já foram colacionados integralmente contra uma edição crítica hebraica.
+
+Limitações de cobertura de fontes identificadas:
+- Números 10: a página BHS consultada nesta verificação expôs somente os versículos 1–10, não o capítulo completo.
+- Números 11: a página BHS consultada expôs somente os versículos 1–15, não o capítulo completo.
+- Números 25: a conferência registrada anteriormente usou também Mechon-Mamre e Sefaria como testemunhos massoréticos auxiliares, pois a página BHS não estava acessível.
+- Números 27–36: as páginas oficiais BHS foram abertas, mas a extração textual disponível nesta auditoria não forneceu o texto hebraico integral de todos esses capítulos. Portanto, a cobertura completa por capítulo não fica demonstrada por este relatório.
+
+## Estado editorial
+
+Números permanece **em revisão**. A integração e a auditoria estrutural estão concluídas; a colação textual integral, a verificação de escolhas lexicais e a resolução das lacunas de fonte permanecem pendentes. Nenhum status de “revisado” foi atribuído com base apenas na contagem ou na integridade do código.
+
+A revisão é editorial interna e não equivale a certificação acadêmica independente nem a uma colação crítica de variantes manuscritas.
