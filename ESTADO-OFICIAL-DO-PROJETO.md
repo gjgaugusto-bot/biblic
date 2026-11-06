@@ -142,3 +142,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Distinções registradas: קשה (*qashah*, endurecer), חזק (*chazaq*, fortalecer), כבד (*kaved*, estar pesado); תַּנִּין (*tannin*) e נָחָשׁ (*nachash*).
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 8:1–28.
+
+
+### Continuidade de conteúdo — Êxodo 8 (2026-11-06)
+
+- Êxodo 8:1–28 conferido integralmente contra o Texto Massorético.
+- Ajuste em 8:5 para explicitar a nuance idiomática “Toma para ti a honra de escolher”.
+- Notas acrescentadas/ampliadas em 8:5, 8:12, 8:15, 8:17, 8:19, 8:22 e 8:26.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 9:1–35.
