@@ -301,3 +301,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Notas lexicais acrescentadas em 25:29 e 25:38; notas anteriores preservadas.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 26:1–37.
+
+
+### Continuidade de conteúdo — Êxodo 26 (2026-11-06)
+
+- Êxodo 26:1–37 conferido integralmente contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas ampliadas em 26:17, 26:24 e 26:36 sobre encaixes, armações dos cantos e a cortina de entrada.
+- Notas anteriores do capítulo preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 27:1–21.
