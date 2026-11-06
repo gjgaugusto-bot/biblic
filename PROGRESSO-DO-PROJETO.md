@@ -771,3 +771,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Êxodo 35:1–35 passou pela primeira conferência textual e lexical; ajustes em 35:11, 35:24, 35:25 e 35:33 e notas correspondentes registrados em REVISAO-EXODO.md.
 - Êxodo 1–35 documentados na primeira passada.
 - Próximo capítulo: Êxodo 36.
+
+
+## 2026-11-06 — encerramento de Êxodo 1–40
+
+- Conferência textual e lexical integral de Êxodo 36–40 concluída.
+- Ajustes registrados: 36:22 “espigas encaixadas uma na outra”; 37:23 “pinças e bandejas para recolher as cinzas”; 38:21 “sob a supervisão de Itamar”; 39:30 “lâmina do diadema sagrado”.
+- Notas e fontes finais adicionadas em `REVISAO-EXODO.md`.
+- **Êxodo 1–40: REVISADO** no estado editorial. O painel foi atualizado para migrar todos os versículos de Êxodo para Revisado, preservando registros Reaberto.
+- Gênesis permanece fechado definitivamente e fora da fila.
+- Próximo ponto: Levítico 1.
