@@ -625,3 +625,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas sintáticas em 18:19 e 18:23; notas anteriores de 18:1, 18:3, 18:11 e 18:21 preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 19:1–25.
+
+
+## 2026-11-06 — revisão de Êxodo 19:1–25
+
+- Conferência integral do capítulo 19 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 19:22 sobre יִפְרֹץ (*yifrotz*), “irromper/abrir brecha”; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 20:1–26.
