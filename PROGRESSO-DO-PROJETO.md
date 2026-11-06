@@ -470,3 +470,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nenhuma reescrita geral foi feita. As escolhas interpretativas incertas foram mantidas como notas.
 - O registro textual da passagem está em `REVISAO-EXODO.md`. O painel ainda mantém os versículos de Êxodo em “Em revisão” até que as transições individuais sejam registradas nele com fonte e observação.
 - Próximo ponto: Êxodo 2:1–25.
+
+
+## 2026-11-06 — revisão de Êxodo 2:1–25
+
+- Conferência integral do capítulo 2 contra o Texto Massorético.
+- Correção em Êxodo 2:12: “escondeu-o na areia” → “enterrou-o na areia” (טמן, *taman*, ocultar/enterrar; no contexto, ocultação de cadáver na areia).
+- Notas acrescentadas em 2:2, 2:3, 2:12, 2:17 e 2:25; notas de 2:10 e 2:22 mantidas.
+- Nenhuma reescrita ampla; a ambiguidade lexical foi preservada nas notas.
+- Próximo ponto de revisão: Êxodo 3:1–22.
