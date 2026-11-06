@@ -96,7 +96,7 @@ window.EXODUS_TEXT[14] = [
 "O faraó dirá dos filhos de Israel: ‘Estão confusos na terra; o deserto os encurralou’.",
 "Endurecerei o coração do faraó, e ele os perseguirá; serei glorificado por meio do faraó e de todo o seu exército, e os egípcios saberão que eu sou YHWH». E assim fizeram.",
 "Foi anunciado ao rei do Egito que o povo havia fugido. Então o coração do faraó e de seus servos se voltou contra o povo, e disseram: «Que foi que fizemos, deixando Israel sair de nosso serviço?»",
-"Ele preparou seu carro e tomou consigo seu povo.",
+"Ele atrelou seu carro e tomou consigo seu povo.",
 "Tomou seiscentos carros escolhidos e todos os carros do Egito, com oficiais sobre todos eles.",
 "YHWH endureceu o coração do faraó, rei do Egito, e ele perseguiu os filhos de Israel; os filhos de Israel, porém, saíam de mão erguida.",
 "Os egípcios os perseguiram — todos os cavalos e carros do faraó, seus cavaleiros e seu exército — e os alcançaram acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom.",
