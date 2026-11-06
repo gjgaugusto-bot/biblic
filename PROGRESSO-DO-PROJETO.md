@@ -459,3 +459,14 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Workflow Proteção do site, run 42269297633 (run 270), passou integralmente: sintaxe, validação estrutural, instalação do Chromium, servidor local, testes Playwright e axe-core. O teste confirmou 66 livros, navegação, edição, estados editoriais, backup/exportação/importação, limpeza, responsividade e acessibilidade.
 - PR #36 contém a implementação e as correções; main e o site publicado permanecem sem alteração. Não houve integração nem deploy.
 - Próximo ponto de conteúdo: continuar Êxodo com a revisão acadêmica versículo por versículo em hebraico, usando REVISAO-EXODO.md e preservando a integração já feita dos capítulos 1–40. Depois avançar em ordem até Apocalipse.
+
+
+## 2026-11-06 — Padronização editorial da interface
+
+- Branch de trabalho: `ajustes-editoriais-interface-2026-11-06`, criada a partir do HEAD de `main`.
+- Ajustado o aviso inicial para deixar explícito que os textos traduzidos disponíveis são versões próprias de trabalho e que a disponibilidade e o estágio de revisão variam por livro.
+- Padronizados os nomes exibidos das categorias para **Cores bíblicas** e **Tipologias bíblicas**, preservando as chaves internas e os dados existentes da biblioteca.
+- Corrigida a orientação do painel lexical: as notas não se limitam a Êxodo; a instrução agora se aplica aos livros que possuem notas lexicais.
+- Ampliado `scripts/browser-smoke.mjs` para verificar o aviso inicial, os nomes padrão das categorias e a orientação do editor lexical.
+- Arquivos alterados: `index.html`, `app.js`, `scripts/browser-smoke.mjs` e este registro.
+- Pull Request #38 aberto para revisão: https://github.com/gjgaugusto-bot/biblic/pull/38. Workflow `Proteção do site` iniciado no commit `6f0ffb876a97611affb541b3953035d78b74ae09`; sintaxe e validação estrutural já passaram, enquanto a instalação/teste Chromium ainda estavam em execução na última consulta. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.

@@ -42,6 +42,11 @@ try {
   }
 
   await scanAccessibility(page, "início");
+  assert.match(await page.locator(".translation-notice").innerText(), /textos traduzidos disponíveis.*estágio de revisão variam conforme o livro/i, "O aviso deve deixar claro que a disponibilidade e a revisão variam por livro");
+  await page.locator('.navbtn[data-view="symbols"]').click();
+  assert.equal(await page.locator('.study-category[data-study-category="Cores"]').innerText(), "Cores bíblicas", "A categoria de cores deve usar o nome padronizado");
+  assert.equal(await page.locator('.study-category[data-study-category="Tipologias"]').innerText(), "Tipologias bíblicas", "A categoria de tipologias deve usar o nome padronizado");
+  await page.locator('.navbtn[data-view="home"]').click();
   assert.equal(await page.locator(".book-illustration[aria-hidden=\"true\"]").count(), 66, "As gravuras são decorativas e não devem duplicar os nomes dos livros");
 
   assert.equal(await page.locator("#search").count(), 0, "A página inicial não deve exibir o campo de busca removido");
@@ -65,6 +70,7 @@ try {
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
+  assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
   await page.locator("#editBook").selectOption("0");
   await page.locator("#editChapter").selectOption("4");
   assert.ok(await page.locator("#editorialReviewPanel").innerText().then(text => text.includes("Revisado:")),"O painel deve mostrar o estado migrado de Gênesis");
