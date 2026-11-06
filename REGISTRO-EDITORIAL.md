@@ -146,3 +146,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 8:1–28.
+
+
+### Êxodo 8:1–28
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 8:5 para “Toma para ti a honra de escolher”, refletindo a expressão idiomática hitpa'er alai.
+- Notas lexicais em 8:5, 8:12, 8:15, 8:17, 8:19, 8:22 e 8:26.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 9:1–35.
