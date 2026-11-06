@@ -261,3 +261,12 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 21:1–36.
+
+
+### Êxodo 21:1–36
+- Conferência textual integral concluída contra o Texto Massorético.
+- Ajuste em 21:23 para “se houver dano”, sem o adjetivo “grave” não expresso no hebraico.
+- Notas anteriores preservadas, incluindo a ambiguidade de 21:22–23.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 22:1–31.
