@@ -660,3 +660,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota lexical acrescentada em 22:29; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 23:1–33.
+
+
+## 2026-11-06 — revisão de Êxodo 23:1–33
+
+- Conferência integral do capítulo 23 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical acrescentada em 23:26 sobre perda gestacional e infertilidade; notas anteriores preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 24:1–18.
