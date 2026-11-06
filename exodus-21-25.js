@@ -25,7 +25,7 @@ window.EXODUS_TEXT[21] = [
   "Quando alguém ferir seu servo ou sua serva com um bastão, e este morrer sob sua mão, será punido.",
   "Mas, se sobreviver um ou dois dias, não será punido, pois é propriedade de seu senhor.",
   "Quando homens brigarem e atingirem uma mulher grávida, e ela der à luz prematuramente, mas não houver dano grave, o responsável pagará a multa que o marido exigir, conforme a decisão dos juízes.",
-  "Mas, se houver dano grave, pagarás vida por vida,",
+  "Mas, se houver dano, pagarás vida por vida,",
   "olho por olho, dente por dente, mão por mão, pé por pé,",
   "queimadura por queimadura, ferida por ferida, golpe por golpe.",
   "Quando alguém ferir o olho de seu servo ou de sua serva e o destruir, deverá deixá-lo livre por causa do olho.",
