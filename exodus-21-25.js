@@ -165,7 +165,7 @@ window.EXODUS_TEXT[25] = [
   "Colocarás sobre a mesa o pão da Presença, continuamente diante de mim.",
   "Farás um candelabro de ouro puro. O candelabro será feito de ouro batido: sua base, sua haste, seus cálices, seus botões e suas flores formarão uma só peça.",
   "Seis braços sairão de seus lados: três braços do candelabro de um lado e três do outro.",
-  "Em um braço haverá três cálices em forma de flor de amendoeira, cada um com botão e flor; e no outro braço, três cálices em forma de flor de amendoeira, cada um com botão e flor. Assim serão os seis braços que saem do candelabro.",
+  "Em cada um dos seis braços que saem do candelabro haverá três cálices em forma de flor de amendoeira, cada um com botão e flor.",
   "Na haste do candelabro haverá quatro cálices em forma de flor de amendoeira, com seus botões e flores.",
   "Haverá um botão debaixo de cada par dos seis braços que saem do candelabro.",
   "Seus botões e seus braços formarão uma só peça com ele; tudo será uma só peça de ouro puro, batido.",
