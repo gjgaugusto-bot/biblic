@@ -215,3 +215,12 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Registradas as opções de sentido de ve'anvehu, a imagem de ned, a expressão nora tehilot e a metáfora de plantar Israel.
 - Registro detalhado e fontes em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 16:1–36.
+
+
+### Continuidade de conteúdo — Êxodo 16 (2026-11-06)
+
+- Êxodo 16:1–36 conferido integralmente contra o Texto Massorético.
+- Ajuste em 16:14: “algo fino e granuloso” → “algo fino e em flocos”.
+- Notas ampliadas/acrescentadas em 16:14, 16:15, 16:33 e 16:36; notas anteriores preservadas.
+- Registro detalhado e fontes em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 17:1–16.
