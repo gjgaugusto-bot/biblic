@@ -668,3 +668,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Nota lexical acrescentada em 23:26 sobre perda gestacional e infertilidade; notas anteriores preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 24:1–18.
+
+
+## 2026-11-06 — revisão de Êxodo 24:1–18
+
+- Conferência integral do capítulo 24 contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Notas anteriores de 24:7, 24:8 e 24:10 preservadas.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 25:1–40.
