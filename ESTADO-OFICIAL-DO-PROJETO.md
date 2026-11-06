@@ -123,6 +123,6 @@ Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, 
 - Segunda conferência comparativa de Êxodo 1–5 registrada em `REVISAO-EXODO.md`.
 - Ajuste objetivo em Êxodo 5:16: removida a concessiva “embora”, substituída pela coordenação “e”, conforme a conjunção hebraica וְ.
 - Nota acrescentada para a variação Reuel/Jetro/Yeter em Êxodo 2:18; 3:1; 4:18, preservando as formas do texto e a discussão acadêmica.
-- Êxodo 1–5 permanecem **Em revisão**; não foram marcados como Revisados porque a revisão lexical individual de todas as notas ainda não está concluída.
+- Êxodo 1–5 estão **Revisados** no controle por versículo (122 registros com fonte, observação e histórico de transição). Êxodo 6–40 permanece **Em revisão**.
 - Próximo lote editorial: continuar a segunda conferência de Êxodo 6–10, sem reiniciar a primeira passada já documentada.
 - Branch de trabalho: `revisao-academica-exodo-1-5-2026-11-06`. A validação automatizada e a revisão do PR ainda estão pendentes.
