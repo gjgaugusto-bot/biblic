@@ -57,7 +57,7 @@ window.EXODUS_TEXT[17] = [
   "Josué derrotou Amaleque e seu povo ao fio da espada.",
   "YHWH disse a Moisés: «Escreva isto num livro como memorial e declare-o aos ouvidos de Josué: apagarei completamente a memória de Amaleque de debaixo dos céus».",
   "Moisés construiu um altar e lhe deu o nome de YHWH-Nissi.",
-  "E disse: «Porque uma mão se levantou contra o trono de Yah, YHWH terá guerra contra Amaleque de geração em geração»."
+  "E disse: «Pois uma mão está sobre o trono de Yah: YHWH terá guerra contra Amaleque de geração em geração»."
 ];
 
 window.EXODUS_TEXT[18] = [
