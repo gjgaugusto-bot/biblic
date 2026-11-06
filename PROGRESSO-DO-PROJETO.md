@@ -571,3 +571,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Notas lexicais em 12:3, 12:21 e 12:42; notas anteriores do capítulo preservadas.
 - Referências e justificativas em REVISAO-EXODO.md.
 - Próximo ponto: Êxodo 13:1–22.
+
+
+## 2026-11-06 — revisão de Êxodo 13:1–22
+
+- Conferência integral do capítulo 13 contra o Texto Massorético.
+- Corrigido erro tipográfico em 13:11.
+- Ajustado 13:17 para “o povo não mude de ideia”; corrigida a nota que confundia as raízes נחה (conduzir) e נחם (mudar de ideia).
+- Nota ampliada em 13:18 sobre chamushim e Yam Suf.
+- Referências e justificativas em REVISAO-EXODO.md.
+- Próximo ponto: Êxodo 14:1–31.
