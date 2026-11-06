@@ -398,3 +398,14 @@ Ao terminar uma etapa, atualizar este arquivo e os registros correspondentes com
 - Êxodo permanece **Em revisão** no controle por versículo.
 - Próximo trecho: Êxodo 36:1–38.
 - Gênesis permanece **FECHADO DEFINITIVAMENTE**.
+
+
+## Fechamento editorial — Êxodo 1–40 (2026-11-06)
+
+- **Êxodo 1–40: REVISADO.** Os quarenta capítulos passaram pela primeira conferência textual e lexical integral contra o Texto Massorético, com comparação de traduções e comentários de referência.
+- Ajustes finais em Êxodo 36:22 (encaixes das armações), 37:23 (pinças e bandejas de cinzas), 38:21 (supervisão de Itamar) e 39:30 (lâmina do diadema sagrado).
+- Notas lexicais finais registradas em Êxodo 36–40; fontes e justificativas completas em `REVISAO-EXODO.md`.
+- O controle por versículo passa a iniciar Êxodo 1–40 como **Revisado**, com fonte e observação de encerramento. O histórico local existente será migrado sem apagar reaberturas justificadas.
+- **Critério de encerramento:** “Revisado” significa conferido e aprovado para a versão atual, não promessa de infalibilidade. Ambiguidades textuais reais permanecem registradas. Só reabrir um versículo diante de erro concreto ou fonte relevante, documentando o motivo.
+- **Gênesis continua FECHADO DEFINITIVAMENTE.** Não reiniciar a revisão de Gênesis nem de Êxodo 1–40 por mudança de conversa, memória ou ferramenta.
+- Próximo livro da revisão: **Levítico 1**.
