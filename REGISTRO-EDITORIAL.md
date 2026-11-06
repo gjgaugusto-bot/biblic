@@ -279,3 +279,11 @@ Não repetir a revisão de Êxodo 1 por reinício de conversa. Reabrir apenas se
 - Fontes e justificativas em REVISAO-EXODO.md.
 - Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
 - Próximo trecho pendente: Êxodo 23:1–33.
+
+
+### Êxodo 23:1–33
+- Conferência textual integral concluída contra o Texto Massorético; nenhuma alteração no corpo da tradução.
+- Nota lexical em 23:26 sobre perda gestacional e infertilidade; notas anteriores preservadas.
+- Fontes e justificativas em REVISAO-EXODO.md.
+- Estado operacional no painel: continua “Em revisão” até que cada transição individual seja registrada com fonte e observação.
+- Próximo trecho pendente: Êxodo 24:1–18.
