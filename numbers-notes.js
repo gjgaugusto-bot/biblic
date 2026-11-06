@@ -135,13 +135,13 @@ window.TRANSLATION_NOTES[3][14] = {
   18:{term:"וְנַקֵּה לֹא יְנַקֶּה (venaqeh lo yenaqqeh)",text:"Fórmula enfática: “de modo algum deixa impune”. A misericórdia proclamada não elimina a responsabilidade pelo mal."},
   22:{term:"עֶשֶׂר פְּעָמִים (eser pe'amim)",text:"“Dez vezes”. Número que funciona como expressão de repetidas provas e rebeliões; não exige que se identifiquem dez episódios isolados na narrativa."},
   24:{term:"רוּחַ אַחֶרֶת (ruach acheret)",text:"“Outro espírito”. Caracteriza a disposição diferente de Calebe, que permanece fiel em vez de aderir ao medo coletivo."},
-  34:{term:"תְּנוּאָתִי (tenu'ati)",text:"“Minha oposição/hostilidade”. O substantivo descreve a resposta divina contrária à comunidade rebelde; a forma é rara e sua nuance exata é discutida."},
+  34:{term:"תְּנוּאָתִי (tenu'ati)",text:"“Meu desagrado/minha rejeição”. A forma é rara; no contexto, descreve a consequência da oposição persistente do povo à ordem divina. A nuance exata do substantivo é discutida."},
   45:{term:"חָרְמָה (Chormah)",text:"Hormá, topônimo associado à raiz חרם (cherem), “consagrar à destruição”. A relação etimológica não deve ser tomada como certeza sobre a origem histórica do nome."}
 };
 
 /* Notas lexicais — Números 15. */
 window.TRANSLATION_NOTES[3][15] = {
-  3:{term:"אִשֵּׁה רֵיחַ נִיחֹחַ (ishsheh reach nichoach)",text:"Oferta queimada de aroma apaziguador/agradável. Fórmula cultual que descreve a aceitação ritual da oferta."},
+  3:{term:"אִשֵּׁה רֵיחַ נִיחֹחַ (ishsheh reach nichoach)",text:"“Oferta feita pelo fogo, de aroma agradável”. אִשֶּׁה designa uma oferta apresentada pelo fogo; não é sinônimo lexical perfeito de עֹלָה (holocausto), embora possa acompanhar diferentes tipos de sacrifício."},
   20:{term:"רֵאשִׁית עֲרִסֹתֵכֶם (reshit arisoteikhem)",text:"“Primícias de vossas massas”. Refere-se à contribuição retirada da massa de cereal, posteriormente conhecida na tradição como separação da chalá."},
   24:{term:"בִּשְׁגָגָה (bishgagah)",text:"“Por erro/sem intenção”. A seção distingue a transgressão involuntária da ação deliberada descrita nos versículos 30–31."},
   30:{term:"בְּיָד רָמָה (beyad ramah)",text:"Literalmente, “com mão erguida”. Idioma para agir deliberadamente e com desafio, em contraste com o pecado por inadvertência."},
