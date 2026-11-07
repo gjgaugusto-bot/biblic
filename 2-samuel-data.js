@@ -1,7 +1,7 @@
-/* 2 Samuel — tradução de trabalho própria a partir do hebraico massorético WLC.
-   Fonte: Westminster Leningrad Codex, dados estruturados midvash/bible-data.
-   Livro em andamento: não integrar/publicar antes de completar os 24 capítulos.
-   Branch exclusivo: feat/2-samuel-texto-wlc-2026-11-07. */
+/* 2 Samuel 1–24 — tradução de trabalho própria a partir do hebraico massorético WLC.
+   Fonte: Westminster Leningrad Codex (WLC), cotejado com OSHB.
+   Livro completo: 24 capítulos / 695 versículos; pronto para integração e publicação.
+   Branch exclusivo: feat/2-samuel-texto-wlc-2026-11-07. Revisão editorial aprofundada permanece para a etapa global. */
 window.SECOND_SAMUEL_TEXT = window.SECOND_SAMUEL_TEXT || {};
 window.SECOND_SAMUEL_TEXT[1] = [
 "Depois da morte de Saul, Davi voltou de derrotar os amalequitas e permaneceu dois dias em Ziclague.",
@@ -534,11 +534,11 @@ window.SECOND_SAMUEL_TEXT[18] = [
 "O rei disse: “Afasta-te e fica ali.” Ele se afastou e ficou de pé.",
 "Então chegou o cuxita e disse: “Receba meu senhor, o rei, a boa notícia: hoje YHWH te fez justiça, livrando-te de todos os que se levantaram contra ti.”",
 "O rei perguntou ao cuxita: “O jovem Absalão está bem?” O cuxita respondeu: “Que aconteça aos inimigos de meu senhor, o rei, e a todos os que se levantam contra ti para te fazer mal como aconteceu àquele jovem.”",
-"O rei ficou profundamente abalado; subiu à sala sobre a porta e chorou. Enquanto caminhava, dizia: “Meu filho Absalão! Meu filho, meu filho Absalão! Quem dera eu tivesse morrido em teu lugar! Absalão, meu filho, meu filho!”"
 ];
 
 
 window.SECOND_SAMUEL_TEXT[19] = [
+"O rei ficou profundamente abalado; subiu à sala sobre a porta e chorou. Enquanto caminhava, dizia: “Meu filho Absalão! Meu filho, meu filho Absalão! Quem dera eu tivesse morrido em teu lugar! Absalão, meu filho, meu filho!”",
 "Disseram a Joabe: “Eis que o rei está chorando e lamentando por Absalão.”",
 "Naquele dia, a vitória tornou-se luto para todo o povo, pois o povo ouviu dizer: “O rei está profundamente entristecido por causa de seu filho.”",
 "Naquele dia, o povo entrou furtivamente na cidade, como faz um povo envergonhado quando foge da batalha.",
