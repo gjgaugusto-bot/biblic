@@ -157,7 +157,7 @@ window.SECOND_SAMUEL_TEXT[6] = [
 "Levaram-na da casa de Abinadabe, na colina, com a arca de Deus; Aiô caminhava diante da arca.",
 "Davi e toda a casa de Israel celebravam diante de YHWH com instrumentos de madeira de cipreste, harpas, liras, tamborins, sistros e címbalos.",
 "Quando chegaram à eira de Nacom, Uzá estendeu a mão para a arca de Deus e a segurou, pois os bois a faziam oscilar.",
-A ira de YHWH se acendeu contra Uzá; Deus o feriu ali por sua irreverência, e ele morreu ali, junto à arca de Deus.",
+"A ira de YHWH se acendeu contra Uzá; Deus o feriu ali por sua irreverência, e ele morreu ali, junto à arca de Deus.",
 "Davi ficou indignado porque YHWH irrompera contra Uzá; aquele lugar foi chamado Perez-Uzá, até o dia de hoje.",
 "Naquele dia, Davi teve medo de YHWH e disse: “Como poderá vir a mim a arca de YHWH?”",
 "Davi não quis levar a arca de YHWH para junto de si, na Cidade de Davi; mandou-a para a casa de Obede-Edom, o geteu.",
