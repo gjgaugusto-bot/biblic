@@ -1,6 +1,7 @@
 /* 1 Samuel — tradução de trabalho própria a partir do hebraico massorético.
-   Texto-base: Westminster Leningrad Codex (WLC), com referência ao projeto OSHB.
-   WLC: domínio público; dados de morfologia OSHB: CC BY 4.0.
+   Texto-base: Westminster Leningrad Codex (WLC), em dados estruturados do projeto midvash/bible-data.
+   Atribuição do texto-base: Westminster Leningrad Codex, Westminster Hebrew Institute.
+   Licença WLC: livre para copiar, distribuir e modificar; detalhes em https://tanach.us/Pages/Tanach.xml#License.
    Branch independente: feat/1-samuel-texto-wlc-2026-11-06.
    Revisão editorial/exegética aprofundada será feita após completar os livros. */
 window.FIRST_SAMUEL_TEXT = window.FIRST_SAMUEL_TEXT || {};
