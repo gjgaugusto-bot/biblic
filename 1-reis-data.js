@@ -155,3 +155,5 @@ window.FIRST_KINGS_TEXT[4] = [
   "Simei, filho de Elá, em Benjamim;",
   "Geber, filho de Uri, na terra de Gileade, território de Seom, rei dos amorreus, e de Ogue, rei de Basã. Havia ainda um governador na terra de Judá."
 ];
+
+window.FIRST_KINGS_TEXT[4].push("Judá e Israel eram numerosos como a areia junto ao mar; comiam, bebiam e se alegravam.");
