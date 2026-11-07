@@ -470,3 +470,12 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Ampliado `scripts/browser-smoke.mjs` para verificar o aviso inicial, os nomes padrão das categorias e a orientação do editor lexical.
 - Arquivos alterados: `index.html`, `app.js`, `scripts/browser-smoke.mjs` e este registro.
 - Pull Request #38 aberto para revisão: https://github.com/gjgaugusto-bot/biblic/pull/38. Workflow `Proteção do site` iniciado no commit `6f0ffb876a97611affb541b3953035d78b74ae09`; sintaxe e validação estrutural já passaram, enquanto a instalação/teste Chromium ainda estavam em execução na última consulta. Nenhuma alteração foi integrada à `main` nem publicada no GitHub Pages.
+
+
+## Atualização — integração de Josué (2026-11-06)
+
+- Josué 1–24 foi localizado em branch histórica e integrado seletivamente à versão atual de `main`.
+- Arquivos: `joshua-data.js` (tradução própria de trabalho baseada no WLC/OSHB) e `joshua-notes.js` (notas lexicais); integração ao leitor em `app.js` e carregamento em `index.html`.
+- PR #41: testes de sintaxe, estrutura, Chromium, fluxos funcionais e acessibilidade aprovados; merge squash no commit `4c1d331c48d712de88fd8b6c8b41579bef718175`.
+- Estado de Josué: texto integrado; revisão exegética final pendente. Próximo livro: Juízes.
+- O workflow de publicação foi iniciado após o merge; seu resultado precisa ser confirmado separadamente.
