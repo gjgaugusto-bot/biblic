@@ -116,3 +116,13 @@ Expandir `scripts/browser-smoke.mjs` para testar explicitamente busca e filtros 
 ### Instrução para a próxima sessão/modelo
 
 Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, `PROTOCOLO-DE-TRABALHO.md`, `REGISTRO-EDITORIAL.md` e os relatórios do livro em andamento. Não confiar em memória da conversa para decidir o estado do repositório; verificar a branch `main` e preservar todo trabalho existente. Não reiniciar Gênesis nem reconstruir livros já integrados. Continuar com lotes grandes, registrar alterações e validar antes de publicar.
+
+
+## ADENDO DE CONTINUIDADE — integração de Josué (2026-11-06)
+
+- Josué foi localizado na branch histórica `feat/josue-texto-wlc-2026-11-06`; seu conteúdo foi transplantado seletivamente para uma branch limpa derivada do HEAD atualizado de `main`, sem incorporar os commits antigos não relacionados.
+- **Josué 1–24:** tradução própria de trabalho integrada em `joshua-data.js`, baseada no Texto Massorético por meio do Westminster Leningrad Codex (WLC) / Open Scriptures Hebrew Bible; notas lexicais em `joshua-notes.js`.
+- Integridade estrutural conferida: 24 capítulos e contagens de versículos presentes em todos os capítulos. A revisão exegética final permanece pendente; a integração não equivale a aprovação acadêmica.
+- PR #41 foi aprovado pelos testes automáticos de sintaxe, estrutura, Chromium, fluxos funcionais e acessibilidade e integrado em `main` pelo commit `4c1d331c48d712de88fd8b6c8b41579bef718175`.
+- A publicação no GitHub Pages foi acionada após a integração; confirmar o resultado do workflow de deploy antes de afirmar que o site público já reflete a alteração.
+- **Próximo livro para integração: Juízes.** Não reabrir os livros anteriores; seguir em ordem até Apocalipse.
