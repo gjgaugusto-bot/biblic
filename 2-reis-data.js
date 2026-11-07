@@ -342,10 +342,10 @@ window.SECOND_KINGS_TEXT[11] = [
   "Joiada fez uma aliança entre o Senhor, o rei e o povo, para que fossem o povo do Senhor; também fez uma aliança entre o rei e o povo.",
   "Todo o povo da terra foi ao templo de Baal e o derrubou. Despedaçaram completamente seus altares e imagens e mataram Matã, sacerdote de Baal, diante dos altares. O sacerdote Joiada estabeleceu guardas para a Casa do Senhor.",
   "Depois tomou os comandantes das centenas, os oficiais, os guardas da escolta e todo o povo da terra. Levaram o rei da Casa do Senhor, desceram pelo portão dos guardas até o palácio real, e o rei se assentou no trono dos reis.",
-  "Todo o povo da terra se alegrou, e a cidade ficou tranquila, depois que Atalia foi morta à espada no palácio real.",
-  "Joás tinha sete anos quando começou a reinar."
+  "Todo o povo da terra se alegrou, e a cidade ficou tranquila, depois que Atalia foi morta à espada no palácio real."
 ];
 window.SECOND_KINGS_TEXT[12] = [
+  "Joás tinha sete anos quando começou a reinar.",
   "No sétimo ano de Jeú, Joás começou a reinar e reinou quarenta anos em Jerusalém. Sua mãe se chamava Zíbia e era de Berseba.",
   "Joás fez o que era reto aos olhos do Senhor durante todos os dias em que foi instruído pelo sacerdote Joiada.",
   "Contudo, os lugares altos não foram removidos; o povo ainda oferecia sacrifícios e queimava incenso nos lugares altos.",
@@ -357,7 +357,6 @@ window.SECOND_KINGS_TEXT[12] = [
   "Joiada, o sacerdote, tomou um cofre, fez um furo na tampa e o colocou ao lado do altar, à direita de quem entrava na Casa do Senhor. Os sacerdotes que guardavam a entrada depositavam nele todo o dinheiro que era trazido à Casa do Senhor.",
   "Quando viam que havia muito dinheiro no cofre, o secretário do rei e o sumo sacerdote subiam, contavam o dinheiro que se encontrava na Casa do Senhor e o colocavam em sacos.",
   "Depois entregavam o dinheiro contado aos responsáveis pela obra, que supervisionavam a Casa do Senhor. Eles o pagavam aos carpinteiros e aos construtores que trabalhavam na Casa do Senhor,",
-  "bem como aos pedreiros e cortadores de pedras. Com ele compravam madeira e pedras lavradas para reparar os danos da Casa do Senhor e cobriam todas as despesas necessárias à restauração.",
   "Não se exigia prestação de contas dos homens a quem entregavam o dinheiro para pagar os trabalhadores, pois agiam com honestidade.",
   "Contudo, o dinheiro trazido à Casa do Senhor não era usado para fazer bacias de prata, apagadores, tigelas, trombetas ou quaisquer utensílios de ouro ou prata para a Casa do Senhor.",
   "Era entregue aos trabalhadores, que o usavam para reparar a Casa do Senhor.",
