@@ -41,3 +41,29 @@ window.JUDGES_TEXT[1] = [
   "Os amorreus insistiram em habitar no monte Heres, em Aijalom e em Saalbim; mas a mão da casa de José pesou sobre eles, e ficaram sujeitos a trabalhos forçados.",
   "O território dos amorreus se estendia desde a subida de Acrabim, desde Sela, e para cima."
 ];
+
+window.JUDGES_TEXT[2] = [
+  "O mensageiro de YHWH subiu de Gilgal a Boquim e disse: “Eu vos fiz subir do Egito e vos trouxe à terra que jurei dar a vossos pais. Também declarei: ‘Jamais quebrarei a minha aliança convosco.’",
+  "Quanto a vós, não fareis aliança com os habitantes desta terra; derrubareis os altares deles. Mas não ouvistes a minha voz. Que é isso que fizestes?",
+  "Por isso também declarei: ‘Não os expulsarei de diante de vós; eles se tornarão adversários para vós, e os deuses deles serão uma armadilha para vós.’”",
+  "Quando o mensageiro de YHWH falou essas palavras a todos os filhos de Israel, o povo ergueu a voz e chorou.",
+  "Chamaram aquele lugar de Boquim e ali ofereceram sacrifícios a YHWH.",
+  "Josué despediu o povo, e os filhos de Israel foram cada um para sua herança, a fim de tomar posse da terra.",
+  "O povo serviu a YHWH todos os dias de Josué e todos os dias dos anciãos que sobreviveram a Josué e que tinham visto toda a grande obra que YHWH fizera por Israel.",
+  "Josué, filho de Num, servo de YHWH, morreu com cento e dez anos.",
+  "Sepultaram-no no território de sua herança, em Timnate-Heres, na região montanhosa de Efraim, ao norte do monte Gaás.",
+  "Toda aquela geração também foi reunida a seus antepassados. Depois dela surgiu outra geração, que não conhecia YHWH nem a obra que ele havia feito por Israel.",
+  "Os filhos de Israel fizeram o que era mau aos olhos de YHWH e serviram aos baalins.",
+  "Abandonaram YHWH, Deus de seus pais, que os havia tirado da terra do Egito, e seguiram outros deuses, dentre os deuses dos povos que estavam ao redor deles; prostraram-se diante deles e provocaram a ira de YHWH.",
+  "Abandonaram YHWH e serviram a Baal e às astarotes.",
+  "A ira de YHWH se acendeu contra Israel, e ele os entregou nas mãos de saqueadores, que os saquearam. Também os vendeu nas mãos dos inimigos ao redor deles, e já não puderam resistir diante de seus inimigos.",
+  "Sempre que saíam para a batalha, a mão de YHWH era contra eles para lhes fazer mal, conforme YHWH havia falado e jurado. E eles ficaram em grande aflição.",
+  "Então YHWH levantou juízes, que os livraram das mãos daqueles que os saqueavam.",
+  "Mas nem mesmo aos seus juízes deram ouvidos; desviaram-se para seguir outros deuses e se prostraram diante deles. Depressa se afastaram do caminho seguido por seus pais, que obedeciam aos mandamentos de YHWH; eles não agiram assim.",
+  "Quando YHWH lhes levantava juízes, YHWH estava com o juiz e os livrava das mãos de seus inimigos durante todos os dias daquele juiz, pois YHWH se compadecia por causa dos gemidos deles diante dos que os oprimiam e afligiam.",
+  "Mas, quando o juiz morria, eles voltavam a agir de modo ainda mais corrupto do que seus pais, seguindo outros deuses, servindo-os e prostrando-se diante deles. Não abandonavam suas práticas nem seu caminho obstinado.",
+  "A ira de YHWH se acendeu contra Israel, e ele disse: “Visto que esta nação transgrediu a minha aliança, que ordenei a seus pais, e não deu ouvidos à minha voz,",
+  "também eu não expulsarei mais de diante deles nenhuma das nações que Josué deixou quando morreu.",
+  "Farei isso para pôr Israel à prova por meio delas, para ver se guardarão o caminho de YHWH, andando nele como seus pais o guardaram, ou não.”",
+  "Assim YHWH permitiu que aquelas nações permanecessem, sem expulsá-las depressa, e não as entregou nas mãos de Josué."
+];
