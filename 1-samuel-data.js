@@ -614,7 +614,8 @@ window.FIRST_SAMUEL_TEXT[20] = [
 
 
 window.FIRST_SAMUEL_TEXT[21] = [
-  "Jônatas se levantou e foi para a cidade. Davi, porém, chegou a Nobe, ao sacerdote Aimeleque. Aimeleque veio tremendo ao encontro de Davi e perguntou: “Por que estás sozinho, sem ninguém contigo?”",
+  "Jônatas se levantou e foi para a cidade.",
+  "Davi chegou a Nobe, ao sacerdote Aimeleque. Aimeleque veio tremendo ao encontro de Davi e perguntou: “Por que estás sozinho, sem ninguém contigo?”",
   "Davi respondeu ao sacerdote Aimeleque: “O rei me encarregou de uma missão e me disse: ‘Ninguém saiba coisa alguma da missão para a qual te envio nem das ordens que te dei.’ Combinei com os jovens um lugar determinado.",
   "Agora, o que tens à mão? Dá-me cinco pães ou o que houver.”",
   "O sacerdote respondeu a Davi: “Não tenho pão comum à mão; há somente pão consagrado, desde que os jovens se tenham guardado de mulheres.”",
