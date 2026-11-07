@@ -1,7 +1,7 @@
-/* Juízes 1 — rascunho de tradução própria a partir do hebraico massorético.
+/* Juízes 1–21 — tradução de trabalho própria a partir do hebraico massorético.
    Texto-base: Westminster Leningrad Codex (WLC), via Open Scriptures Hebrew Bible (OSHB).
    OSHB: https://github.com/openscriptures/morphhb — CC BY 4.0; WLC: domínio público.
-   ESTADO: trabalho em andamento; este módulo não deve ser carregado no site até a integração completa dos 21 capítulos. */
+   ESTADO: 21 capítulos completos, integrados ao leitor e publicados no GitHub Pages. Revisão editorial/exegética aprofundada permanece para a etapa global após a conclusão dos livros. */
 window.JUDGES_TEXT = window.JUDGES_TEXT || {};
 window.JUDGES_TEXT[1] = [
   "Depois da morte de Josué, os filhos de Israel consultaram YHWH, dizendo: “Quem de nós subirá primeiro contra os cananeus para lutar contra eles?”",
