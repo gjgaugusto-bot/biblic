@@ -305,7 +305,7 @@ window.FIRST_SAMUEL_TEXT[12] = [
   "Mas, se persistirdes em fazer o mal, perecereis, tanto vós como vosso rei.”"
 ];
 window.FIRST_SAMUEL_TEXT[13] = [
-  "Saul tinha ... anos quando começou a reinar e reinou ... anos sobre Israel.",
+  "A idade de Saul ao começar a reinar não está preservada no texto hebraico; ele reinou dois anos sobre Israel.",
   "Saul escolheu para si três mil homens de Israel: dois mil estavam com Saul em Micmás e na região montanhosa de Betel, e mil estavam com Jônatas em Gibeá de Benjamim. O restante do povo ele mandou de volta, cada um para sua tenda.",
   "Jônatas atacou a guarnição dos filisteus que estava em Geba, e os filisteus souberam disso. Saul mandou tocar a trombeta por toda a terra, dizendo: “Que os hebreus ouçam!”",
   "Todo Israel ouviu dizer: “Saul atacou a guarnição dos filisteus”, e Israel se tornou odioso aos filisteus. Então o povo foi convocado para seguir Saul em Gilgal.",
