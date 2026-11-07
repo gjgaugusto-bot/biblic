@@ -490,5 +490,5 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 
 - Juízes concluído: 21 capítulos / 618 versículos; branch próprio e PR #43 integrado.
 - Rute concluído: 4 capítulos / 85 versículos; branch próprio e PR #44 integrado.
-- 1 Samuel concluído: 31 capítulos / 811 versículos; branch próprio, commit final `c3be219cbd7eb1cc7e358f41068d0614c8b3ba58`; aguardando PR.
+- 1 Samuel concluído: 31 capítulos / 811 versículos; branch próprio, commit final `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR.
 - Próximo: 2 Samuel.
