@@ -15,8 +15,12 @@ Concluir a Enciclopédia Bíblica, preservando o trabalho existente, e avançar 
 | Gênesis | **FECHADO DEFINITIVAMENTE** | A conferência final da abertura (capítulos 1–3) foi concluída em 2026-11-06. Não reiniciar nem reabrir por nova conversa, preferência estilística ou falta de contexto. |
 | Êxodo 1–40 | **Integrado; revisão acadêmica versículo por versículo ainda pendente** | Texto, notas lexicais e correções estão no projeto. A análise com o hebraico precisa prosseguir sem refazer a integração técnica. |
 | Controle editorial por versículo | **Implementado e validado em Chromium** | PR #36, branch `feat/controle-editorial-versiculos-2026-11-06`. Workflow `42269297633` passou em sintaxe, estrutura, Chromium, testes funcionais e axe-core. Aguardando decisão de integração/publicação. |
-| Demais livros | **Aguardando sequência editorial** | Não começar antes de estabilizar a etapa atual; avançar em ordem até Apocalipse. |
-| Site publicado | **Não alterado por esta etapa** | O PR #36 não foi integrado nem publicado; `main` e o site público permanecem intactos. |
+| Josué | **Completo e publicado** | 24 capítulos / 658 versículos; PR #41 integrado à main. |
+| Juízes | **Completo e publicado** | 21 capítulos / 618 versículos; PR #43 integrado à main. |
+| Rute | **Completo e publicado** | 4 capítulos / 85 versículos; PR #44 integrado à main. |
+| 1 Samuel | **Completo no branch; aguardando PR** | 31 capítulos / 811 versículos; tradução de trabalho baseada no WLC; branch `feat/1-samuel-texto-wlc-2026-11-06`. |
+| Próximo livro | **2 Samuel** | Criar branch próprio e avançar em ordem. |
+| Site publicado | **Conteúdo atualizado** | Josué, Juízes e Rute estão integrados à `main`; 1 Samuel aguarda integração após validação do PR. |
 
 ## Regra definitiva para Gênesis
 
@@ -45,8 +49,8 @@ Concluir a Enciclopédia Bíblica, preservando o trabalho existente, e avançar 
 1. [x] Corrigir a falha Playwright: `translation-notes.js` agora inicializa os capítulos antes de anexar notas. O workflow `42269297633` passou integralmente.
 2. [x] Revisar o diff do PR #36 e registrar o estado; a branch está 25 commits à frente e 0 atrás de `main`.
 3. [x] Concluir a conferência final de Gênesis 1–3 e registrar Gênesis como fechado definitivamente.
-4. Próximo: retomar a revisão acadêmica de Êxodo, aproveitando o texto e as notas já integrados; não reconstruir o livro.
-5. Seguir livro por livro até Apocalipse, atualizando o registro ao fim de cada unidade concluída.
+4. Prioridade atual definida pelo proprietário: completar os 66 livros antes de iniciar a revisão editorial/exegética aprofundada.
+5. Próximo livro: 2 Samuel, em branch exclusivo. Seguir em ordem até Apocalipse, completando cada livro antes de integrá-lo.
 
 ## Arquivos que toda nova sessão deve consultar
 
@@ -126,3 +130,16 @@ Antes de qualquer trabalho, ler este adendo, `CHECKUP-FUNCIONAL-2026-11-06.md`, 
 - PR #41 foi aprovado pelos testes automáticos de sintaxe, estrutura, Chromium, fluxos funcionais e acessibilidade e integrado em `main` pelo commit `4c1d331c48d712de88fd8b6c8b41579bef718175`.
 - A publicação no GitHub Pages foi acionada após a integração; confirmar o resultado do workflow de deploy antes de afirmar que o site público já reflete a alteração.
 - **Próximo livro para integração: Juízes.** Não reabrir os livros anteriores; seguir em ordem até Apocalipse.
+
+
+## Atualização de continuidade — sequência de conteúdo (2026-11-06)
+
+Prioridade atual confirmada pelo proprietário: **concluir primeiro os 66 livros; deixar a revisão editorial/exegética aprofundada para depois**. Cada livro deve ter seu próprio branch. Não publicar capítulos parciais.
+
+- **Josué:** 24/24 capítulos, 658 versículos; publicado na `main` (PR #41).
+- **Juízes:** 21/21 capítulos, 618 versículos; publicado na `main` (PR #43).
+- **Rute:** 4/4 capítulos, 85 versículos; publicado na `main` (PR #44).
+- **1 Samuel:** 31/31 capítulos, 811 versículos; conteúdo concluído em `feat/1-samuel-texto-wlc-2026-11-06`, commit `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR e publicação.
+- **Próximo:** 2 Samuel, com branch independente.
+
+Fonte textual dos novos livros: texto hebraico massorético (WLC), com tradução de trabalho própria para português. Contagens conferidas capítulo a capítulo. O estado de conteúdo completo não equivale a revisão acadêmica final.

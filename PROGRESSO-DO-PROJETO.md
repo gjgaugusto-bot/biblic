@@ -16,10 +16,15 @@
 
 ## Próxima etapa de conteúdo
 
-- Gênesis é considerado revisado no controle editorial anterior; falta a conferência final de abertura, sem rebaixar os versículos aprovados.
-- Êxodo 1–40 está integrado; a revisão acadêmica versículo por versículo com o hebraico continua pendente/em andamento.
-- Depois de estabilizar o controle editorial, avançar pelos demais livros até Apocalipse.
-- Não marcar capítulo como concluído sem conferência textual, fontes e registro do resultado.
+Prioridade definida pelo proprietário em 2026-11-06: **completar os 66 livros primeiro; revisão editorial/exegética aprofundada depois**. Cada livro deve ter seu próprio branch e só deve ser integrado quando todos os seus capítulos estiverem completos.
+
+- Josué: 24/24 capítulos, 658 versículos — integrado e publicado (PR #41).
+- Juízes: 21/21 capítulos, 618 versículos — integrado e publicado (PR #43).
+- Rute: 4/4 capítulos, 85 versículos — integrado e publicado (PR #44).
+- 1 Samuel: 31/31 capítulos, 811 versículos — conteúdo completo no branch `feat/1-samuel-texto-wlc-2026-11-06`; aguardando PR.
+- Próximo livro: 2 Samuel, em branch próprio.
+- Os textos novos são traduções de trabalho próprias baseadas no hebraico massorético WLC. A contagem de versículos foi conferida por capítulo contra o texto-base.
+- Não marcar capítulo como concluído sem conferência textual, fonte e registro do resultado.
 
 ## Regras editoriais obrigatórias
 
@@ -479,3 +484,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - PR #41: testes de sintaxe, estrutura, Chromium, fluxos funcionais e acessibilidade aprovados; merge squash no commit `4c1d331c48d712de88fd8b6c8b41579bef718175`.
 - Estado de Josué: texto integrado; revisão exegética final pendente. Próximo livro: Juízes.
 - O workflow de publicação foi iniciado após o merge; seu resultado precisa ser confirmado separadamente.
+
+
+## Avanço de conteúdo — 2026-11-06
+
+- Juízes concluído: 21 capítulos / 618 versículos; branch próprio e PR #43 integrado.
+- Rute concluído: 4 capítulos / 85 versículos; branch próprio e PR #44 integrado.
+- 1 Samuel concluído: 31 capítulos / 811 versículos; branch próprio, commit final `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR.
+- Próximo: 2 Samuel.
