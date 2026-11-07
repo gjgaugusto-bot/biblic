@@ -205,3 +205,31 @@ window.JUDGES_TEXT[6] = [
   "Gideão disse a Deus: “Não se acenda a tua ira contra mim, e falarei só mais esta vez. Permite-me fazer uma prova apenas mais esta vez com o velo: que somente o velo fique seco, e haja orvalho sobre toda a terra.”",
   "Deus fez assim naquela noite: somente o velo ficou seco, enquanto havia orvalho sobre toda a terra."
 ];
+
+window.JUDGES_TEXT[7] = [
+  "Jerubaal, isto é, Gideão, levantou-se cedo, com todo o povo que estava com ele, e acamparam junto à fonte de Harode. O acampamento de Midiã ficava ao norte deles, junto ao outeiro de Moré, no vale.",
+  "YHWH disse a Gideão: “O povo que está contigo é numeroso demais para que eu entregue Midiã nas mãos deles; Israel poderia se gloriar contra mim, dizendo: ‘Minha própria mão me salvou.’",
+  "“Agora, pois, proclama aos ouvidos do povo: ‘Quem estiver com medo e tremendo, volte e retire-se do monte Gileade.’” Vinte e dois mil homens voltaram, e dez mil ficaram.",
+  "YHWH disse a Gideão: “O povo ainda é numeroso. Faze-os descer à água, e ali os provarei para ti. A respeito daquele de quem eu te disser: ‘Este irá contigo’, esse irá contigo; mas todo aquele de quem eu te disser: ‘Este não irá contigo’, esse não irá.”",
+  "Ele fez o povo descer à água. YHWH disse a Gideão: “Todo aquele que lamber a água com a língua, como lambe o cão, põe-no à parte; também todo aquele que se ajoelhar para beber.”",
+  "O número dos que lamberam a água levando a mão à boca foi de trezentos homens. Todo o restante do povo se ajoelhou para beber água.",
+  "YHWH disse a Gideão: “Com os trezentos homens que lamberam a água eu vos livrarei e entregarei Midiã nas tuas mãos. Que todo o restante do povo volte, cada um para seu lugar.”",
+  "O povo tomou provisões e suas trombetas; Gideão reteve os trezentos homens de Israel e despediu todos os demais, cada um para sua tenda. O acampamento de Midiã ficava abaixo dele, no vale.",
+  "Naquela noite, YHWH lhe disse: “Levanta-te, desce contra o acampamento, pois o entreguei nas tuas mãos.",
+  "“Mas, se tens medo de descer, vai ao acampamento com Purá, teu servo,",
+  "“e ouvirás o que dizem. Depois disso, tuas mãos serão fortalecidas para descer contra o acampamento.” Então ele desceu com Purá, seu servo, até a extremidade dos homens armados que estavam no acampamento.",
+  "Midiã, Amaleque e todos os filhos do Oriente estavam espalhados pelo vale como gafanhotos em multidão; seus camelos eram incontáveis, como a areia à beira do mar.",
+  "Quando Gideão chegou, um homem contava um sonho a seu companheiro e dizia: “Tive um sonho: um pão de cevada rolava pelo acampamento de Midiã, chegou a uma tenda, bateu contra ela e a derrubou; a tenda caiu por terra.”",
+  "Seu companheiro respondeu: “Isso não é outra coisa senão a espada de Gideão, filho de Joás, homem de Israel. Deus entregou Midiã e todo o acampamento nas mãos dele.”",
+  "Quando Gideão ouviu a narração do sonho e sua interpretação, prostrou-se. Voltou ao acampamento de Israel e disse: “Levantai-vos, pois YHWH entregou o acampamento de Midiã nas vossas mãos.”",
+  "Dividiu os trezentos homens em três grupos e entregou a todos trombetas e cântaros vazios, com tochas dentro dos cântaros.",
+  "Disse-lhes: “Olhai para mim e fazei o mesmo. Quando eu chegar à extremidade do acampamento, fazei como eu fizer.",
+  "“Quando eu e todos os que estiverem comigo tocarmos a trombeta, vós também tocareis as trombetas ao redor de todo o acampamento e gritareis: ‘Por YHWH e por Gideão!’”",
+  "Gideão e os cem homens que estavam com ele chegaram à extremidade do acampamento, no começo da vigília do meio, logo depois da troca dos guardas. Tocaram as trombetas e quebraram os cântaros que tinham nas mãos.",
+  "Os três grupos tocaram as trombetas e quebraram os cântaros. Seguravam as tochas com a mão esquerda e as trombetas com a direita, para tocar; e gritavam: “Espada por YHWH e por Gideão!”",
+  "Cada homem permaneceu em seu lugar ao redor do acampamento, e todo o exército correu, gritou e fugiu.",
+  "Quando os trezentos tocaram as trombetas, YHWH fez com que em todo o acampamento cada homem voltasse sua espada contra o companheiro. O exército fugiu até Bete-Sita, em direção a Zererá, até a margem de Abel-Meolá, perto de Tabate.",
+  "Os homens de Israel foram convocados de Naftali, Aser e todo Manassés, e perseguiram Midiã.",
+  "Gideão enviou mensageiros por toda a região montanhosa de Efraim, dizendo: “Descei ao encontro de Midiã e tomai antes deles as águas até Bete-Bara e o Jordão.” Todos os homens de Efraim foram convocados e tomaram as águas até Bete-Bara e o Jordão.",
+  "Capturaram dois chefes de Midiã, Orebe e Zeebe. Mataram Orebe na rocha de Orebe e Zeebe no lagar de Zeebe; perseguiram Midiã e trouxeram as cabeças de Orebe e Zeebe a Gideão, do outro lado do Jordão."
+];
