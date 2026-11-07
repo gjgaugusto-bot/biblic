@@ -1,4 +1,4 @@
-/* 1 Reis 1–22 — tradução de trabalho própria a partir do hebraico massorético WLC. Fonte textual: Westminster Leningrad Codex, edição digital Midvash/bible-data. Livro completo: 22 capítulos / 816 versículos. Revisão editorial aprofundada reservada à etapa global. */
+/* 1 Reis 1–22 — tradução de trabalho própria a partir do hebraico massorético WLC. Fonte textual: Westminster Leningrad Codex, edição digital Midvash/bible-data. Livro completo: 22 capítulos / 817 versículos. Revisão editorial aprofundada reservada à etapa global. */
 window.FIRST_KINGS_TEXT = window.FIRST_KINGS_TEXT || {};
 window.FIRST_KINGS_TEXT[1] = [
   "O rei Davi estava velho, avançado em idade; cobriam-no com roupas, mas ele não conseguia aquecer-se.",
