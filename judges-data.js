@@ -67,3 +67,37 @@ window.JUDGES_TEXT[2] = [
   "Farei isso para pôr Israel à prova por meio delas, para ver se guardarão o caminho de YHWH, andando nele como seus pais o guardaram, ou não.”",
   "Assim YHWH permitiu que aquelas nações permanecessem, sem expulsá-las depressa, e não as entregou nas mãos de Josué."
 ];
+
+window.JUDGES_TEXT[3] = [
+  "Estas são as nações que YHWH deixou para pôr Israel à prova por meio delas, isto é, todos os que não tinham conhecido nenhuma das guerras de Canaã.",
+  "Ele fez isso somente para que as gerações dos filhos de Israel aprendessem a guerra, ao menos aqueles que antes não a conheciam.",
+  "Eram os cinco governantes dos filisteus, todos os cananeus, os sidônios e os heveus que habitavam a região montanhosa do Líbano, desde o monte Baal-Hermom até a entrada de Hamate.",
+  "Essas nações serviram para pôr Israel à prova, a fim de saber se obedeceriam aos mandamentos de YHWH, que ele havia ordenado a seus pais por meio de Moisés.",
+  "Os filhos de Israel habitaram no meio dos cananeus, dos hititas, dos amorreus, dos ferezeus, dos heveus e dos jebuseus.",
+  "Tomaram as filhas deles por mulheres e deram suas próprias filhas aos filhos deles; e serviram aos deuses dessas nações.",
+  "Os filhos de Israel fizeram o que era mau aos olhos de YHWH. Esqueceram-se de YHWH, seu Deus, e serviram aos baalins e às aserás.",
+  "A ira de YHWH se acendeu contra Israel, e ele os vendeu nas mãos de Cusã-Risataim, rei da Mesopotâmia. Os filhos de Israel serviram a Cusã-Risataim durante oito anos.",
+  "Então os filhos de Israel clamaram a YHWH, e YHWH levantou um libertador para os filhos de Israel, que os libertou: Otniel, filho de Quenaz, irmão mais novo de Calebe.",
+  "O Espírito de YHWH veio sobre ele, e ele julgou Israel. Saiu à guerra, e YHWH entregou Cusã-Risataim, rei da Mesopotâmia, nas mãos dele; sua mão prevaleceu contra Cusã-Risataim.",
+  "Então a terra teve descanso durante quarenta anos. E Otniel, filho de Quenaz, morreu.",
+  "Os filhos de Israel tornaram a fazer o que era mau aos olhos de YHWH. Por isso, YHWH fortaleceu Eglom, rei de Moabe, contra Israel, porque haviam feito o que era mau aos olhos de YHWH.",
+  "Eglom reuniu consigo os filhos de Amom e Amaleque, foi e derrotou Israel; tomaram posse da Cidade das Palmeiras.",
+  "Os filhos de Israel serviram Eglom, rei de Moabe, durante dezoito anos.",
+  "Então os filhos de Israel clamaram a YHWH, e YHWH levantou para eles um libertador: Eúde, filho de Gera, benjamita, homem canhoto. Os filhos de Israel enviaram por meio dele um tributo a Eglom, rei de Moabe.",
+  "Eúde fez para si uma espada de dois gumes, de um côvado de comprimento, e a prendeu sob suas roupas, sobre a coxa direita.",
+  "Apresentou o tributo a Eglom, rei de Moabe. Eglom era um homem muito gordo.",
+  "Quando terminou de apresentar o tributo, despediu o povo que havia carregado o tributo.",
+  "Mas ele voltou, desde as imagens esculpidas que ficavam junto a Gilgal, e disse: “Tenho uma mensagem secreta para ti, ó rei.” O rei respondeu: “Silêncio!” E todos os que estavam com ele saíram.",
+  "Eúde aproximou-se do rei, que estava sentado sozinho na sala fresca de cima, e disse: “Tenho uma mensagem de Deus para ti.” Então o rei se levantou de seu assento.",
+  "Eúde estendeu a mão esquerda, tomou a espada de sobre sua coxa direita e a cravou no ventre do rei.",
+  "O cabo também entrou depois da lâmina, e a gordura se fechou sobre a lâmina, pois ele não retirou a espada do ventre; e os excrementos saíram.",
+  "Eúde saiu pelo vestíbulo, fechou atrás de si as portas da sala de cima e as trancou.",
+  "Depois que ele saiu, os servos do rei chegaram e viram que as portas da sala de cima estavam trancadas. Disseram: “Sem dúvida, ele está aliviando o ventre na sala fresca.”",
+  "Esperaram até ficarem constrangidos, mas o rei não abria as portas da sala de cima. Então pegaram a chave, abriram e viram seu senhor caído no chão, morto.",
+  "Enquanto eles demoravam, Eúde escapou. Passou pelas imagens esculpidas e fugiu para Seirá.",
+  "Quando chegou, tocou a trombeta na região montanhosa de Efraim. Os filhos de Israel desceram com ele da montanha, e ele ia à frente deles.",
+  "Eúde lhes disse: “Segui-me, porque YHWH entregou nas vossas mãos os vossos inimigos, os moabitas.” Eles desceram atrás dele, tomaram os vaus do Jordão que conduziam a Moabe e não permitiram que ninguém atravessasse.",
+  "Naquela ocasião, derrotaram cerca de dez mil moabitas, todos homens robustos e valentes; nenhum deles escapou.",
+  "Naquele dia Moabe foi subjugado sob a mão de Israel, e a terra teve descanso durante oitenta anos.",
+  "Depois dele veio Sangar, filho de Anate. Ele matou seiscentos filisteus com uma aguilhada de bois e também libertou Israel."
+];
