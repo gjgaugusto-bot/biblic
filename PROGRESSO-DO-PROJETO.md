@@ -490,5 +490,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 
 - Juízes concluído: 21 capítulos / 618 versículos; branch próprio e PR #43 integrado.
 - Rute concluído: 4 capítulos / 85 versículos; branch próprio e PR #44 integrado.
-- 1 Samuel concluído: 31 capítulos / 811 versículos; branch próprio, commit final `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR.
-- Próximo: 2 Samuel.
+- 1 Samuel concluído e publicado: 31 capítulos / 811 versículos; PR #45 integrado no commit `eb3cb556a7b5fd262bf59cc9cd866458df9328be`; deploy Pages #805 aprovado.
+- 2 Samuel em andamento no branch exclusivo `feat/2-samuel-texto-wlc-2026-11-07`: capítulos 1–12, 295/695 versículos. Não publicar parcialmente.
+- Próximo: concluir 2 Samuel e então iniciar 1 Reis.
+
+
+## Publicação e continuidade — 2026-11-07
+
+- 1 Samuel foi publicado no site após merge do PR #45; proteção e deploy passaram.
+- 2 Samuel avançou em branch exclusivo até o capítulo 12: 295 de 695 versículos (12/24 capítulos).
+- A regra de publicação permanece: somente integrar o livro após todos os capítulos estarem completos e conferidos.
