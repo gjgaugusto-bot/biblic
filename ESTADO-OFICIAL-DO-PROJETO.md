@@ -139,7 +139,7 @@ Prioridade atual confirmada pelo proprietário: **concluir primeiro os 66 livros
 - **Josué:** 24/24 capítulos, 658 versículos; publicado na `main` (PR #41).
 - **Juízes:** 21/21 capítulos, 618 versículos; publicado na `main` (PR #43).
 - **Rute:** 4/4 capítulos, 85 versículos; publicado na `main` (PR #44).
-- **1 Samuel:** 31/31 capítulos, 811 versículos; conteúdo concluído em `feat/1-samuel-texto-wlc-2026-11-06`, commit `c3be219cbd7eb1cc7e358f41068d0614c8b3ba58`; aguardando PR e publicação.
+- **1 Samuel:** 31/31 capítulos, 811 versículos; conteúdo concluído em `feat/1-samuel-texto-wlc-2026-11-06`, commit `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR e publicação.
 - **Próximo:** 2 Samuel, com branch independente.
 
 Fonte textual dos novos livros: texto hebraico massorético (WLC), com tradução de trabalho própria para português. Contagens conferidas capítulo a capítulo. O estado de conteúdo completo não equivale a revisão acadêmica final.
