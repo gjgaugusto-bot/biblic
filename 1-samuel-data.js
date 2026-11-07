@@ -827,3 +827,66 @@ window.FIRST_SAMUEL_TEXT[28] = [
   "A mulher tinha em casa um bezerro cevado. Apressou-se em abatê-lo, tomou farinha, amassou-a e assou pães sem fermento.",
   "Pôs tudo diante de Saul e de seus servos, e eles comeram. Depois se levantaram e partiram naquela mesma noite."
 ];
+
+
+window.FIRST_SAMUEL_TEXT[29] = [
+  "Os filisteus reuniram todos os seus exércitos em Afeca, enquanto Israel acampava junto à fonte que fica em Jezreel.",
+  "Os governantes dos filisteus marchavam à frente de centenas e milhares, e Davi e seus homens vinham na retaguarda com Aquis.",
+  "Os comandantes dos filisteus perguntaram: “Que fazem aqui estes hebreus?” Aquis respondeu: “Não é este Davi, servo de Saul, rei de Israel? Está comigo há dias e anos, e não encontrei nele falta alguma desde o dia em que veio para mim até hoje.”",
+  "Mas os comandantes dos filisteus se indignaram contra ele e lhe disseram: “Manda esse homem voltar ao lugar que lhe designaste. Não descerá conosco à batalha, para que não se torne nosso adversário durante o combate. Como poderia reconciliar-se com seu senhor? Não seria com as cabeças de nossos homens?",
+  "Não é este Davi, de quem cantavam nas danças: ‘Saul matou seus milhares, e Davi, suas dezenas de milhares’?”",
+  "Aquis chamou Davi e lhe disse: “Tão certo como vive YHWH, tu és honesto, e me agrada que saias e entres comigo no acampamento, pois não encontrei mal em ti desde o dia em que vieste a mim até hoje. Mas os governantes não te aprovam.",
+  "Agora, volta e vai em paz, para que não faças nada que desagrade aos governantes dos filisteus.”",
+  "Davi disse a Aquis: “Mas o que fiz? Que encontraste em teu servo desde o dia em que vim à tua presença até hoje, para que eu não vá lutar contra os inimigos de meu senhor, o rei?”",
+  "Aquis respondeu a Davi: “Sei que és bom aos meus olhos, como um mensageiro de Deus. Mas os comandantes dos filisteus disseram: ‘Ele não subirá conosco à batalha.’",
+  "Agora, levanta-te cedo pela manhã, tu e os servos de teu senhor que vieram contigo. Levantai-vos ao amanhecer e parti assim que houver luz.”",
+  "Davi e seus homens se levantaram cedo para partir pela manhã e voltar à terra dos filisteus. Os filisteus, porém, subiram a Jezreel."
+];
+window.FIRST_SAMUEL_TEXT[30] = [
+  "Quando Davi e seus homens chegaram a Ziclague, ao terceiro dia, os amalequitas haviam invadido o Neguebe e Ziclague. Atacaram Ziclague e a queimaram com fogo.",
+  "Levaram cativas as mulheres e todos os que estavam na cidade, pequenos e grandes. Não mataram ninguém, mas os levaram consigo e seguiram seu caminho.",
+  "Quando Davi e seus homens chegaram à cidade, encontraram-na queimada, e suas mulheres, seus filhos e suas filhas haviam sido levados cativos.",
+  "Davi e o povo que estava com ele levantaram a voz e choraram até não terem mais forças para chorar.",
+  "As duas mulheres de Davi também haviam sido levadas cativas: Ainoã, de Jezreel, e Abigail, mulher de Nabal, do Carmelo.",
+  "Davi ficou em grande angústia, pois o povo falava em apedrejá-lo; todos estavam amargurados por causa de seus filhos e filhas. Davi, porém, fortaleceu-se em YHWH, seu Deus.",
+  "Davi disse ao sacerdote Abiatar, filho de Aimeleque: “Traze-me, por favor, o éfode.” Abiatar trouxe o éfode a Davi.",
+  "Davi consultou YHWH: “Perseguirei esse bando? Conseguirei alcançá-lo?” YHWH lhe respondeu: “Persegue-o, pois certamente o alcançarás e libertarás os cativos.”",
+  "Davi partiu com os seiscentos homens que estavam com ele. Chegaram ao ribeiro de Besor, onde alguns ficaram para trás.",
+  "Davi continuou a perseguição com quatrocentos homens; duzentos ficaram para trás, pois estavam exaustos demais para atravessar o ribeiro de Besor.",
+  "Encontraram no campo um homem egípcio e o levaram a Davi. Deram-lhe pão para comer e água para beber.",
+  "Também lhe deram um pedaço de bolo de figos e dois cachos de passas. Ele comeu, e seu espírito voltou, pois havia três dias e três noites que não comia pão nem bebia água.",
+  "Davi lhe perguntou: “De quem és tu e de onde vens?” Ele respondeu: “Sou um jovem egípcio, servo de um amalequita. Meu senhor me abandonou porque adoeci há três dias.",
+  "Nós invadimos o Neguebe dos queretitas, o território de Judá e o Neguebe de Calebe, e queimamos Ziclague.”",
+  "Davi lhe perguntou: “Podes levar-me até esse bando?” Ele respondeu: “Jura-me por Deus que não me matarás nem me entregarás nas mãos de meu senhor, e te levarei até esse bando.”",
+  "Ele o levou, e eis que os amalequitas estavam espalhados por toda a região, comendo, bebendo e festejando por causa do grande despojo que haviam tomado da terra dos filisteus e da terra de Judá.",
+  "Davi os atacou desde o crepúsculo até a tarde do dia seguinte. Nenhum deles escapou, exceto quatrocentos jovens que montaram em camelos e fugiram.",
+  "Davi recuperou tudo o que os amalequitas haviam tomado; também libertou suas duas mulheres.",
+  "Nada lhes faltou, nem pequeno nem grande, nem filhos nem filhas, nem coisa alguma do despojo que haviam levado. Davi recuperou tudo.",
+  "Davi tomou todas as ovelhas e os bois. Conduziram esses animais à frente do restante do rebanho e diziam: “Este é o despojo de Davi.”",
+  "Davi chegou aos duzentos homens que, exaustos, não o haviam acompanhado e que tinham ficado junto ao ribeiro de Besor. Eles saíram ao encontro de Davi e do povo que estava com ele. Davi se aproximou deles e os saudou.",
+  "Então todos os homens perversos e inúteis que haviam acompanhado Davi disseram: “Visto que não foram conosco, não lhes daremos nada do despojo que recuperamos, exceto a cada um sua mulher e seus filhos. Que os levem e partam.”",
+  "Davi, porém, disse: “Não fareis assim, meus irmãos, com aquilo que YHWH nos deu. Ele nos guardou e entregou em nossas mãos o bando que veio contra nós.",
+  "Quem vos ouviria neste assunto? A parte daquele que desce à batalha será igual à parte daquele que fica junto à bagagem; ambos receberão porções iguais.”",
+  "A partir daquele dia, Davi fez disso estatuto e norma para Israel, até o dia de hoje.",
+  "Quando Davi chegou a Ziclague, enviou parte do despojo aos anciãos de Judá, seus amigos, dizendo: “Eis um presente para vós, tirado do despojo dos inimigos de YHWH.”",
+  "Enviou presentes aos que estavam em Betel, aos de Ramote do Neguebe e aos de Jatir;",
+  "aos de Aroer, aos de Sifmote e aos de Estemoa;",
+  "aos de Racal, às cidades dos jerameelitas e às cidades dos queneus;",
+  "aos de Hormá, aos de Bor-Asã e aos de Ataca;",
+  "aos de Hebrom e a todos os lugares por onde Davi e seus homens haviam andado."
+];
+window.FIRST_SAMUEL_TEXT[31] = [
+  "Os filisteus lutaram contra Israel, e os homens de Israel fugiram diante dos filisteus. Caíram mortos no monte Gilboa.",
+  "Os filisteus perseguiram Saul e seus filhos. Mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.",
+  "A batalha se tornou intensa contra Saul. Os arqueiros o alcançaram, e ele foi gravemente ferido pelos arqueiros.",
+  "Saul disse ao seu escudeiro: “Tira tua espada e atravessa-me com ela, para que estes incircuncisos não venham, me atravessem e abusem de mim.” Mas seu escudeiro não quis, pois estava com muito medo. Então Saul tomou a espada e se lançou sobre ela.",
+  "Quando o escudeiro viu que Saul estava morto, também se lançou sobre sua espada e morreu com ele.",
+  "Assim morreram naquele dia Saul, seus três filhos, seu escudeiro e todos os seus homens.",
+  "Quando os homens de Israel que estavam do outro lado do vale e do outro lado do Jordão viram que o exército de Israel havia fugido e que Saul e seus filhos estavam mortos, abandonaram as cidades e fugiram. Os filisteus vieram e habitaram nelas.",
+  "No dia seguinte, os filisteus vieram para despojar os mortos e encontraram Saul e seus três filhos caídos no monte Gilboa.",
+  "Cortaram a cabeça de Saul, despojaram-no de suas armas e enviaram mensageiros por toda a terra dos filisteus, para anunciar a notícia nos templos de seus ídolos e ao povo.",
+  "Puseram as armas de Saul no templo das Astarotes e prenderam seu corpo à muralha de Bete-Seã.",
+  "Quando os habitantes de Jabes-Gileade souberam o que os filisteus haviam feito a Saul,",
+  "todos os homens valentes se levantaram, caminharam durante toda a noite e retiraram da muralha de Bete-Seã o corpo de Saul e os corpos de seus filhos. Levaram-nos a Jabes e os queimaram ali.",
+  "Depois tomaram seus ossos e os sepultaram debaixo da tamargueira em Jabes. Jejuaram durante sete dias."
+];
