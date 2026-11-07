@@ -1,6 +1,6 @@
 /* 2 Reis — tradução de trabalho própria baseada no texto hebraico massorético WLC.
  * Fonte: Westminster Leningrad Codex, edição digital Midvash/bible-data.
- * Livro em andamento; revisão editorial e exegética global posterior.
+ * Livro completo: 25 capítulos / 719 versículos, com contagens conferidas capítulo a capítulo contra a fonte WLC. Revisão editorial e exegética aprofundada reservada à etapa global.
  */
 window.SECOND_KINGS_TEXT = window.SECOND_KINGS_TEXT || {};
 window.SECOND_KINGS_TEXT[1] = [
