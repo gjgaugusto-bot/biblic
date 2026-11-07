@@ -139,7 +139,16 @@ Prioridade atual confirmada pelo proprietário: **concluir primeiro os 66 livros
 - **Josué:** 24/24 capítulos, 658 versículos; publicado na `main` (PR #41).
 - **Juízes:** 21/21 capítulos, 618 versículos; publicado na `main` (PR #43).
 - **Rute:** 4/4 capítulos, 85 versículos; publicado na `main` (PR #44).
-- **1 Samuel:** 31/31 capítulos, 811 versículos; conteúdo concluído em `feat/1-samuel-texto-wlc-2026-11-06`, commit `b5bb9e74cfb75893a406010cd3746c546f10fa9d`; aguardando PR e publicação.
-- **Próximo:** 2 Samuel, com branch independente.
+- **1 Samuel:** 31/31 capítulos, 811 versículos; PR #45 integrado à `main` no commit `eb3cb556a7b5fd262bf59cc9cd866458df9328be`; GitHub Pages publicado com sucesso (workflow #805).
+- **2 Samuel:** em andamento no branch exclusivo `feat/2-samuel-texto-wlc-2026-11-07`; 12/24 capítulos, 295/695 versículos conferidos; não publicar até completar o livro.
+- **Próximo:** concluir 2 Samuel no branch próprio; depois iniciar 1 Reis em branch independente.
 
 Fonte textual dos novos livros: texto hebraico massorético (WLC), com tradução de trabalho própria para português. Contagens conferidas capítulo a capítulo. O estado de conteúdo completo não equivale a revisão acadêmica final.
+
+
+## Publicação de 1 Samuel e início de 2 Samuel — 2026-11-07
+
+- 1 Samuel: PR #45 integrado por squash em `eb3cb556a7b5fd262bf59cc9cd866458df9328be`.
+- Workflow de proteção #805 e workflow GitHub Pages #805 concluídos com sucesso. O site foi publicado.
+- 2 Samuel: branch `feat/2-samuel-texto-wlc-2026-11-07`; capítulos 1–12 concluídos, 295/695 versículos. Contagens por capítulo conferidas contra WLC; capítulo 6:7 teve correção de sintaxe antes da validação final.
+- Não integrar nem publicar 2 Samuel até completar os 24 capítulos.
