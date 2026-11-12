@@ -69,6 +69,25 @@ try {
   assert.equal(await page.locator('[data-section="characters"]').getAttribute("aria-selected"), "true", "As abas devem funcionar pelo teclado");
   await scanAccessibility(page, "leitor de capítulo");
 
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(43).click();
+  await page.locator('#chapterLinks [data-chapter-number="1"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("Preparei o primeiro relato"), "Atos 1 deve carregar a tradução baseada no grego");
+  assert.equal(await page.locator("#reader .verse-entry").count(), 26, "Atos 1 deve apresentar os 26 versículos da estrutura SBLGNT");
+  await scanAccessibility(page, "Atos capítulo 1");
+  await page.locator("#chapterList").click();
+  await page.locator("#chapterLinks [data-chapter-number=\"2\"]").click();
+  assert.ok((await page.locator("#reader").innerText()).includes("dia de Pentecostes"), "Atos 2 deve carregar a tradução baseada no grego");
+  assert.equal(await page.locator("#reader .verse-entry").count(), 47, "Atos 2 deve apresentar os 47 versículos da estrutura SBLGNT");
+  await scanAccessibility(page, "Atos capítulo 2");
+  const actsPositions = [26,47,26,37,42,15,60,40,43,48,30,25,52,28,41,40,34,28,40,38,40,30,35,27,27,32,44,31];
+  for (let chapter = 3; chapter <= 28; chapter++) {
+    await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), actsPositions[chapter - 1], `Atos ${chapter} deve preservar as posições de versículo e as variantes registradas`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `Atos ${chapter} deve carregar conteúdo`);
+  }
+
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
@@ -192,7 +211,7 @@ try {
     failures.push(`${axeFindings.length} violações detectáveis de acessibilidade`);
   }
   if (failures.length) throw new Error(failures.join("; "));
-  console.log("TESTES DE NAVEGADOR APROVADOS: 66 livros, ficha do livro, capítulo 4, abas, persistência, categorias da biblioteca, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
+  console.log("TESTES DE NAVEGADOR APROVADOS: 66 livros, Atos 1 (26 versículos), Atos 2 (47 posições) e Atos 3–28 (estrutura integral), ficha do livro, capítulo 4, abas, persistência, categorias da biblioteca, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
 } catch (error) {
   console.error("FALHA NOS TESTES DE NAVEGADOR:", error);
   process.exitCode = 1;
