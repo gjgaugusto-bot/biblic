@@ -1,6 +1,6 @@
 /* Ester — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Esth.
- * Progresso: capítulos 1–5 de 10; 91 versículos. Não publicar até concluir e conferir os 10 capítulos.
+ * Progresso: capítulos 1–10 de 10; 167 versículos. Conferência de contagens por capítulo concluída contra o WLC.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.ESTHER_TEXT = window.ESTHER_TEXT || {};
@@ -109,4 +109,95 @@ window.ESTHER_TEXT[5] = [
   "Acrescentou: “Além disso, a rainha Ester não convidou ninguém mais para o banquete que preparou com o rei; somente eu fui chamado. E amanhã também fui convidado por ela, junto com o rei.",
   "Mas tudo isso não me satisfaz enquanto eu vir Mordecai, o judeu, sentado à porta do rei”.",
   "Zeres, sua mulher, e todos os seus amigos lhe disseram: “Prepare-se uma forca de cinquenta côvados de altura. Pela manhã, pede ao rei que Mordecai seja enforcado nela; depois vai alegre com o rei ao banquete”. O conselho agradou a Hamã, e ele mandou preparar a forca."
+];
+
+window.ESTHER_TEXT[6] = [
+  "Naquela noite, o rei perdeu o sono e ordenou que trouxessem o livro dos registros das crônicas; eles foram lidos diante do rei.",
+  "Encontrou-se escrito que Mordecai havia denunciado Bigtã e Teres, dois eunucos do rei que guardavam a entrada e haviam conspirado para assassinar o rei Assuero.",
+  "O rei perguntou: “Que honra e distinção foram concedidas a Mordecai por isso?” Os servidores do rei que o assistiam responderam: “Nada foi feito por ele”.",
+  "O rei perguntou: “Quem está no pátio?” Naquele momento, Hamã havia chegado ao pátio exterior do palácio para pedir ao rei que Mordecai fosse enforcado na forca que preparara para ele.",
+  "Os servidores do rei responderam: “Hamã está no pátio”. O rei disse: “Que entre”.",
+  "Hamã entrou, e o rei lhe perguntou: “O que se deve fazer ao homem a quem o rei deseja honrar?” Hamã pensou consigo: “A quem o rei desejaria honrar mais do que a mim?”",
+  "Hamã respondeu ao rei: “Quanto ao homem a quem o rei deseja honrar,",
+  "que tragam uma veste real que o rei costuma usar e um cavalo em que o rei costuma montar, com uma coroa real sobre sua cabeça.",
+  "Que a veste e o cavalo sejam entregues a um dos mais nobres oficiais do rei. Que vistam o homem a quem o rei deseja honrar, façam-no montar o cavalo pela praça da cidade e proclamem diante dele: ‘Assim se faz ao homem a quem o rei deseja honrar!’”",
+  "O rei disse a Hamã: “Apressa-te, toma a veste e o cavalo, como disseste, e faze isso a Mordecai, o judeu, que está sentado à porta do rei. Não omitas nada do que propuseste”.",
+  "Hamã tomou a veste e o cavalo, vestiu Mordecai, fez com que montasse pela praça da cidade e proclamou diante dele: “Assim se faz ao homem a quem o rei deseja honrar!”",
+  "Depois disso, Mordecai voltou à porta do rei. Hamã, porém, correu para casa, triste e com a cabeça coberta.",
+  "Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo o que lhe havia acontecido. Seus conselheiros e Zeres lhe disseram: “Se Mordecai, diante de quem começaste a cair, é da descendência dos judeus, não prevalecerás contra ele; certamente cairás diante dele”.",
+  "Enquanto ainda falavam com ele, chegaram os eunucos do rei e se apressaram em levar Hamã ao banquete que Ester havia preparado."
+];
+
+window.ESTHER_TEXT[7] = [
+  "O rei e Hamã foram ao banquete com a rainha Ester.",
+  "No segundo dia, enquanto bebiam vinho, o rei perguntou novamente a Ester: “Qual é teu pedido, rainha Ester? Ele te será concedido. Qual é tua solicitação? Até a metade do reino será atendida”.",
+  "A rainha Ester respondeu: “Se encontrei favor aos teus olhos, ó rei, e se parecer bem ao rei, que minha vida me seja concedida como meu pedido, e meu povo como minha solicitação.",
+  "Pois fomos vendidos, eu e meu povo, para sermos destruídos, mortos e exterminados. Se tivéssemos sido vendidos como escravos e escravas, eu teria ficado calada, embora o adversário não pudesse compensar o prejuízo causado ao rei”.",
+  "O rei Assuero perguntou à rainha Ester: “Quem é esse homem? Onde está aquele que ousou fazer tal coisa?”",
+  "Ester respondeu: “O adversário e inimigo é este perverso Hamã”. Hamã ficou aterrorizado diante do rei e da rainha.",
+  "O rei se levantou furioso, deixou o banquete e foi para o jardim do palácio. Hamã ficou para suplicar por sua vida à rainha Ester, pois percebeu que o rei já havia decidido seu destino.",
+  "Quando o rei voltou do jardim ao salão do banquete, Hamã estava caído sobre o leito em que Ester se reclinava. O rei exclamou: “Ainda pretende violentar a rainha na minha presença, dentro do palácio?” Assim que essas palavras saíram da boca do rei, cobriram o rosto de Hamã.",
+  "Harbona, um dos eunucos que serviam ao rei, disse: “Há também uma forca de cinquenta côvados de altura, junto à casa de Hamã, que ele preparou para Mordecai, aquele cuja palavra salvou o rei”. O rei ordenou: “Enforcai Hamã nela!”",
+  "Assim, enforcaram Hamã na forca que ele havia preparado para Mordecai. E a ira do rei se acalmou."
+];
+
+window.ESTHER_TEXT[8] = [
+  "Naquele mesmo dia, o rei Assuero entregou à rainha Ester a casa de Hamã, inimigo dos judeus. Mordecai foi apresentado ao rei, pois Ester havia contado o parentesco que tinha com ele.",
+  "O rei tirou o anel que havia tomado de Hamã e o entregou a Mordecai. Ester encarregou Mordecai da casa de Hamã.",
+  "Ester voltou a falar com o rei. Caiu a seus pés, chorou e suplicou que anulasse o mal planejado por Hamã, o agagita, e o plano que ele havia tramado contra os judeus.",
+  "O rei estendeu o cetro de ouro a Ester, e ela se levantou diante do rei.",
+  "Ela disse: “Se parecer bem ao rei, se encontrei favor diante dele e se esta causa lhe parecer justa, que se escreva uma ordem para revogar as cartas concebidas por Hamã, filho de Hamedata, o agagita, que escreveu para exterminar os judeus em todas as províncias do rei.",
+  "Pois como poderei suportar ver a calamidade que atingirá meu povo? Como poderei suportar a destruição de minha parentela?”",
+  "O rei Assuero disse à rainha Ester e ao judeu Mordecai: “Entreguei a Ester a casa de Hamã, e ele foi enforcado por ter estendido a mão contra os judeus.",
+  "Escrevei, pois, em favor dos judeus, conforme parecer bem a vós, em nome do rei, e selai com o anel real. Pois um documento escrito em nome do rei e selado com seu anel não pode ser revogado”.",
+  "Os escribas do rei foram convocados naquele momento, no terceiro mês, o mês de Sivã, no vigésimo terceiro dia. Escreveram tudo o que Mordecai ordenou aos judeus, aos sátrapas, aos governadores e aos chefes das províncias, desde a Índia até a Etiópia, cento e vinte e sete províncias, a cada província em sua escrita e a cada povo em sua língua; também aos judeus em sua escrita e língua.",
+  "Mordecai escreveu em nome do rei Assuero e selou com o anel real. Enviou as cartas por mensageiros montados em cavalos velozes, criados nas cavalariças reais.",
+  "Nelas, o rei concedia aos judeus de cada cidade o direito de se reunirem e defenderem sua vida, destruindo, matando e exterminando qualquer força armada de qualquer povo ou província que os atacasse, incluindo crianças e mulheres, e saqueando seus bens,",
+  "num só dia, em todas as províncias do rei Assuero, no décimo terceiro dia do décimo segundo mês, o mês de Adar.",
+  "Uma cópia do documento deveria ser promulgada como lei em cada província e anunciada a todos os povos, para que os judeus estivessem preparados naquele dia para se vingar de seus inimigos.",
+  "Os mensageiros, montados nos cavalos reais, partiram apressadamente, impulsionados pela ordem do rei. O decreto também foi publicado na cidadela de Susã.",
+  "Mordecai saiu da presença do rei usando vestes reais azuis e brancas, uma grande coroa de ouro e um manto de linho fino e púrpura. A cidade de Susã exultou e se alegrou.",
+  "Para os judeus houve luz, alegria, júbilo e honra.",
+  "Em cada província e em cada cidade, onde quer que chegasse a ordem e o decreto do rei, os judeus se alegravam, festejavam e celebravam. Muitos dentre os povos da terra se declaravam judeus, pois o temor dos judeus havia caído sobre eles."
+];
+
+window.ESTHER_TEXT[9] = [
+  "No décimo segundo mês, o mês de Adar, no décimo terceiro dia, quando chegou o momento de se cumprir a ordem e o decreto do rei, no dia em que os inimigos dos judeus esperavam dominá-los, aconteceu o contrário: os judeus dominaram os que os odiavam.",
+  "Os judeus se reuniram em suas cidades, em todas as províncias do rei Assuero, para atacar os que procuravam seu mal. Ninguém conseguiu resistir a eles, pois o temor deles havia caído sobre todos os povos.",
+  "Todos os chefes das províncias, os sátrapas, os governadores e os oficiais do rei apoiavam os judeus, pois o temor de Mordecai havia caído sobre eles.",
+  "Mordecai era poderoso no palácio do rei, e sua fama se espalhava por todas as províncias, pois Mordecai se tornava cada vez mais poderoso.",
+  "Os judeus feriram todos os seus inimigos à espada, matando e destruindo-os; fizeram com os que os odiavam conforme sua vontade.",
+  "Na cidadela de Susã, os judeus mataram e destruíram quinhentos homens.",
+  "Também mataram Parsandata, Dalfom, Aspata,",
+  "Porata, Adalia, Aridata,",
+  "Parmasta, Arisai, Aridai e Vaizata,",
+  "os dez filhos de Hamã, filho de Hamedata, inimigo dos judeus. Mas não puseram a mão sobre os despojos.",
+  "Naquele mesmo dia, o número dos mortos na cidadela de Susã foi comunicado ao rei.",
+  "O rei disse à rainha Ester: “Na cidadela de Susã, os judeus mataram e destruíram quinhentos homens e também os dez filhos de Hamã. O que terão feito nas demais províncias do rei? Qual é teu pedido? Ele te será concedido. Qual é ainda tua solicitação? Será atendida”.",
+  "Ester respondeu: “Se parecer bem ao rei, que amanhã também seja concedido aos judeus de Susã fazer conforme o decreto de hoje, e que os dez filhos de Hamã sejam pendurados na forca”.",
+  "O rei ordenou que assim se fizesse. O decreto foi promulgado em Susã, e os dez filhos de Hamã foram pendurados.",
+  "Os judeus de Susã se reuniram também no décimo quarto dia do mês de Adar e mataram trezentos homens em Susã; mas não puseram a mão sobre os despojos.",
+  "Os demais judeus que estavam nas províncias do rei também se reuniram para defender a vida e obter descanso de seus inimigos. Mataram setenta e cinco mil dos que os odiavam, mas não puseram a mão sobre os despojos.",
+  "Isso aconteceu no décimo terceiro dia do mês de Adar; no décimo quarto dia descansaram e fizeram dele um dia de banquete e alegria.",
+  "Os judeus de Susã, porém, reuniram-se no décimo terceiro e no décimo quarto dias; descansaram no décimo quinto dia e fizeram dele um dia de banquete e alegria.",
+  "Por isso, os judeus das aldeias, que habitam nas cidades do interior, fazem do décimo quarto dia do mês de Adar um dia de alegria, banquete e festa, e enviam porções uns aos outros.",
+  "Mordecai registrou esses acontecimentos e enviou cartas a todos os judeus que estavam em todas as províncias do rei Assuero, próximas e distantes,",
+  "ordenando-lhes que celebrassem anualmente o décimo quarto e o décimo quinto dias do mês de Adar,",
+  "como os dias em que os judeus tiveram descanso de seus inimigos e como o mês em que sua tristeza se transformou em alegria e seu luto em festa. Deveriam fazer desses dias de banquete e alegria, enviando porções uns aos outros e presentes aos necessitados.",
+  "Os judeus aceitaram o que haviam começado a fazer e o que Mordecai lhes escrevera.",
+  "Pois Hamã, filho de Hamedata, o agagita, inimigo de todos os judeus, havia planejado destruí-los e lançara o pur, isto é, a sorte, para aterrorizá-los e exterminá-los.",
+  "Mas, quando Ester foi à presença do rei, ele ordenou por escrito que o plano perverso de Hamã contra os judeus recaísse sobre sua própria cabeça, e ele e seus filhos foram pendurados na forca.",
+  "Por isso, chamaram esses dias de Purim, por causa da palavra pur. Assim, em razão de tudo o que estava escrito naquela carta, de tudo o que haviam visto e de tudo o que lhes acontecera,",
+  "os judeus estabeleceram e assumiram para si, para seus descendentes e para todos os que se unissem a eles, que jamais deixariam de celebrar esses dois dias conforme o que estava escrito e no tempo determinado, ano após ano.",
+  "Esses dias seriam lembrados e celebrados em todas as gerações, em cada família, província e cidade. Os dias de Purim jamais desapareceriam entre os judeus, e sua memória não cessaria entre seus descendentes.",
+  "A rainha Ester, filha de Abiail, e o judeu Mordecai escreveram com toda autoridade para confirmar esta segunda carta sobre Purim.",
+  "Enviaram cartas a todos os judeus das cento e vinte e sete províncias do reino de Assuero, com palavras de paz e fidelidade,",
+  "para confirmar esses dias de Purim em suas datas, conforme o judeu Mordecai e a rainha Ester haviam estabelecido para eles e conforme haviam assumido para si e para seus descendentes, com instruções sobre jejuns e lamentações.",
+  "A ordem de Ester confirmou essas disposições acerca de Purim, e tudo foi registrado num livro."
+];
+
+window.ESTHER_TEXT[10] = [
+  "O rei Assuero impôs tributo sobre a terra e sobre as ilhas do mar.",
+  "Todos os atos de seu poder e de sua força, e o relato da grandeza de Mordecai, a quem o rei promoveu, não estão escritos no Livro das Crônicas dos reis da Média e da Pérsia?",
+  "Pois o judeu Mordecai era o segundo depois do rei Assuero, grande entre os judeus e estimado pela multidão de seus irmãos, procurando o bem de seu povo e falando pela paz de toda a sua descendência."
 ];
