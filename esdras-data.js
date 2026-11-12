@@ -1,6 +1,6 @@
 /* Esdras — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ezra.
- * Progresso: capítulos 1–6 de 10; 157 versículos. Não publicar até concluir e conferir os 10 capítulos.
+ * Progresso: capítulos 1–8 de 10; 221 versículos. Não publicar até concluir e conferir os 10 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.EZRA_TEXT = window.EZRA_TEXT || {};
@@ -178,4 +178,74 @@ window.EZRA_TEXT[6] = [
   "Os sacerdotes e os levitas haviam se purificado como um só grupo; todos estavam puros. Abateram o cordeiro da Páscoa por todos os que haviam voltado do cativeiro, por seus irmãos sacerdotes e por si mesmos.",
   "Os filhos de Israel que haviam voltado do cativeiro comeram a Páscoa, juntamente com todos os que se haviam separado da impureza das nações da terra para buscar YHWH, Deus de Israel.",
   "Celebraram a Festa dos Pães sem Fermento durante sete dias, com alegria, pois YHWH os havia alegrado e havia inclinado o coração do rei da Assíria para ajudá-los na obra da casa de Deus, o Deus de Israel."
+];
+
+window.EZRA_TEXT[7] = [
+  "Depois desses acontecimentos, durante o reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
+  "filho de Salum, filho de Zadoque, filho de Aitube,",
+  "filho de Amarias, filho de Azarias, filho de Meraiote,",
+  "filho de Zeraías, filho de Uzi, filho de Buqui,",
+  "filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o sumo sacerdote,",
+  "esse Esdras subiu da Babilônia. Era escriba hábil na Lei de Moisés, que YHWH, Deus de Israel, havia dado. O rei lhe concedeu tudo o que pediu, pois a mão de YHWH, seu Deus, estava sobre ele.",
+  "Também subiram a Jerusalém alguns dos filhos de Israel, dos sacerdotes, dos levitas, dos cantores, dos porteiros e dos servidores do templo, no sétimo ano do rei Artaxerxes.",
+  "Esdras chegou a Jerusalém no quinto mês, no sétimo ano do rei.",
+  "No primeiro dia do primeiro mês, ele iniciou a viagem da Babilônia, e chegou a Jerusalém no primeiro dia do quinto mês, pois a boa mão de seu Deus estava sobre ele.",
+  "Esdras havia disposto o coração para estudar a Lei de YHWH, praticá-la e ensinar em Israel seus estatutos e suas decisões.",
+  "Esta é a cópia do documento que o rei Artaxerxes entregou a Esdras, o sacerdote e escriba, conhecedor das palavras dos mandamentos de YHWH e de seus estatutos para Israel:",
+  "“Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba da Lei do Deus dos céus: paz completa. Agora, pois:",
+  "De minha parte, decreto que qualquer pessoa do povo de Israel, de seus sacerdotes ou levitas que, por vontade própria, desejar ir contigo a Jerusalém, poderá ir.",
+  "Tu és enviado pelo rei e por seus sete conselheiros para investigar Judá e Jerusalém, segundo a Lei de teu Deus que está em tuas mãos,",
+  "e para levar a prata e o ouro que o rei e seus conselheiros ofereceram voluntariamente ao Deus de Israel, cuja morada está em Jerusalém,",
+  "bem como toda a prata e o ouro que encontrares em toda a província da Babilônia, junto com as ofertas voluntárias do povo e dos sacerdotes para a casa de seu Deus em Jerusalém.",
+  "Com esse dinheiro, compra diligentemente novilhos, carneiros e cordeiros, com suas ofertas de cereal e libações, e oferece-os sobre o altar da casa de vosso Deus em Jerusalém.",
+  "O restante da prata e do ouro, tu e teus irmãos podereis usar conforme a vontade de vosso Deus.",
+  "Os utensílios que te forem entregues para o serviço da casa de teu Deus, apresenta-os diante do Deus de Jerusalém.",
+  "Quanto às demais necessidades da casa de teu Deus que couber a ti suprir, poderás fazê-lo com os recursos do tesouro real.",
+  "Eu, o rei Artaxerxes, decreto a todos os tesoureiros da região a oeste do Eufrates que tudo o que Esdras, sacerdote e escriba da Lei do Deus dos céus, vos pedir seja feito com diligência,",
+  "até cem talentos de prata, cem coros de trigo, cem batos de vinho, cem batos de azeite e sal sem limite.",
+  "Tudo o que for ordenado pelo Deus dos céus seja feito com zelo para a casa do Deus dos céus, para que não venha ira contra o reino do rei e de seus filhos.",
+  "Também vos informamos que não é permitido impor tributo, imposto ou pedágio a nenhum dos sacerdotes, levitas, cantores, porteiros, servidores do templo ou trabalhadores desta casa de Deus.",
+  "E tu, Esdras, segundo a sabedoria de teu Deus que está em tuas mãos, designa magistrados e juízes para julgar todo o povo da região a oeste do Eufrates, todos os que conhecem as leis de teu Deus; e ensina-as aos que não as conhecem.",
+  "Todo aquele que não cumprir a Lei de teu Deus e a lei do rei será julgado com rigor: seja condenado à morte, ao exílio, à perda de bens ou à prisão”.",
+  "Bendito seja YHWH, Deus de nossos pais, que colocou no coração do rei o desejo de honrar a casa de YHWH que está em Jerusalém!",
+  "Ele estendeu sua lealdade a mim diante do rei, de seus conselheiros e de todos os poderosos oficiais do rei. Eu me fortaleci, pois a mão de YHWH, meu Deus, estava sobre mim, e reuni alguns dos chefes de Israel para subirem comigo."
+];
+
+window.EZRA_TEXT[8] = [
+  "Estes são os chefes das casas paternas e suas genealogias, os que subiram comigo da Babilônia durante o reinado do rei Artaxerxes:",
+  "dos filhos de Fineias: Gérson; dos filhos de Itamar: Daniel; dos filhos de Davi: Hatus;",
+  "dos filhos de Secanias, dos filhos de Parós: Zacarias, e com ele foram registrados cento e cinquenta homens;",
+  "dos filhos de Paate-Moabe: Elioenai, filho de Zeraías, e com ele duzentos homens;",
+  "dos filhos de Secanias: o filho de Jaaziel, e com ele trezentos homens;",
+  "dos filhos de Adim: Ebede, filho de Jônatas, e com ele cinquenta homens;",
+  "dos filhos de Elão: Jesaías, filho de Atalias, e com ele setenta homens;",
+  "dos filhos de Sefatias: Zebadias, filho de Micael, e com ele oitenta homens;",
+  "dos filhos de Joabe: Obadias, filho de Jeiel, e com ele duzentos e dezoito homens;",
+  "dos filhos de Selomite: o filho de Josifias, e com ele cento e sessenta homens;",
+  "dos filhos de Bebai: Zacarias, filho de Bebai, e com ele vinte e oito homens;",
+  "dos filhos de Azgade: Joanã, filho de Hacatã, e com ele cento e dez homens;",
+  "dos filhos de Adonicão, os últimos, cujos nomes eram Elifelete, Jeiel e Semaías, e com eles sessenta homens;",
+  "dos filhos de Bigvai: Utai e Zabude, e com eles setenta homens.",
+  "Reuni-os junto ao rio que corre para Aava e acampamos ali durante três dias. Observei o povo e os sacerdotes, mas não encontrei ali nenhum levita.",
+  "Então enviei chamar Eliezer, Ariel, Semaías, Elnatã, Jaribe, outro Elnatã, Natã, Zacarias e Mesulão, homens de destaque, e também Joiaribe e Elnatã, homens instruídos.",
+  "Enviei-os a Ido, o chefe, em Casifia, e lhes expliquei o que deveriam dizer a Ido e a seus irmãos, os servidores do templo em Casifia, para que nos trouxessem ministros para a casa de nosso Deus.",
+  "Pela boa mão de nosso Deus sobre nós, trouxeram-nos um homem prudente, dos filhos de Mali, filho de Levi, filho de Israel: Serebias, com seus filhos e irmãos, dezoito homens;",
+  "também Hasabias e, com ele, Jesaías, dos filhos de Merari, com seus irmãos e filhos, vinte homens;",
+  "e dos servidores do templo que Davi e os chefes haviam designado para o serviço dos levitas, duzentos e vinte servidores do templo. Todos foram registrados nominalmente.",
+  "Ali, junto ao rio Aava, proclamei um jejum para que nos humilhássemos diante de nosso Deus e lhe pedíssemos uma viagem segura para nós, para nossos filhos e para todos os nossos bens.",
+  "Pois eu tinha vergonha de pedir ao rei uma escolta de soldados e cavaleiros para nos proteger dos inimigos pelo caminho, porque havíamos dito ao rei: “A mão de nosso Deus está sobre todos os que o buscam, para o bem deles; mas sua força e sua ira estão contra todos os que o abandonam”.",
+  "Assim jejuamos e suplicamos isso ao nosso Deus, e ele ouviu nossa súplica.",
+  "Separei doze dos chefes dos sacerdotes, além de Serebias, Hasabias e dez de seus irmãos.",
+  "Pesei diante deles a prata, o ouro e os utensílios: a oferta para a casa de nosso Deus que o rei, seus conselheiros, seus oficiais e todo o Israel presente haviam oferecido.",
+  "Entreguei-lhes, pesados, seiscentos e cinquenta talentos de prata, utensílios de prata no valor de cem talentos, cem talentos de ouro,",
+  "vinte taças de ouro no valor de mil daricos e dois utensílios de bronze polido, precioso como o ouro.",
+  "Eu lhes disse: “Vós sois consagrados a YHWH, e estes utensílios são consagrados. A prata e o ouro são ofertas voluntárias a YHWH, Deus de vossos pais.",
+  "Vigiai e guardai tudo até que o peseis diante dos chefes dos sacerdotes, dos levitas e dos chefes das casas paternas de Israel, em Jerusalém, nas câmaras da casa de YHWH”.",
+  "Os sacerdotes e os levitas receberam o peso da prata, do ouro e dos utensílios, para levá-los a Jerusalém, à casa de nosso Deus.",
+  "Partimos do rio Aava no décimo segundo dia do primeiro mês, para irmos a Jerusalém. A mão de nosso Deus estava sobre nós e nos livrou das mãos dos inimigos e das emboscadas pelo caminho.",
+  "Chegamos a Jerusalém e permanecemos ali três dias.",
+  "No quarto dia, na casa de nosso Deus, foram pesados a prata, o ouro e os utensílios, sob a responsabilidade de Meremote, filho do sacerdote Urias, e com ele Eleazar, filho de Fineias; junto deles estavam Jozabade, filho de Jesua, e Noadias, filho de Binui, levitas.",
+  "Tudo foi contado e pesado, e o peso total foi registrado naquela ocasião.",
+  "Os que haviam voltado do cativeiro ofereceram holocaustos ao Deus de Israel: doze novilhos por todo Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes como oferta pelo pecado. Tudo isso foi oferecido em holocausto a YHWH.",
+  "Entregaram também os decretos do rei aos sátrapas do rei e aos governadores da região a oeste do Eufrates. Estes apoiaram o povo e a casa de Deus."
 ];
