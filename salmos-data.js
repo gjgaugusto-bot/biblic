@@ -204,7 +204,6 @@ window.PSALMS_TEXT[14] = [
 ];
 
 window.PSALMS_TEXT[15] = [
-  "Salmo de Davi.",
   "YHWH, quem poderá hospedar-se em tua tenda? Quem habitará em teu santo monte?",
   "Aquele que anda com integridade, pratica a justiça e fala a verdade de coração.",
   "Não difama com a língua, não faz mal ao próximo e não lança insulto contra seu vizinho.",
@@ -227,7 +226,6 @@ window.PSALMS_TEXT[16] = [
 ];
 
 window.PSALMS_TEXT[17] = [
-  "Oração de Davi.",
   "Ouve, YHWH, uma causa justa; atende ao meu clamor. Dá ouvidos à minha oração, que não vem de lábios enganosos.",
   "Que meu julgamento venha de tua presença; que teus olhos vejam o que é reto.",
   "Examinaste meu coração, visitaste-me de noite e me provaste; nada encontraste. Minha boca não transgredirá.",
