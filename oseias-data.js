@@ -196,6 +196,7 @@ window.HOSEA_TEXT[11] = [
 ];
 
 window.HOSEA_TEXT[12] = [
+  "Efraim me cerca com mentira, e a casa de Israel, com engano; Judá ainda anda com Deus e é fiel ao Santo.",
   "Efraim se alimenta de vento e persegue o vento oriental; multiplica mentira e violência. Faz aliança com a Assíria e leva azeite ao Egito.",
   "YHWH também tem uma contenda com Judá; punirá Jacó conforme seus caminhos e lhe retribuirá segundo suas obras.",
   "No ventre agarrou o calcanhar de seu irmão e, em sua força, lutou com Deus.",
@@ -227,11 +228,11 @@ window.HOSEA_TEXT[13] = [
   "A culpa de Efraim está guardada; seu pecado está armazenado.",
   "Dores de parto virão sobre ele; é filho insensato, pois não se apresenta a tempo na abertura do ventre.",
   "Eu os resgatarei do poder do mundo dos mortos? Eu os livrarei da morte? Onde estão tuas pragas, ó morte? Onde está tua destruição, ó mundo dos mortos? A compaixão está escondida de meus olhos.",
-  "Embora ele floresça entre os juncos, virá o vento oriental, o vento de YHWH, subindo do deserto; sua fonte secará, e sua nascente ficará vazia. Ele saqueará o tesouro de todos os objetos preciosos.",
-  "Samaria será considerada culpada, pois se rebelou contra seu Deus; cairão pela espada, seus pequeninos serão despedaçados, e suas mulheres grávidas serão rasgadas."
+  "Embora ele floresça entre os juncos, virá o vento oriental, o vento de YHWH, subindo do deserto; sua fonte secará, e sua nascente ficará vazia. Ele saqueará o tesouro de todos os objetos preciosos."
 ];
 
 window.HOSEA_TEXT[14] = [
+  "Samaria será considerada culpada, pois se rebelou contra seu Deus; cairão pela espada, seus pequeninos serão despedaçados, e suas mulheres grávidas serão rasgadas.",
   "Volta, Israel, para YHWH, teu Deus, pois tropeçaste por causa de tua iniquidade.",
   "Tomai convosco palavras e voltai para YHWH; dizei-lhe: “Perdoa toda a iniquidade e recebe o que é bom; ofereceremos o fruto de nossos lábios.",
   "A Assíria não nos salvará; não montaremos em cavalos; nunca mais diremos ‘nosso Deus’ à obra de nossas mãos, pois em ti o órfão encontra compaixão”.",
