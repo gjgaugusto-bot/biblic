@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–6 de 36; 130 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–9 de 36; 201 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -151,4 +151,84 @@ window.SECOND_CHRONICLES_TEXT[6] = [
   "Agora, meu Deus, que teus olhos estejam abertos e teus ouvidos atentos à oração feita neste lugar.",
   "Levanta-te, YHWH Deus, e vem para o lugar de teu repouso, tu e a arca de tua força. Que teus sacerdotes, YHWH Deus, se revistam de salvação, e que teus fiéis se alegrem no bem.",
   "YHWH Deus, não rejeites o rosto do teu ungido; lembra-te das lealdades prometidas a Davi, teu servo”."
+];
+
+window.SECOND_CHRONICLES_TEXT[7] = [
+  "Quando Salomão terminou de orar, desceu fogo dos céus e consumiu o holocausto e os sacrifícios; a glória de YHWH encheu a casa.",
+  "Os sacerdotes não podiam entrar na casa de YHWH, porque a glória de YHWH havia enchido a casa de YHWH.",
+  "Todos os filhos de Israel viram o fogo descer e a glória de YHWH sobre a casa. Ajoelharam-se com o rosto em terra sobre o pavimento, adoraram e deram graças a YHWH: “Porque ele é bom, porque sua lealdade dura para sempre”.",
+  "O rei e todo o povo ofereceram sacrifícios diante de YHWH.",
+  "O rei Salomão ofereceu em sacrifício vinte e dois mil bois e cento e vinte mil ovelhas. Assim, o rei e todo o povo inauguraram a casa de Deus.",
+  "Os sacerdotes permaneciam em seus postos, e os levitas com os instrumentos musicais de YHWH, que o rei Davi havia feito para louvar a YHWH — pois sua lealdade dura para sempre —, acompanhavam os cânticos de louvor de Davi. Os sacerdotes tocavam as trombetas diante deles, e todo o Israel permanecia de pé.",
+  "Salomão consagrou também o meio do pátio que ficava diante da casa de YHWH, pois ali ofereceu os holocaustos e a gordura dos sacrifícios de comunhão. O altar de bronze que Salomão havia feito não podia comportar o holocausto, a oferta de cereal e as porções de gordura.",
+  "Naquela ocasião, Salomão celebrou a festa durante sete dias, e todo o Israel estava com ele: uma assembleia muito grande, desde Lebo-Hamate até o ribeiro do Egito.",
+  "No oitavo dia realizaram uma assembleia solene, pois haviam celebrado a dedicação do altar durante sete dias e a festa durante outros sete dias.",
+  "No vigésimo terceiro dia do sétimo mês, Salomão despediu o povo para suas tendas, alegre e de coração contente pelo bem que YHWH havia feito a Davi, a Salomão e a Israel, seu povo.",
+  "Assim Salomão concluiu a casa de YHWH e o palácio real. Tudo o que Salomão desejou realizar na casa de YHWH e em seu próprio palácio foi bem-sucedido.",
+  "YHWH apareceu a Salomão durante a noite e lhe disse: “Ouvi tua oração e escolhi este lugar para mim como casa de sacrifícios.",
+  "Quando eu fechar os céus e não houver chuva, quando ordenar ao gafanhoto que devore a terra ou enviar peste contra meu povo,",
+  "se meu povo, sobre o qual meu nome é invocado, se humilhar, orar, buscar minha face e abandonar seus maus caminhos, eu ouvirei dos céus, perdoarei seu pecado e curarei sua terra.",
+  "Agora meus olhos estarão abertos e meus ouvidos atentos à oração feita neste lugar.",
+  "Escolhi e consagrei esta casa para que meu nome esteja nela para sempre; meus olhos e meu coração estarão ali todos os dias.",
+  "Quanto a ti, se andares diante de mim como andou Davi, teu pai, e fizeres tudo o que te ordenei, guardando meus estatutos e minhas decisões,",
+  "estabelecerei o trono de teu reino, conforme a aliança que fiz com Davi, teu pai, dizendo: ‘Não te faltará um homem que governe Israel’.",
+  "Mas, se vos desviardes, abandonardes meus estatutos e meus mandamentos que pus diante de vós, e fordes servir a outros deuses e vos prostrardes diante deles,",
+  "eu os arrancarei da minha terra, que lhes dei; e esta casa, que consagrei ao meu nome, lançarei para longe da minha presença. Farei dela motivo de provérbio e de zombaria entre todos os povos.",
+  "Quanto a esta casa, que agora é elevada, todo aquele que passar por ela ficará espantado e perguntará: ‘Por que YHWH fez assim com esta terra e com esta casa?’",
+  "E responderão: ‘Porque abandonaram YHWH, Deus de seus pais, que os tirou da terra do Egito; apegaram-se a outros deuses, prostraram-se diante deles e os serviram. Por isso ele trouxe sobre eles toda esta calamidade’”."
+];
+
+window.SECOND_CHRONICLES_TEXT[8] = [
+  "Ao fim de vinte anos, durante os quais Salomão construiu a casa de YHWH e seu próprio palácio,",
+  "Salomão reconstruiu as cidades que Hurão lhe havia dado e estabeleceu nelas os filhos de Israel.",
+  "Salomão foi a Hamate-Zobá e a conquistou.",
+  "Construiu Tadmor no deserto e todas as cidades-armazéns que havia construído em Hamate.",
+  "Construiu Bete-Horom de cima e Bete-Horom de baixo, cidades fortificadas, com muralhas, portas e ferrolhos;",
+  "também Baalate, todas as cidades-armazéns que pertenciam a Salomão, todas as cidades dos carros e as cidades dos cavaleiros, além de tudo o que Salomão desejou construir em Jerusalém, no Líbano e em todo o território sob seu domínio.",
+  "Quanto a todo o povo que restara dos hititas, amorreus, perizeus, heveus e jebuseus, que não pertenciam a Israel,",
+  "isto é, seus descendentes que permaneceram na terra e que os filhos de Israel não haviam exterminado, Salomão os submeteu a trabalhos forçados, como acontece até hoje.",
+  "Mas Salomão não fez dos filhos de Israel servos para suas obras, pois eles eram homens de guerra, comandantes de seus oficiais, chefes de seus carros e cavaleiros.",
+  "Estes eram os chefes dos supervisores do rei Salomão: duzentos e cinquenta, que exerciam autoridade sobre o povo.",
+  "Salomão fez a filha do faraó subir da Cidade de Davi para o palácio que construíra para ela, pois disse: “Minha mulher não habitará no palácio de Davi, rei de Israel, porque os lugares aos quais chegou a arca de YHWH são santos”.",
+  "Então Salomão ofereceu holocaustos a YHWH sobre o altar de YHWH que havia construído diante do pórtico.",
+  "Oferecia-os segundo a obrigação de cada dia, conforme o mandamento de Moisés, nos sábados, nas luas novas e nas festas fixas, três vezes por ano: na Festa dos Pães sem Fermento, na Festa das Semanas e na Festa das Cabanas.",
+  "Conforme a ordem de Davi, seu pai, estabeleceu as divisões dos sacerdotes para o serviço e as dos levitas para suas funções: louvar e servir diante dos sacerdotes, segundo a tarefa de cada dia. Também estabeleceu os porteiros em suas divisões, em cada porta, pois assim havia ordenado Davi, homem de Deus.",
+  "Não se desviaram do mandamento do rei relativo aos sacerdotes, aos levitas nem aos tesouros, em coisa alguma.",
+  "Toda a organização do trabalho de Salomão foi estabelecida desde o dia em que se lançaram os fundamentos da casa de YHWH até sua conclusão; assim a casa de YHWH ficou terminada.",
+  "Depois Salomão foi a Eziom-Geber e a Elote, à beira-mar, na terra de Edom.",
+  "Hurão enviou-lhe, por meio de seus servos, navios e marinheiros experientes. Eles foram com os servos de Salomão a Ofir, trouxeram de lá quatrocentos e cinquenta talentos de ouro e os entregaram ao rei Salomão."
+];
+
+window.SECOND_CHRONICLES_TEXT[9] = [
+  "A rainha de Sabá ouviu falar da fama de Salomão e veio a Jerusalém para pô-lo à prova com perguntas difíceis. Chegou com uma comitiva muito numerosa, camelos carregados de especiarias, grande quantidade de ouro e pedras preciosas. Apresentou-se a Salomão e lhe falou de tudo o que trazia em seu coração.",
+  "Salomão respondeu a todas as suas perguntas; nada lhe foi tão difícil que não pudesse explicar.",
+  "Quando a rainha de Sabá viu a sabedoria de Salomão, o palácio que havia construído,",
+  "a comida de sua mesa, os lugares de seus oficiais, a organização de seus servos e as roupas deles, seus copeiros e as roupas deles, bem como a escadaria pela qual subia à casa de YHWH, ficou sem fôlego.",
+  "Ela disse ao rei: “É verdadeira a notícia que ouvi em minha terra acerca de tuas realizações e de tua sabedoria.",
+  "Eu não acreditava no que diziam até vir e ver com meus próprios olhos. Eis que não me contaram nem a metade da grandeza de tua sabedoria! Tu superas a fama que ouvi.",
+  "Felizes são teus homens! Felizes estes teus servos, que estão continuamente diante de ti e ouvem tua sabedoria!",
+  "Bendito seja YHWH, teu Deus, que se agradou de ti e te colocou em seu trono como rei para YHWH, teu Deus. Porque teu Deus ama Israel e deseja estabelecê-lo para sempre, ele te constituiu rei sobre eles, para praticares o direito e a justiça”.",
+  "Ela deu ao rei cento e vinte talentos de ouro, grande quantidade de especiarias e pedras preciosas. Nunca houve especiarias como aquelas que a rainha de Sabá deu ao rei Salomão.",
+  "Os servos de Hurão e os servos de Salomão, que traziam ouro de Ofir, também trouxeram madeira de algumim e pedras preciosas.",
+  "O rei fez da madeira de algumim escadarias para a casa de YHWH e para o palácio real, além de liras e harpas para os cantores. Nunca antes se havia visto algo semelhante na terra de Judá.",
+  "O rei Salomão deu à rainha de Sabá tudo o que ela desejou e pediu, além do que ela havia trazido ao rei. Então ela voltou para sua terra, ela e seus servos.",
+  "O peso do ouro que chegava a Salomão em um ano era de seiscentos e sessenta e seis talentos de ouro,",
+  "sem contar o que vinha dos mercadores e comerciantes. Todos os reis da Arábia e os governadores da região também traziam ouro e prata a Salomão.",
+  "O rei Salomão fez duzentos grandes escudos de ouro batido; cada escudo recebeu seiscentos siclos de ouro batido.",
+  "Fez também trezentos escudos menores de ouro batido; cada escudo recebeu trezentos siclos de ouro. O rei os colocou no Palácio da Floresta do Líbano.",
+  "O rei fez um grande trono de marfim e o revestiu de ouro puro.",
+  "O trono tinha seis degraus e um estrado de ouro fixado a ele. Havia braços de cada lado do assento, e dois leões estavam junto aos braços.",
+  "Doze leões ficavam sobre os seis degraus, um de cada lado. Nada semelhante havia sido feito em nenhum outro reino.",
+  "Todos os utensílios de bebida do rei Salomão e todos os utensílios do Palácio da Floresta do Líbano eram de ouro puro. Nos dias de Salomão, a prata não era considerada de grande valor.",
+  "Pois os navios do rei iam a Társis com os servos de Hurão; uma vez a cada três anos chegavam os navios de Társis, trazendo ouro, prata, marfim, macacos e pavões.",
+  "O rei Salomão superou todos os reis da terra em riqueza e sabedoria.",
+  "Todos os reis da terra procuravam a presença de Salomão para ouvir a sabedoria que Deus havia posto em seu coração.",
+  "Cada um trazia seu presente: objetos de prata e de ouro, roupas, armas, especiarias, cavalos e mulas, ano após ano.",
+  "Salomão tinha quatro mil estábulos para cavalos e carros, e doze mil cavaleiros. Ele os distribuiu pelas cidades dos carros e junto ao rei, em Jerusalém.",
+  "Ele dominava todos os reis desde o rio Eufrates até a terra dos filisteus e até a fronteira do Egito.",
+  "O rei tornou a prata tão comum em Jerusalém quanto as pedras, e os cedros tão numerosos quanto os sicômoros da planície.",
+  "Cavalos eram trazidos para Salomão do Egito e de todas as outras terras.",
+  "Os demais feitos de Salomão, dos primeiros aos últimos, não estão escritos nos registros de Natã, o profeta, na profecia de Aías, o silonita, e nas visões de Ido, o vidente, acerca de Jeroboão, filho de Nebate?",
+  "Salomão reinou em Jerusalém sobre todo o Israel durante quarenta anos.",
+  "Salomão repousou com seus pais e foi sepultado na Cidade de Davi, seu pai; Roboão, seu filho, reinou em seu lugar."
 ];
