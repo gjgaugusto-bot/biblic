@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–33 de 36; 739 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–36 de 36; 822 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -841,4 +841,96 @@ window.SECOND_CHRONICLES_TEXT[33] = [
   "Não se humilhou diante de YHWH, como Manassés, seu pai, havia se humilhado; pelo contrário, Amom aumentou sua culpa.",
   "Seus servos conspiraram contra ele e o mataram em seu próprio palácio.",
   "Mas o povo da terra matou todos os que haviam conspirado contra o rei Amom e fez Josias, seu filho, rei em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[34] = [
+  "Josias tinha oito anos quando começou a reinar e reinou trinta e um anos em Jerusalém.",
+  "Fez o que era correto aos olhos de YHWH e andou nos caminhos de Davi, seu antepassado, sem se desviar nem para a direita nem para a esquerda.",
+  "No oitavo ano de seu reinado, ainda jovem, começou a buscar o Deus de Davi, seu antepassado; no décimo segundo ano, começou a purificar Judá e Jerusalém dos lugares altos, dos postes de Aserá, das imagens esculpidas e das imagens fundidas.",
+  "Derrubaram diante dele os altares dos baalins; ele cortou os altares de incenso que estavam acima deles, despedaçou os postes de Aserá, as imagens esculpidas e as imagens fundidas, reduziu-os a pó e o espalhou sobre os túmulos dos que lhes ofereciam sacrifícios.",
+  "Queimou os ossos dos sacerdotes sobre seus altares e purificou Judá e Jerusalém.",
+  "Fez o mesmo nas cidades de Manassés, Efraim e Simeão, até Naftali, em suas ruínas ao redor.",
+  "Derrubou os altares, reduziu a pó os postes de Aserá e as imagens esculpidas, cortou todos os altares de incenso por toda a terra de Israel e depois voltou a Jerusalém.",
+  "No décimo oitavo ano de seu reinado, depois de purificar a terra e a casa, enviou Safã, filho de Azalias, Maaseias, governador da cidade, e Joá, filho de Joacaz, o secretário, para reparar a casa de YHWH, seu Deus.",
+  "Eles foram a Hilquias, o sumo sacerdote, e lhe entregaram o dinheiro que havia sido trazido à casa de Deus e que os levitas porteiros haviam recolhido de Manassés, Efraim e de todo o remanescente de Israel, bem como de todo Judá, Benjamim e dos habitantes de Jerusalém.",
+  "Entregaram o dinheiro aos responsáveis pela obra da casa de YHWH, e estes o repassaram aos trabalhadores que realizavam os reparos e restauravam a casa de YHWH.",
+  "Deram-no aos carpinteiros e construtores para comprarem pedras lavradas e madeira para as armações e para as vigas das casas que os reis de Judá haviam deixado em ruínas.",
+  "Os homens trabalhavam fielmente. À frente deles estavam Jaate e Obadias, levitas dos filhos de Merari, e Zacarias e Mesulão, dos filhos dos coatitas, para supervisionar. Os levitas, todos peritos em instrumentos musicais,",
+  "também dirigiam os carregadores e supervisionavam todos os trabalhadores, em cada serviço. Alguns levitas eram escribas, oficiais e porteiros.",
+  "Quando retiravam o dinheiro que havia sido levado à casa de YHWH, Hilquias, o sacerdote, encontrou o Livro da Lei de YHWH, transmitida por meio de Moisés.",
+  "Hilquias disse ao secretário Safã: “Encontrei o Livro da Lei na casa de YHWH”. E Hilquias entregou o livro a Safã.",
+  "Safã levou o livro ao rei e também lhe informou: “Teus servos estão fazendo tudo o que lhes foi confiado.",
+  "Eles recolheram o dinheiro que se encontrava na casa de YHWH e o entregaram aos supervisores e aos trabalhadores”.",
+  "Safã, o secretário, também informou ao rei: “Hilquias, o sacerdote, me entregou um livro”. E Safã leu nele diante do rei.",
+  "Quando o rei ouviu as palavras da Lei, rasgou suas roupas.",
+  "O rei ordenou a Hilquias, a Aicão, filho de Safã, a Abdom, filho de Mica, a Safã, o secretário, e a Asaías, servo do rei:",
+  "“Ide e consultai YHWH por mim e pelos que restam em Israel e em Judá, acerca das palavras do livro que foi encontrado. Grande é a ira de YHWH que se derramou sobre nós, porque nossos pais não guardaram a palavra de YHWH, fazendo tudo o que está escrito neste livro”.",
+  "Hilquias e os homens enviados pelo rei foram à profetisa Hulda, mulher de Salum, filho de Tocate, filho de Hasra, responsável pelas vestimentas. Ela habitava em Jerusalém, na Cidade Baixa. Falaram com ela a respeito disso.",
+  "Ela lhes respondeu: “Assim diz YHWH, Deus de Israel: Dizei ao homem que vos enviou a mim:",
+  "Assim diz YHWH: Eis que trarei calamidade sobre este lugar e sobre seus habitantes: todas as maldições escritas no livro que foi lido diante do rei de Judá.",
+  "Porque me abandonaram e queimaram incenso a outros deuses, provocando minha ira com todas as obras de suas mãos, minha indignação se derramará sobre este lugar e não será apagada.",
+  "Mas ao rei de Judá, que vos enviou para consultar YHWH, direis: Assim diz YHWH, Deus de Israel, acerca das palavras que ouviste:",
+  "Porque teu coração se tornou sensível e te humilhaste diante de Deus quando ouviste suas palavras contra este lugar e contra seus habitantes; humilhaste-te diante de mim, rasgaste tuas roupas e choraste diante de mim, eu também te ouvi — declaração de YHWH.",
+  "Eis que te reunirei a teus pais, e serás recolhido em paz ao teu túmulo; teus olhos não verão toda a calamidade que trarei sobre este lugar e seus habitantes”. Eles levaram a resposta ao rei.",
+  "Então o rei mandou reunir todos os anciãos de Judá e de Jerusalém.",
+  "O rei subiu à casa de YHWH com todos os homens de Judá, os habitantes de Jerusalém, os sacerdotes, os levitas e todo o povo, do maior ao menor. Leu aos ouvidos deles todas as palavras do Livro da Aliança que havia sido encontrado na casa de YHWH.",
+  "O rei ficou de pé em seu lugar e fez uma aliança diante de YHWH, comprometendo-se a seguir YHWH, guardar seus mandamentos, seus testemunhos e seus estatutos de todo o coração e de toda a alma, e cumprir as palavras da aliança escritas naquele livro.",
+  "Fez todos os que se encontravam em Jerusalém e em Benjamim assumirem esse compromisso. Os habitantes de Jerusalém agiram conforme a aliança de Deus, o Deus de seus pais.",
+  "Josias removeu todas as abominações de todas as terras pertencentes aos filhos de Israel e fez com que todos os que se encontravam em Israel servissem a YHWH, seu Deus. Durante todos os seus dias, não se desviaram de seguir YHWH, Deus de seus pais."
+];
+
+window.SECOND_CHRONICLES_TEXT[35] = [
+  "Josias celebrou em Jerusalém a Páscoa de YHWH. Abateram o cordeiro da Páscoa no décimo quarto dia do primeiro mês.",
+  "Ele designou os sacerdotes para suas funções e os encorajou no serviço da casa de YHWH.",
+  "Disse aos levitas que ensinavam todo o Israel e que eram consagrados a YHWH: “Colocai a arca sagrada na casa que Salomão, filho de Davi, rei de Israel, construiu. Não precisais mais carregá-la sobre os ombros. Agora servi YHWH, vosso Deus, e Israel, seu povo.",
+  "Preparai-vos segundo as casas paternas e as divisões, conforme o registro de Davi, rei de Israel, e o registro de Salomão, seu filho.",
+  "Tomai posição no santuário, segundo as divisões das casas paternas de vossos irmãos, os filhos do povo, e segundo a divisão das casas paternas dos levitas.",
+  "Abatei o cordeiro da Páscoa, consagrai-vos e preparai-o para vossos irmãos, a fim de procederdes conforme a palavra de YHWH transmitida por meio de Moisés”.",
+  "Josias ofereceu ao povo, para os sacrifícios da Páscoa, trinta mil cordeiros e cabritos, além de três mil bois. Tudo isso veio dos bens do rei.",
+  "Seus chefes também fizeram ofertas voluntárias ao povo, aos sacerdotes e aos levitas. Hilquias, Zacarias e Jeiel, líderes da casa de Deus, deram aos sacerdotes dois mil e seiscentos cordeiros para a Páscoa e trezentos bois.",
+  "Conanias, Semaías e Natanael, seus irmãos, bem como Hasabias, Jeiel e Jozabade, chefes dos levitas, deram aos levitas cinco mil cordeiros para a Páscoa e quinhentos bois.",
+  "Assim o serviço foi organizado. Os sacerdotes permaneceram em seus postos, e os levitas, em suas divisões, conforme a ordem do rei.",
+  "Abateram os cordeiros da Páscoa; os sacerdotes aspergiam o sangue recebido de suas mãos, enquanto os levitas retiravam as peles.",
+  "Separaram os holocaustos para distribuí-los às divisões das casas paternas dos filhos do povo, a fim de oferecê-los a YHWH, conforme está escrito no Livro de Moisés. Fizeram o mesmo com os bois.",
+  "Assaram os cordeiros da Páscoa no fogo, conforme o regulamento, e cozinharam as ofertas consagradas em panelas, caldeirões e frigideiras; depois as distribuíram rapidamente a todo o povo.",
+  "Depois prepararam a Páscoa para si e para os sacerdotes, pois os sacerdotes, filhos de Arão, ficaram ocupados oferecendo os holocaustos e as porções de gordura até a noite. Por isso os levitas prepararam a Páscoa para si e para os sacerdotes, filhos de Arão.",
+  "Os cantores, filhos de Asafe, permaneceram em seus postos, conforme a ordem de Davi, de Asafe, de Hemã e de Jedutum, vidente do rei. Os porteiros estavam em cada porta; não precisaram deixar seu serviço, pois seus irmãos levitas prepararam a Páscoa para eles.",
+  "Assim todo o serviço de YHWH foi organizado naquele dia, para celebrar a Páscoa e oferecer holocaustos sobre o altar de YHWH, conforme a ordem do rei Josias.",
+  "Os filhos de Israel que estavam presentes celebraram a Páscoa naquela ocasião e também a Festa dos Pães sem Fermento durante sete dias.",
+  "Não se havia celebrado em Israel uma Páscoa como aquela desde os dias de Samuel, o profeta. Nenhum dos reis de Israel havia celebrado uma Páscoa como a que Josias celebrou, com os sacerdotes, os levitas, todo Judá e Israel que estavam presentes e os habitantes de Jerusalém.",
+  "Essa Páscoa foi celebrada no décimo oitavo ano do reinado de Josias.",
+  "Depois de tudo isso, quando Josias havia preparado a casa, Neco, rei do Egito, subiu para lutar em Carquemis, junto ao Eufrates. Josias saiu ao seu encontro.",
+  "Neco enviou mensageiros a Josias, dizendo: “Que tenho eu contigo, rei de Judá? Não venho hoje contra ti, mas contra outra casa com a qual estou em guerra. Deus me ordenou que me apressasse. Não te oponhas a Deus, que está comigo, para que ele não te destrua”.",
+  "Josias, porém, não se afastou dele; disfarçou-se para lutar contra Neco e não deu ouvidos às palavras de Neco, que vinham da boca de Deus. Foi lutar na planície de Megido.",
+  "Os arqueiros atingiram o rei Josias, e ele disse a seus servos: “Tirai-me daqui, pois estou gravemente ferido”.",
+  "Seus servos o retiraram do carro de guerra, colocaram-no em seu segundo carro e o levaram a Jerusalém. Ele morreu e foi sepultado nos túmulos de seus pais. Todo Judá e Jerusalém lamentaram Josias.",
+  "Jeremias compôs uma lamentação por Josias. Todos os cantores e cantoras falam de Josias em suas lamentações até hoje; isso se tornou costume em Israel. Essas lamentações estão registradas.",
+  "Os demais feitos de Josias e seus atos de lealdade, conforme está escrito na Lei de YHWH,",
+  "bem como seus feitos, dos primeiros aos últimos, estão escritos no Livro dos Reis de Israel e de Judá."
+];
+
+window.SECOND_CHRONICLES_TEXT[36] = [
+  "O povo da terra tomou Jeoacaz, filho de Josias, e o fez rei em Jerusalém, em lugar de seu pai.",
+  "Jeoacaz tinha vinte e três anos quando começou a reinar e reinou três meses em Jerusalém.",
+  "O rei do Egito o destituiu em Jerusalém e impôs à terra um tributo de cem talentos de prata e um talento de ouro.",
+  "O rei do Egito fez Eliaquim, irmão de Jeoacaz, rei sobre Judá e Jerusalém, e mudou seu nome para Jeoaquim. Neco levou Jeoacaz, irmão de Eliaquim, para o Egito.",
+  "Jeoaquim tinha vinte e cinco anos quando começou a reinar e reinou onze anos em Jerusalém. Fez o que era mau aos olhos de YHWH, seu Deus.",
+  "Nabucodonosor, rei da Babilônia, subiu contra ele, prendeu-o com correntes de bronze e o levou para a Babilônia.",
+  "Nabucodonosor também levou para a Babilônia alguns dos utensílios da casa de YHWH e os colocou em seu palácio, em Babilônia.",
+  "Os demais feitos de Jeoaquim, as abominações que praticou e o que se encontrou contra ele estão escritos no Livro dos Reis de Israel e de Judá. Joaquim, seu filho, reinou em seu lugar.",
+  "Joaquim tinha oito anos quando começou a reinar e reinou três meses e dez dias em Jerusalém. Fez o que era mau aos olhos de YHWH.",
+  "Na mudança do ano, o rei Nabucodonosor mandou buscá-lo e levou-o para a Babilônia, juntamente com os objetos preciosos da casa de YHWH. Fez Zedequias, irmão de Joaquim, rei sobre Judá e Jerusalém.",
+  "Zedequias tinha vinte e um anos quando começou a reinar e reinou onze anos em Jerusalém.",
+  "Fez o que era mau aos olhos de YHWH, seu Deus, e não se humilhou diante do profeta Jeremias, que falava da parte de YHWH.",
+  "Também se rebelou contra o rei Nabucodonosor, que o havia feito jurar fidelidade por Deus. Endureceu a cerviz e tornou obstinado o coração, recusando voltar-se para YHWH, Deus de Israel.",
+  "Além disso, todos os chefes dos sacerdotes e o povo multiplicaram suas infidelidades, seguindo todas as abominações das nações, e contaminaram a casa de YHWH, que ele havia consagrado em Jerusalém.",
+  "YHWH, Deus de seus pais, enviou-lhes repetidamente mensagens por meio de seus mensageiros, pois tinha compaixão de seu povo e de sua morada.",
+  "Mas eles zombavam dos mensageiros de Deus, desprezavam suas palavras e ridicularizavam seus profetas, até que a ira de YHWH se levantou contra seu povo, sem que houvesse remédio.",
+  "Então Deus trouxe contra eles o rei dos caldeus. Ele matou à espada seus jovens no santuário, sem poupar rapaz ou moça, velho ou idoso. Deus entregou todos em suas mãos.",
+  "Todos os utensílios da casa de Deus, grandes e pequenos, os tesouros da casa de YHWH e os tesouros do rei e de seus chefes, tudo ele levou para a Babilônia.",
+  "Queimaram a casa de Deus, derrubaram a muralha de Jerusalém, incendiaram todos os seus palácios e destruíram todos os seus objetos preciosos.",
+  "Os que escaparam da espada foram levados cativos para a Babilônia. Tornaram-se servos dele e de seus filhos até o estabelecimento do reino da Pérsia,",
+  "para que se cumprisse a palavra de YHWH anunciada por Jeremias, até que a terra desfrutasse seus sábados. Durante todo o tempo de sua desolação, descansou, até que se completaram setenta anos.",
+  "No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra de YHWH anunciada por Jeremias, YHWH despertou o espírito de Ciro, rei da Pérsia. Ele fez proclamar por todo o seu reino, também por escrito, o seguinte:",
+  "“Assim diz Ciro, rei da Pérsia: YHWH, Deus dos céus, deu-me todos os reinos da terra e me encarregou de construir para ele uma casa em Jerusalém, que está em Judá. Quem dentre vós pertence ao seu povo? Que YHWH, seu Deus, esteja com ele, e que suba!”"
 ];
