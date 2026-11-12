@@ -111,13 +111,13 @@ window.DANIEL_TEXT[3] = [
   "Os sátrapas, prefeitos, governadores e conselheiros do rei se reuniram e viram que o fogo não tivera poder sobre os corpos daqueles homens; nenhum cabelo de suas cabeças fora chamuscado, suas roupas não haviam sido danificadas, e nem cheiro de fogo havia passado sobre eles.",
   "Nabucodonosor declarou: “Bendito seja o Deus de Sadraque, Mesaque e Abede-Nego, que enviou seu mensageiro e livrou seus servos, que confiaram nele, desobedeceram à ordem do rei e entregaram seus corpos, em vez de servir ou adorar outro deus que não fosse seu Deus.",
   "Por isso decreto que todo povo, nação ou língua que disser blasfêmia contra o Deus de Sadraque, Mesaque e Abede-Nego seja despedaçado, e sua casa se torne um monturo, pois não há outro deus que possa livrar dessa maneira”.",
-  "Então o rei promoveu Sadraque, Mesaque e Abede-Nego na província da Babilônia."
+  "Então o rei promoveu Sadraque, Mesaque e Abede-Nego na província da Babilônia.",
+  "O rei Nabucodonosor a todos os povos, nações e línguas que habitam em toda a terra: Paz vos seja multiplicada!",
+  "Parece-me bom declarar os sinais e maravilhas que o Deus Altíssimo realizou em meu favor.",
+  "Quão grandes são seus sinais, e quão poderosas são suas maravilhas! Seu reino é reino eterno, e seu domínio permanece de geração em geração."
 ];
 
 window.DANIEL_TEXT[4] = [
-  "O rei Nabucodonosor a todos os povos, nações e línguas que habitam em toda a terra: Paz vos seja multiplicada!",
-  "Parece-me bom declarar os sinais e maravilhas que o Deus Altíssimo realizou em meu favor.",
-  "Quão grandes são seus sinais, e quão poderosas são suas maravilhas! Seu reino é reino eterno, e seu domínio permanece de geração em geração.",
   "Eu, Nabucodonosor, estava tranquilo em minha casa e próspero em meu palácio.",
   "Tive um sonho que me assustou; as imaginações em meu leito e as visões de minha cabeça me perturbaram.",
   "Por isso ordenei que trouxessem à minha presença todos os sábios da Babilônia, para que me fizessem conhecer a interpretação do sonho.",
@@ -184,11 +184,11 @@ window.DANIEL_TEXT[5] = [
   "TEQUEL — foste pesado na balança e achado em falta.",
   "PERES — teu reino foi dividido e entregue aos medos e persas”.",
   "Então Belsazar ordenou, e vestiram Daniel de púrpura, puseram-lhe um colar de ouro no pescoço e proclamaram que ele seria o terceiro governante do reino.",
-  "Naquela mesma noite Belsazar, rei dos caldeus, foi morto.",
-  "Dario, o medo, recebeu o reino, tendo cerca de sessenta e dois anos."
+  "Naquela mesma noite Belsazar, rei dos caldeus, foi morto."
 ];
 
 window.DANIEL_TEXT[6] = [
+  "Dario, o medo, recebeu o reino, tendo cerca de sessenta e dois anos.",
   "Pareceu bem a Dario constituir sobre o reino cento e vinte sátrapas, para que estivessem por todo o reino,",
   "e sobre eles três altos oficiais, dos quais Daniel era um; os sátrapas prestariam contas a eles, para que o rei não sofresse prejuízo.",
   "Daniel se destacava entre os altos oficiais e os sátrapas, porque havia nele um espírito extraordinário; o rei pensava em colocá-lo sobre todo o reino.",
