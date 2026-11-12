@@ -440,3 +440,55 @@ window.EZEKIEL_TEXT[17] = [
   "No monte alto de Israel o plantarei; produzirá ramos, dará fruto e se tornará cedro majestoso. Debaixo dele habitarão aves de toda espécie; à sombra de seus ramos farão ninho.",
   "Todas as árvores do campo saberão que eu, YHWH, abati a árvore alta e exaltei a árvore baixa, sequei a árvore verde e fiz florescer a árvore seca. Eu, YHWH, falei e o farei”."
 ];
+
+window.EZEKIEL_TEXT[18] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Que quereis dizer ao usar este provérbio acerca da terra de Israel: ‘Os pais comeram uvas verdes, e os dentes dos filhos ficaram embotados’?",
+  "Tão certo como eu vivo”, diz o Senhor YHWH, “nunca mais usareis este provérbio em Israel.",
+  "Eis que todas as almas são minhas; tanto a alma do pai como a alma do filho são minhas. A alma que pecar, essa morrerá.",
+  "Se um homem for justo e praticar direito e justiça,",
+  "não comer nos montes, não levantar os olhos para os ídolos da casa de Israel, não contaminar a mulher de seu próximo nem se aproximar de mulher durante sua impureza,",
+  "não oprimir ninguém, devolver o penhor ao devedor, não roubar, repartir seu pão com o faminto e cobrir o nu com roupa,",
+  "não emprestar com usura nem cobrar juros, afastar sua mão da injustiça e praticar julgamento verdadeiro entre homem e homem,",
+  "andar em meus estatutos e guardar meus julgamentos, praticando a verdade — esse é justo; certamente viverá”, diz o Senhor YHWH.",
+  "Se gerar um filho violento, que derrama sangue e faz qualquer uma dessas coisas,",
+  "e não faz nenhuma dessas coisas, mas come nos montes, contamina a mulher de seu próximo,",
+  "oprime o pobre e o necessitado, rouba, não devolve o penhor, levanta os olhos para os ídolos, pratica abominação,",
+  "empresta com usura e cobra juros — viverá? Não viverá. Fez todas essas abominações; certamente morrerá, e seu sangue estará sobre ele.",
+  "Eis que esse homem gera um filho, que vê todos os pecados que seu pai cometeu; vê e não faz coisas semelhantes:",
+  "não come nos montes, não levanta os olhos para os ídolos da casa de Israel, não contamina a mulher de seu próximo,",
+  "não oprime ninguém, não toma penhor, não rouba, reparte seu pão com o faminto e cobre o nu com roupa,",
+  "afasta sua mão do pobre, não pratica usura nem cobra juros, pratica meus julgamentos e anda em meus estatutos — esse não morrerá pela iniquidade de seu pai; certamente viverá.",
+  "Seu pai, porque praticou extorsão, roubou seu irmão e fez o que não é bom no meio de seu povo, morrerá por sua iniquidade.",
+  "Mas dizeis: ‘Por que o filho não carrega a iniquidade do pai?’ Porque o filho praticou direito e justiça, guardou todos os meus estatutos e os cumpriu; certamente viverá.",
+  "A alma que pecar, essa morrerá. O filho não carregará a iniquidade do pai, nem o pai carregará a iniquidade do filho; a justiça do justo ficará sobre ele, e a maldade do perverso ficará sobre ele.",
+  "Mas, se o perverso se converter de todos os pecados que cometeu, guardar todos os meus estatutos e praticar direito e justiça, certamente viverá; não morrerá.",
+  "Todas as transgressões que cometeu não serão lembradas contra ele; pela justiça que praticou, viverá.",
+  "Acaso tenho prazer na morte do perverso?”, diz o Senhor YHWH, “e não em que se converta de seus caminhos e viva?",
+  "Mas, quando o justo se desviar de sua justiça e praticar iniquidade, fazendo todas as abominações que o perverso faz, viverá? Nenhum de seus atos justos será lembrado; por sua infidelidade e pelo pecado que cometeu, morrerá.",
+  "Contudo dizeis: ‘O caminho do Senhor não é justo’. Ouvi agora, casa de Israel: Meu caminho não é justo? Não são vossos caminhos que não são justos?",
+  "Quando o justo se desviar de sua justiça e praticar iniquidade, morrerá por isso; morrerá por causa da iniquidade que praticou.",
+  "E, quando o perverso se converter de sua perversidade e praticar direito e justiça, conservará sua vida.",
+  "Pois considerou e se converteu de todas as transgressões que praticara; certamente viverá, não morrerá.",
+  "Mas a casa de Israel diz: ‘O caminho do Senhor não é justo’. Acaso meus caminhos não são justos, casa de Israel? Não são vossos caminhos que não são justos?",
+  "Por isso julgarei cada um de vós segundo seus caminhos, casa de Israel”, diz o Senhor YHWH. “Convertei-vos e afastai-vos de todas as vossas transgressões, para que a iniquidade não seja vossa ruína.",
+  "Lançai para longe de vós todas as transgressões que cometestes e fazei para vós um coração novo e um espírito novo. Por que morreríeis, casa de Israel?",
+  "Pois não tenho prazer na morte de quem morre”, diz o Senhor YHWH. “Convertei-vos, pois, e vivei”."
+];
+
+window.EZEKIEL_TEXT[19] = [
+  "Tu, pois, levanta uma lamentação sobre os príncipes de Israel,",
+  "e dize: “Que era tua mãe? Uma leoa entre leões; deitou-se entre leões jovens e criou seus filhotes.",
+  "Criou um de seus filhotes, que se tornou leão jovem; aprendeu a apanhar presa e devorou homens.",
+  "As nações ouviram falar dele; foi apanhado na cova delas, e o levaram com ganchos à terra do Egito.",
+  "Quando ela viu que esperara em vão e sua esperança se perdera, tomou outro de seus filhotes e fez dele leão jovem.",
+  "Ele andava entre os leões, tornou-se leão jovem, aprendeu a apanhar presa e devorou homens.",
+  "Conheceu seus palácios e devastou suas cidades; a terra e tudo o que nela havia ficaram aterrorizados ao som de seu rugido.",
+  "Então as nações das províncias ao redor se puseram contra ele; estenderam sobre ele sua rede, e ele foi apanhado na cova delas.",
+  "Puseram-no numa jaula com ganchos e o levaram ao rei da Babilônia; colocaram-no numa fortaleza, para que sua voz não fosse mais ouvida nos montes de Israel.",
+  "Tua mãe era como videira em tua vinha, plantada junto às águas; era frutífera e cheia de ramos por causa das muitas águas.",
+  "Tinha varas fortes para cetros de governantes; sua estatura se elevou entre os ramos, e foi vista por causa de sua altura e da multidão de seus ramos.",
+  "Mas foi arrancada com furor e lançada por terra; o vento oriental secou seu fruto; suas varas fortes foram quebradas e secaram; o fogo as consumiu.",
+  "Agora está plantada no deserto, em terra seca e sedenta.",
+  "Saiu fogo de uma de suas varas e consumiu seus ramos e frutos; não há nela vara forte, cetro para governar”. Esta é uma lamentação e servirá de lamentação."
+];
