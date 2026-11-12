@@ -2730,3 +2730,99 @@ window.PSALMS_TEXT[135] = [
   "Casa de Levi, bendizei YHWH; vós que temeis YHWH, bendizei YHWH.",
   "Bendito seja YHWH desde Sião, ele que habita em Jerusalém. Aleluia!"
 ];
+
+window.PSALMS_TEXT[136] = [
+  "Dai graças a YHWH, pois ele é bom, porque sua lealdade dura para sempre.",
+  "Dai graças ao Deus dos deuses, porque sua lealdade dura para sempre.",
+  "Dai graças ao Senhor dos senhores, porque sua lealdade dura para sempre.",
+  "Àquele que sozinho faz grandes maravilhas, porque sua lealdade dura para sempre.",
+  "Àquele que fez os céus com sabedoria, porque sua lealdade dura para sempre.",
+  "Àquele que estendeu a terra sobre as águas, porque sua lealdade dura para sempre.",
+  "Àquele que fez os grandes luminares, porque sua lealdade dura para sempre:",
+  "o sol para governar o dia, porque sua lealdade dura para sempre;",
+  "a lua e as estrelas para governarem a noite, porque sua lealdade dura para sempre.",
+  "Àquele que feriu os primogênitos do Egito, porque sua lealdade dura para sempre;",
+  "e tirou Israel do meio deles, porque sua lealdade dura para sempre;",
+  "com mão forte e braço estendido, porque sua lealdade dura para sempre.",
+  "Àquele que dividiu o mar dos Juncos em partes, porque sua lealdade dura para sempre;",
+  "e fez Israel passar pelo meio dele, porque sua lealdade dura para sempre;",
+  "mas precipitou o faraó e seu exército no mar dos Juncos, porque sua lealdade dura para sempre.",
+  "Àquele que conduziu seu povo pelo deserto, porque sua lealdade dura para sempre.",
+  "Àquele que feriu grandes reis, porque sua lealdade dura para sempre;",
+  "e matou reis poderosos, porque sua lealdade dura para sempre:",
+  "Seom, rei dos amorreus, porque sua lealdade dura para sempre;",
+  "e Ogue, rei de Basã, porque sua lealdade dura para sempre;",
+  "e deu a terra deles como herança, porque sua lealdade dura para sempre;",
+  "como herança a Israel, seu servo, porque sua lealdade dura para sempre.",
+  "Àquele que se lembrou de nós em nossa humilhação, porque sua lealdade dura para sempre;",
+  "e nos resgatou de nossos adversários, porque sua lealdade dura para sempre;",
+  "àquele que dá alimento a toda carne, porque sua lealdade dura para sempre.",
+  "Dai graças ao Deus dos céus, porque sua lealdade dura para sempre."
+];
+
+window.PSALMS_TEXT[137] = [
+  "Junto aos rios da Babilônia, ali nos sentamos e choramos, lembrando-nos de Sião.",
+  "Nos salgueiros daquela terra penduramos nossas harpas.",
+  "Pois ali os que nos levaram cativos pediam canções, e nossos opressores, alegria, dizendo: “Cantai para nós um cântico de Sião!”",
+  "Como poderíamos cantar o cântico de YHWH em terra estrangeira?",
+  "Se eu me esquecer de ti, Jerusalém, que minha mão direita se esqueça de sua habilidade.",
+  "Que minha língua se apegue ao céu da boca, se eu não me lembrar de ti, se não colocar Jerusalém acima de minha maior alegria.",
+  "Lembra-te, YHWH, dos filhos de Edom no dia de Jerusalém, que diziam: “Arrasai-a, arrasai-a até os fundamentos!”",
+  "Filha da Babilônia, destinada à destruição, feliz aquele que te retribuir o que nos fizeste.",
+  "Feliz aquele que agarrar teus pequeninos e os esmagar contra a rocha."
+];
+
+window.PSALMS_TEXT[138] = [
+  "De Davi. Eu te darei graças de todo o coração; diante dos deuses cantarei louvores a ti.",
+  "Prostrar-me-ei em direção a teu santo templo e darei graças a teu nome por tua lealdade e tua verdade, pois engrandeceste tua palavra acima de todo o teu nome.",
+  "No dia em que clamei, tu me respondeste; fortaleceste minha alma com vigor.",
+  "Todos os reis da terra te darão graças, YHWH, quando ouvirem as palavras de tua boca.",
+  "Cantarão sobre os caminhos de YHWH, pois grande é a glória de YHWH.",
+  "Embora YHWH seja elevado, vê o humilde; mas conhece de longe o arrogante.",
+  "Ainda que eu ande em meio à angústia, tu me preservarás vivo; estenderás tua mão contra a ira de meus inimigos, e tua direita me salvará.",
+  "YHWH completará o que me diz respeito; tua lealdade, YHWH, dura para sempre. Não abandones as obras de tuas mãos."
+];
+
+window.PSALMS_TEXT[139] = [
+  "Ao regente do coro. Salmo de Davi. YHWH, tu me sondaste e me conheces.",
+  "Sabes quando me sento e quando me levanto; de longe compreendes meu pensamento.",
+  "Observas meu caminhar e meu deitar; conheces todos os meus caminhos.",
+  "Ainda não há palavra em minha língua, e tu, YHWH, já a conheces por completo.",
+  "Tu me cercas por trás e pela frente e pões tua mão sobre mim.",
+  "Tal conhecimento é maravilhoso demais para mim; é elevado, não posso alcançá-lo.",
+  "Para onde me afastarei de teu Espírito? Para onde fugirei de tua presença?",
+  "Se subir aos céus, tu estás ali; se fizer minha cama no mundo dos mortos, eis que ali também estás.",
+  "Se tomar as asas da aurora e habitar nos confins do mar,",
+  "também ali tua mão me guiará, e tua direita me sustentará.",
+  "Se eu disser: “Certamente as trevas me esconderão, e a luz ao redor de mim se tornará noite”,",
+  "nem mesmo as trevas são escuras para ti; a noite brilha como o dia, pois as trevas e a luz são iguais para ti.",
+  "Pois tu formaste meus rins; cobriste-me no ventre de minha mãe.",
+  "Eu te louvo, porque fui feito de modo assombroso e maravilhoso; maravilhosas são tuas obras, e minha alma o sabe muito bem.",
+  "Meus ossos não te estavam ocultos quando fui feito em segredo e tecido nas profundezas da terra.",
+  "Teus olhos viram minha substância ainda informe; em teu livro foram escritos todos os dias que foram formados, quando ainda não existia nenhum deles.",
+  "Quão preciosos são para mim teus pensamentos, ó Deus! Quão grande é a soma deles!",
+  "Se eu os contasse, seriam mais numerosos que a areia; quando acordo, ainda estou contigo.",
+  "Quem dera matasses os perversos, ó Deus! Afastai-vos de mim, homens sanguinários.",
+  "Pois falam de ti com maldade; teus inimigos levantam teu nome em vão.",
+  "Não odeio eu, YHWH, os que te odeiam? Não abomino os que se levantam contra ti?",
+  "Odeio-os com ódio completo; tornaram-se meus inimigos.",
+  "Sonda-me, ó Deus, e conhece meu coração; prova-me e conhece meus pensamentos.",
+  "Vê se há em mim algum caminho mau e guia-me pelo caminho eterno."
+];
+
+window.PSALMS_TEXT[140] = [
+  "Ao regente do coro. Salmo de Davi.",
+  "Livra-me, YHWH, do homem mau; guarda-me dos homens violentos,",
+  "que planejam maldades no coração e provocam guerras o dia inteiro.",
+  "Aguçam a língua como serpente; veneno de víbora está debaixo de seus lábios. Selá.",
+  "Guarda-me, YHWH, das mãos dos perversos; preserva-me dos homens violentos que planejam fazer meus passos vacilarem.",
+  "Os arrogantes esconderam uma armadilha para mim; estenderam cordas e redes junto ao caminho; puseram laços para mim. Selá.",
+  "Digo a YHWH: “Tu és meu Deus”. Ouve, YHWH, a voz de minhas súplicas.",
+  "YHWH, Senhor, força de minha salvação, cobriste minha cabeça no dia da batalha.",
+  "Não concedas, YHWH, os desejos do perverso; não permitas que seus planos tenham êxito, para que não se exaltem. Selá.",
+  "Que a cabeça dos que me cercam seja coberta pela maldade de seus próprios lábios.",
+  "Que brasas caiam sobre eles; que sejam lançados no fogo, em fossos profundos, de onde não se levantem.",
+  "Que o homem de língua maldosa não se estabeleça na terra; que a violência persiga o homem violento até derrubá-lo.",
+  "Sei que YHWH defenderá a causa do aflito e fará justiça aos necessitados.",
+  "Certamente os justos darão graças a teu nome; os íntegros habitarão diante de tua presença."
+];
