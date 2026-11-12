@@ -227,3 +227,68 @@ window.ISAIAH_TEXT[9] = [
   "Cortam à direita e ainda têm fome; devoram à esquerda e não se fartam; cada um devora a carne de seu próprio braço:",
   "Manassés a Efraim, e Efraim a Manassés; juntos se voltam contra Judá. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida."
 ];
+
+window.ISAIAH_TEXT[10] = [
+  "Ai dos que decretam leis injustas e dos que escrevem opressão,",
+  "para afastar os necessitados do julgamento e roubar o direito dos pobres de meu povo, para fazer das viúvas sua presa e despojar os órfãos!",
+  "Que fareis no dia da visitação e da calamidade que virá de longe? A quem fugireis em busca de auxílio? Onde deixareis vossa riqueza?",
+  "Nada restará senão curvar-se entre os cativos ou cair entre os mortos. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida.",
+  "Ai da Assíria, vara de minha ira; o bastão em sua mão é minha indignação.",
+  "Eu a envio contra uma nação ímpia e lhe dou ordens contra o povo de minha ira, para que tome despojos, carregue a presa e o pise como lama das ruas.",
+  "Mas ela não pensa assim, e seu coração não considera dessa maneira; seu propósito é destruir e eliminar muitas nações.",
+  "Pois diz: “Não são meus príncipes todos reis?",
+  "Não aconteceu a Calno como a Carquemis? Não aconteceu a Hamate como a Arpade? Não aconteceu a Samaria como a Damasco?",
+  "Assim como minha mão alcançou os reinos dos ídolos, cujas imagens eram mais numerosas que as de Jerusalém e Samaria,",
+  "não farei também a Jerusalém e a seus ídolos como fiz a Samaria e a seus ídolos?”",
+  "Quando o Senhor terminar toda a sua obra no monte Sião e em Jerusalém, castigará o fruto da arrogância do coração do rei da Assíria e a altivez de seus olhos.",
+  "Pois ele diz: “Fiz isso pela força de minha mão e por minha sabedoria, porque sou entendido. Removi os limites dos povos, saqueei seus tesouros e, como poderoso, derrubei os que se assentavam em tronos.",
+  "Minha mão encontrou a riqueza dos povos como num ninho; como quem recolhe ovos abandonados, assim recolhi toda a terra; ninguém moveu a asa, abriu a boca ou piou”.",
+  "Acaso o machado se gloria contra aquele que corta com ele? Acaso a serra se engrandece contra quem a move? Como se a vara movesse quem a levanta, ou o bastão levantasse quem não é madeira!",
+  "Por isso o Senhor YHWH dos Exércitos enviará fraqueza entre seus robustos, e debaixo de sua glória acenderá um incêndio como fogo ardente.",
+  "A luz de Israel se tornará fogo, e seu Santo, chama; ela queimará e consumirá seus espinhos e cardos num só dia.",
+  "Consumirá a glória de sua floresta e de seu campo fértil, da alma ao corpo; será como quando um doente definha.",
+  "O restante das árvores de sua floresta será tão pouco que uma criança poderá contá-las.",
+  "Naquele dia, o remanescente de Israel e os sobreviventes da casa de Jacó não se apoiarão mais naquele que os feriu, mas se apoiarão verdadeiramente em YHWH, o Santo de Israel.",
+  "Um remanescente voltará, o remanescente de Jacó, ao Deus Poderoso.",
+  "Pois ainda que teu povo, ó Israel, seja como a areia do mar, somente um remanescente voltará. A destruição está determinada, transbordando de justiça.",
+  "Pois o Senhor YHWH dos Exércitos executará a destruição determinada em toda a terra.",
+  "Por isso, assim diz o Senhor YHWH dos Exércitos: “Meu povo que habita em Sião, não temas a Assíria, que te fere com a vara e levanta contra ti seu bastão, como fez o Egito.",
+  "Pois ainda um pouco, e a indignação cessará, e minha ira se voltará para destruí-la”.",
+  "YHWH dos Exércitos levantará contra ela um açoite como na matança de Midiã junto à rocha de Orebe; seu bastão estará sobre o mar, e ele o levantará como fez no Egito.",
+  "Naquele dia, seu fardo será tirado de teu ombro, e seu jugo, de teu pescoço; o jugo será destruído por causa da gordura.",
+  "Ele chega a Aiate, passa por Migrom e deixa sua bagagem em Micmás.",
+  "Passam pelo desfiladeiro; dizem: “Pernoitemos em Geba”. Ramá treme; Gibeá de Saul foge.",
+  "Grita em alta voz, filha de Galim! Dá ouvidos, Laís! Pobre Anatote!",
+  "Madmena foge; os habitantes de Gebim procuram abrigo.",
+  "Ainda hoje ele parará em Nobe; agitará sua mão contra o monte da filha de Sião, a colina de Jerusalém.",
+  "Eis que o Senhor YHWH dos Exércitos cortará os ramos com violência; os de alta estatura serão derrubados, e os elevados serão abatidos.",
+  "Cortará com ferro os matagais da floresta, e o Líbano cairá pelo Poderoso."
+];
+
+window.ISAIAH_TEXT[11] = [
+  "Do tronco de Jessé sairá um rebento, e um ramo de suas raízes dará fruto.",
+  "O Espírito de YHWH repousará sobre ele: espírito de sabedoria e entendimento, espírito de conselho e poder, espírito de conhecimento e temor de YHWH.",
+  "Seu prazer estará no temor de YHWH. Não julgará segundo a aparência dos olhos, nem decidirá pelo que ouviram seus ouvidos.",
+  "Julgará os pobres com justiça e decidirá com retidão em favor dos humildes da terra; ferirá a terra com a vara de sua boca, e com o sopro de seus lábios matará o perverso.",
+  "A justiça será o cinto de seus lombos, e a fidelidade, o cinto de sua cintura.",
+  "O lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito; o bezerro, o leão jovem e o animal cevado estarão juntos, e uma criança pequena os conduzirá.",
+  "A vaca e a ursa pastarão juntas; seus filhotes se deitarão juntos, e o leão comerá palha como o boi.",
+  "A criança de peito brincará sobre a toca da cobra, e a criança desmamada estenderá a mão sobre a caverna da víbora.",
+  "Não farão mal nem destruirão em todo o meu santo monte, pois a terra estará cheia do conhecimento de YHWH, como as águas cobrem o mar.",
+  "Naquele dia, a raiz de Jessé, que se erguerá como estandarte para os povos, será buscada pelas nações, e seu lugar de repouso será glorioso.",
+  "Naquele dia, o Senhor tornará a estender a mão pela segunda vez para resgatar o remanescente de seu povo, que restar da Assíria, do Egito, de Patros, da Etiópia, de Elão, de Sinar, de Hamate e das ilhas do mar.",
+  "Levantará um estandarte para as nações e reunirá os dispersos de Israel; ajuntará os espalhados de Judá desde os quatro cantos da terra.",
+  "A inveja de Efraim desaparecerá, e os adversários de Judá serão eliminados; Efraim não invejará Judá, e Judá não hostilizará Efraim.",
+  "Voarão sobre os ombros dos filisteus a oeste; juntos saquearão os filhos do Oriente. Estenderão a mão contra Edom e Moabe, e os filhos de Amom lhes obedecerão.",
+  "YHWH secará a língua do mar do Egito e agitará sua mão sobre o rio com o ardor de seu vento; dividirá suas águas em sete canais, para que se atravesse de sandálias.",
+  "Haverá uma estrada para o remanescente de seu povo que restar da Assíria, como houve para Israel no dia em que subiu da terra do Egito."
+];
+
+window.ISAIAH_TEXT[12] = [
+  "Naquele dia dirás: “Dou-te graças, YHWH, pois, embora estivesses irado comigo, tua ira se desviou, e tu me consolaste.",
+  "Eis que Deus é minha salvação; confiarei e não temerei, pois YHWH é minha força e meu cântico; ele se tornou minha salvação”.",
+  "Com alegria tirareis água das fontes da salvação.",
+  "Naquele dia direis: “Dai graças a YHWH, invocai seu nome; fazei conhecidos entre os povos seus feitos; proclamai que seu nome é exaltado.",
+  "Cantai louvores a YHWH, pois fez coisas magníficas; que isso seja conhecido em toda a terra.",
+  "Clama e exulta, habitante de Sião, pois grande é no meio de ti o Santo de Israel”."
+];
