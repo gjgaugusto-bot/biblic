@@ -408,3 +408,60 @@ window.ISAIAH_TEXT[18] = [
   "Serão deixados juntos para as aves de rapina dos montes e para os animais da terra; as aves passarão o verão sobre eles, e todos os animais da terra passarão o inverno sobre eles.",
   "Naquele tempo será levado um presente a YHWH dos Exércitos, da parte de um povo alto e de pele lisa, de uma nação temida de perto e de longe, povo poderoso e conquistador, cuja terra os rios dividem, ao lugar do nome de YHWH dos Exércitos, ao monte Sião."
 ];
+
+window.ISAIAH_TEXT[19] = [
+  "Oráculo contra o Egito. Eis que YHWH cavalga numa nuvem veloz e vem ao Egito; os ídolos do Egito tremem diante dele, e o coração dos egípcios se derrete dentro deles.",
+  "“Incitarei egípcios contra egípcios; cada um lutará contra seu irmão e contra seu próximo, cidade contra cidade, reino contra reino.",
+  "O espírito do Egito ficará vazio em seu íntimo, e confundirei seu conselho; consultarão ídolos, encantadores, médiuns e adivinhos.",
+  "Entregarei os egípcios nas mãos de um senhor cruel, e um rei feroz os dominará”, diz o Senhor YHWH dos Exércitos.",
+  "As águas do mar secarão, e o rio ficará seco e árido.",
+  "Os canais exalarão mau cheiro; os braços do Nilo do Egito diminuirão e secarão; os juncos e os caniços murcharão.",
+  "As plantas junto ao Nilo, junto à margem do rio, e tudo o que é semeado perto dele secará, será levado pelo vento e desaparecerá.",
+  "Os pescadores gemerão; lamentarão todos os que lançam anzol no Nilo, e os que estendem redes sobre as águas desfalecerão.",
+  "Os que trabalham o linho penteado ficarão envergonhados, assim como os tecelões de algodão.",
+  "Seus pilares serão esmagados, e todos os trabalhadores assalariados ficarão abatidos.",
+  "Os príncipes de Zoã são inteiramente insensatos; o conselho dos sábios conselheiros do faraó tornou-se estúpido. Como podeis dizer ao faraó: “Sou filho de sábios, filho de reis antigos”?",
+  "Onde estão agora teus sábios? Que te anunciem, se sabem, o que YHWH dos Exércitos decidiu contra o Egito.",
+  "Os príncipes de Zoã se tornaram insensatos, os príncipes de Mênfis foram enganados; os chefes de suas tribos fizeram o Egito errar.",
+  "YHWH derramou no meio dele um espírito de confusão; fizeram o Egito errar em toda a sua obra, como cambaleia o bêbado em seu vômito.",
+  "Não haverá para o Egito obra alguma que cabeça ou cauda, ramo de palmeira ou junco possam fazer.",
+  "Naquele dia os egípcios serão como mulheres; tremerão e temerão diante do movimento da mão de YHWH dos Exércitos, que ele ergue contra eles.",
+  "A terra de Judá será terror para o Egito; todo aquele a quem ela for mencionada ficará apavorado por causa do plano de YHWH dos Exércitos, que ele determinou contra eles.",
+  "Naquele dia haverá cinco cidades na terra do Egito que falarão a língua de Canaã e jurarão lealdade a YHWH dos Exércitos; uma delas será chamada Cidade da Destruição.",
+  "Naquele dia haverá um altar a YHWH no meio da terra do Egito, e uma coluna a YHWH junto à sua fronteira.",
+  "Será por sinal e testemunho a YHWH dos Exércitos na terra do Egito; quando clamarem a YHWH por causa dos opressores, ele lhes enviará um salvador e defensor que os livrará.",
+  "YHWH se dará a conhecer aos egípcios, e os egípcios conhecerão YHWH naquele dia; oferecerão sacrifícios e ofertas, farão votos a YHWH e os cumprirão.",
+  "YHWH ferirá o Egito, ferirá e curará; eles voltarão a YHWH, e ele atenderá suas súplicas e os curará.",
+  "Naquele dia haverá uma estrada do Egito para a Assíria; os assírios irão ao Egito, e os egípcios à Assíria; egípcios e assírios servirão juntos.",
+  "Naquele dia Israel será o terceiro com o Egito e a Assíria, uma bênção no meio da terra,",
+  "pois YHWH dos Exércitos os abençoará, dizendo: “Bendito seja o Egito, meu povo, a Assíria, obra de minhas mãos, e Israel, minha herança”."
+];
+
+window.ISAIAH_TEXT[20] = [
+  "No ano em que Tartã veio a Asdode, enviado por Sargão, rei da Assíria, e guerreou contra Asdode e a tomou,",
+  "naquele tempo YHWH falou por meio de Isaías, filho de Amoz, dizendo: “Vai, solta o pano de saco de teus lombos e tira as sandálias de teus pés”. Ele fez assim, andando nu e descalço.",
+  "YHWH disse: “Assim como meu servo Isaías andou nu e descalço por três anos como sinal e presságio contra o Egito e contra Cuxe,",
+  "assim o rei da Assíria levará os cativos do Egito e os exilados de Cuxe, jovens e idosos, nus e descalços, com as nádegas descobertas, para vergonha do Egito.",
+  "Ficarão aterrorizados e envergonhados por causa de Cuxe, sua esperança, e do Egito, seu orgulho.",
+  "Naquele dia os habitantes desta costa dirão: ‘Eis o que aconteceu à nossa esperança, àqueles a quem fugimos em busca de auxílio para sermos livrados do rei da Assíria. Como escaparemos nós?’”"
+];
+
+window.ISAIAH_TEXT[21] = [
+  "Oráculo contra o deserto do mar. Como redemoinhos que passam pelo Neguebe, assim vem do deserto, de uma terra terrível.",
+  "Uma visão severa me foi anunciada: o traidor trai, e o destruidor destrói. Sobe, Elão! Cerca, Média! Farei cessar todo gemido que ela causou.",
+  "Por isso meus lombos estão cheios de angústia; dores me tomaram como as dores da mulher que dá à luz. Estou tão perturbado que não posso ouvir; estou tão aterrorizado que não posso ver.",
+  "Meu coração palpita, o terror me assalta; a noite que eu desejava tornou-se tremor para mim.",
+  "Preparam a mesa, estendem a toalha, comem e bebem. Levantai-vos, príncipes, ungi o escudo!",
+  "Pois assim me disse o Senhor: “Vai, coloca um vigia; que anuncie o que vir”.",
+  "Quando vir carros de guerra, parelhas de cavalos, cavaleiros montados em jumentos e cavaleiros montados em camelos, que preste muita atenção, com grande cuidado.",
+  "Então o vigia clamou: “Senhor, estou de pé continuamente durante o dia, e em meu posto permaneço todas as noites.",
+  "Eis que vêm homens em carros de guerra, parelhas de cavalos”. Ele respondeu e disse: “Caiu, caiu Babilônia! Todas as imagens esculpidas de seus deuses foram despedaçadas por terra”.",
+  "Ó meu povo, debulhado e filho de minha eira! O que ouvi de YHWH dos Exércitos, Deus de Israel, isso vos anunciei.",
+  "Oráculo contra Dumá. Alguém me chama de Seir: “Vigia, quanto resta da noite? Vigia, quanto resta da noite?”",
+  "O vigia responde: “Vem a manhã, e também a noite. Se quereis perguntar, perguntai; voltai e vinde”.",
+  "Oráculo contra a Arábia. Na floresta da Arábia passareis a noite, ó caravanas de Dedã.",
+  "Trazei água ao encontro do sedento, habitantes da terra de Tema; recebei com pão os fugitivos.",
+  "Pois fogem diante das espadas, diante da espada desembainhada, diante do arco retesado e diante do peso da guerra.",
+  "Pois assim me disse o Senhor: “Dentro de um ano, como os anos de um trabalhador contratado, toda a glória de Quedar chegará ao fim.",
+  "O número dos arqueiros valentes dos filhos de Quedar será reduzido, pois YHWH, Deus de Israel, falou”."
+];
