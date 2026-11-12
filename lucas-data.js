@@ -1,7 +1,7 @@
 /* Lucas — tradução de trabalho própria em português, baseada no grego do Novo Testamento.
  * Texto-base: SBL Greek New Testament (SBLGNT), ed. Michael W. Holmes, CC BY 4.0.
  * Segmentação: MorphGNT SBLGNT Edition v6.12, CC BY-SA 3.0.
- * Progresso: capítulos 1–13 de 24; 660 versículos (80 + 52 + 38 + 44 + 39 + 49 + 50 + 56 + 62 + 42 + 54 + 59 + 35). Não publicar até concluir e conferir os 24 capítulos.
+ * Progresso: capítulos 1–24 de 24; 1.151 entradas em numeração de trabalho. Contagens estruturais conferidas por capítulo; total sujeito à reconciliação com a edição/dataset exato do SBLGNT/MorphGNT.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.LUKE_TEXT = window.LUKE_TEXT || {};
