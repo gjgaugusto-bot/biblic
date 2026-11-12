@@ -936,7 +936,8 @@ window.PSALMS_TEXT[50] = [
 ];
 
 window.PSALMS_TEXT[51] = [
-  "Ao regente do coro. Salmo de Davi, quando o profeta Natã veio a ele depois de seu encontro com Bate-Seba.",
+  "Ao regente do coro. Salmo de Davi.",
+  "Quando o profeta Natã veio a ele depois de seu encontro com Bate-Seba.",
   "Tem misericórdia de mim, ó Deus, segundo tua lealdade; segundo a abundância de tuas misericórdias, apaga minhas transgressões.",
   "Lava-me completamente de minha iniquidade e purifica-me de meu pecado.",
   "Pois reconheço minhas transgressões, e meu pecado está sempre diante de mim.",
@@ -959,7 +960,8 @@ window.PSALMS_TEXT[51] = [
 ];
 
 window.PSALMS_TEXT[52] = [
-  "Ao regente do coro. Poema de instrução de Davi, quando Doegue, o edomita, veio contar a Saul que Davi entrara na casa de Aimeleque.",
+  "Ao regente do coro. Poema de instrução de Davi.",
+  "Quando Doegue, o edomita, veio contar a Saul que Davi entrara na casa de Aimeleque.",
   "Por que te glorias do mal, ó poderoso? A lealdade de Deus permanece o dia inteiro.",
   "Tua língua trama destruição, como navalha afiada, ó praticante de engano.",
   "Amas o mal mais que o bem, a mentira mais que falar a verdade. Selá.",
@@ -982,7 +984,8 @@ window.PSALMS_TEXT[53] = [
 ];
 
 window.PSALMS_TEXT[54] = [
-  "Ao regente do coro. Com instrumentos de cordas. Poema de Davi, quando os zifeus foram dizer a Saul: “Davi está escondido entre nós”.",
+  "Ao regente do coro. Com instrumentos de cordas. Poema de Davi.",
+  "Quando os zifeus foram dizer a Saul: “Davi está escondido entre nós”.",
   "Salva-me, ó Deus, por teu nome e faze-me justiça por teu poder.",
   "Ouve minha oração, ó Deus; dá ouvidos às palavras de minha boca.",
   "Pois estrangeiros se levantaram contra mim, e homens violentos procuram minha vida; não põem Deus diante de si. Selá.",
