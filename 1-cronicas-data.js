@@ -700,3 +700,24 @@ window.FIRST_CHRONICLES_TEXT[17] = [
   "Agora, Senhor, tu és Deus e prometeste esta bondade a teu servo.",
   "Agora, pois, digna-te abençoar a casa de teu servo, para que permaneça para sempre diante de ti; pois tu, Senhor, a abençoaste, e ela será bendita para sempre."
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[18] = [
+  "Depois disso, Davi derrotou os filisteus, subjugou-os e tomou Gate e suas aldeias das mãos dos filisteus.",
+  "Derrotou também Moabe, e os moabitas se tornaram servos de Davi, pagando tributo.",
+  "Davi derrotou Hadadezer, rei de Zobá, em direção a Hamate, quando ele foi estabelecer seu domínio junto ao rio Eufrates.",
+  "Davi tomou dele mil carros, sete mil cavaleiros e vinte mil soldados de infantaria. Davi inutilizou todos os carros, exceto cem deles.",
+  "Os arameus de Damasco vieram ajudar Hadadezer, rei de Zobá, mas Davi matou vinte e dois mil arameus.",
+  "Davi colocou guarnições na Síria de Damasco, e os arameus se tornaram servos de Davi, pagando tributo. O Senhor dava vitórias a Davi por onde quer que ele fosse.",
+  "Davi tomou os escudos de ouro que pertenciam aos servos de Hadadezer e os levou a Jerusalém.",
+  "De Tibate e de Cum, cidades de Hadadezer, Davi tomou grande quantidade de bronze. Com esse bronze Salomão fez o mar de bronze, as colunas e os utensílios de bronze.",
+  "Toú, rei de Hamate, soube que Davi havia derrotado todo o exército de Hadadezer, rei de Zobá.",
+  "Enviou seu filho Hadorão ao rei Davi para saudá-lo e felicitá-lo pela guerra contra Hadadezer, pois Hadadezer vivia em guerra com Toú. Hadorão levou todo tipo de utensílios de ouro, prata e bronze.",
+  "O rei Davi também consagrou esses objetos ao Senhor, juntamente com a prata e o ouro que havia tomado de todas as nações: de Edom, Moabe, dos amonitas, dos filisteus e de Amaleque.",
+  "Abisai, filho de Zeruia, derrotou dezoito mil edomitas no vale do Sal.",
+  "Davi estabeleceu guarnições em Edom, e todos os edomitas se tornaram servos de Davi. O Senhor dava vitórias a Davi por onde quer que ele fosse.",
+  "Davi reinou sobre todo Israel e administrava o direito e a justiça a todo o seu povo.",
+  "Joabe, filho de Zeruia, comandava o exército; Josafá, filho de Ailude, era cronista;",
+  "Zadoque, filho de Aitube, e Abimeleque, filho de Abiatar, eram sacerdotes; Sausa era secretário;",
+  "Benaia, filho de Joiada, comandava os quereteus e peleteus; e os filhos de Davi eram os primeiros ao lado do rei."
+];
