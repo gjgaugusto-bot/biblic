@@ -2191,3 +2191,90 @@ window.PSALMS_TEXT[107] = [
   "Os retos veem isso e se alegram; toda injustiça fecha a boca.",
   "Quem é sábio, que observe estas coisas e considere as lealdades de YHWH."
 ];
+
+window.PSALMS_TEXT[108] = [
+  "Cântico. Salmo de Davi.",
+  "Meu coração está firme, ó Deus; cantarei e entoarei louvores com toda a minha glória.",
+  "Desperta, harpa e lira! Despertarei a aurora.",
+  "Eu te darei graças entre os povos, YHWH; cantarei louvores entre as nações.",
+  "Pois tua lealdade é grande acima dos céus, e tua fidelidade chega às nuvens.",
+  "Sê exaltado acima dos céus, ó Deus; tua glória esteja sobre toda a terra.",
+  "Para que teus amados sejam libertos, salva com tua mão direita e responde-me.",
+  "Deus falou em sua santidade: “Exultarei; repartirei Siquém e medirei o vale de Sucote.",
+  "Meu é Gileade, meu é Manassés; Efraim é o capacete de minha cabeça, Judá é meu cetro.",
+  "Moabe é minha bacia de lavar; sobre Edom lançarei minha sandália; sobre a Filístia darei gritos de triunfo”.",
+  "Quem me conduzirá à cidade fortificada? Quem me guiará até Edom?",
+  "Não foste tu, ó Deus, que nos rejeitaste? Não sais, ó Deus, com nossos exércitos.",
+  "Dá-nos auxílio contra o adversário, pois inútil é a ajuda do homem.",
+  "Com Deus faremos proezas; ele pisará nossos adversários."
+];
+
+window.PSALMS_TEXT[109] = [
+  "Ao regente do coro. Salmo de Davi. Ó Deus de meu louvor, não te cales,",
+  "pois a boca do perverso e a boca do enganador se abriram contra mim; falaram contra mim com língua mentirosa.",
+  "Cercaram-me com palavras de ódio e combateram-me sem motivo.",
+  "Em troca de meu amor, acusam-me; eu, porém, oro.",
+  "Retribuem-me o mal pelo bem e o ódio pelo meu amor.",
+  "Designa um perverso contra ele, e que um acusador fique à sua direita.",
+  "Quando for julgado, que saia condenado, e que sua oração se torne pecado.",
+  "Que seus dias sejam poucos, e outro tome seu cargo.",
+  "Que seus filhos fiquem órfãos, e sua mulher, viúva.",
+  "Que seus filhos vagueiem mendigando e procurem alimento longe de suas ruínas.",
+  "Que o credor se apodere de tudo o que possui, e estranhos saqueiem o fruto de seu trabalho.",
+  "Que ninguém lhe estenda lealdade, nem tenha misericórdia de seus órfãos.",
+  "Que sua descendência seja eliminada; que seu nome se apague na geração seguinte.",
+  "Que a iniquidade de seus pais seja lembrada diante de YHWH, e que o pecado de sua mãe não seja apagado.",
+  "Que estejam sempre diante de YHWH, para que ele elimine da terra a memória deles.",
+  "Pois não se lembrou de praticar lealdade, mas perseguiu o homem aflito, necessitado e de coração quebrantado, para matá-lo.",
+  "Amou a maldição; que ela venha sobre ele. Não quis a bênção; que ela se afaste dele.",
+  "Vestiu-se de maldição como de roupa; que ela penetre em seu íntimo como água e em seus ossos como óleo.",
+  "Que ela seja como roupa que o cobre e como cinto que o prende continuamente.",
+  "Esta seja a recompensa de meus acusadores da parte de YHWH e dos que falam mal contra minha alma.",
+  "Mas tu, YHWH, Senhor, age por mim por causa de teu nome; livra-me, pois tua lealdade é boa.",
+  "Pois sou aflito e necessitado, e meu coração está ferido dentro de mim.",
+  "Vou-me como sombra que declina; sou sacudido como gafanhoto.",
+  "Meus joelhos vacilam por causa do jejum, e meu corpo emagrece por falta de gordura.",
+  "Tornei-me motivo de insulto para eles; quando me veem, meneiam a cabeça.",
+  "Ajuda-me, YHWH, meu Deus; salva-me segundo tua lealdade.",
+  "Que saibam que esta é tua mão, que tu, YHWH, fizeste isso.",
+  "Que eles amaldiçoem, mas tu abençoa; que se levantem, sejam envergonhados, e teu servo se alegre.",
+  "Que meus acusadores sejam vestidos de desonra e se cubram de vergonha como de um manto.",
+  "Darei muitas graças a YHWH com minha boca; no meio da multidão o louvarei.",
+  "Pois ele se põe à direita do necessitado, para salvá-lo dos que condenam sua alma."
+];
+
+window.PSALMS_TEXT[110] = [
+  "Salmo de Davi. YHWH disse ao meu Senhor: “Senta-te à minha direita, até que eu ponha teus inimigos como estrado de teus pés”.",
+  "YHWH estenderá de Sião o cetro de teu poder; domina no meio de teus inimigos.",
+  "Teu povo se apresentará voluntariamente no dia de teu poder, em vestes de santidade; do ventre da aurora virá a ti o orvalho de tua juventude.",
+  "YHWH jurou e não mudará de ideia: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque”.",
+  "O Senhor está à tua direita; no dia de sua ira esmagará reis.",
+  "Julgará as nações, enchendo-as de cadáveres; esmagará os chefes por toda a terra.",
+  "Beberá do ribeiro no caminho; por isso erguerá a cabeça."
+];
+
+window.PSALMS_TEXT[111] = [
+  "Aleluia! Darei graças a YHWH de todo o coração, na assembleia dos retos e na congregação.",
+  "Grandes são as obras de YHWH; são estudadas por todos os que nelas têm prazer.",
+  "Sua obra é majestade e esplendor, e sua justiça permanece para sempre.",
+  "Fez memoráveis suas maravilhas; YHWH é gracioso e compassivo.",
+  "Dá alimento aos que o temem; lembra-se para sempre de sua aliança.",
+  "Mostrou a seu povo o poder de suas obras, dando-lhe a herança das nações.",
+  "As obras de suas mãos são verdade e justiça; todos os seus preceitos são fiéis.",
+  "Estão firmes para todo o sempre, feitos em verdade e retidão.",
+  "Enviou redenção a seu povo; ordenou sua aliança para sempre. Santo e temível é seu nome.",
+  "O temor de YHWH é o princípio da sabedoria; bom entendimento têm todos os que praticam seus preceitos. Seu louvor permanece para sempre."
+];
+
+window.PSALMS_TEXT[112] = [
+  "Aleluia! Feliz o homem que teme YHWH e tem grande prazer em seus mandamentos.",
+  "Sua descendência será poderosa na terra; a geração dos retos será abençoada.",
+  "Haverá riqueza e abundância em sua casa, e sua justiça permanece para sempre.",
+  "Aos retos nasce luz nas trevas; ele é gracioso, compassivo e justo.",
+  "Feliz o homem que se compadece e empresta; conduzirá seus negócios com justiça.",
+  "Pois jamais será abalado; o justo será lembrado para sempre.",
+  "Não temerá más notícias; seu coração está firme, confiando em YHWH.",
+  "Seu coração está seguro, não teme, até que veja a derrota de seus adversários.",
+  "Distribui generosamente aos pobres; sua justiça permanece para sempre; seu poder será exaltado em honra.",
+  "O perverso verá isso e se irritará; rangerá os dentes e se consumirá. O desejo dos perversos perecerá."
+];
