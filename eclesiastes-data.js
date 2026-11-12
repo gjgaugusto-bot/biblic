@@ -209,3 +209,56 @@ window.ECCLESIASTES_TEXT[9] = [
   "As palavras dos sábios, ouvidas em tranquilidade, são melhores do que os gritos de quem governa entre os insensatos.",
   "A sabedoria é melhor do que armas de guerra, mas um só pecador destrói muitos bens."
 ];
+
+window.ECCLESIASTES_TEXT[10] = [
+  "As moscas mortas fazem o óleo do perfumista cheirar mal e fermentar; assim um pouco de insensatez pesa mais que sabedoria e honra.",
+  "O coração do sábio se inclina para a direita, mas o coração do insensato, para a esquerda.",
+  "Até quando o insensato anda pelo caminho, falta-lhe entendimento, e ele diz a todos que é insensato.",
+  "Se a ira do governante se levantar contra ti, não abandones teu lugar, pois a calma evita grandes ofensas.",
+  "Há um mal que vi debaixo do sol, como erro que procede do governante:",
+  "a insensatez é colocada em muitas posições elevadas, enquanto os ricos se assentam em lugares baixos.",
+  "Vi servos montados a cavalo e príncipes andando a pé como servos sobre a terra.",
+  "Quem cava uma cova cairá nela, e quem derruba um muro será mordido por uma serpente.",
+  "Quem remove pedras será ferido por elas, e quem racha lenha corre perigo com ela.",
+  "Se o ferro estiver cego e não se afiar o fio, será preciso empregar mais força; a sabedoria, porém, traz vantagem para dirigir.",
+  "Se a serpente morder antes de ser encantada, não há proveito para o encantador.",
+  "As palavras da boca do sábio são agradáveis, mas os lábios do insensato o devoram.",
+  "O começo das palavras de sua boca é insensatez, e o fim de sua fala é loucura maligna.",
+  "O insensato multiplica palavras; o homem não sabe o que acontecerá, e quem lhe anunciará o que virá depois dele?",
+  "O trabalho dos insensatos os cansa, pois nem sabem ir à cidade.",
+  "Ai de ti, ó terra, cujo rei é jovem e cujos príncipes se banqueteiam pela manhã!",
+  "Feliz és tu, ó terra, cujo rei é filho de nobres e cujos príncipes comem no tempo certo, para recuperar as forças, e não para embriagar-se!",
+  "Pela preguiça o teto cede, e pelo relaxamento das mãos a casa goteja.",
+  "O banquete é feito para o riso, o vinho alegra a vida, e o dinheiro responde a tudo.",
+  "Nem em teu pensamento amaldiçoes o rei, nem no quarto de dormir amaldiçoes o rico, pois uma ave dos céus levaria a voz, e um ser alado contaria a palavra."
+];
+
+window.ECCLESIASTES_TEXT[11] = [
+  "Lança teu pão sobre as águas, pois depois de muitos dias o encontrarás.",
+  "Reparte tua porção com sete e até com oito, pois não sabes que calamidade haverá sobre a terra.",
+  "Se as nuvens estiverem cheias, derramarão chuva sobre a terra; e, se uma árvore cair para o sul ou para o norte, no lugar em que cair ali ficará.",
+  "Quem observa o vento não semeará, e quem olha para as nuvens não colherá.",
+  "Assim como não sabes qual é o caminho do vento, nem como se formam os ossos no ventre da mulher grávida, também não conheces a obra de Deus, que faz todas as coisas.",
+  "Pela manhã semeia tua semente e, à tarde, não deixes tua mão descansar, pois não sabes qual prosperará, se esta ou aquela, ou se ambas serão igualmente boas.",
+  "A luz é agradável, e é bom aos olhos ver o sol.",
+  "Ainda que o homem viva muitos anos, que se alegre em todos eles, mas se lembre dos dias de trevas, pois serão muitos. Tudo o que vem é vaidade.",
+  "Alegra-te, jovem, em tua juventude, e que teu coração te faça feliz nos dias de tua mocidade; anda pelos caminhos de teu coração e pela visão de teus olhos, mas sabe que por todas essas coisas Deus te levará a julgamento.",
+  "Afasta a tristeza de teu coração e remove o sofrimento de teu corpo, pois a juventude e o vigor da vida são vaidade."
+];
+
+window.ECCLESIASTES_TEXT[12] = [
+  "Lembra-te de teu Criador nos dias de tua juventude, antes que venham os dias maus e cheguem os anos dos quais dirás: “Não tenho prazer neles”;",
+  "antes que se escureçam o sol, a luz, a lua e as estrelas, e as nuvens voltem depois da chuva;",
+  "no dia em que tremerem os guardas da casa, os homens fortes se curvarem, as moedoras cessarem por serem poucas, e escurecerem os que olham pelas janelas;",
+  "quando as portas da rua se fecharem, o som da moagem diminuir, alguém se levantar à voz do pássaro e todas as filhas do canto ficarem abatidas;",
+  "quando também tiverem medo das alturas e houver terrores no caminho; quando a amendoeira florescer, o gafanhoto se arrastar e a alcaparra perder seu efeito; pois o homem vai para sua morada eterna, e os pranteadores percorrem as ruas;",
+  "antes que se rompa o fio de prata, se quebre a taça de ouro, se despedace o cântaro junto à fonte e se quebre a roda junto ao poço;",
+  "e o pó volte à terra como era, e o espírito volte a Deus, que o deu.",
+  "Vaidade de vaidades, diz o Pregador; tudo é vaidade.",
+  "Além de sábio, o Pregador ensinou conhecimento ao povo; ponderou, investigou e organizou muitos provérbios.",
+  "O Pregador procurou encontrar palavras agradáveis e escrever com retidão palavras de verdade.",
+  "As palavras dos sábios são como aguilhões, e como pregos bem fixados são as coleções de ditos; foram dadas por um só Pastor.",
+  "Além disso, meu filho, deixa-te advertir: fazer muitos livros não tem fim, e muito estudo cansa o corpo.",
+  "A conclusão de tudo o que foi ouvido é esta: teme a Deus e guarda seus mandamentos, pois isso é o dever de todo homem.",
+  "Pois Deus trará a julgamento toda obra, até tudo o que está oculto, seja bom, seja mau."
+];
