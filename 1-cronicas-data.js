@@ -669,3 +669,34 @@ window.FIRST_CHRONICLES_TEXT[16] = [
   "Com eles estavam Hemã e Jedutum, que tocavam trombetas e címbalos e outros instrumentos para os cânticos de Deus. Os filhos de Jedutum guardavam o portão.",
   "Então todo o povo foi para sua casa, e Davi voltou para abençoar sua família."
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[17] = [
+  "Quando Davi já morava em sua casa, disse ao profeta Natã: Eis que moro numa casa de cedro, enquanto a arca da aliança do Senhor está debaixo de cortinas.",
+  "Natã respondeu a Davi: Faze tudo o que está em teu coração, pois Deus está contigo.",
+  "Mas, naquela mesma noite, a palavra de Deus veio a Natã, dizendo:",
+  "Vai e dize a Davi, meu servo: Assim diz o Senhor: Não és tu quem edificará uma casa para eu habitar.",
+  "Pois nunca habitei numa casa desde o dia em que tirei Israel do Egito até hoje; tenho andado de tenda em tenda e de tabernáculo em tabernáculo.",
+  "Em todos os lugares por onde andei com todo o Israel, acaso falei alguma palavra a um dos juízes de Israel, a quem ordenei que apascentasse meu povo, dizendo: Por que não me edificastes uma casa de cedro?",
+  "Agora, pois, dirás ao meu servo Davi: Assim diz o Senhor dos Exércitos: Eu te tirei das pastagens, de detrás das ovelhas, para que fosses chefe sobre meu povo Israel.",
+  "Estive contigo por onde quer que andaste; eliminei todos os teus inimigos diante de ti e farei teu nome tão grande quanto o nome dos grandes da terra.",
+  "Prepararei um lugar para meu povo Israel e o plantarei, para que habite em seu próprio lugar e não seja mais perturbado. Os homens perversos não voltarão a oprimi-lo como antes,",
+  "desde os dias em que estabeleci juízes sobre meu povo Israel. Subjugarei todos os teus inimigos. Também te anuncio que o Senhor edificará uma casa para ti.",
+  "Quando teus dias se completarem e fores reunir-te a teus pais, levantarei depois de ti um descendente, um de teus filhos, e estabelecerei o reino dele.",
+  "Ele edificará uma casa para mim, e eu firmarei seu trono para sempre.",
+  "Eu serei seu pai, e ele será meu filho. Não retirarei dele meu amor leal, como o retirei daquele que reinou antes de ti.",
+  "Eu o estabelecerei em minha casa e em meu reino para sempre, e seu trono será firme para sempre.",
+  "Natã falou a Davi conforme todas essas palavras e toda essa visão.",
+  "Então o rei Davi entrou, sentou-se diante do Senhor e disse: Quem sou eu, Senhor Deus, e o que é minha casa, para que me tenhas trazido até aqui?",
+  "E isso ainda foi pouco aos teus olhos, ó Deus! Também falaste sobre a casa de teu servo para um futuro distante e me consideraste como alguém de elevada posição, ó Senhor Deus.",
+  "Que mais poderá Davi dizer-te pela honra que concedeste a teu servo? Tu conheces teu servo.",
+  "Senhor, por causa de teu servo e segundo teu coração, fizeste toda esta grandeza, dando a conhecer todas essas coisas grandiosas.",
+  "Senhor, não há ninguém como tu, e não há Deus além de ti, conforme tudo o que ouvimos com nossos próprios ouvidos.",
+  "E quem é como teu povo Israel, a única nação na terra que Deus foi resgatar para si, a fim de fazer dela seu povo e alcançar para si um nome por meio de feitos grandes e temíveis, expulsando nações de diante de teu povo, que resgataste do Egito?",
+  "Fizeste de Israel teu povo para sempre, e tu, Senhor, te tornaste o seu Deus.",
+  "Agora, Senhor, que a palavra que disseste a respeito de teu servo e de sua casa seja confirmada para sempre; faze conforme prometeste.",
+  "Que ela seja confirmada, e que teu nome seja engrandecido para sempre, para que se diga: O Senhor dos Exércitos é o Deus de Israel. E que a casa de Davi, teu servo, permaneça firme diante de ti.",
+  "Pois tu, meu Deus, revelaste ao ouvido de teu servo que lhe edificarias uma casa. Por isso, teu servo encontrou coragem para orar diante de ti.",
+  "Agora, Senhor, tu és Deus e prometeste esta bondade a teu servo.",
+  "Agora, pois, digna-te abençoar a casa de teu servo, para que permaneça para sempre diante de ti; pois tu, Senhor, a abençoaste, e ela será bendita para sempre."
+];
