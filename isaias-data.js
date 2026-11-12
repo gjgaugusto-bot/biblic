@@ -199,11 +199,13 @@ window.ISAIAH_TEXT[8] = [
   "Esperarei por YHWH, que esconde seu rosto da casa de Jacó; nele porei minha esperança.",
   "Eis que eu e os filhos que YHWH me deu somos sinais e presságios em Israel, da parte de YHWH dos Exércitos, que habita no monte Sião.",
   "Quando vos disserem: “Consultai os médiuns e os adivinhos, que chilreiam e murmuram”, acaso um povo não deve consultar seu Deus? Consultará os mortos em favor dos vivos?",
-  "À instrução e ao testemunho! Se não falarem segundo esta palavra, jamais verão a luz da aurora."
+  "À instrução e ao testemunho! Se não falarem segundo esta palavra, jamais verão a luz da aurora.",
+  "Passarão pela terra, aflitos e famintos; quando tiverem fome, ficarão indignados e amaldiçoarão seu rei e seu Deus, voltando o rosto para o alto.",
+  "Olharão para a terra e verão angústia e escuridão, trevas de aflição; serão lançados em densa escuridão.",
+  "Contudo, não haverá escuridão para aquela que estava em angústia. No passado ele humilhou a terra de Zebulom e a terra de Naftali, mas no futuro honrará o caminho do mar, além do Jordão, a Galileia das nações."
 ];
 
 window.ISAIAH_TEXT[9] = [
-  "Contudo, não haverá escuridão para aquela que estava em angústia. No passado ele humilhou a terra de Zebulom e a terra de Naftali, mas no futuro honrará o caminho do mar, além do Jordão, a Galileia das nações.",
   "O povo que andava nas trevas viu grande luz; sobre os que habitavam na terra da sombra da morte brilhou uma luz.",
   "Multiplicaste a nação e aumentaste sua alegria; eles se alegram diante de ti como na alegria da colheita, como os que exultam ao repartir o despojo.",
   "Pois quebraste o jugo de seu fardo, a vara de seu ombro e o bastão de seu opressor, como no dia de Midiã.",
