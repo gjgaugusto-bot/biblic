@@ -1021,3 +1021,88 @@ window.PSALMS_TEXT[55] = [
   "Lança teu fardo sobre YHWH, e ele te sustentará; jamais permitirá que o justo seja abalado.",
   "Tu, ó Deus, os farás descer à cova da destruição; homens sanguinários e enganadores não chegarão à metade de seus dias. Eu, porém, confiarei em ti."
 ];
+
+window.PSALMS_TEXT[56] = [
+  "Ao regente do coro. Sobre a pomba silenciosa dos lugares distantes. Mictão de Davi, quando os filisteus o prenderam em Gate.",
+  "Tem misericórdia de mim, ó Deus, pois o homem procura devorar-me; o dia inteiro me combate e me oprime.",
+  "Meus adversários me perseguem o dia inteiro; são muitos os que lutam contra mim com arrogância.",
+  "No dia em que eu temer, confiarei em ti.",
+  "Em Deus, cuja palavra louvo, em Deus confio e não temerei. Que pode a carne fazer contra mim?",
+  "O dia inteiro distorcem minhas palavras; todos os seus pensamentos são contra mim, para o mal.",
+  "Reúnem-se e se escondem; observam meus passos, esperando tirar minha vida.",
+  "Por causa da maldade deles, escaparão? Derruba os povos em tua ira, ó Deus!",
+  "Tu contaste minhas andanças; recolhe minhas lágrimas em teu odre. Não estão elas em teu registro?",
+  "Então meus inimigos recuarão no dia em que eu clamar; sei que Deus está comigo.",
+  "Em Deus, cuja palavra louvo, em YHWH, cuja palavra louvo,",
+  "em Deus confio e não temerei. Que pode o homem fazer contra mim?",
+  "Sobre mim, ó Deus, estão os votos que te fiz; cumprirei ofertas de ação de graças a ti.",
+  "Pois livraste minha alma da morte, sim, meus pés de tropeçar, para que eu ande diante de Deus na luz dos viventes."
+];
+
+window.PSALMS_TEXT[57] = [
+  "Ao regente do coro. Não destruas. Mictão de Davi, quando fugia de Saul na caverna.",
+  "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, pois em ti minha alma se refugia; à sombra de tuas asas me abrigo até que passe a calamidade.",
+  "Clamarei ao Deus Altíssimo, ao Deus que realiza tudo por mim.",
+  "Dos céus ele enviará socorro e me salvará; envergonhará aquele que me persegue. Selá. Deus enviará sua lealdade e sua verdade.",
+  "Minha alma está entre leões; deito-me entre homens que exalam fogo, cujos dentes são lanças e flechas e cuja língua é espada afiada.",
+  "Sê exaltado acima dos céus, ó Deus; tua glória esteja sobre toda a terra.",
+  "Armaram uma rede para meus passos; minha alma ficou abatida. Cavaram uma cova diante de mim, mas eles mesmos caíram nela. Selá.",
+  "Meu coração está firme, ó Deus, meu coração está firme; cantarei e entoarei louvores.",
+  "Desperta, minha glória! Despertai, harpa e lira! Despertarei a aurora.",
+  "Eu te darei graças entre os povos, Senhor; cantarei louvores entre as nações.",
+  "Pois tua lealdade é grande até os céus, e tua verdade até as nuvens.",
+  "Sê exaltado acima dos céus, ó Deus; tua glória esteja sobre toda a terra."
+];
+
+window.PSALMS_TEXT[58] = [
+  "Ao regente do coro. Não destruas. Mictão de Davi.",
+  "Será que de fato falais justiça, ó poderosos? Julgais com retidão os filhos dos homens?",
+  "Pelo contrário, praticais injustiça no coração; na terra, vossas mãos distribuem violência.",
+  "Os perversos se desviam desde o ventre; desde o nascimento se extraviam, falando mentiras.",
+  "Seu veneno é como veneno de serpente; são como cobra surda que tapa os ouvidos,",
+  "que não ouve a voz dos encantadores, nem mesmo do encantador habilidoso.",
+  "Ó Deus, quebra-lhes os dentes na boca; arranca, YHWH, as presas dos leões jovens.",
+  "Que desapareçam como águas que escorrem; quando armarem suas flechas, que sejam como se estivessem sem ponta.",
+  "Sejam como lesma que se derrete ao passar; como aborto, não vejam o sol.",
+  "Antes que vossas panelas sintam o calor dos espinhos, verdes ou ardentes, que o vendaval os leve.",
+  "O justo se alegrará quando vir a vingança; lavará os pés no sangue do perverso.",
+  "Então os homens dirão: “De fato, há recompensa para o justo; de fato, há um Deus que julga na terra”."
+];
+
+window.PSALMS_TEXT[59] = [
+  "Ao regente do coro. Não destruas. Mictão de Davi, quando Saul enviou homens para vigiar a casa e matá-lo.",
+  "Livra-me de meus inimigos, ó meu Deus; põe-me em lugar alto, longe dos que se levantam contra mim.",
+  "Livra-me dos que praticam a iniquidade e salva-me dos homens sanguinários.",
+  "Pois eis que armam ciladas contra minha vida; homens poderosos se reúnem contra mim, não por causa de minha transgressão nem de meu pecado, YHWH.",
+  "Sem culpa minha, correm e se preparam. Desperta para vir ao meu encontro e vê!",
+  "Tu, YHWH, Deus dos Exércitos, Deus de Israel, levanta-te para visitar todas as nações; não tenhas misericórdia de nenhum dos traidores perversos. Selá.",
+  "Voltam ao anoitecer, rosnam como cães e rondam a cidade.",
+  "Eis que vomitam palavras com a boca; há espadas em seus lábios, pois dizem: “Quem está ouvindo?”",
+  "Mas tu, YHWH, ris deles; zombas de todas as nações.",
+  "Minha força, esperarei em ti, pois Deus é meu alto refúgio.",
+  "Meu Deus, em sua lealdade virá ao meu encontro; Deus me fará ver a derrota de meus inimigos.",
+  "Não os mates, para que meu povo não se esqueça; dispersa-os com teu poder e derruba-os, Senhor, nosso escudo.",
+  "O pecado de sua boca é a palavra de seus lábios; sejam presos em sua soberba, por causa das maldições e mentiras que proferem.",
+  "Consome-os em tua ira, consome-os até que desapareçam; que saibam que Deus governa em Jacó e até os confins da terra. Selá.",
+  "Voltam ao anoitecer, rosnam como cães e rondam a cidade.",
+  "Vagueiam em busca de alimento; se não se fartam, passam a noite uivando.",
+  "Eu, porém, cantarei tua força e de manhã celebrarei tua lealdade, pois foste meu alto refúgio e abrigo no dia da angústia.",
+  "Minha força, a ti cantarei louvores, pois Deus é meu alto refúgio, o Deus que me demonstra lealdade."
+];
+
+window.PSALMS_TEXT[60] = [
+  "Ao regente do coro. Sobre o lírio do testemunho. Mictão de Davi, para instrução,",
+  "quando lutou contra Arã-Naaraim e Arã-Zobá, e Joabe voltou e derrotou Edom no vale do Sal, doze mil homens.",
+  "Ó Deus, rejeitaste-nos, rompeste nossas fileiras e te indignaste; restaura-nos!",
+  "Fizeste a terra tremer e a fendeste; repara suas brechas, pois ela vacila.",
+  "Fizeste teu povo ver coisas duras; deste-nos a beber vinho que nos faz cambalear.",
+  "Deste um estandarte aos que te temem, para que o levantem por causa da verdade. Selá.",
+  "Para que teus amados sejam libertos, salva com tua mão direita e responde-me.",
+  "Deus falou em sua santidade: “Exultarei; repartirei Siquém e medirei o vale de Sucote.",
+  "Meu é Gileade, meu é Manassés; Efraim é o capacete de minha cabeça, Judá é meu cetro.",
+  "Moabe é minha bacia de lavar; sobre Edom lançarei minha sandália; sobre a Filístia darei gritos de triunfo”.",
+  "Quem me conduzirá à cidade fortificada? Quem me guiará até Edom?",
+  "Não foste tu, ó Deus, que nos rejeitaste? Não sais, ó Deus, com nossos exércitos.",
+  "Dá-nos auxílio contra o adversário, pois inútil é a ajuda do homem.",
+  "Com Deus faremos proezas; ele pisará nossos adversários."
+];
