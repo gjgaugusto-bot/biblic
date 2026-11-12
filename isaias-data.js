@@ -92,3 +92,61 @@ window.ISAIAH_TEXT[3] = [
   "Teus homens cairão à espada, e teus guerreiros, na batalha.",
   "Suas portas lamentarão e prantearão; desolada, ela se sentará no chão."
 ];
+
+window.ISAIAH_TEXT[4] = [
+  "Naquele dia, sete mulheres agarrarão um só homem, dizendo: “Comeremos nosso próprio pão e vestiremos nossas próprias roupas; apenas deixa-nos levar teu nome. Remove nossa vergonha”.",
+  "Naquele dia, o Renovo de YHWH será belo e glorioso, e o fruto da terra será orgulho e ornamento para os sobreviventes de Israel.",
+  "Acontecerá que aquele que restar em Sião e permanecer em Jerusalém será chamado santo, todo aquele que estiver inscrito entre os vivos em Jerusalém,",
+  "quando o Senhor lavar a sujeira das filhas de Sião e limpar o sangue de Jerusalém do meio dela, por meio do espírito de julgamento e do espírito de fogo.",
+  "YHWH criará sobre todo o lugar do monte Sião e sobre suas assembleias uma nuvem de dia e fumaça, e o brilho de um fogo flamejante à noite; pois sobre toda a glória haverá um dossel.",
+  "Haverá um abrigo para sombra contra o calor do dia e para refúgio e proteção contra a tempestade e a chuva."
+];
+
+window.ISAIAH_TEXT[5] = [
+  "Cantarei agora a meu amado um cântico de meu querido a respeito de sua vinha. Meu amado tinha uma vinha numa encosta fértil.",
+  "Ele a cavou, removeu suas pedras, plantou nela uma videira escolhida, construiu uma torre no meio dela e também escavou um lagar. Esperava que produzisse uvas boas, mas ela produziu uvas bravas.",
+  "Agora, habitantes de Jerusalém e homens de Judá, julgai entre mim e minha vinha.",
+  "Que mais se poderia fazer por minha vinha que eu não tenha feito? Por que, quando esperei que produzisse uvas boas, produziu uvas bravas?",
+  "Agora vos farei saber o que farei à minha vinha: removerei sua cerca, e ela será devorada; derrubarei seu muro, e será pisoteada.",
+  "Farei dela um terreno devastado; não será podada nem cavada, e nela crescerão espinhos e cardos. Também ordenarei às nuvens que não derramem chuva sobre ela.",
+  "Pois a vinha de YHWH dos Exércitos é a casa de Israel, e os homens de Judá são a plantação de seu prazer. Ele esperava justiça, mas eis derramamento de sangue; esperava retidão, mas eis clamor de aflição.",
+  "Ai dos que juntam casa a casa e acrescentam campo a campo, até que não haja mais espaço e fiquem sozinhos no meio da terra!",
+  "YHWH dos Exércitos jurou aos meus ouvidos: “Muitas casas ficarão desoladas; grandes e belas casas ficarão sem habitantes.",
+  "Pois dez jeiras de vinha produzirão apenas um bato, e um ômer de semente produzirá apenas um efa”.",
+  "Ai dos que se levantam cedo pela manhã para correr atrás da bebida forte, e continuam até tarde da noite, até que o vinho os inflame!",
+  "Há harpas, liras, tamborins, flautas e vinho em seus banquetes, mas não consideram a obra de YHWH nem contemplam o trabalho de suas mãos.",
+  "Por isso meu povo vai para o cativeiro por falta de conhecimento; seus nobres passam fome, e sua multidão está ressequida de sede.",
+  "Por isso o mundo dos mortos alargou sua garganta e abriu sua boca sem medida; para lá descerão a glória de Jerusalém, sua multidão, seu tumulto e os que nela se alegram.",
+  "O homem será humilhado, o homem será abatido, e os olhos dos altivos serão rebaixados.",
+  "Mas YHWH dos Exércitos será exaltado no julgamento, e o Deus santo será santificado pela justiça.",
+  "Então os cordeiros pastarão como em seu próprio pasto, e estrangeiros comerão nos lugares devastados dos ricos.",
+  "Ai dos que arrastam a iniquidade com cordas de falsidade e o pecado como com cordas de carroça,",
+  "que dizem: “Que ele se apresse, que acelere sua obra, para que a vejamos; que se aproxime e venha o conselho do Santo de Israel, para que o conheçamos!”",
+  "Ai dos que chamam o mal de bem e o bem de mal, que fazem das trevas luz e da luz trevas, que fazem do amargo doce e do doce amargo!",
+  "Ai dos que são sábios aos próprios olhos e entendidos diante de si mesmos!",
+  "Ai dos que são poderosos para beber vinho e homens valentes para misturar bebida forte,",
+  "que absolvem o perverso por suborno e tiram do justo sua justiça!",
+  "Por isso, como a língua de fogo consome a palha e a relva seca desaparece na chama, assim sua raiz apodrecerá, e sua flor subirá como pó, pois rejeitaram a instrução de YHWH dos Exércitos e desprezaram a palavra do Santo de Israel.",
+  "Por isso a ira de YHWH se acendeu contra seu povo; ele estendeu sua mão contra eles e os feriu. Os montes tremeram, e seus cadáveres ficaram como lixo no meio das ruas. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida.",
+  "Ele levantará um estandarte para uma nação distante e a assobiará desde os confins da terra; eis que virá depressa e velozmente.",
+  "Ninguém entre eles estará cansado ou tropeçará; ninguém cochilará nem dormirá. O cinto de seus lombos não se soltará, nem a correia de suas sandálias se romperá.",
+  "Suas flechas são afiadas, e todos os seus arcos estão retesados; os cascos de seus cavalos são como pedra, e suas rodas, como vendaval.",
+  "Seu rugido é como o da leoa; rugem como leões jovens. Rosnarão, agarrarão a presa e a levarão em segurança, sem que ninguém a livre.",
+  "Naquele dia rugirão contra ela como o rugido do mar; se alguém olhar para a terra, verá trevas e angústia, e a luz se escurecerá em suas nuvens."
+];
+
+window.ISAIAH_TEXT[6] = [
+  "No ano da morte do rei Uzias, vi o Senhor sentado num trono alto e elevado, e as abas de sua veste enchiam o templo.",
+  "Serafins estavam acima dele; cada um tinha seis asas: com duas cobria o rosto, com duas cobria os pés e com duas voava.",
+  "Um clamava ao outro e dizia: “Santo, santo, santo é YHWH dos Exércitos; toda a terra está cheia de sua glória!”",
+  "Os fundamentos das portas tremeram com a voz daquele que clamava, e a casa se encheu de fumaça.",
+  "Então eu disse: “Ai de mim! Estou perdido, pois sou homem de lábios impuros e habito no meio de um povo de lábios impuros; meus olhos viram o Rei, YHWH dos Exércitos!”",
+  "Então um dos serafins voou até mim, trazendo na mão uma brasa viva que havia tomado do altar com uma tenaz.",
+  "Tocou minha boca e disse: “Eis que isto tocou teus lábios; tua culpa foi removida, e teu pecado, expiado”.",
+  "Então ouvi a voz do Senhor, que dizia: “A quem enviarei? Quem irá por nós?” E eu disse: “Eis-me aqui; envia-me”.",
+  "Ele disse: “Vai e dize a este povo: ‘Ouvi continuamente, mas não entendais; vede continuamente, mas não percebais’.",
+  "Torna insensível o coração deste povo, endurece seus ouvidos e fecha seus olhos, para que não veja com os olhos, nem ouça com os ouvidos, nem entenda com o coração, nem se converta e seja curado”.",
+  "Então perguntei: “Até quando, Senhor?” Ele respondeu: “Até que as cidades fiquem desoladas, sem habitantes, as casas sem pessoas, e a terra seja completamente devastada;",
+  "até que YHWH afaste os homens para longe e a desolação seja grande no meio da terra.",
+  "Ainda que reste nela um décimo, também será consumido; mas, como terebinto e carvalho que, depois de cortados, deixam um toco, assim a semente santa será seu toco”."
+];
