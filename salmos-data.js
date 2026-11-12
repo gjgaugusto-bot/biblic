@@ -2826,3 +2826,158 @@ window.PSALMS_TEXT[140] = [
   "Sei que YHWH defenderá a causa do aflito e fará justiça aos necessitados.",
   "Certamente os justos darão graças a teu nome; os íntegros habitarão diante de tua presença."
 ];
+
+window.PSALMS_TEXT[141] = [
+  "Salmo de Davi. YHWH, clamo a ti; apressa-te em vir a mim. Dá ouvidos à minha voz quando clamo a ti.",
+  "Que minha oração seja colocada diante de ti como incenso, e o levantar de minhas mãos como oferta da tarde.",
+  "Põe, YHWH, uma guarda à minha boca; vigia a porta de meus lábios.",
+  "Não permitas que meu coração se incline para o mal, para praticar obras perversas com homens que praticam a iniquidade; que eu não participe de suas iguarias.",
+  "Que o justo me fira por lealdade; que me repreenda, será óleo sobre minha cabeça; minha cabeça não o rejeitará. Continuarei orando diante das calamidades deles.",
+  "Quando seus juízes forem lançados do alto dos rochedos, ouvirão minhas palavras, pois são agradáveis.",
+  "Como quando alguém lavra e fende a terra, assim nossos ossos estão espalhados à entrada do mundo dos mortos.",
+  "Mas meus olhos se voltam para ti, Senhor YHWH; em ti me refugio; não deixes minha alma desamparada.",
+  "Guarda-me da armadilha que prepararam para mim e dos laços dos que praticam a iniquidade.",
+  "Que os perversos caiam juntos em suas próprias redes, enquanto eu passo em segurança."
+];
+
+window.PSALMS_TEXT[142] = [
+  "Poema de Davi, quando estava na caverna. Oração.",
+  "Com minha voz clamo a YHWH; com minha voz suplico a YHWH.",
+  "Derramo diante dele minha queixa; exponho diante dele minha angústia.",
+  "Quando meu espírito desfalece dentro de mim, tu conheces meu caminho. No caminho em que ando, esconderam uma armadilha para mim.",
+  "Olho para a direita e vejo; não há quem me reconheça. Não há refúgio para mim; ninguém se importa com minha vida.",
+  "Clamo a ti, YHWH; digo: “Tu és meu refúgio, minha porção na terra dos viventes”.",
+  "Atende meu clamor, pois estou muito abatido; livra-me dos que me perseguem, pois são mais fortes que eu.",
+  "Tira minha alma da prisão, para que eu dê graças a teu nome. Os justos me cercarão, pois me tratarás com bondade."
+];
+
+window.PSALMS_TEXT[143] = [
+  "Salmo de Davi. YHWH, ouve minha oração; dá ouvidos às minhas súplicas. Responde-me por tua fidelidade e por tua justiça.",
+  "Não entres em julgamento com teu servo, pois diante de ti nenhum vivente é justo.",
+  "O inimigo persegue minha alma; esmagou minha vida por terra; fez-me habitar nas trevas como os que morreram há muito tempo.",
+  "Meu espírito desfalece dentro de mim; meu coração está desolado.",
+  "Lembro-me dos dias antigos; medito em todas as tuas obras; considero o trabalho de tuas mãos.",
+  "Estendo minhas mãos a ti; minha alma tem sede de ti como terra ressequida. Selá.",
+  "Responde-me depressa, YHWH; meu espírito desfalece. Não escondas de mim teu rosto, para que eu não me torne como os que descem à cova.",
+  "Faze-me ouvir de manhã tua lealdade, pois em ti confio; mostra-me o caminho que devo seguir, pois elevo minha alma a ti.",
+  "Livra-me de meus inimigos, YHWH; em ti me escondo.",
+  "Ensina-me a fazer tua vontade, pois tu és meu Deus. Que teu bom Espírito me conduza por terreno plano.",
+  "Por amor de teu nome, YHWH, vivifica-me; por tua justiça tira minha alma da angústia.",
+  "Por tua lealdade, elimina meus inimigos e destrói todos os que afligem minha alma, pois sou teu servo."
+];
+
+window.PSALMS_TEXT[144] = [
+  "De Davi. Bendito seja YHWH, minha Rocha, que treina minhas mãos para a batalha e meus dedos para a guerra.",
+  "Minha lealdade e minha fortaleza, meu alto refúgio e meu libertador, meu escudo e aquele em quem me refugio; ele submete povos a mim.",
+  "YHWH, que é o homem, para que o conheças, e o filho do homem, para que o consideres?",
+  "O homem é semelhante ao sopro; seus dias são como sombra que passa.",
+  "YHWH, inclina teus céus e desce; toca os montes, e eles fumegarão.",
+  "Faz relampejar e dispersa os inimigos; lança tuas flechas e os confunde.",
+  "Estende tua mão do alto; livra-me e resgata-me das muitas águas, da mão dos estrangeiros,",
+  "cuja boca fala falsidade e cuja mão direita é mão de engano.",
+  "Ó Deus, cantarei a ti um cântico novo; com a harpa de dez cordas cantarei louvores a ti,",
+  "que dás salvação aos reis e livras Davi, teu servo, da espada maligna.",
+  "Livra-me e resgata-me da mão dos estrangeiros, cuja boca fala falsidade e cuja mão direita é mão de engano,",
+  "para que nossos filhos sejam como plantas bem desenvolvidas em sua juventude, e nossas filhas como colunas esculpidas para adornar um palácio.",
+  "Que nossos depósitos estejam cheios, fornecendo toda espécie de provisão; que nossos rebanhos se multipliquem aos milhares e às dezenas de milhares em nossos campos.",
+  "Que nosso gado esteja carregado; que não haja invasão, nem saída para o cativeiro, nem clamor em nossas praças.",
+  "Feliz o povo para quem assim acontece; feliz o povo cujo Deus é YHWH!"
+];
+
+window.PSALMS_TEXT[145] = [
+  "Louvor de Davi. Exaltar-te-ei, meu Deus e Rei; bendirei teu nome para todo o sempre.",
+  "Todos os dias te bendirei e louvarei teu nome para todo o sempre.",
+  "Grande é YHWH e digno de muito louvor; sua grandeza é insondável.",
+  "Uma geração louvará tuas obras à outra geração e anunciará teus atos poderosos.",
+  "Meditarei no esplendor glorioso de tua majestade e em tuas maravilhas.",
+  "Falarão do poder de teus feitos temíveis, e eu anunciarei tua grandeza.",
+  "Proclamarão a memória de tua grande bondade e cantarão tua justiça.",
+  "YHWH é gracioso e compassivo, tardio em irar-se e abundante em lealdade.",
+  "YHWH é bom para todos, e suas misericórdias estão sobre todas as suas obras.",
+  "Todas as tuas obras te darão graças, YHWH, e teus leais te bendirão.",
+  "Falarão da glória de teu reino e contarão teu poder,",
+  "para tornar conhecidos aos filhos dos homens teus feitos poderosos e o esplendor glorioso de teu reino.",
+  "Teu reino é reino de todos os séculos, e teu domínio permanece por todas as gerações.",
+  "YHWH sustenta todos os que caem e levanta todos os abatidos.",
+  "Os olhos de todos esperam em ti, e tu lhes dás alimento no tempo certo.",
+  "Abres tua mão e satisfazes o desejo de todo ser vivente.",
+  "YHWH é justo em todos os seus caminhos e leal em todas as suas obras.",
+  "YHWH está perto de todos os que o invocam, de todos os que o invocam em verdade.",
+  "Cumpre o desejo dos que o temem; ouve seu clamor e os salva.",
+  "YHWH guarda todos os que o amam, mas destruirá todos os perversos.",
+  "Minha boca proclamará o louvor de YHWH; que toda carne bendiga seu santo nome para todo o sempre."
+];
+
+window.PSALMS_TEXT[146] = [
+  "Aleluia! Louva, minha alma, a YHWH.",
+  "Louvarei YHWH enquanto viver; cantarei louvores a meu Deus enquanto existir.",
+  "Não confieis em príncipes, nem no filho do homem, em quem não há salvação.",
+  "Seu espírito sai, e ele volta ao pó; naquele mesmo dia perecem seus planos.",
+  "Feliz aquele cujo auxílio é o Deus de Jacó, cuja esperança está em YHWH, seu Deus,",
+  "que fez os céus e a terra, o mar e tudo o que neles há; que guarda a verdade para sempre,",
+  "que faz justiça aos oprimidos e dá pão aos famintos. YHWH liberta os prisioneiros.",
+  "YHWH abre os olhos dos cegos; YHWH levanta os abatidos; YHWH ama os justos.",
+  "YHWH guarda os estrangeiros; sustenta o órfão e a viúva, mas transtorna o caminho dos perversos.",
+  "YHWH reina para sempre, teu Deus, Sião, de geração em geração. Aleluia!"
+];
+
+window.PSALMS_TEXT[147] = [
+  "Aleluia! Pois é bom cantar louvores ao nosso Deus; é agradável, e o louvor lhe convém.",
+  "YHWH edifica Jerusalém; reúne os dispersos de Israel.",
+  "Cura os quebrantados de coração e enfaixa suas feridas.",
+  "Conta o número das estrelas e chama todas pelo nome.",
+  "Grande é nosso Senhor e abundante em poder; seu entendimento não tem medida.",
+  "YHWH sustenta os humildes, mas lança os perversos por terra.",
+  "Cantai a YHWH com ação de graças; entoai louvores a nosso Deus com a harpa.",
+  "Ele cobre os céus de nuvens, prepara chuva para a terra e faz crescer relva sobre os montes.",
+  "Dá alimento aos animais e aos filhotes dos corvos que clamam.",
+  "Não se agrada da força do cavalo, nem tem prazer nas pernas do homem.",
+  "YHWH tem prazer nos que o temem, nos que esperam em sua lealdade.",
+  "Glorifica YHWH, Jerusalém; louva teu Deus, Sião.",
+  "Pois ele fortaleceu as trancas de tuas portas e abençoou teus filhos dentro de ti.",
+  "Estabelece a paz em teu território e te sacia com a melhor parte do trigo.",
+  "Envia sua ordem à terra; sua palavra corre velozmente.",
+  "Faz cair neve como lã e espalha a geada como cinza.",
+  "Lança seu gelo como migalhas; quem pode resistir ao seu frio?",
+  "Envia sua palavra e os derrete; faz soprar seu vento, e as águas correm.",
+  "Anuncia sua palavra a Jacó, seus estatutos e julgamentos a Israel.",
+  "Não fez assim com nenhuma outra nação; elas não conhecem seus julgamentos. Aleluia!"
+];
+
+window.PSALMS_TEXT[148] = [
+  "Aleluia! Louvai YHWH desde os céus; louvai-o nas alturas.",
+  "Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos.",
+  "Louvai-o, sol e lua; louvai-o, todas as estrelas brilhantes.",
+  "Louvai-o, céus dos céus e águas acima dos céus.",
+  "Louvem o nome de YHWH, pois ele ordenou, e foram criados.",
+  "Ele os estabeleceu para todo o sempre; deu-lhes uma ordem que não passará.",
+  "Louvai YHWH desde a terra, monstros marinhos e todos os abismos,",
+  "fogo e granizo, neve e vapor, vento tempestuoso que executa sua palavra,",
+  "montes e todas as colinas, árvores frutíferas e todos os cedros,",
+  "animais selvagens e todo o gado, répteis e aves que voam,",
+  "reis da terra e todos os povos, príncipes e todos os juízes da terra,",
+  "jovens e também donzelas, idosos e crianças.",
+  "Louvem o nome de YHWH, pois somente seu nome é exaltado; sua majestade está acima da terra e dos céus.",
+  "Ele exaltou o poder de seu povo, o louvor de todos os seus leais, dos filhos de Israel, povo que lhe está próximo. Aleluia!"
+];
+
+window.PSALMS_TEXT[149] = [
+  "Aleluia! Cantai a YHWH um cântico novo, seu louvor na assembleia dos leais.",
+  "Alegre-se Israel em seu Criador; exultem os filhos de Sião em seu Rei.",
+  "Louvem seu nome com dança; cantem-lhe louvores com tamborim e harpa.",
+  "Pois YHWH tem prazer em seu povo; adorna os humildes com salvação.",
+  "Exultem os leais na glória; cantem de alegria sobre seus leitos.",
+  "Haja louvores a Deus em sua garganta e uma espada de dois gumes em sua mão,",
+  "para executar vingança entre as nações e castigos entre os povos,",
+  "para prender seus reis com correntes e seus nobres com grilhões de ferro,",
+  "para executar contra eles o julgamento escrito. Esta é a honra de todos os seus leais. Aleluia!"
+];
+
+window.PSALMS_TEXT[150] = [
+  "Aleluia! Louvai a Deus em seu santuário; louvai-o no firmamento de seu poder.",
+  "Louvai-o por seus feitos poderosos; louvai-o segundo a abundância de sua grandeza.",
+  "Louvai-o ao som da trombeta; louvai-o com harpa e lira.",
+  "Louvai-o com tamborim e dança; louvai-o com instrumentos de cordas e flautas.",
+  "Louvai-o com címbalos sonoros; louvai-o com címbalos retumbantes.",
+  "Tudo o que tem fôlego louve YHWH. Aleluia!"
+];
