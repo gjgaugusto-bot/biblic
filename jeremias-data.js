@@ -1181,3 +1181,60 @@ window.JEREMIAH_TEXT[42] = [
   "Hoje vos anunciei, mas não ouvistes a voz de YHWH, vosso Deus, nem coisa alguma que ele me enviou a vos dizer.",
   "Agora, pois, sabei certamente que morrereis pela espada, pela fome e pela peste no lugar para onde desejais ir para habitar”."
 ];
+
+window.JEREMIAH_TEXT[43] = [
+  "Quando Jeremias terminou de falar a todo o povo todas as palavras de YHWH, seu Deus, com as quais YHWH, seu Deus, o havia enviado a eles,",
+  "Azarias, filho de Hosaías, Joanã, filho de Careá, e todos os homens arrogantes disseram a Jeremias: “Falaste mentira! YHWH, nosso Deus, não te enviou para dizer: ‘Não entreis no Egito para ali habitar’.",
+  "Mas Baruque, filho de Nerias, te incita contra nós, para nos entregar nas mãos dos caldeus, a fim de nos matarem ou nos levarem cativos para a Babilônia”.",
+  "Joanã, filho de Careá, todos os comandantes dos exércitos e todo o povo não obedeceram à voz de YHWH para permanecer na terra de Judá.",
+  "Joanã, filho de Careá, e todos os comandantes dos exércitos tomaram todo o remanescente de Judá que havia voltado de todas as nações para onde fora expulso, para habitar na terra de Judá:",
+  "homens, mulheres, crianças, filhas do rei e todas as pessoas que Nebuzaradã, comandante da guarda, havia deixado com Gedalias, filho de Aicão, filho de Safã, e também Jeremias, o profeta, e Baruque, filho de Nerias.",
+  "Entraram na terra do Egito, pois não obedeceram à voz de YHWH, e chegaram a Tafnes.",
+  "A palavra de YHWH veio a Jeremias em Tafnes, dizendo:",
+  "“Toma grandes pedras em tuas mãos e esconde-as no barro, no pavimento de tijolos à entrada da casa do faraó em Tafnes, diante dos olhos dos homens de Judá.",
+  "Dize-lhes: Assim diz YHWH dos Exércitos, Deus de Israel: Eis que enviarei e tomarei Nabucodonosor, rei da Babilônia, meu servo; colocarei seu trono sobre estas pedras que escondi, e ele estenderá sobre elas seu pavilhão real.",
+  "Ele virá e ferirá a terra do Egito: os destinados à morte, à morte; os destinados ao cativeiro, ao cativeiro; os destinados à espada, à espada.",
+  "Acenderei fogo nas casas dos deuses do Egito; ele os queimará e os levará cativos. Limpará a terra do Egito como o pastor limpa seu manto e sairá dali em paz.",
+  "Quebrará também as colunas de Bete-Semes, na terra do Egito, e queimará as casas dos deuses do Egito com fogo”."
+];
+
+window.JEREMIAH_TEXT[44] = [
+  "A palavra que veio a Jeremias acerca de todos os judeus que habitavam na terra do Egito, em Migdol, Tafnes, Nofe e na terra de Patros, dizendo:",
+  "Assim diz YHWH dos Exércitos, Deus de Israel: “Vistes toda a calamidade que trouxe sobre Jerusalém e sobre todas as cidades de Judá; eis que hoje são desolação, e ninguém habita nelas,",
+  "por causa da maldade que praticaram para me provocar à ira, indo queimar incenso e servir outros deuses, que não conheciam, nem eles, nem vós, nem vossos pais.",
+  "Enviei-vos todos os meus servos, os profetas, levantando-me cedo e enviando-os, dizendo: ‘Não façais esta coisa abominável que odeio’.",
+  "Mas não ouviram nem inclinaram o ouvido para se converterem de sua maldade e deixarem de queimar incenso a outros deuses.",
+  "Por isso meu furor e minha ira foram derramados e arderam nas cidades de Judá e nas ruas de Jerusalém; elas se tornaram ruínas e desolação, como acontece hoje.",
+  "Agora, pois, assim diz YHWH, Deus dos Exércitos, Deus de Israel: Por que fazeis este grande mal contra vossas almas, eliminando de Judá homens e mulheres, crianças e lactentes, para que não vos reste remanescente?",
+  "Por que me provocais à ira com as obras de vossas mãos, queimando incenso a outros deuses na terra do Egito, onde entrastes para habitar? Assim sereis eliminados e vos tornareis maldição e opróbrio entre todas as nações da terra.",
+  "Acaso esquecestes as maldades de vossos pais, as maldades dos reis de Judá, as maldades de suas mulheres, vossas próprias maldades e as maldades de vossas mulheres, praticadas na terra de Judá e nas ruas de Jerusalém?",
+  "Até hoje não se humilharam, nem temeram, nem andaram em minha instrução e em meus estatutos, que pus diante de vós e de vossos pais.",
+  "Por isso assim diz YHWH dos Exércitos, Deus de Israel: Eis que volto meu rosto contra vós para calamidade e para eliminar todo Judá.",
+  "Tomarei o remanescente de Judá que decidiu entrar na terra do Egito para ali habitar; todos serão consumidos na terra do Egito; cairão pela espada e serão consumidos pela fome, do menor ao maior; morrerão pela espada e pela fome, e serão maldição, espanto, opróbrio e insulto.",
+  "Castigarei os que habitam na terra do Egito, como castiguei Jerusalém, com espada, fome e peste.",
+  "Não haverá fugitivo nem sobrevivente para o remanescente de Judá que entrou na terra do Egito para ali habitar e voltar à terra de Judá, à qual desejam voltar para habitar; nenhum voltará, exceto alguns fugitivos”.",
+  "Então todos os homens que sabiam que suas mulheres queimavam incenso a outros deuses, e todas as mulheres que estavam ali, uma grande assembleia, e todo o povo que habitava na terra do Egito, em Patros, responderam a Jeremias, dizendo:",
+  "“Não ouviremos a palavra que nos falaste em nome de YHWH.",
+  "Certamente cumpriremos toda palavra que saiu de nossa boca: queimaremos incenso à rainha dos céus e lhe derramaremos ofertas de bebida, como fizemos, nós e nossos pais, nossos reis e nossos príncipes, nas cidades de Judá e nas ruas de Jerusalém; então tínhamos alimento em abundância, prosperávamos e não víamos calamidade.",
+  "Mas, desde que deixamos de queimar incenso à rainha dos céus e de lhe derramar ofertas de bebida, tivemos falta de tudo e somos consumidos pela espada e pela fome”.",
+  "E as mulheres disseram: “Quando queimávamos incenso à rainha dos céus e lhe derramávamos ofertas de bebida, acaso fazíamos bolos para ela com sua imagem e lhe derramávamos ofertas de bebida sem o consentimento de nossos maridos?”",
+  "Jeremias disse a todo o povo, aos homens e às mulheres, a todo o povo que lhe respondera:",
+  "“Acaso YHWH não se lembrou e não lhe veio à mente o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós, vossos pais, vossos reis, vossos príncipes e o povo da terra?",
+  "YHWH já não pôde suportar a maldade de vossas ações e as abominações que praticastes; por isso vossa terra se tornou desolação, espanto e maldição, sem habitantes, como acontece hoje.",
+  "Porque queimastes incenso e pecastes contra YHWH, não ouvistes a voz de YHWH nem andastes em sua instrução, em seus estatutos e em seus testemunhos; por isso esta calamidade vos aconteceu, como acontece hoje”.",
+  "Jeremias disse a todo o povo e a todas as mulheres: “Ouvi a palavra de YHWH, todos os de Judá que estais na terra do Egito.",
+  "Assim diz YHWH dos Exércitos, Deus de Israel: Vós e vossas mulheres falastes com vossa boca e cumpristes com vossas mãos, dizendo: ‘Certamente cumpriremos nossos votos de queimar incenso à rainha dos céus e derramar-lhe ofertas de bebida’. Confirmai, pois, vossos votos e cumpri-os!",
+  "Contudo, ouvi a palavra de YHWH, todos os de Judá que habitais na terra do Egito: Eis que juro por meu grande nome”, diz YHWH, “que meu nome não será mais pronunciado pela boca de nenhum homem de Judá em toda a terra do Egito, dizendo: ‘Tão certo como vive o Senhor YHWH’.",
+  "Eis que vigiarei sobre eles para calamidade, e não para bem; todos os homens de Judá que estão na terra do Egito serão consumidos pela espada e pela fome, até que acabem.",
+  "Os que escaparem da espada voltarão da terra do Egito à terra de Judá em pequeno número; todo o remanescente de Judá que entrou na terra do Egito para ali habitar saberá qual palavra permanecerá: a minha ou a deles.",
+  "Este será o sinal para vós”, diz YHWH, “de que vos castigarei neste lugar, para que saibais que minhas palavras certamente se cumprirão contra vós para calamidade”.",
+  "Assim diz YHWH: “Eis que entregarei o faraó Hofra, rei do Egito, nas mãos de seus inimigos e nas mãos dos que procuram tirar sua vida, como entreguei Zedequias, rei de Judá, nas mãos de Nabucodonosor, rei da Babilônia, seu inimigo, que procurava tirar sua vida”."
+];
+
+window.JEREMIAH_TEXT[45] = [
+  "A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando escreveu estas palavras num livro, conforme o ditado de Jeremias, no quarto ano de Jeoaquim, filho de Josias, rei de Judá, dizendo:",
+  "Assim diz YHWH, Deus de Israel, a teu respeito, Baruque:",
+  "“Disseste: ‘Ai de mim! Pois YHWH acrescentou tristeza à minha dor; estou cansado de gemer e não encontro descanso’.",
+  "Assim lhe dirás: Assim diz YHWH: Eis que destruo o que edifiquei e arranco o que plantei, isto é, toda esta terra.",
+  "E tu procuras grandes coisas para ti? Não as procures, pois eis que trarei calamidade sobre toda carne”, diz YHWH, “mas te darei tua vida como despojo em todos os lugares para onde fores”."
+];
