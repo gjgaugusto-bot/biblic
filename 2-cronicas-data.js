@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–21 de 36; 450 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–24 de 36; 510 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -516,4 +516,73 @@ window.SECOND_CHRONICLES_TEXT[21] = [
   "Depois de tudo isso, YHWH o feriu nos intestinos com uma doença incurável.",
   "Passados alguns dias, ao fim de dois anos, seus intestinos saíram por causa da doença, e ele morreu em grande sofrimento. Seu povo não fez uma queima em sua honra como havia feito para seus pais.",
   "Tinha trinta e dois anos quando começou a reinar e reinou oito anos em Jerusalém. Partiu sem deixar saudade; sepultaram-no na Cidade de Davi, mas não nos túmulos dos reis."
+];
+
+window.SECOND_CHRONICLES_TEXT[22] = [
+  "Os habitantes de Jerusalém fizeram Acazias, seu filho mais novo, rei em seu lugar, pois o bando que havia entrado no acampamento com os árabes matara todos os filhos mais velhos. Assim Acazias, filho de Jeorão, rei de Judá, começou a reinar.",
+  "Acazias tinha quarenta e dois anos quando começou a reinar e reinou um ano em Jerusalém. O nome de sua mãe era Atalia, filha de Onri.",
+  "Ele também andou nos caminhos da casa de Acabe, pois sua mãe o aconselhava a agir perversamente.",
+  "Fez o que era mau aos olhos de YHWH, como a casa de Acabe, pois, depois da morte de seu pai, eles se tornaram seus conselheiros para sua própria ruína.",
+  "Seguindo o conselho deles, foi com Jorão, filho de Acabe, rei de Israel, à guerra contra Hazael, rei da Síria, em Ramote-Gileade. Os sírios feriram Jorão.",
+  "Jorão voltou a Jezreel para se recuperar dos ferimentos que recebera em Ramá, na luta contra Hazael, rei da Síria. Acazias, filho de Jeorão, rei de Judá, desceu a Jezreel para visitar Jorão, filho de Acabe, porque este estava ferido.",
+  "A visita de Acazias a Jorão foi ocasião de sua queda, conforme o propósito de Deus. Quando chegou, saiu com Jorão ao encontro de Jeú, filho de Ninsi, a quem YHWH havia ungido para exterminar a casa de Acabe.",
+  "Quando Jeú executava o juízo contra a casa de Acabe, encontrou os chefes de Judá e os filhos dos irmãos de Acazias, que serviam a Acazias, e os matou.",
+  "Depois procurou Acazias. Encontraram-no escondido em Samaria, levaram-no a Jeú e o mataram. Sepultaram-no, pois disseram: “Ele é filho de Josafá, que buscou YHWH de todo o coração”. E não havia ninguém da casa de Acazias capaz de manter o poder do reino.",
+  "Quando Atalia, mãe de Acazias, viu que seu filho havia morrido, levantou-se e exterminou toda a descendência real da casa de Judá.",
+  "Mas Jeosabeate, filha do rei, tomou Joás, filho de Acazias, e o retirou às escondidas dentre os filhos do rei que estavam sendo mortos. Colocou-o com sua ama no quarto dos leitos. Jeosabeate, filha do rei Jeorão e mulher do sacerdote Joiada — ela era irmã de Acazias —, escondeu-o de Atalia, e assim ela não o matou.",
+  "Joás permaneceu escondido com eles na casa de Deus durante seis anos, enquanto Atalia reinava sobre a terra."
+];
+
+window.SECOND_CHRONICLES_TEXT[23] = [
+  "No sétimo ano, Joiada tomou coragem e fez uma aliança com os comandantes de cem: Azarias, filho de Jeroão; Ismael, filho de Joanã; Azarias, filho de Obede; Maaseias, filho de Adaías; e Elisafate, filho de Zicri.",
+  "Eles percorreram Judá, reuniram os levitas de todas as cidades de Judá e os chefes das casas paternas de Israel, e vieram a Jerusalém.",
+  "Toda a assembleia fez uma aliança com o rei na casa de Deus. Joiada lhes disse: “Eis que o filho do rei reinará, conforme YHWH prometeu acerca dos filhos de Davi.",
+  "Isto é o que fareis: um terço de vós, sacerdotes e levitas que entram de serviço no sábado, ficará de guarda às entradas;",
+  "outro terço ficará no palácio real, e o outro terço na Porta do Fundamento. Todo o povo permanecerá nos pátios da casa de YHWH.",
+  "Ninguém entrará na casa de YHWH, exceto os sacerdotes e os levitas que estiverem ministrando; eles poderão entrar porque são consagrados. Todo o povo guardará a ordem de YHWH.",
+  "Os levitas cercarão o rei por todos os lados, cada homem com suas armas na mão. Quem entrar na casa será morto. Permanecei junto ao rei quando ele entrar e quando sair”.",
+  "Os levitas e todo o Judá fizeram conforme tudo o que o sacerdote Joiada havia ordenado. Cada um reuniu seus homens, tanto os que entravam de serviço no sábado quanto os que saíam, pois Joiada não dispensou as divisões.",
+  "O sacerdote Joiada entregou aos comandantes de cem as lanças, os escudos e os escudos menores que haviam pertencido ao rei Davi e estavam na casa de Deus.",
+  "Colocou todo o povo em posição, cada homem com sua arma na mão, desde o lado direito até o lado esquerdo da casa, junto ao altar e à casa, ao redor do rei.",
+  "Então trouxeram o filho do rei, colocaram sobre ele a coroa e o documento da aliança, proclamaram-no rei e o ungiram. Joiada e seus filhos disseram: “Viva o rei!”",
+  "Quando Atalia ouviu o barulho do povo correndo e louvando o rei, foi até o povo na casa de YHWH.",
+  "Olhou e viu o rei de pé junto à coluna, na entrada; os comandantes e os trombeteiros estavam junto ao rei, e todo o povo da terra se alegrava e tocava trombetas. Os cantores acompanhavam os instrumentos musicais e dirigiam os louvores. Atalia rasgou suas roupas e gritou: “Traição! Traição!”",
+  "O sacerdote Joiada mandou sair os comandantes de cem, responsáveis pelo exército, e lhes disse: “Tirai-a para fora das fileiras; quem a seguir será morto à espada”. Pois o sacerdote havia dito que não a matassem na casa de YHWH.",
+  "Eles a agarraram e a conduziram à entrada da Porta dos Cavalos, junto ao palácio real, e ali a mataram.",
+  "Joiada fez uma aliança entre si, todo o povo e o rei, para que fossem o povo de YHWH.",
+  "Todo o povo foi ao templo de Baal, derrubou-o, despedaçou seus altares e suas imagens e matou Matã, sacerdote de Baal, diante dos altares.",
+  "Joiada confiou a supervisão da casa de YHWH aos sacerdotes levitas, a quem Davi havia distribuído em divisões para a casa de YHWH, a fim de oferecerem holocaustos a YHWH, conforme está escrito na Lei de Moisés, com alegria e cânticos, segundo as instruções de Davi.",
+  "Estabeleceu porteiros nas portas da casa de YHWH, para que ninguém impuro em qualquer aspecto entrasse.",
+  "Tomou os comandantes de cem, os nobres, os governadores do povo e todo o povo da terra; fizeram o rei descer da casa de YHWH, entraram no palácio pela Porta Superior e assentaram o rei no trono do reino.",
+  "Todo o povo da terra se alegrou, e a cidade ficou tranquila. Atalia foi morta à espada."
+];
+
+window.SECOND_CHRONICLES_TEXT[24] = [
+  "Joás tinha sete anos quando começou a reinar e reinou quarenta anos em Jerusalém. O nome de sua mãe era Zíbia, de Berseba.",
+  "Joás fez o que era correto aos olhos de YHWH durante todos os dias do sacerdote Joiada.",
+  "Joiada escolheu para ele duas mulheres, e Joás gerou filhos e filhas.",
+  "Depois disso, Joás decidiu em seu coração restaurar a casa de YHWH.",
+  "Reuniu os sacerdotes e os levitas e lhes disse: “Ide às cidades de Judá e recolhei de todo o Israel, ano após ano, dinheiro para reparar a casa de vosso Deus. Apressai-vos em fazer isso”. Mas os levitas não se apressaram.",
+  "O rei chamou Joiada, o chefe, e lhe perguntou: “Por que não exigiste dos levitas que trouxessem de Judá e de Jerusalém a contribuição determinada por Moisés, servo de YHWH, e pela assembleia de Israel para a tenda do Testemunho?",
+  "Pois Atalia, aquela mulher perversa, e seus filhos haviam invadido a casa de Deus e usado para os baalins todas as coisas consagradas da casa de YHWH”.",
+  "Por ordem do rei, fizeram uma arca e a colocaram do lado de fora, junto à porta da casa de YHWH.",
+  "Proclamaram em Judá e em Jerusalém que trouxessem a YHWH a contribuição que Moisés, servo de Deus, havia imposto a Israel no deserto.",
+  "Todos os chefes e o povo se alegraram. Trouxeram suas contribuições e as lançaram na arca, até enchê-la.",
+  "Sempre que os levitas levavam a arca aos oficiais do rei, e estes viam que havia muito dinheiro, vinham o secretário do rei e o representante do sumo sacerdote, esvaziavam a arca, tornavam a levá-la ao seu lugar e faziam isso dia após dia. Assim recolheram muito dinheiro.",
+  "O rei e Joiada entregavam o dinheiro aos responsáveis pela obra da casa de YHWH, que contratavam pedreiros e carpinteiros para restaurar a casa de YHWH, bem como ferreiros e trabalhadores de bronze para repará-la.",
+  "Os trabalhadores executaram o serviço, e a restauração avançou sob suas mãos. Reconstruíram a casa de Deus segundo suas medidas e a fortaleceram.",
+  "Quando terminaram, trouxeram diante do rei e de Joiada o restante do dinheiro. Com ele foram feitos utensílios para a casa de YHWH: utensílios para o serviço e para os holocaustos, taças e objetos de ouro e prata. Enquanto Joiada viveu, ofereceram continuamente holocaustos na casa de YHWH.",
+  "Joiada envelheceu e morreu, satisfeito com seus dias. Tinha cento e trinta anos quando morreu.",
+  "Sepultaram-no na Cidade de Davi, junto aos reis, pois havia feito o bem em Israel, para com Deus e para com sua casa.",
+  "Depois da morte de Joiada, os chefes de Judá vieram e se prostraram diante do rei. Então o rei lhes deu ouvidos.",
+  "Abandonaram a casa de YHWH, Deus de seus pais, e serviram aos postes de Aserá e aos ídolos. Por causa dessa culpa, a ira veio sobre Judá e Jerusalém.",
+  "YHWH enviou profetas entre eles para fazê-los voltar a ele. Os profetas testemunharam contra eles, mas não lhes deram ouvidos.",
+  "Então o espírito de Deus revestiu Zacarias, filho do sacerdote Joiada. Ele se pôs de pé diante do povo e lhes disse: “Assim diz Deus: Por que transgredis os mandamentos de YHWH? Não prosperareis, pois abandonastes YHWH, e ele também vos abandonará”.",
+  "Conspiraram contra ele e, por ordem do rei, apedrejaram-no no pátio da casa de YHWH.",
+  "O rei Joás não se lembrou da lealdade que Joiada, pai de Zacarias, lhe havia demonstrado; matou o filho de Joiada. Ao morrer, Zacarias disse: “Que YHWH veja e faça justiça!”",
+  "Na virada do ano, o exército da Síria subiu contra Joás. Invadiu Judá e Jerusalém, exterminou todos os chefes do povo e enviou todo o despojo ao rei de Damasco.",
+  "Embora o exército sírio tivesse vindo com poucos homens, YHWH entregou em suas mãos um exército muito numeroso, porque Judá havia abandonado YHWH, Deus de seus pais. Assim os sírios executaram juízo contra Joás.",
+  "Quando os sírios se retiraram — deixaram Joás gravemente ferido —, seus próprios servos conspiraram contra ele por causa do sangue dos filhos do sacerdote Joiada. Mataram-no em seu leito, e ele morreu. Sepultaram-no na Cidade de Davi, mas não nos túmulos dos reis.",
+  "Os que conspiraram contra ele foram Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita.",
+  "Quanto a seus filhos, às muitas profecias contra ele e à restauração da casa de Deus, tudo está escrito no comentário do Livro dos Reis. Amazias, seu filho, reinou em seu lugar."
 ];
