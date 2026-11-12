@@ -163,7 +163,12 @@ window.JOB_TEXT[6] = [
 ];
 
 window.JOB_TEXT[7] = [
-  "Jó respondeu:",
+  "Não é a vida do ser humano sobre a terra uma luta? Não são seus dias como os dias de um trabalhador contratado?",
+  "Como o escravo suspira pela sombra e o trabalhador espera seu pagamento,",
+  "assim recebi como herança meses de sofrimento, e noites de angústia me foram destinadas.",
+  "Quando me deito, pergunto: ‘Quando me levantarei?’ A noite se arrasta, e fico inquieto até o amanhecer.",
+  "Meu corpo está coberto de vermes e crostas de pó; minha pele se rompe e torna a supurar.",
+  "Meus dias correm mais depressa que a lançadeira do tecelão e chegam ao fim sem esperança.",
   "“Minha vida é um sopro; meus olhos nunca mais verão o bem.",
   "O olho daquele que me vê não me verá mais; teus olhos estarão sobre mim, mas eu já não existirei.",
   "Como a nuvem se dissipa e desaparece, assim aquele que desce ao mundo dos mortos não volta a subir.",
