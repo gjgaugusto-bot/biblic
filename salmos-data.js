@@ -2667,3 +2667,66 @@ window.PSALMS_TEXT[130] = [
   "Israel, espera em YHWH, pois em YHWH há lealdade, e nele há abundante redenção.",
   "Ele redimirá Israel de todas as suas iniquidades."
 ];
+
+window.PSALMS_TEXT[131] = [
+  "Cântico das subidas. De Davi. YHWH, meu coração não é orgulhoso, nem meus olhos são altivos; não me ocupo de coisas grandes demais ou maravilhosas demais para mim.",
+  "Pelo contrário, acalmei e aquietei minha alma; como criança desmamada junto à mãe, assim está minha alma dentro de mim.",
+  "Israel, espera em YHWH, desde agora e para sempre."
+];
+
+window.PSALMS_TEXT[132] = [
+  "Cântico das subidas. YHWH, lembra-te de Davi e de todas as suas aflições,",
+  "de como jurou a YHWH e fez voto ao Poderoso de Jacó:",
+  "“Não entrarei na tenda de minha casa, nem subirei ao leito em que repouso;",
+  "não darei sono aos meus olhos, nem descanso às minhas pálpebras,",
+  "até que encontre um lugar para YHWH, uma morada para o Poderoso de Jacó”.",
+  "Eis que ouvimos falar dela em Efrata; encontramo-la nos campos de Jaar.",
+  "Entremos em suas moradas; prostremo-nos diante do estrado de seus pés.",
+  "Levanta-te, YHWH, e vem para teu lugar de repouso, tu e a arca de tua força.",
+  "Que teus sacerdotes se vistam de justiça, e que teus leais cantem de alegria.",
+  "Por amor de Davi, teu servo, não rejeites o rosto de teu ungido.",
+  "YHWH jurou a Davi uma verdade da qual não se desviará: “Porei sobre teu trono um fruto de teu ventre.",
+  "Se teus filhos guardarem minha aliança e meus testemunhos que lhes ensinarei, também seus filhos se sentarão para sempre sobre teu trono”.",
+  "Pois YHWH escolheu Sião; desejou-a para sua morada:",
+  "“Este é meu lugar de repouso para sempre; aqui habitarei, pois assim o desejei.",
+  "Abençoarei abundantemente seu alimento; saciarei de pão seus necessitados.",
+  "Vestirei seus sacerdotes de salvação, e seus leais cantarão de alegria.",
+  "Ali farei brotar o poder de Davi; preparei uma lâmpada para meu ungido.",
+  "Vestirei de vergonha seus inimigos, mas sobre ele florescerá sua coroa”."
+];
+
+window.PSALMS_TEXT[133] = [
+  "Cântico das subidas. De Davi. Eis como é bom e agradável que irmãos habitem juntos em união!",
+  "É como óleo precioso sobre a cabeça, que desce pela barba, a barba de Arão, e desce até a gola de suas vestes.",
+  "É como o orvalho do Hermom, que desce sobre os montes de Sião; pois ali YHWH ordenou a bênção, vida para sempre."
+];
+
+window.PSALMS_TEXT[134] = [
+  "Cântico das subidas. Eis! Bendizei YHWH, todos vós, servos de YHWH, que servis na casa de YHWH durante as noites.",
+  "Levantai as mãos para o santuário e bendizei YHWH.",
+  "Que YHWH te abençoe desde Sião, ele que fez os céus e a terra."
+];
+
+window.PSALMS_TEXT[135] = [
+  "Aleluia! Louvai o nome de YHWH; louvai-o, servos de YHWH,",
+  "vós que estais na casa de YHWH, nos pátios da casa de nosso Deus.",
+  "Louvai YHWH, pois YHWH é bom; cantai louvores a seu nome, pois é agradável.",
+  "Pois YHWH escolheu Jacó para si, Israel como sua propriedade preciosa.",
+  "Sei que YHWH é grande e que nosso Senhor está acima de todos os deuses.",
+  "YHWH faz tudo o que lhe agrada, nos céus, na terra, nos mares e em todas as profundezas.",
+  "Faz subir as nuvens desde os confins da terra; produz relâmpagos para a chuva e tira o vento de seus depósitos.",
+  "Feriu os primogênitos do Egito, tanto dos homens como dos animais.",
+  "Enviou sinais e maravilhas no meio de ti, Egito, contra o faraó e todos os seus servos.",
+  "Feriu muitas nações e matou reis poderosos:",
+  "Seom, rei dos amorreus, Ogue, rei de Basã, e todos os reinos de Canaã.",
+  "Deu a terra deles como herança, como herança a Israel, seu povo.",
+  "YHWH, teu nome permanece para sempre; YHWH, tua memória atravessa todas as gerações.",
+  "Pois YHWH julgará seu povo e terá compaixão de seus servos.",
+  "Os ídolos das nações são prata e ouro, obra das mãos dos homens.",
+  "Têm boca, mas não falam; têm olhos, mas não veem;",
+  "têm ouvidos, mas não ouvem; não há fôlego em sua boca.",
+  "Tornem-se semelhantes a eles os que os fazem e todos os que neles confiam.",
+  "Casa de Israel, bendizei YHWH; casa de Arão, bendizei YHWH.",
+  "Casa de Levi, bendizei YHWH; vós que temeis YHWH, bendizei YHWH.",
+  "Bendito seja YHWH desde Sião, ele que habita em Jerusalém. Aleluia!"
+];
