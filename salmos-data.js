@@ -68,3 +68,96 @@ window.PSALMS_TEXT[5] = [
   "Mas alegrem-se todos os que se refugiam em ti; cantem de alegria para sempre, pois tu os proteges. Exultem em ti os que amam teu nome.",
   "Pois tu, YHWH, abençoas o justo; como escudo, tua benevolência o cerca."
 ];
+
+window.PSALMS_TEXT[6] = [
+  "Ao regente do coro. Com instrumentos de cordas, sobre a oitava. Salmo de Davi.",
+  "YHWH, não me repreendas em tua ira, nem me disciplines em teu furor.",
+  "Tem misericórdia de mim, YHWH, pois desfaleço; cura-me, YHWH, pois meus ossos estão abalados.",
+  "Minha alma também está profundamente perturbada. E tu, YHWH, até quando?",
+  "Volta-te, YHWH, livra minha alma; salva-me por tua lealdade.",
+  "Pois na morte não há lembrança de ti; no mundo dos mortos, quem te dará graças?",
+  "Estou exausto de tanto gemer; todas as noites inundo meu leito com lágrimas e molho minha cama com meu choro.",
+  "Meus olhos se consomem de tristeza; envelhecem por causa de todos os meus adversários.",
+  "Afastai-vos de mim, todos os que praticais a iniquidade, pois YHWH ouviu a voz de meu choro.",
+  "YHWH ouviu minha súplica; YHWH acolhe minha oração.",
+  "Todos os meus inimigos ficarão envergonhados e muito perturbados; voltarão atrás e serão envergonhados num instante."
+];
+
+window.PSALMS_TEXT[7] = [
+  "Shigaiom de Davi, que cantou a YHWH por causa das palavras de Cuxe, o benjamita.",
+  "YHWH, meu Deus, em ti me refugio; salva-me de todos os que me perseguem e livra-me,",
+  "para que não me despedacem como leão, arrancando-me sem que haja quem me livre.",
+  "YHWH, meu Deus, se fiz isso, se há injustiça em minhas mãos,",
+  "se paguei com o mal a quem estava em paz comigo — eu que poupei aquele que me perseguia sem motivo —,",
+  "que o inimigo persiga minha alma e a alcance; que pise minha vida por terra e deite minha honra no pó.",
+  "Levanta-te, YHWH, em tua ira; ergue-te contra o furor de meus adversários. Desperta em meu favor; decretaste o julgamento.",
+  "Que a assembleia dos povos te cerque; volta-te para o alto, acima dela.",
+  "YHWH julga os povos. Julga-me, YHWH, segundo minha justiça e minha integridade.",
+  "Que termine a maldade dos perversos, mas estabelece o justo; tu, Deus justo, examinas corações e pensamentos mais profundos.",
+  "Meu escudo está em Deus, que salva os retos de coração.",
+  "Deus é juiz justo e Deus que manifesta indignação todos os dias.",
+  "Se o perverso não se arrepende, ele afia sua espada, arma seu arco e o prepara.",
+  "Prepara armas mortais e faz de suas flechas projéteis inflamados.",
+  "Eis que o perverso concebe a injustiça, engravida-se de maldade e dá à luz a mentira.",
+  "Abre um poço e o cava, mas cai na cova que preparou.",
+  "Sua maldade recairá sobre sua própria cabeça, e sua violência descerá sobre seu crânio.",
+  "Darei graças a YHWH por sua justiça e cantarei louvores ao nome de YHWH, o Altíssimo."
+];
+
+window.PSALMS_TEXT[8] = [
+  "Ao regente do coro. Sobre a Gitite. Salmo de Davi.",
+  "YHWH, nosso Senhor, quão majestoso é teu nome em toda a terra! Puseste tua glória acima dos céus.",
+  "Da boca de crianças e bebês estabeleceste força, por causa de teus adversários, para fazer calar o inimigo e o vingador.",
+  "Quando vejo teus céus, obra de teus dedos, a lua e as estrelas que estabeleceste,",
+  "que é o ser humano, para que te lembres dele, e o filho do homem, para que o visites?",
+  "Fizeste-o um pouco menor que os seres celestiais e o coroaste de glória e honra.",
+  "Deste-lhe domínio sobre as obras de tuas mãos; tudo puseste debaixo de seus pés:",
+  "ovelhas e bois, todos eles, e também os animais do campo,",
+  "as aves dos céus e os peixes do mar, tudo o que percorre os caminhos dos mares.",
+  "YHWH, nosso Senhor, quão majestoso é teu nome em toda a terra!"
+];
+
+window.PSALMS_TEXT[9] = [
+  "Ao regente do coro. Sobre Mute-Labém. Salmo de Davi.",
+  "Darei graças a YHWH de todo o coração; contarei todas as tuas maravilhas.",
+  "Alegro-me e exulto em ti; cantarei louvores ao teu nome, ó Altíssimo.",
+  "Quando meus inimigos recuam, tropeçam e perecem diante de ti.",
+  "Pois defendeste meu direito e minha causa; sentaste-te no trono, julgando com justiça.",
+  "Repreendeste as nações e destruíste o perverso; apagaste seu nome para todo o sempre.",
+  "O inimigo chegou ao fim: ruínas eternas! Arrancaste cidades, e sua memória desapareceu.",
+  "Mas YHWH permanece para sempre; estabeleceu seu trono para o julgamento.",
+  "Ele julgará o mundo com justiça e governará os povos com retidão.",
+  "YHWH será abrigo seguro para o oprimido, abrigo seguro em tempos de aflição.",
+  "Confiarão em ti os que conhecem teu nome, pois tu, YHWH, nunca abandonaste os que te buscam.",
+  "Cantai louvores a YHWH, que habita em Sião; anunciai entre os povos seus feitos.",
+  "Pois aquele que exige contas pelo sangue se lembra deles; não se esquece do clamor dos aflitos.",
+  "Tem misericórdia de mim, YHWH; vê minha aflição causada pelos que me odeiam, tu que me levantas das portas da morte,",
+  "para que eu conte todos os teus louvores às portas da filha de Sião e me alegre em tua salvação.",
+  "As nações afundaram na cova que fizeram; seu pé ficou preso na rede que esconderam.",
+  "YHWH se fez conhecido; executou o julgamento. O perverso foi enredado na obra de suas próprias mãos.",
+  "Os perversos voltarão ao mundo dos mortos, todas as nações que se esquecem de Deus.",
+  "Pois o necessitado não será esquecido para sempre, nem a esperança dos aflitos perecerá eternamente.",
+  "Levanta-te, YHWH! Não prevaleça o homem; sejam julgadas as nações diante de ti.",
+  "Põe temor sobre elas, YHWH; que as nações saibam que são apenas seres humanos."
+];
+
+window.PSALMS_TEXT[10] = [
+  "Por que, YHWH, permaneces distante? Por que te escondes em tempos de aflição?",
+  "Na arrogância, o perverso persegue o pobre; que seja preso pelas tramas que planejou.",
+  "Pois o perverso se gloria dos desejos de sua alma; o ganancioso amaldiçoa e despreza YHWH.",
+  "Em sua arrogância, o perverso não o busca; todos os seus pensamentos são: “Não há Deus”.",
+  "Seus caminhos prosperam em todo tempo; teus julgamentos estão muito acima de sua vista; ele sopra desprezo contra todos os seus adversários.",
+  "Diz em seu coração: “Não serei abalado; de geração em geração não encontrarei adversidade”.",
+  "Sua boca está cheia de maldição, engano e opressão; debaixo de sua língua há maldade e injustiça.",
+  "Fica à espreita nas aldeias; nos esconderijos mata o inocente; seus olhos vigiam o desamparado.",
+  "Esconde-se em seu abrigo como leão no matagal; fica à espreita para capturar o pobre; captura o pobre e o arrasta para sua rede.",
+  "O desamparado é esmagado e se curva; os infelizes caem sob sua força.",
+  "Diz em seu coração: “Deus se esqueceu; escondeu o rosto e nunca verá”.",
+  "Levanta-te, YHWH, ó Deus! Ergue tua mão; não te esqueças dos aflitos.",
+  "Por que o perverso despreza a Deus e diz em seu coração: “Não exigirás contas”?",
+  "Tu, porém, vês o sofrimento e a aflição; observas para tomá-los em tuas mãos. O desamparado se entrega a ti; tu és o ajudador do órfão.",
+  "Quebra o braço do perverso e do malfeitor; procura sua maldade até que nada mais se encontre.",
+  "YHWH é Rei para todo o sempre; as nações desapareceram de sua terra.",
+  "YHWH, ouviste o desejo dos humildes; fortalecerás seu coração e inclinarás teu ouvido,",
+  "para fazer justiça ao órfão e ao oprimido, a fim de que o homem da terra não volte a espalhar terror."
+];
