@@ -1424,3 +1424,71 @@ window.ISAIAH_TEXT[63] = [
   "Por pouco tempo teu povo santo possuiu o santuário; nossos adversários o pisotearam.",
   "Tornamo-nos como aqueles sobre quem nunca governaste, como os que nunca foram chamados pelo teu nome."
 ];
+
+window.ISAIAH_TEXT[64] = [
+  "Ah, se rasgasses os céus e descesses, para que os montes tremessem diante de ti,",
+  "como o fogo acende o mato e faz a água ferver, para tornar conhecido teu nome aos teus adversários, de modo que as nações tremessem diante de ti!",
+  "Quando fizeste coisas temíveis que não esperávamos, desceste, e os montes tremeram diante de ti.",
+  "Desde a antiguidade ninguém ouviu, nenhum ouvido percebeu, nenhum olho viu um Deus além de ti, que age em favor daquele que nele espera.",
+  "Tu vens ao encontro daquele que pratica a justiça com alegria, dos que se lembram de ti em teus caminhos. Eis que te iraste, pois pecamos; nisso há muito tempo, mas seremos salvos?",
+  "Todos nós nos tornamos como impuros, e todas as nossas justiças são como roupa imunda; todos murchamos como folha, e nossas iniquidades nos levam como o vento.",
+  "Não há quem invoque teu nome, quem desperte para se apegar a ti; pois escondeste de nós teu rosto e nos consumiste por causa de nossas iniquidades.",
+  "Mas agora, YHWH, tu és nosso Pai; nós somos o barro, e tu, nosso oleiro; todos nós somos obra de tuas mãos.",
+  "Não te indignes excessivamente, YHWH, nem te lembres para sempre da iniquidade. Olha, por favor: todos nós somos teu povo.",
+  "Tuas cidades santas tornaram-se deserto; Sião tornou-se deserto, Jerusalém, desolação.",
+  "Nossa casa santa e gloriosa, onde nossos pais te louvavam, foi queimada pelo fogo, e todos os nossos lugares preciosos se tornaram ruínas."
+];
+
+window.ISAIAH_TEXT[65] = [
+  "Fui procurado pelos que não perguntavam por mim; fui encontrado pelos que não me buscavam. Disse: “Eis-me aqui, eis-me aqui”, a uma nação que não invocava meu nome.",
+  "Estendi minhas mãos o dia inteiro a um povo rebelde, que anda por caminho mau, seguindo seus próprios pensamentos;",
+  "povo que continuamente me provoca à ira, diante de meu rosto, sacrificando nos jardins e queimando incenso sobre tijolos;",
+  "que se assenta entre sepulcros e passa a noite em lugares secretos; come carne de porco, e há caldo de coisas impuras em suas vasilhas;",
+  "que diz: “Fica onde estás, não te aproximes de mim, pois sou mais santo que tu”. Esses são fumaça em meu nariz, fogo que arde o dia inteiro.",
+  "Eis que está escrito diante de mim: não me calarei, mas retribuirei; sim, retribuirei em seu seio",
+  "vossas iniquidades e as iniquidades de vossos pais juntas, diz YHWH, os quais queimaram incenso sobre os montes e me insultaram sobre as colinas; medirei primeiro sua obra no seio deles.",
+  "Assim diz YHWH: “Como quando se encontra vinho novo num cacho e alguém diz: ‘Não o destruas, pois há nele uma bênção’, assim farei por amor de meus servos, para não destruir a todos.",
+  "Farei sair descendência de Jacó e de Judá um herdeiro de meus montes; meus escolhidos os herdarão, e meus servos habitarão ali.",
+  "Sarom será pasto de rebanhos, e o vale de Acor, lugar de repouso para bois, para meu povo que me buscou.",
+  "Mas vós que abandonais YHWH, que vos esqueceis de meu santo monte, que preparais mesa para a Fortuna e encheis taças de vinho misturado para o Destino,",
+  "eu vos destinarei à espada, e todos vos curvareis para a matança, porque chamei, mas não respondestes; falei, mas não ouvistes; fizestes o que era mau aos meus olhos e escolhestes aquilo de que não me agradava.",
+  "Por isso assim diz o Senhor YHWH: “Eis que meus servos comerão, mas vós passareis fome; eis que meus servos beberão, mas vós tereis sede; eis que meus servos se alegrarão, mas vós sereis envergonhados.",
+  "Eis que meus servos cantarão de alegria do coração, mas vós gritareis de dor no coração e uivareis por causa da aflição do espírito.",
+  "Deixareis vosso nome como maldição para meus escolhidos; o Senhor YHWH vos fará morrer, mas chamará seus servos por outro nome.",
+  "Quem se abençoar na terra se abençoará pelo Deus da verdade; e quem jurar na terra jurará pelo Deus da verdade, pois as angústias passadas serão esquecidas e estarão escondidas de meus olhos.",
+  "Pois eis que crio novos céus e nova terra; as coisas anteriores não serão lembradas, nem subirão ao coração.",
+  "Mas alegrai-vos e exultai para sempre no que crio, pois eis que crio Jerusalém para exultação e seu povo para alegria.",
+  "Exultarei em Jerusalém e me alegrarei em meu povo; nela nunca mais se ouvirá voz de choro nem voz de clamor.",
+  "Não haverá ali criança que viva poucos dias, nem velho que não complete seus dias; pois o jovem morrerá com cem anos, e o pecador será amaldiçoado aos cem anos.",
+  "Construirão casas e nelas habitarão; plantarão vinhas e comerão seu fruto.",
+  "Não construirão para que outro habite, nem plantarão para que outro coma; pois os dias de meu povo serão como os dias de uma árvore, e meus escolhidos desfrutarão por longo tempo a obra de suas mãos.",
+  "Não trabalharão em vão, nem gerarão filhos para calamidade; pois serão descendência dos benditos de YHWH, e seus descendentes estarão com eles.",
+  "Antes que clamem, eu responderei; enquanto ainda estiverem falando, eu ouvirei."
+];
+
+window.ISAIAH_TEXT[66] = [
+  "Assim diz YHWH: “O céu é meu trono, e a terra é o estrado de meus pés. Que casa me construireis? E qual será o lugar de meu repouso?",
+  "Todas essas coisas minha mão fez, e assim todas elas vieram a existir”, diz YHWH. “Mas para este olharei: para o humilde e contrito de espírito, que treme diante de minha palavra.",
+  "Quem mata um boi é como quem mata um homem; quem sacrifica um cordeiro é como quem quebra o pescoço de um cão; quem oferece oferta de cereal é como quem oferece sangue de porco; quem queima incenso é como quem bendiz um ídolo. Assim como escolheram seus próprios caminhos, e sua alma tem prazer em suas abominações,",
+  "também eu escolherei seus maus tratos e trarei sobre eles aquilo que temem; pois chamei, e ninguém respondeu; falei, e não ouviram; fizeram o que era mau aos meus olhos e escolheram aquilo de que não me agradava”.",
+  "Ouvi a palavra de YHWH, vós que tremeis diante de sua palavra: “Vossos irmãos que vos odeiam e vos expulsam por causa de meu nome disseram: ‘Que YHWH seja glorificado, para que vejamos vossa alegria’; mas eles serão envergonhados.",
+  "Voz de tumulto vem da cidade, voz vem do templo; é a voz de YHWH, que retribui a seus inimigos o que merecem.",
+  "Antes de sentir dores de parto, ela deu à luz; antes que lhe viessem as dores, deu à luz um menino.",
+  "Quem ouviu tal coisa? Quem viu coisas semelhantes? Pode uma terra nascer num só dia? Pode uma nação ser gerada de uma só vez? Pois Sião teve dores de parto e deu à luz seus filhos.",
+  "Acaso eu abriria a madre e não faria nascer?”, diz YHWH. “Eu, que faço nascer, fecharia a madre?”, diz teu Deus.",
+  "Alegrai-vos com Jerusalém e exultai por ela, todos os que a amais; regozijai-vos muito com ela, todos os que por ela pranteastes,",
+  "para que mameis e vos farteis dos seios de suas consolações, para que sugueis e vos deleiteis com a abundância de sua glória.",
+  "Pois assim diz YHWH: “Eis que estenderei para ela a paz como um rio e a glória das nações como torrente transbordante; mamareis, sereis carregados nos braços e acariciados sobre os joelhos.",
+  "Como alguém a quem sua mãe consola, assim eu vos consolarei; em Jerusalém sereis consolados”.",
+  "Vereis isso, e vosso coração se alegrará; vossos ossos florescerão como relva tenra. A mão de YHWH será conhecida entre seus servos, mas sua indignação contra seus inimigos.",
+  "Pois eis que YHWH virá em fogo, e seus carros serão como vendaval, para descarregar sua ira com furor e sua repreensão com chamas de fogo.",
+  "Pois YHWH julgará com fogo e com sua espada toda carne; muitos serão os mortos por YHWH.",
+  "Os que se santificam e se purificam para entrar nos jardins, seguindo um no meio, os que comem carne de porco, coisas repugnantes e ratos, serão consumidos juntos, diz YHWH.",
+  "“Eu conheço suas obras e seus pensamentos; está chegando o tempo de reunir todas as nações e línguas, e elas virão e verão minha glória.",
+  "Porei entre elas um sinal e enviarei alguns dos sobreviventes às nações: a Társis, Pul e Lude, que manejam o arco, a Tubal e Javã, às ilhas distantes que não ouviram falar de mim nem viram minha glória; anunciarão minha glória entre as nações.",
+  "Trazerão todos os vossos irmãos dentre todas as nações como oferta a YHWH, sobre cavalos, carros, liteiras, mulas e camelos, ao meu santo monte, Jerusalém”, diz YHWH, “como os filhos de Israel trazem a oferta de cereal em vaso puro à casa de YHWH.",
+  "Também deles tomarei alguns para sacerdotes e levitas”, diz YHWH.",
+  "“Pois, assim como os novos céus e a nova terra que faço permanecerão diante de mim”, diz YHWH, “assim permanecerão vossa descendência e vosso nome.",
+  "De uma lua nova a outra e de um sábado a outro, toda carne virá adorar diante de mim”, diz YHWH.",
+  "“Sairão e verão os cadáveres dos homens que se rebelaram contra mim; pois seu verme não morrerá, e seu fogo não se apagará; serão repugnantes para toda carne”."
+];
