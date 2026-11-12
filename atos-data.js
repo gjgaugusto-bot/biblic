@@ -632,5 +632,20 @@ window.ACTS_TEXT[16] = [
   "A multidão se levantou contra eles; os magistrados rasgaram-lhes as roupas e ordenaram que fossem açoitados com varas.",
   "Depois de muitos golpes, lançaram-nos na prisão e ordenaram ao carcereiro que os guardasse com segurança.",
   "Ele os colocou na prisão interior e prendeu seus pés no tronco.",
-  "Por volta da meia-noite, Paulo e Silas oravam e cantavam hinos a Deus, e os presos os escutavam."
+  "Por volta da meia-noite, Paulo e Silas oravam e cantavam hinos a Deus, e os presos os escutavam.",
+  "De repente, um grande terremoto abalou os alicerces da prisão; todas as portas se abriram e as correntes se soltaram.",
+  "O carcereiro despertou e, vendo abertas as portas, puxou a espada para se matar, pensando que os presos haviam fugido.",
+  "Paulo gritou: Não te faças nenhum mal, pois estamos todos aqui!",
+  "Ele pediu luz, entrou correndo e, tremendo, prostrou-se diante de Paulo e Silas.",
+  "Depois de conduzi-los para fora, perguntou: Senhores, que devo fazer para ser salvo?",
+  "Eles responderam: Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+  "Anunciaram a palavra do Senhor a ele e a todos os que estavam em sua casa.",
+  "Naquela mesma hora da noite, ele os levou e lavou suas feridas; imediatamente foi batizado, ele e todos os seus.",
+  "Levando-os para casa, pôs-lhes a mesa e alegrou-se com toda a casa por ter crido em Deus.",
+  "Quando amanheceu, os magistrados enviaram os lictores, dizendo: Solta aqueles homens.",
+  "O carcereiro comunicou a Paulo: Os magistrados mandaram soltá-los; saiam agora e vão em paz.",
+  "Paulo, porém, lhes disse: Depois de nos açoitar publicamente, sem julgamento, sendo nós cidadãos romanos, lançaram-nos na prisão; e agora nos expulsam às escondidas? De modo nenhum! Venham eles mesmos e nos conduzam para fora.",
+  "Os lictores relataram essas palavras aos magistrados; estes ficaram com medo ao saber que eram cidadãos romanos.",
+  "Vieram, pediram desculpas, conduziram-nos para fora e rogaram que deixassem a cidade.",
+  "Saindo da prisão, foram à casa de Lídia; viram os irmãos, encorajaram-nos e partiram."
 ];
