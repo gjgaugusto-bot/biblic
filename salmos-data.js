@@ -2560,3 +2560,110 @@ window.PSALMS_TEXT[119] = [
   "Que minha alma viva e te louve; que teus julgamentos me ajudem.",
   "Ando errante como ovelha perdida; busca teu servo, pois não me esqueci de teus mandamentos."
 ];
+
+window.PSALMS_TEXT[120] = [
+  "Cântico das subidas. Na minha angústia clamei a YHWH, e ele me respondeu.",
+  "YHWH, livra minha alma dos lábios mentirosos e da língua enganadora.",
+  "Que te será dado, e que te será acrescentado, ó língua enganadora?",
+  "Flechas afiadas de guerreiro, com brasas de zimbro.",
+  "Ai de mim, pois peregrino em Meseque e habito entre as tendas de Quedar!",
+  "Há muito minha alma habita com os que odeiam a paz.",
+  "Sou pela paz; mas, quando falo, eles são pela guerra."
+];
+
+window.PSALMS_TEXT[121] = [
+  "Cântico das subidas. Ergo meus olhos para os montes; de onde virá meu auxílio?",
+  "Meu auxílio vem de YHWH, que fez os céus e a terra.",
+  "Ele não permitirá que teu pé vacile; aquele que te guarda não dormitará.",
+  "Eis que não dormita nem dorme o guardião de Israel.",
+  "YHWH é teu guardião; YHWH é tua sombra à tua direita.",
+  "De dia o sol não te ferirá, nem a lua de noite.",
+  "YHWH te guardará de todo mal; guardará tua alma.",
+  "YHWH guardará tua saída e tua entrada, desde agora e para sempre."
+];
+
+window.PSALMS_TEXT[122] = [
+  "Cântico das subidas. De Davi. Alegrei-me quando me disseram: “Vamos à casa de YHWH!”",
+  "Nossos pés estão de pé dentro de tuas portas, Jerusalém.",
+  "Jerusalém, cidade edificada como cidade bem unida,",
+  "para onde sobem as tribos, as tribos de YHWH, conforme o testemunho dado a Israel, para dar graças ao nome de YHWH.",
+  "Pois ali estão os tronos do julgamento, os tronos da casa de Davi.",
+  "Orai pela paz de Jerusalém; prosperem os que te amam.",
+  "Haja paz dentro de teus muros e prosperidade em teus palácios.",
+  "Por causa de meus irmãos e amigos, direi: “Haja paz em ti!”",
+  "Por causa da casa de YHWH, nosso Deus, buscarei teu bem."
+];
+
+window.PSALMS_TEXT[123] = [
+  "Cântico das subidas. A ti elevo meus olhos, a ti que estás entronizado nos céus.",
+  "Eis que, como os olhos dos servos se voltam para a mão de seus senhores, e os olhos da serva para a mão de sua senhora, assim nossos olhos se voltam para YHWH, nosso Deus, até que tenha misericórdia de nós.",
+  "Tem misericórdia de nós, YHWH, tem misericórdia de nós, pois estamos fartos de desprezo.",
+  "Nossa alma está farta da zombaria dos satisfeitos e do desprezo dos arrogantes."
+];
+
+window.PSALMS_TEXT[124] = [
+  "Cântico das subidas. De Davi. Se YHWH não estivesse conosco — que Israel o diga agora —,",
+  "se YHWH não estivesse conosco quando os homens se levantaram contra nós,",
+  "ter-nos-iam engolido vivos quando sua ira se acendeu contra nós.",
+  "Então as águas nos teriam arrastado, e a corrente teria passado sobre nossa alma.",
+  "Então as águas impetuosas teriam passado sobre nossa alma.",
+  "Bendito seja YHWH, que não nos entregou como presa aos dentes deles.",
+  "Nossa alma escapou como pássaro do laço dos caçadores; o laço se rompeu, e nós escapamos.",
+  "Nosso auxílio está no nome de YHWH, que fez os céus e a terra."
+];
+
+window.PSALMS_TEXT[125] = [
+  "Cântico das subidas. Os que confiam em YHWH são como o monte Sião, que não se abala, mas permanece para sempre.",
+  "Como os montes cercam Jerusalém, assim YHWH cerca seu povo, desde agora e para sempre.",
+  "Pois o cetro da perversidade não repousará sobre a herança dos justos, para que os justos não estendam as mãos à iniquidade.",
+  "Faze o bem, YHWH, aos bons e aos retos de coração.",
+  "Quanto aos que se desviam para seus caminhos tortuosos, YHWH os conduzirá com os que praticam a iniquidade. Paz sobre Israel!"
+];
+
+window.PSALMS_TEXT[126] = [
+  "Cântico das subidas. Quando YHWH restaurou a sorte de Sião, parecíamos sonhar.",
+  "Então nossa boca se encheu de riso, e nossa língua, de cânticos de alegria. Então se dizia entre as nações: “YHWH fez grandes coisas por eles”.",
+  "YHWH fez grandes coisas por nós; por isso estamos alegres.",
+  "Restaura, YHWH, nossa sorte, como as torrentes no Neguebe.",
+  "Os que semeiam com lágrimas colherão com cânticos de alegria.",
+  "Aquele que sai chorando, levando a semente para semear, voltará com cânticos de alegria, trazendo seus feixes."
+];
+
+window.PSALMS_TEXT[127] = [
+  "Cântico das subidas. De Salomão. Se YHWH não edificar a casa, em vão trabalham os que a edificam; se YHWH não guardar a cidade, em vão vigia o guarda.",
+  "É inútil levantar cedo e deitar tarde, comer o pão do trabalho penoso; ele concede sono a seu amado.",
+  "Eis que os filhos são herança de YHWH, e o fruto do ventre é recompensa.",
+  "Como flechas na mão do guerreiro, assim são os filhos da juventude.",
+  "Feliz o homem que enche deles sua aljava; não será envergonhado quando falar com os inimigos à porta."
+];
+
+window.PSALMS_TEXT[128] = [
+  "Cântico das subidas. Feliz todo aquele que teme YHWH e anda em seus caminhos.",
+  "Comerás do trabalho de tuas mãos; serás feliz, e tudo te irá bem.",
+  "Tua mulher será como videira frutífera no interior de tua casa; teus filhos, como brotos de oliveira ao redor de tua mesa.",
+  "Eis que assim será abençoado o homem que teme YHWH.",
+  "Que YHWH te abençoe desde Sião; que vejas a prosperidade de Jerusalém todos os dias de tua vida.",
+  "Que vejas os filhos de teus filhos. Paz sobre Israel!"
+];
+
+window.PSALMS_TEXT[129] = [
+  "Cântico das subidas. Muito me oprimiram desde minha juventude — que Israel o diga agora —,",
+  "muito me oprimiram desde minha juventude, mas não prevaleceram contra mim.",
+  "Os lavradores passaram o arado sobre minhas costas; fizeram longos seus sulcos.",
+  "YHWH é justo; cortou as cordas dos perversos.",
+  "Sejam envergonhados e recuem todos os que odeiam Sião.",
+  "Sejam como a relva dos telhados, que seca antes de crescer,",
+  "com a qual o ceifeiro não enche a mão, nem o que ata feixes, os braços.",
+  "Os que passam não dizem: “A bênção de YHWH esteja convosco!” Nós vos abençoamos em nome de YHWH."
+];
+
+window.PSALMS_TEXT[130] = [
+  "Cântico das subidas. Das profundezas clamo a ti, YHWH.",
+  "Senhor, ouve minha voz; estejam atentos teus ouvidos à voz de minhas súplicas.",
+  "Se observares as iniquidades, YHWH, Senhor, quem poderá permanecer de pé?",
+  "Mas contigo está o perdão, para que sejas temido.",
+  "Espero por YHWH; minha alma espera, e aguardo sua palavra.",
+  "Minha alma espera pelo Senhor mais que os guardas pela manhã, mais que os guardas pela manhã.",
+  "Israel, espera em YHWH, pois em YHWH há lealdade, e nele há abundante redenção.",
+  "Ele redimirá Israel de todas as suas iniquidades."
+];
