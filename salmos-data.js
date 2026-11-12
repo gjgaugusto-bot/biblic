@@ -1465,8 +1465,7 @@ window.PSALMS_TEXT[77] = [
 ];
 
 window.PSALMS_TEXT[78] = [
-  "Poema de instrução de Asafe.",
-  "Meu povo, escuta minha instrução; inclina os ouvidos às palavras de minha boca.",
+  "Poema de instrução de Asafe. Meu povo, escuta minha instrução; inclina os ouvidos às palavras de minha boca.",
   "Abrirei minha boca em parábolas; anunciarei enigmas dos tempos antigos,",
   "que ouvimos e conhecemos, e que nossos pais nos contaram.",
   "Não os esconderemos de seus filhos; contaremos à geração futura os louvores de YHWH, seu poder e as maravilhas que realizou.",
