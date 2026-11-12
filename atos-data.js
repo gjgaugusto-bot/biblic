@@ -912,3 +912,33 @@ window.ACTS_TEXT[23] = [
   "Depois de ler a carta, perguntou de que província ele era; informado de que era da Cilícia,",
   "disse: Ouvirei teu caso quando chegarem teus acusadores. E ordenou que fosse guardado no pretório de Herodes."
 ];
+
+window.ACTS_TEXT[24] = [
+  "Cinco dias depois, o sumo sacerdote Ananias desceu com alguns anciãos e o advogado Tértulo; apresentaram ao governador acusações contra Paulo.",
+  "Quando Paulo foi chamado, Tértulo começou: Graças a ti desfrutamos de grande paz, e por tua providência reformas são feitas em favor desta nação.",
+  "Reconhecemos isso em tudo e em toda parte, excelentíssimo Félix, com gratidão.",
+  "Para não te deter muito, peço que nos ouças brevemente, segundo tua bondade.",
+  "Encontramos este homem como uma peste, provocador de dissensões entre os judeus e líder da seita dos nazarenos.",
+  "Ele tentou também profanar o templo; por isso o prendemos.",
+  "[A continuação da acusação em parte da tradição manuscrita não consta do texto crítico SBLGNT neste ponto.]",
+  "Interrogando-o, poderás conhecer todas as coisas de que o acusamos.",
+  "Os judeus também se juntaram à acusação, afirmando que essas coisas eram assim.",
+  "Quando o governador lhe fez sinal para falar, Paulo respondeu: Sabendo que há muitos anos és juiz desta nação, defendo minha causa com confiança.",
+  "Podes verificar que não há mais de doze dias desde que subi a Jerusalém para adorar.",
+  "Eles não me encontraram no templo discutindo ou provocando tumulto entre o povo, nas sinagogas ou na cidade.",
+  "Nem podem provar diante de ti as acusações que agora apresentam.",
+  "Confesso que, segundo o Caminho, que chamam seita, sirvo ao Deus de nossos pais, crendo em tudo o que está de acordo com a Lei e escrito nos Profetas,",
+  "tendo esperança em Deus, como também estes esperam, de que haverá ressurreição de justos e injustos.",
+  "Por isso me esforço para manter sempre uma consciência sem ofensa diante de Deus e dos seres humanos.",
+  "Depois de muitos anos, vim trazer esmolas à minha nação e apresentar ofertas.",
+  "Enquanto fazia isso, encontraram-me no templo, purificado, sem multidão nem tumulto; alguns judeus da Ásia estavam ali,",
+  "os quais deveriam comparecer diante de ti e acusar-me, se tivessem algo contra mim.",
+  "Ou que estes mesmos digam que injustiça encontraram quando compareci diante do conselho,",
+  "exceto esta declaração: É por causa da ressurreição dos mortos que hoje sou julgado diante de vocês.",
+  "Félix, que conhecia mais exatamente as coisas referentes ao Caminho, adiou o caso: Quando descer o comandante Lísias, decidirei a questão.",
+  "Ordenou ao centurião que Paulo fosse mantido sob guarda, mas com alguma liberdade, e que não impedisse nenhum dos seus de servi-lo.",
+  "Alguns dias depois, Félix chegou com Drusila, sua mulher judia; mandou chamar Paulo e o ouviu sobre a fé em Cristo Jesus.",
+  "Enquanto Paulo falava sobre justiça, domínio próprio e o juízo vindouro, Félix ficou amedrontado: Por agora, vai; quando tiver oportunidade, mandarei chamar-te.",
+  "Esperava também que Paulo lhe desse dinheiro; por isso o chamava com frequência e conversava com ele.",
+  "Passados dois anos, Félix recebeu como sucessor Pórcio Festo; querendo agradar aos judeus, deixou Paulo preso."
+];
