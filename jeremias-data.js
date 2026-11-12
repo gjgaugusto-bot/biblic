@@ -519,3 +519,59 @@ window.JEREMIAH_TEXT[18] = [
   "Que se ouça clamor de suas casas quando trouxeres de repente contra eles um bando de saqueadores, pois cavaram uma cova para me prender e esconderam armadilhas para meus pés.",
   "Mas tu, YHWH, conheces todo o seu plano contra mim para me matar; não perdoes sua iniquidade, nem apagues seu pecado de diante de ti. Que tropecem diante de ti; age contra eles no tempo de tua ira."
 ];
+
+window.JEREMIAH_TEXT[19] = [
+  "Assim diz YHWH: “Vai e compra uma botija de barro do oleiro; leva contigo alguns dos anciãos do povo e alguns dos anciãos dos sacerdotes.",
+  "Sai ao vale do filho de Hinom, que fica à entrada da Porta dos Cacos, e proclama ali as palavras que eu te disser.",
+  "Dize: Ouvi a palavra de YHWH, reis de Judá e habitantes de Jerusalém. Assim diz YHWH dos Exércitos, Deus de Israel: Eis que trarei calamidade sobre este lugar, de modo que todo aquele que a ouvir ficará com os ouvidos zunindo.",
+  "Pois me abandonaram e profanaram este lugar, queimando nele incenso a outros deuses, que nem eles, nem seus pais, nem os reis de Judá conheceram; encheram este lugar com sangue de inocentes.",
+  "Construíram os lugares altos de Baal para queimar seus filhos no fogo como holocaustos a Baal, coisa que não ordenei, não falei, nem me passou pelo coração.",
+  "Por isso eis que vêm dias”, diz YHWH, “em que este lugar não será mais chamado Tofete nem vale do filho de Hinom, mas vale da Matança.",
+  "Esvaziarei neste lugar o conselho de Judá e de Jerusalém; farei que caiam à espada diante de seus inimigos e pela mão dos que procuram tirar sua vida; darei seus cadáveres como alimento às aves dos céus e aos animais da terra.",
+  "Farei desta cidade espanto e assobio; todo o que passar por ela ficará espantado e assobiará por causa de todas as suas feridas.",
+  "Farei que comam a carne de seus filhos e a carne de suas filhas; cada um comerá a carne de seu próximo no cerco e na angústia com que seus inimigos e os que procuram tirar sua vida os apertarão”.",
+  "Então quebrarás a botija diante dos olhos dos homens que forem contigo,",
+  "e lhes dirás: Assim diz YHWH dos Exércitos: “Assim quebrarei este povo e esta cidade, como alguém quebra o vaso do oleiro, que não pode mais ser restaurado; sepultarão em Tofete por falta de lugar para sepultar.",
+  "Assim farei a este lugar e a seus habitantes”, diz YHWH, “e farei desta cidade como Tofete.",
+  "As casas de Jerusalém e as casas dos reis de Judá serão impuras como o lugar de Tofete, todas as casas sobre cujos telhados queimaram incenso a todo o exército dos céus e derramaram ofertas de bebida a outros deuses”.",
+  "Jeremias voltou de Tofete, para onde YHWH o havia enviado a profetizar, e pôs-se no pátio da casa de YHWH, dizendo a todo o povo:",
+  "“Assim diz YHWH dos Exércitos, Deus de Israel: Eis que trarei sobre esta cidade e sobre todas as suas cidades toda a calamidade que pronunciei contra ela, pois endureceram a cerviz para não ouvir minhas palavras”."
+];
+
+window.JEREMIAH_TEXT[20] = [
+  "Pasur, filho de Imer, o sacerdote, que era administrador-chefe na casa de YHWH, ouviu Jeremias profetizar estas palavras.",
+  "Pasur feriu o profeta Jeremias e o colocou no tronco que estava na Porta Superior de Benjamim, junto à casa de YHWH.",
+  "No dia seguinte, Pasur tirou Jeremias do tronco. Jeremias lhe disse: “YHWH não te chama Pasur, mas Terror por Todos os Lados.",
+  "Pois assim diz YHWH: Eis que farei de ti terror para ti mesmo e para todos os teus amigos; cairão pela espada de seus inimigos, e teus olhos verão isso. Entregarei todo Judá nas mãos do rei da Babilônia; ele os levará cativos para a Babilônia e os matará à espada.",
+  "Entregarei toda a riqueza desta cidade, todo o seu trabalho, todos os seus bens preciosos e todos os tesouros dos reis de Judá nas mãos de seus inimigos; eles os saquearão, tomarão e levarão para a Babilônia.",
+  "Tu, Pasur, e todos os que habitam em tua casa ireis para o cativeiro; chegarás à Babilônia, morrerás ali e ali serás sepultado, tu e todos os teus amigos, aos quais profetizaste falsamente”.",
+  "Tu me persuadiste, YHWH, e fui persuadido; foste mais forte do que eu e prevaleceste. Tornei-me motivo de riso o dia inteiro; todos zombam de mim.",
+  "Pois sempre que falo, tenho de gritar; clamo: “Violência e destruição!” A palavra de YHWH tornou-se para mim motivo de insulto e zombaria o dia inteiro.",
+  "Se digo: “Não o mencionarei, nem falarei mais em seu nome”, então há em meu coração como fogo ardente, encerrado em meus ossos; estou cansado de contê-lo e não posso.",
+  "Pois ouvi a difamação de muitos, terror por todos os lados: “Denunciai-o! Vamos denunciá-lo!” Todos os meus amigos íntimos esperam minha queda: “Talvez seja enganado; então prevaleceremos contra ele e nos vingaremos dele”.",
+  "Mas YHWH está comigo como guerreiro poderoso; por isso meus perseguidores tropeçarão e não prevalecerão. Serão profundamente envergonhados, pois não tiveram êxito; sua vergonha será eterna e não será esquecida.",
+  "YHWH dos Exércitos, que provas o justo e vês os rins e o coração, permite que eu veja tua vingança contra eles, pois a ti revelei minha causa.",
+  "Cantai a YHWH, louvai YHWH, pois livrou a alma do necessitado da mão dos malfeitores.",
+  "Maldito seja o dia em que nasci; não seja bendito o dia em que minha mãe me deu à luz.",
+  "Maldito seja o homem que anunciou a meu pai, dizendo: “Nasceu-te um filho homem”, enchendo-o de grande alegria.",
+  "Seja esse homem como as cidades que YHWH destruiu sem compaixão; ouça clamor pela manhã e gritos de guerra ao meio-dia,",
+  "porque não me matou no ventre, para que minha mãe fosse minha sepultura e seu ventre permanecesse grávido para sempre.",
+  "Por que saí do ventre para ver trabalho e tristeza, e para que meus dias se consumam em vergonha?"
+];
+
+window.JEREMIAH_TEXT[21] = [
+  "A palavra que veio a Jeremias da parte de YHWH, quando o rei Zedequias enviou a ele Pasur, filho de Malquias, e Sofonias, filho de Maaseias, o sacerdote, dizendo:",
+  "“Consulta, por favor, YHWH por nós, pois Nabucodonosor, rei da Babilônia, guerreia contra nós. Talvez YHWH faça conosco segundo todas as suas maravilhas, para que ele se retire de nós”.",
+  "Então Jeremias lhes disse: “Assim direis a Zedequias:",
+  "Assim diz YHWH, Deus de Israel: Eis que farei voltar as armas de guerra que estão em vossas mãos, com as quais combateis o rei da Babilônia e os caldeus que vos sitiam fora dos muros; reuni-los-ei no meio desta cidade.",
+  "Eu mesmo guerrearei contra vós com mão estendida e braço forte, com ira, furor e grande indignação.",
+  "Ferirei os habitantes desta cidade, tanto homens como animais; morrerão de grande peste.",
+  "Depois disso”, diz YHWH, “entregarei Zedequias, rei de Judá, seus servos, o povo e os que restarem nesta cidade da peste, da espada e da fome nas mãos de Nabucodonosor, rei da Babilônia, nas mãos de seus inimigos e nas mãos dos que procuram tirar sua vida. Ele os ferirá ao fio da espada; não terá compaixão, nem piedade, nem misericórdia”.",
+  "A este povo dirás: Assim diz YHWH: “Eis que ponho diante de vós o caminho da vida e o caminho da morte.",
+  "Quem permanecer nesta cidade morrerá pela espada, pela fome e pela peste; mas quem sair e se entregar aos caldeus que vos sitiam viverá, e sua vida lhe será por despojo.",
+  "Pois voltei meu rosto contra esta cidade para o mal, e não para o bem”, diz YHWH. “Será entregue nas mãos do rei da Babilônia, e ele a queimará com fogo”.",
+  "À casa do rei de Judá: Ouvi a palavra de YHWH,",
+  "casa de Davi! Assim diz YHWH: “Fazei justiça pela manhã e livrai da mão do opressor aquele que foi roubado, para que minha ira não saia como fogo e arda sem que ninguém a apague, por causa da maldade de vossas ações.",
+  "Eis que sou contra ti, habitante do vale, rocha da planície”, diz YHWH, “vós que dizeis: ‘Quem descerá contra nós? Quem entrará em nossas moradas?’",
+  "Eu vos castigarei segundo o fruto de vossas obras”, diz YHWH; “acenderei fogo em sua floresta, e ele consumirá tudo ao redor”."
+];
