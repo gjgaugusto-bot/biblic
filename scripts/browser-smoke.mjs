@@ -89,6 +89,17 @@ try {
   }
 
   await page.locator("#chapterList").click();
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(44).click();
+  const romansPositions = [32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27];
+  for (let chapter = 1; chapter <= 16; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), romansPositions[chapter - 1], `Romanos ${chapter} deve preservar a estrutura de versículos SBLGNT`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `Romanos ${chapter} deve carregar conteúdo`);
+  }
+
+  await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
