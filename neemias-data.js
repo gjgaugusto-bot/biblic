@@ -1,6 +1,6 @@
 /* Neemias — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Neh.
- * Progresso: capítulos 1–3 de 13; 69 versículos. Não publicar até concluir e conferir os 13 capítulos.
+ * Progresso: capítulos 1–6 de 13; 124 versículos. Não publicar até concluir e conferir os 13 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.NEHEMIAH_TEXT = window.NEHEMIAH_TEXT || {};
@@ -81,4 +81,68 @@ window.NEHEMIAH_TEXT[3] = [
   "Ouve, nosso Deus, pois somos desprezados. Faze recair sobre a cabeça deles a afronta que lançam sobre nós e entrega-os como despojo numa terra de cativeiro.",
   "Não cubras a iniquidade deles, e não apagues o pecado deles diante de ti, pois provocaram tua ira diante dos construtores.",
   "Assim reconstruímos a muralha, e toda ela foi ligada até a metade de sua altura. O povo tinha disposição para trabalhar."
+];
+
+window.NEHEMIAH_TEXT[4] = [
+  "Quando Sambalate, Tobias, os árabes, os amonitas e os asdoditas souberam que a restauração das muralhas de Jerusalém avançava e que as brechas começavam a ser fechadas, ficaram muito irados.",
+  "Todos conspiraram juntos para vir lutar contra Jerusalém e causar confusão.",
+  "Nós, porém, oramos ao nosso Deus e, por causa deles, colocamos guardas de dia e de noite.",
+  "Então o povo de Judá disse: “As forças dos carregadores estão enfraquecidas, e há entulho demais. Não conseguiremos reconstruir a muralha”.",
+  "Nossos adversários diziam: “Eles não saberão nem verão nada até que estejamos no meio deles; então os mataremos e faremos a obra parar”.",
+  "Quando os judeus que moravam perto deles chegaram, disseram-nos repetidas vezes: “De todos os lugares, eles virão contra nós”.",
+  "Por isso coloquei o povo nas partes mais baixas do espaço atrás da muralha, nos lugares abertos, e organizei o povo por famílias, com suas espadas, lanças e arcos.",
+  "Olhei, levantei-me e disse aos nobres, aos oficiais e ao restante do povo: “Não tenhais medo deles. Lembrai-vos do Senhor, grande e temível, e lutai por vossos irmãos, vossos filhos, vossas filhas, vossas mulheres e vossas casas”.",
+  "Quando nossos inimigos souberam que estávamos informados e que Deus havia frustrado seus planos, todos nós voltamos à muralha, cada um para seu trabalho.",
+  "Desde aquele dia, metade dos meus homens trabalhava na obra, enquanto a outra metade segurava lanças, escudos, arcos e couraças. Os oficiais ficavam atrás de toda a casa de Judá.",
+  "Os que construíam a muralha e os que carregavam os fardos faziam o trabalho com uma mão e seguravam a arma com a outra.",
+  "Cada construtor trabalhava com a espada presa à cintura. O homem encarregado de tocar a trombeta permanecia ao meu lado.",
+  "Eu disse aos nobres, aos oficiais e ao restante do povo: “A obra é grande e extensa, e estamos espalhados pela muralha, longe uns dos outros.",
+  "No lugar em que ouvirdes o som da trombeta, reuni-vos ali conosco. Nosso Deus lutará por nós”.",
+  "Assim trabalhávamos. Metade segurava as lanças desde o raiar do dia até o aparecimento das estrelas.",
+  "Naquela ocasião também disse ao povo: “Cada homem e seu ajudante passem a noite dentro de Jerusalém, para que à noite nos sirvam de guarda e durante o dia trabalhem”.",
+  "Nem eu, nem meus irmãos, nem meus ajudantes, nem os homens da guarda que me acompanhavam tirávamos nossas roupas; cada um mantinha sua arma até quando ia buscar água."
+];
+
+window.NEHEMIAH_TEXT[5] = [
+  "Então surgiu um grande clamor do povo e de suas mulheres contra seus irmãos judeus.",
+  "Alguns diziam: “Nós, nossos filhos e nossas filhas somos muitos. Precisamos conseguir trigo para comer e continuar vivos”.",
+  "Outros diziam: “Estamos empenhando nossos campos, nossas vinhas e nossas casas para conseguir trigo durante a fome”.",
+  "E outros diziam: “Tomamos dinheiro emprestado para pagar o tributo do rei, oferecendo nossos campos e nossas vinhas como garantia.",
+  "Apesar disso, nosso corpo é como o corpo de nossos irmãos, e nossos filhos são como os filhos deles. Contudo, estamos entregando nossos filhos e nossas filhas à escravidão; algumas de nossas filhas já foram escravizadas, e não temos como resgatá-las, pois nossos campos e nossas vinhas pertencem a outros”.",
+  "Quando ouvi o clamor deles e essas palavras, fiquei muito indignado.",
+  "Depois de refletir, repreendi os nobres e os oficiais e lhes disse: “Cada um de vós está exigindo juros de seu irmão!” Convoquei contra eles uma grande assembleia.",
+  "Eu lhes disse: “Nós, conforme nossas possibilidades, resgatamos nossos irmãos judeus que haviam sido vendidos às nações. E agora vós estais vendendo vossos irmãos, para que sejam vendidos a nós?” Eles ficaram calados e não encontraram resposta.",
+  "Então eu disse: “O que estais fazendo não é bom. Não deveríeis andar no temor de nosso Deus, para evitar a zombaria das nações, nossos inimigos?",
+  "Eu, meus irmãos e meus ajudantes também emprestamos dinheiro e trigo ao povo. Abandonemos, por favor, essa cobrança de juros.",
+  "Devolvei-lhes hoje mesmo seus campos, suas vinhas, seus olivais e suas casas, e também a centésima parte do dinheiro, do trigo, do vinho novo e do azeite que estais exigindo deles”.",
+  "Eles responderam: “Devolveremos e nada mais exigiremos deles. Faremos exatamente como dizes”. Então convoquei os sacerdotes e os fiz jurar que cumpririam essa promessa.",
+  "Também sacudi a dobra de minha roupa e disse: “Assim Deus sacuda de sua casa e de seus bens todo aquele que não cumprir esta promessa; que seja sacudido e fique vazio”. Toda a assembleia respondeu: “Amém!” E louvaram YHWH. O povo cumpriu essa promessa.",
+  "Além disso, desde o dia em que fui nomeado governador na terra de Judá, do vigésimo ao trigésimo segundo ano do rei Artaxerxes — durante doze anos —, nem eu nem meus irmãos comemos o alimento destinado ao governador.",
+  "Os governadores anteriores haviam imposto pesados encargos ao povo e recebido dele pão e vinho, além de quarenta siclos de prata. Até seus auxiliares dominavam o povo. Eu, porém, não agi assim, por temor de Deus.",
+  "Também me dediquei à obra desta muralha. Não adquirimos campos, e todos os meus auxiliares estavam reunidos ali para o trabalho.",
+  "À minha mesa havia cento e cinquenta judeus e oficiais, além dos que vinham até nós das nações ao redor.",
+  "Todos os dias eram preparados um boi, seis ovelhas escolhidas e aves; a cada dez dias havia abundância de todo tipo de vinho. Apesar disso, não exigi o alimento destinado ao governador, porque o trabalho pesava muito sobre este povo.",
+  "Lembra-te de mim para o bem, meu Deus, por tudo o que fiz por este povo."
+];
+
+window.NEHEMIAH_TEXT[6] = [
+  "Quando Sambalate, Tobias, Gesém, o árabe, e os demais inimigos souberam que eu havia reconstruído a muralha e que nela já não havia brechas — embora até então eu ainda não tivesse colocado as portas nos portões —,",
+  "Sambalate e Gesém me enviaram esta mensagem: “Vem, vamos nos encontrar em uma das aldeias da planície de Ono”. Eles, porém, planejavam fazer-me mal.",
+  "Enviei-lhes mensageiros com esta resposta: “Estou realizando uma grande obra e não posso descer. Por que a obra deveria parar enquanto eu a deixasse para ir encontrar-me convosco?”",
+  "Eles me enviaram a mesma mensagem quatro vezes, e eu lhes dei sempre a mesma resposta.",
+  "Então, pela quinta vez, Sambalate enviou seu auxiliar com uma carta aberta na mão.",
+  "Nela estava escrito: “Entre as nações se ouve, e Gesém também confirma, que tu e os judeus estais planejando rebelar-vos. Por isso estais reconstruindo a muralha, e, segundo esses rumores, queres tornar-te rei deles.",
+  "Também estabeleceste profetas para proclamarem a teu respeito em Jerusalém: ‘Há um rei em Judá!’ Agora, essas notícias chegarão aos ouvidos do rei. Vem, pois, e vamos conversar”.",
+  "Enviei-lhe esta resposta: “Nada disso aconteceu, como dizes; tu inventas essas coisas em teu próprio coração”.",
+  "Pois todos queriam nos amedrontar, dizendo: “Suas mãos enfraquecerão para o trabalho, e ele não será concluído”. Agora, pois, fortalece minhas mãos!",
+  "Fui à casa de Semaías, filho de Delaías, filho de Meetabel, que estava impedido de sair. Ele me disse: “Vamos encontrar-nos na casa de Deus, dentro do templo, e fechemos as portas do templo, pois virão para te matar; de noite virão para te matar”.",
+  "Eu respondi: “Um homem como eu deveria fugir? E quem, sendo como eu, entraria no templo para salvar a própria vida? Não entrarei”.",
+  "Percebi que Deus não o havia enviado. Ele pronunciara aquela profecia contra mim porque Tobias e Sambalate o haviam subornado.",
+  "Ele fora contratado para me amedrontar e me levar a agir assim, pecando; desse modo, teriam motivo para me difamar e me desonrar.",
+  "Lembra-te, meu Deus, de Tobias e de Sambalate, segundo essas obras deles, e também da profetisa Noadias e dos demais profetas que tentaram me amedrontar.",
+  "A muralha foi concluída no vigésimo quinto dia de Elul, em cinquenta e dois dias.",
+  "Quando todos os nossos inimigos souberam disso, todas as nações ao nosso redor ficaram com medo e perderam a confiança, pois reconheceram que essa obra havia sido realizada com a ajuda de nosso Deus.",
+  "Naqueles dias, os nobres de Judá enviavam muitas cartas a Tobias, e as cartas de Tobias chegavam até eles.",
+  "Pois muitos em Judá estavam ligados a ele por juramento, porque era genro de Secanias, filho de Ara, e seu filho Joanã havia se casado com a filha de Mesulão, filho de Berequias.",
+  "Além disso, falavam bem dele na minha presença e levavam a ele minhas palavras. Tobias enviava cartas para me amedrontar."
 ];
