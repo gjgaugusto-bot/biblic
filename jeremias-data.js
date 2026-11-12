@@ -286,3 +286,71 @@ window.JEREMIAH_TEXT[9] = [
   "Eis que vêm dias, diz YHWH, em que castigarei todos os circuncidados que permanecem incircuncisos.",
   "Castigarei o Egito, Judá, Edom, os filhos de Amom, Moabe e todos os que cortam os cantos do cabelo, que habitam no deserto; pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração."
 ];
+
+window.JEREMIAH_TEXT[10] = [
+  "Ouvi a palavra que YHWH vos fala, casa de Israel.",
+  "Assim diz YHWH: “Não aprendais o caminho das nações, nem fiqueis aterrorizados pelos sinais dos céus, embora as nações fiquem aterrorizadas por eles.",
+  "Pois os costumes dos povos são vaidade: cortam uma árvore da floresta, e a mão do artesão a trabalha com o machado.",
+  "Enfeitam-na com prata e ouro, prendem-na com pregos e martelos, para que não balance.",
+  "São como espantalho num campo de pepinos; não falam. Precisam ser carregados, pois não podem andar. Não os temais, pois não podem fazer mal, nem tampouco podem fazer bem”.",
+  "Não há ninguém semelhante a ti, YHWH; tu és grande, e grande é teu nome em poder.",
+  "Quem não te temeria, Rei das nações? Pois isso te é devido; entre todos os sábios das nações e em todos os seus reinos não há ninguém semelhante a ti.",
+  "Todos juntos são insensatos e tolos; a instrução dos ídolos é apenas madeira.",
+  "Prata batida é trazida de Társis, e ouro de Ufaz; obra do artesão e das mãos do ourives. Vestem-nos de azul e púrpura; todos são obra de artesãos.",
+  "Mas YHWH é o Deus verdadeiro; ele é o Deus vivo e Rei eterno. Diante de sua ira a terra treme, e as nações não podem suportar sua indignação.",
+  "Assim lhes direis: “Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo destes céus”.",
+  "Ele fez a terra por seu poder, estabeleceu o mundo por sua sabedoria e estendeu os céus por seu entendimento.",
+  "Quando faz ouvir sua voz, há tumulto de águas nos céus; ele faz subir as nuvens desde os confins da terra, produz relâmpagos para a chuva e tira o vento de seus depósitos.",
+  "Todo homem se torna insensato, sem conhecimento; todo ourives fica envergonhado por causa da imagem esculpida, pois sua imagem fundida é mentira, e não há fôlego nela.",
+  "São vaidade, obra de engano; no tempo de sua visitação perecerão.",
+  "A porção de Jacó não é como essas coisas, pois ele é o Criador de tudo, e Israel é a tribo de sua herança; YHWH dos Exércitos é seu nome.",
+  "Recolhe do chão teu embrulho, tu que habitas sitiada.",
+  "Pois assim diz YHWH: “Eis que desta vez lançarei para longe os habitantes da terra e os afligirei, para que o sintam”.",
+  "Ai de mim por causa de minha ferida! Minha chaga é dolorosa. Mas eu disse: “Certamente esta é minha enfermidade, e devo suportá-la”.",
+  "Minha tenda está destruída, e todas as minhas cordas estão rompidas; meus filhos partiram de mim e já não existem; não há quem estenda minha tenda nem levante minhas cortinas.",
+  "Pois os pastores se tornaram insensatos e não buscaram YHWH; por isso não prosperaram, e todos os seus rebanhos foram dispersos.",
+  "Eis o rumor de uma notícia! Grande tumulto vem da terra do norte, para tornar as cidades de Judá desolação, morada de chacais.",
+  "Sei, YHWH, que o caminho do homem não está em si mesmo; não cabe ao homem que anda dirigir seus passos.",
+  "Corrige-me, YHWH, mas com justiça, não em tua ira, para que não me reduzas a nada.",
+  "Derrama tua ira sobre as nações que não te conhecem e sobre as famílias que não invocam teu nome; pois devoraram Jacó, devoraram-no e o consumiram, e devastaram sua morada."
+];
+
+window.JEREMIAH_TEXT[11] = [
+  "A palavra que veio a Jeremias da parte de YHWH, dizendo:",
+  "“Ouvi as palavras desta aliança e falai aos homens de Judá e aos habitantes de Jerusalém.",
+  "Dize-lhes: Assim diz YHWH, Deus de Israel: Maldito o homem que não ouvir as palavras desta aliança,",
+  "que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: ‘Ouvi minha voz e fazei tudo o que vos ordeno; assim sereis meu povo, e eu serei vosso Deus’,",
+  "para confirmar o juramento que fiz a vossos pais, de lhes dar uma terra que mana leite e mel, como acontece hoje”. Então respondi: “Amém, YHWH”.",
+  "YHWH me disse: “Proclama todas estas palavras nas cidades de Judá e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança e cumpri-as.",
+  "Pois adverti solenemente vossos pais desde o dia em que os fiz subir da terra do Egito até hoje, levantando-me cedo e advertindo-os, dizendo: ‘Ouvi minha voz’.",
+  "Mas não ouviram nem inclinaram o ouvido; cada um andou na obstinação de seu coração mau. Por isso fiz vir sobre eles todas as palavras desta aliança, que lhes ordenei cumprir, mas não cumpriram”.",
+  "YHWH me disse: “Encontrou-se uma conspiração entre os homens de Judá e os habitantes de Jerusalém.",
+  "Voltaram às iniquidades de seus antepassados, que recusaram ouvir minhas palavras; também seguiram outros deuses para servi-los. A casa de Israel e a casa de Judá quebraram minha aliança, que fiz com seus pais.",
+  "Por isso assim diz YHWH: Eis que trarei sobre eles calamidade da qual não poderão escapar; clamarão a mim, mas não os ouvirei.",
+  "Então as cidades de Judá e os habitantes de Jerusalém irão e clamarão aos deuses aos quais queimam incenso; mas eles certamente não os salvarão no tempo de sua calamidade.",
+  "Pois teus deuses, Judá, são tantos quantas tuas cidades; e quantos são os caminhos de Jerusalém, tantos altares levantastes para a vergonha, altares para queimar incenso a Baal.",
+  "Tu, pois, não ores por este povo, nem levantes por eles clamor ou oração, pois não os ouvirei no tempo em que clamarem a mim por causa de sua calamidade.",
+  "Que direito tem minha amada em minha casa, visto que praticou muitos atos perversos? Acaso votos e carne santa afastarão de ti a calamidade? Então poderás exultar.",
+  "YHWH chamou teu nome: “Oliveira verde, bela, com fruto formoso”. Com o ruído de grande tumulto acendeu fogo contra ela, e seus ramos foram quebrados.",
+  "YHWH dos Exércitos, que te plantou, pronunciou calamidade contra ti, por causa da maldade da casa de Israel e da casa de Judá, que fizeram para si, provocando-me à ira, queimando incenso a Baal."
+];
+
+window.JEREMIAH_TEXT[12] = [
+  "Justo és tu, YHWH, quando contigo contendo; contudo, falarei contigo sobre julgamentos. Por que prospera o caminho dos perversos? Por que vivem em paz todos os que agem traiçoeiramente?",
+  "Tu os plantaste, e eles criaram raízes; crescem e também dão fruto. Estás perto de sua boca, mas longe de seus pensamentos.",
+  "Mas tu, YHWH, me conheces; tu me vês e provas meu coração para contigo. Arranca-os como ovelhas para o matadouro e separa-os para o dia da matança.",
+  "Até quando a terra lamentará e a relva de todo o campo secará por causa da maldade dos que nela habitam? Os animais e as aves perecem, porque disseram: “Ele não verá nosso fim”.",
+  "“Se correres com os que vão a pé e eles te cansarem, como competirás com cavalos? Se confias em terra de paz, que farás na soberba do Jordão?",
+  "Pois até teus irmãos e a casa de teu pai agiram traiçoeiramente contigo; eles também gritaram atrás de ti. Não confies neles, ainda que te falem coisas boas.",
+  "Abandonei minha casa, deixei minha herança; entreguei a amada de minha alma nas mãos de seus inimigos.",
+  "Minha herança tornou-se para mim como leão na floresta; levantou sua voz contra mim; por isso a odiei.",
+  "Minha herança é para mim como ave de rapina de várias cores; aves de rapina a cercam. Vinde, reuni todos os animais do campo; trazei-os para devorar.",
+  "Muitos pastores destruíram minha vinha; pisotearam minha porção; fizeram de minha porção desejável um deserto desolado.",
+  "Fizeram dela uma desolação; desolada, ela lamenta diante de mim. Toda a terra está desolada, porque ninguém a leva ao coração.",
+  "Sobre todas as alturas desnudas do deserto vieram destruidores, pois a espada de YHWH devora de uma extremidade da terra à outra; não há paz para nenhuma carne.",
+  "Semearam trigo e colheram espinhos; cansaram-se, mas de nada aproveitaram. Envergonhai-vos de vossas colheitas por causa do ardor da ira de YHWH.",
+  "Assim diz YHWH contra todos os meus maus vizinhos, que tocam a herança que dei a meu povo Israel: “Eis que os arrancarei de sua terra e arrancarei a casa de Judá do meio deles.",
+  "Mas, depois de os arrancar, tornarei a ter compaixão deles e os farei voltar, cada um à sua herança e cada um à sua terra.",
+  "E acontecerá que, se aprenderem diligentemente os caminhos de meu povo, jurando por meu nome: ‘Tão certo como vive YHWH’, como ensinaram meu povo a jurar por Baal, serão edificados no meio de meu povo.",
+  "Mas, se não ouvirem, arrancarei completamente aquela nação e a destruirei”, diz YHWH."
+];
