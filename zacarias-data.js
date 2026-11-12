@@ -123,3 +123,137 @@ window.ZECHARIAH_TEXT[7] = [
   "Aconteceu que, assim como ele chamou e eles não ouviram, também eles clamarão, e eu não ouvirei”, diz YHWH dos Exércitos.",
   "“Eu os espalhei por todas as nações que não conheciam; a terra ficou desolada atrás deles, sem quem passasse nem voltasse. Assim transformaram a terra agradável em desolação”."
 ];
+
+window.ZECHARIAH_TEXT[8] = [
+  "A palavra de YHWH dos Exércitos veio:",
+  "Assim diz YHWH dos Exércitos: “Tenho grande zelo por Sião; com grande indignação tenho zelo por ela”.",
+  "Assim diz YHWH: “Voltarei a Sião e habitarei no meio de Jerusalém; Jerusalém será chamada Cidade da Verdade, e o monte de YHWH dos Exércitos, Monte Santo”.",
+  "Assim diz YHWH dos Exércitos: “Ainda se sentarão velhos e velhas nas praças de Jerusalém, cada um com seu cajado na mão por causa da idade avançada.",
+  "As praças da cidade se encherão de meninos e meninas brincando nelas”.",
+  "Assim diz YHWH dos Exércitos: “Ainda que isso pareça impossível aos olhos do restante deste povo naqueles dias, será impossível também aos meus olhos?”, declara YHWH dos Exércitos.",
+  "Assim diz YHWH dos Exércitos: “Eis que salvarei meu povo da terra do oriente e da terra do ocidente.",
+  "Eu os trarei, e habitarão no meio de Jerusalém; serão meu povo, e eu serei seu Deus, em fidelidade e justiça”.",
+  "Assim diz YHWH dos Exércitos: “Fortalecei as mãos, vós que ouvis nestes dias estas palavras da boca dos profetas, que foram pronunciadas no dia em que se lançaram os fundamentos da casa de YHWH dos Exércitos, para que o templo fosse reconstruído.",
+  "Pois antes daqueles dias não havia salário para homem algum nem para animal algum; não havia segurança para quem saía ou entrava por causa do inimigo, pois eu havia posto todos os homens uns contra os outros.",
+  "Mas agora não serei para o restante deste povo como nos dias antigos”, declara YHWH dos Exércitos.",
+  "“Pois haverá semente de paz: a videira dará seu fruto, a terra produzirá sua colheita, e os céus darão seu orvalho. Farei o restante deste povo herdar todas essas coisas.",
+  "Assim como fostes maldição entre as nações, casa de Judá e casa de Israel, assim vos salvarei, e sereis bênção. Não temais; fortalecei as mãos.",
+  "Pois assim diz YHWH dos Exércitos: “Como decidi fazer-vos mal quando vossos pais me provocaram à ira”, diz YHWH dos Exércitos, “e não me arrependi,",
+  "assim, nestes dias, voltei a decidir fazer o bem a Jerusalém e à casa de Judá. Não temais.",
+  "Estas são as coisas que deveis fazer: falai a verdade cada um com seu próximo; julgai com verdade e com julgamento de paz em vossas portas.",
+  "Ninguém planeje mal contra seu próximo em seu coração, e não ameis juramento falso, pois odeio todas essas coisas”, declara YHWH.",
+  "A palavra de YHWH dos Exércitos veio a mim:",
+  "Assim diz YHWH dos Exércitos: “O jejum do quarto mês, o jejum do quinto, o jejum do sétimo e o jejum do décimo se tornarão para a casa de Judá alegria, júbilo e festas alegres. Amai, pois, a verdade e a paz”.",
+  "Assim diz YHWH dos Exércitos: “Ainda virão povos e habitantes de muitas cidades.",
+  "Os habitantes de uma cidade irão à outra e dirão: ‘Vamos depressa suplicar o favor de YHWH e buscar YHWH dos Exércitos; eu também irei’.",
+  "Muitos povos e nações poderosas virão buscar YHWH dos Exércitos em Jerusalém e suplicar o favor de YHWH”.",
+  "Assim diz YHWH dos Exércitos: “Naqueles dias, dez homens de todas as línguas das nações agarrarão a orla da roupa de um judeu, dizendo: ‘Iremos convosco, pois ouvimos que Deus está convosco’”."
+];
+
+window.ZECHARIAH_TEXT[9] = [
+  "Oráculo da palavra de YHWH contra a terra de Hadraque, e Damasco será seu lugar de repouso — pois YHWH tem os olhos sobre a humanidade e sobre todas as tribos de Israel —,",
+  "e também contra Hamate, que faz fronteira com ela, e contra Tiro e Sidom, embora sejam muito sábias.",
+  "Tiro construiu para si uma fortaleza e acumulou prata como pó e ouro como lama das ruas.",
+  "Eis que o Senhor a despojará, lançará sua força no mar, e ela será consumida pelo fogo.",
+  "Ascalom verá e temerá; Gaza também, e se contorcerá muito; Ecrom, porque sua esperança será confundida. O rei desaparecerá de Gaza, e Ascalom não será habitada.",
+  "Um povo mestiço habitará em Asdode; eliminarei o orgulho dos filisteus.",
+  "Tirarei o sangue de sua boca e as abominações de entre seus dentes; também ele ficará como restante para nosso Deus e será como um clã em Judá; Ecrom será como os jebuseus.",
+  "Acamparei ao redor de minha casa contra o exército, contra quem passa e quem volta; nenhum opressor passará mais sobre eles, pois agora vejo com meus próprios olhos.",
+  "Alegra-te muito, filha de Sião; grita de alegria, filha de Jerusalém! Eis que teu rei vem a ti; ele é justo e traz salvação, humilde e montado num jumento, num jumentinho, cria de jumenta.",
+  "Eliminarei os carros de Efraim e os cavalos de Jerusalém; o arco de guerra será eliminado. Ele proclamará paz às nações, e seu domínio irá de mar a mar e do rio até os confins da terra.",
+  "Quanto a ti, por causa do sangue de tua aliança, libertarei teus prisioneiros da cova sem água.",
+  "Voltai à fortaleza, prisioneiros da esperança; hoje mesmo anuncio que te restituirei em dobro.",
+  "Pois curvei Judá como meu arco e enchi o arco com Efraim; levantarei teus filhos, ó Sião, contra teus filhos, ó Grécia, e te farei como espada de guerreiro.",
+  "YHWH aparecerá sobre eles, e sua flecha sairá como relâmpago; o Senhor YHWH tocará a trombeta e avançará com os redemoinhos do sul.",
+  "YHWH dos Exércitos os protegerá; eles devorarão e pisarão as pedras de funda; beberão e farão barulho como por causa do vinho; ficarão cheios como taça, como os cantos do altar.",
+  "YHWH, seu Deus, os salvará naquele dia como rebanho de seu povo; pois serão como pedras de uma coroa, brilhando sobre sua terra.",
+  "Quão grande será sua bondade, e quão grande sua beleza! O trigo fará florescer os jovens, e o vinho novo, as jovens."
+];
+
+window.ZECHARIAH_TEXT[10] = [
+  "Pedi a YHWH chuva no tempo da chuva da primavera; YHWH faz relâmpagos e lhes dará aguaceiros, a cada um, erva no campo.",
+  "Pois os terafins falam vaidade, e os adivinhos veem mentira; contam sonhos falsos e oferecem consolo vazio. Por isso o povo vagueia como ovelhas; sofre porque não há pastor.",
+  "“Minha ira se acendeu contra os pastores, e punirei os bodes; pois YHWH dos Exércitos visitará seu rebanho, a casa de Judá, e fará dele seu cavalo majestoso na batalha.",
+  "Dele virá a pedra angular, dele a estaca da tenda, dele o arco de guerra; dele sairão todos os governantes juntos.",
+  "Serão como guerreiros que pisam a lama das ruas na batalha; lutarão, pois YHWH estará com eles, e os cavaleiros serão envergonhados.",
+  "Fortalecerei a casa de Judá e salvarei a casa de José; farei que voltem, pois tenho compaixão deles, e serão como se eu nunca os tivesse rejeitado, porque eu sou YHWH, seu Deus, e os ouvirei.",
+  "Efraim será como guerreiro, e seu coração se alegrará como pelo vinho; seus filhos verão isso e se alegrarão; seu coração exultará em YHWH.",
+  "Eu lhes assobiarei e os reunirei, pois os resgatei; multiplicar-se-ão como antes.",
+  "Embora eu os tenha espalhado entre as nações, nas terras distantes se lembrarão de mim; viverão com seus filhos e voltarão.",
+  "Eu os farei voltar da terra do Egito e os reunirei da Assíria; levá-los-ei à terra de Gileade e ao Líbano, mas não haverá espaço suficiente para eles.",
+  "Passarão pelo mar da angústia; ele ferirá as ondas do mar, e todas as profundezas do Nilo secarão. O orgulho da Assíria será abatido, e o cetro do Egito desaparecerá.",
+  "Eu os fortalecerei em YHWH, e andarão em seu nome”, declara YHWH."
+];
+
+window.ZECHARIAH_TEXT[11] = [
+  "Abre tuas portas, ó Líbano, para que o fogo consuma teus cedros.",
+  "Uiva, cipreste, pois o cedro caiu; as árvores majestosas foram destruídas. Uivai, carvalhos de Basã, pois a floresta impenetrável foi derrubada.",
+  "Ouve-se o uivo dos pastores, pois sua glória foi devastada; ouve-se o rugido dos leões novos, pois a soberba do Jordão foi destruída.",
+  "Assim diz YHWH, meu Deus: “Apascenta o rebanho destinado ao abate,",
+  "cujos compradores os matam e não são considerados culpados; os que os vendem dizem: ‘Bendito seja YHWH, pois fiquei rico’; e seus próprios pastores não têm compaixão deles.",
+  "Pois não terei mais compaixão dos habitantes da terra”, declara YHWH. “Eis que entregarei cada homem nas mãos de seu próximo e nas mãos de seu rei; eles esmagarão a terra, e não os livrarei de suas mãos”.",
+  "Então apascentei o rebanho destinado ao abate, especialmente os aflitos do rebanho. Tomei para mim dois cajados: chamei um de Favor e o outro de União; apascentei o rebanho.",
+  "Eliminei três pastores num só mês; minha alma se impacientou com eles, e também a alma deles me detestou.",
+  "Então eu disse: “Não vos apascentarei mais. O que estiver para morrer, morra; o que estiver para ser eliminado, seja eliminado; e as que restarem, devorem cada uma a carne de sua companheira”.",
+  "Tomei meu cajado Favor e o quebrei, para romper minha aliança que havia feito com todos os povos.",
+  "Ela foi rompida naquele dia, e os aflitos do rebanho que me observavam reconheceram que era palavra de YHWH.",
+  "Eu lhes disse: “Se vos parece bem, dai-me meu salário; se não, deixai-o”. Então pesaram meu salário: trinta peças de prata.",
+  "YHWH me disse: “Lança-o ao oleiro, esse preço magnífico pelo qual fui avaliado por eles”. Tomei as trinta peças de prata e as lancei na casa de YHWH, para o oleiro.",
+  "Então quebrei meu segundo cajado, União, para romper a fraternidade entre Judá e Israel.",
+  "YHWH me disse: “Toma novamente os instrumentos de um pastor insensato.",
+  "Pois eis que levantarei na terra um pastor que não cuidará das que estão desaparecendo, não buscará a desgarrada, não curará a ferida nem alimentará a que está de pé; mas comerá a carne das gordas e lhes arrancará as unhas.",
+  "Ai do pastor inútil, que abandona o rebanho! A espada cairá sobre seu braço e sobre seu olho direito; seu braço secará completamente, e seu olho direito ficará totalmente escuro”."
+];
+
+window.ZECHARIAH_TEXT[12] = [
+  "Oráculo da palavra de YHWH acerca de Israel. Declara YHWH, que estende os céus, funda a terra e forma o espírito do homem dentro dele:",
+  "“Eis que farei de Jerusalém uma taça de embriaguez para todos os povos ao redor; também Judá será cercada contra Jerusalém.",
+  "Naquele dia farei de Jerusalém uma pedra pesada para todos os povos; todos os que tentarem levantá-la ficarão gravemente feridos. Todas as nações da terra se reunirão contra ela.",
+  "Naquele dia”, declara YHWH, “ferirei de pavor todos os cavalos e de loucura seus cavaleiros; abrirei meus olhos sobre a casa de Judá e ferirei de cegueira todos os cavalos dos povos.",
+  "Então os chefes de Judá dirão em seu coração: ‘Os habitantes de Jerusalém são minha força em YHWH dos Exércitos, seu Deus’.",
+  "Naquele dia farei dos chefes de Judá como braseiro entre lenha e como tocha acesa entre feixes; consumirão à direita e à esquerda todos os povos ao redor, enquanto Jerusalém continuará habitada em seu próprio lugar, em Jerusalém.",
+  "YHWH salvará primeiro as tendas de Judá, para que a glória da casa de Davi e a glória dos habitantes de Jerusalém não se engrandeçam sobre Judá.",
+  "Naquele dia YHWH protegerá os habitantes de Jerusalém; o mais fraco entre eles será como Davi, e a casa de Davi será como Deus, como o mensageiro de YHWH diante deles.",
+  "Naquele dia procurarei destruir todas as nações que vierem contra Jerusalém.",
+  "Derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e súplicas; olharão para mim, a quem traspassaram, e lamentarão por ele como quem lamenta por filho único, chorando amargamente como quem chora pelo primogênito.",
+  "Naquele dia haverá grande lamento em Jerusalém, como o lamento de Hadade-Rimom no vale de Megido.",
+  "A terra lamentará, cada família à parte: a família da casa de Davi à parte, e suas mulheres à parte; a família da casa de Natã à parte, e suas mulheres à parte;",
+  "a família da casa de Levi à parte, e suas mulheres à parte; a família dos simeítas à parte, e suas mulheres à parte;",
+  "todas as demais famílias, cada família à parte, e suas mulheres à parte."
+];
+
+window.ZECHARIAH_TEXT[13] = [
+  "Naquele dia haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para purificação do pecado e da impureza.",
+  "Naquele dia”, declara YHWH dos Exércitos, “eliminarei da terra os nomes dos ídolos, e não serão mais lembrados; também farei desaparecer da terra os profetas e o espírito de impureza.",
+  "Se alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: ‘Não viverás, pois falaste mentira em nome de YHWH’; seu pai e sua mãe, que o geraram, o traspassarão quando profetizar.",
+  "Naquele dia cada profeta se envergonhará de sua visão quando profetizar; não vestirá manto de pelos para enganar.",
+  "Dirá: ‘Não sou profeta; sou trabalhador da terra, pois um homem me comprou desde minha juventude’.",
+  "Se alguém lhe perguntar: ‘Que feridas são estas entre tuas mãos?’, ele responderá: ‘São feridas que recebi na casa de meus amigos’.",
+  "Espada, desperta contra meu pastor, contra o homem que é meu companheiro, declara YHWH dos Exércitos. Fere o pastor, e as ovelhas serão dispersas; voltarei minha mão contra os pequenos.",
+  "Em toda a terra”, declara YHWH, “dois terços serão eliminados e perecerão, mas um terço ficará nela.",
+  "Farei passar esse terço pelo fogo; purificá-los-ei como se purifica a prata e os provarei como se prova o ouro. Eles invocarão meu nome, e eu lhes responderei. Direi: ‘Este é meu povo’; e eles dirão: ‘YHWH é meu Deus’”."
+];
+
+window.ZECHARIAH_TEXT[14] = [
+  "Eis que vem um dia para YHWH, quando teus despojos serão repartidos no meio de ti.",
+  "Reunirei todas as nações contra Jerusalém para a batalha; a cidade será tomada, as casas serão saqueadas, e as mulheres, violentadas. Metade da cidade irá para o exílio, mas o restante do povo não será eliminado da cidade.",
+  "Então YHWH sairá e lutará contra essas nações, como luta no dia da batalha.",
+  "Naquele dia seus pés estarão sobre o monte das Oliveiras, que fica diante de Jerusalém, a leste; o monte das Oliveiras se dividirá ao meio, de leste a oeste, formando um vale muito grande. Metade do monte se deslocará para o norte, e metade para o sul.",
+  "Fugireis pelo vale de meus montes, pois o vale dos montes chegará até Azel; fugireis como fugistes do terremoto nos dias de Uzias, rei de Judá. Então virá YHWH, meu Deus, e todos os santos contigo.",
+  "Naquele dia não haverá luz; os astros se recolherão.",
+  "Será um dia único, conhecido de YHWH; não haverá dia nem noite, mas ao entardecer haverá luz.",
+  "Naquele dia águas vivas sairão de Jerusalém, metade para o mar oriental e metade para o mar ocidental; isso acontecerá tanto no verão como no inverno.",
+  "YHWH será rei sobre toda a terra; naquele dia YHWH será um, e seu nome será um.",
+  "Toda a terra se tornará como a Arabá, desde Geba até Rimom, ao sul de Jerusalém. Ela será elevada e habitada em seu lugar, desde a porta de Benjamim até o lugar da primeira porta, até a porta da Esquina, e desde a torre de Hananel até os lagares do rei.",
+  "Habitarão nela, e nunca mais haverá destruição; Jerusalém habitará em segurança.",
+  "Esta será a praga com que YHWH ferirá todos os povos que guerrearam contra Jerusalém: sua carne apodrecerá enquanto ainda estiverem de pé, seus olhos apodrecerão em suas órbitas, e sua língua apodrecerá em sua boca.",
+  "Naquele dia haverá entre eles grande tumulto da parte de YHWH; cada um agarrará a mão de seu próximo, e a mão de um se levantará contra a do outro.",
+  "Também Judá lutará em Jerusalém; serão reunidas as riquezas de todas as nações ao redor: ouro, prata e roupas em grande quantidade.",
+  "A mesma praga atingirá os cavalos, mulas, camelos, jumentos e todos os animais que estiverem naqueles acampamentos.",
+  "Todos os sobreviventes de todas as nações que vierem contra Jerusalém subirão de ano em ano para adorar o Rei, YHWH dos Exércitos, e celebrar a Festa das Cabanas.",
+  "Se alguma família da terra não subir a Jerusalém para adorar o Rei, YHWH dos Exércitos, não receberá chuva.",
+  "Se a família do Egito não subir nem vier, também sobre ela virá a praga com que YHWH ferirá as nações que não subirem para celebrar a Festa das Cabanas.",
+  "Esse será o castigo do Egito e o castigo de todas as nações que não subirem para celebrar a Festa das Cabanas.",
+  "Naquele dia estará inscrito: “Santo a YHWH” nos sinos dos cavalos, e as panelas da casa de YHWH serão como as bacias diante do altar.",
+  "Toda panela em Jerusalém e em Judá será santa a YHWH dos Exércitos; todos os que sacrificarem virão, tomarão delas e cozinharão nelas. Naquele dia não haverá mais comerciante na casa de YHWH dos Exércitos."
+];
