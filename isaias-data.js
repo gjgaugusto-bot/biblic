@@ -150,3 +150,78 @@ window.ISAIAH_TEXT[6] = [
   "até que YHWH afaste os homens para longe e a desolação seja grande no meio da terra.",
   "Ainda que reste nela um décimo, também será consumido; mas, como terebinto e carvalho que, depois de cortados, deixam um toco, assim a semente santa será seu toco”."
 ];
+
+window.ISAIAH_TEXT[7] = [
+  "Nos dias de Acaz, filho de Jotão, filho de Uzias, rei de Judá, Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, subiram contra Jerusalém para guerrear contra ela, mas não puderam conquistá-la.",
+  "Quando foi anunciado à casa de Davi: “A Síria está acampada em Efraim”, seu coração e o coração de seu povo tremeram como as árvores da floresta tremem diante do vento.",
+  "Então YHWH disse a Isaías: “Sai agora ao encontro de Acaz, tu e teu filho Sear-Jasube, no fim do aqueduto do reservatório superior, na estrada do campo do lavadeiro.",
+  "Dize-lhe: ‘Tem cuidado e fica tranquilo; não temas, nem desfaleça teu coração por causa desses dois tocos de tições fumegantes, por causa do furor ardente de Rezim e da Síria e do filho de Remalias.",
+  "Pois a Síria, Efraim e o filho de Remalias tramaram o mal contra ti, dizendo:",
+  "“Subamos contra Judá, causemos pavor, abramos uma brecha em seus muros e estabeleçamos ali como rei o filho de Tabeel”.",
+  "Assim diz o Senhor YHWH: Isso não acontecerá, nem se realizará.",
+  "Pois a cabeça da Síria é Damasco, e a cabeça de Damasco é Rezim; dentro de sessenta e cinco anos Efraim será despedaçado, deixando de ser povo.",
+  "A cabeça de Efraim é Samaria, e a cabeça de Samaria é o filho de Remalias. Se não crerdes, certamente não permanecereis’”.",
+  "YHWH tornou a falar a Acaz, dizendo:",
+  "“Pede para ti um sinal de YHWH, teu Deus; pede-o nas profundezas ou nas alturas acima”.",
+  "Mas Acaz respondeu: “Não pedirei, nem porei YHWH à prova”.",
+  "Então Isaías disse: “Ouvi agora, casa de Davi! É pouco para vós cansar os homens, para que também canseis meu Deus?",
+  "Por isso o próprio Senhor vos dará um sinal: eis que a jovem conceberá e dará à luz um filho, e lhe chamará Emanuel.",
+  "Ele comerá coalhada e mel quando souber rejeitar o mal e escolher o bem.",
+  "Pois antes que o menino saiba rejeitar o mal e escolher o bem, a terra cujos dois reis temes será abandonada.",
+  "YHWH fará vir sobre ti, sobre teu povo e sobre a casa de teu pai dias como nunca houve desde o dia em que Efraim se separou de Judá: o rei da Assíria.",
+  "Naquele dia YHWH assobiará às moscas que estão nos confins dos rios do Egito e às abelhas que estão na terra da Assíria.",
+  "Todas virão e pousarão nos vales desolados, nas fendas das rochas, sobre todos os espinheiros e em todos os pastos.",
+  "Naquele dia o Senhor raspará com navalha alugada além do rio — com o rei da Assíria — a cabeça e os pelos das pernas; também removerá a barba.",
+  "Naquele dia cada um criará uma novilha e duas ovelhas.",
+  "Por causa da abundância de leite, comerá coalhada; todos os que restarem na terra comerão coalhada e mel.",
+  "Naquele dia, todo lugar onde havia mil videiras, avaliadas em mil peças de prata, será tomado por espinhos e cardos.",
+  "Com arco e flechas entrarão ali, pois toda a terra se tornará espinhos e cardos.",
+  "E todos os montes que antes eram cultivados com enxada, não serão visitados por medo dos espinhos e cardos; serão pasto de bois e lugar pisoteado por ovelhas."
+];
+
+window.ISAIAH_TEXT[8] = [
+  "YHWH me disse: “Toma uma grande tabuinha e escreve nela com instrumento comum: ‘Maher-Salal-Hás-Baz’”.",
+  "Tomei comigo testemunhas fiéis: Urias, o sacerdote, e Zacarias, filho de Jeberequias.",
+  "Aproximei-me da profetisa, e ela concebeu e deu à luz um filho. YHWH me disse: “Chama-o Maher-Salal-Hás-Baz,",
+  "pois antes que o menino saiba chamar ‘meu pai’ e ‘minha mãe’, as riquezas de Damasco e os despojos de Samaria serão levados diante do rei da Assíria”.",
+  "YHWH tornou a falar comigo, dizendo:",
+  "“Visto que este povo rejeitou as águas de Siloé, que correm suavemente, e se alegra com Rezim e o filho de Remalias,",
+  "por isso o Senhor fará subir contra eles as águas fortes e abundantes do rio: o rei da Assíria e toda a sua glória. Ele transbordará por todos os seus canais e passará por todas as suas margens.",
+  "Avançará por Judá, inundará e atravessará, chegando até o pescoço; e a extensão de suas asas cobrirá toda a largura de tua terra, ó Emanuel”.",
+  "Reuni-vos, povos, e sereis despedaçados; ouvi, todos os confins da terra. Cingi-vos e sereis despedaçados; cingi-vos e sereis despedaçados.",
+  "Tramai um plano, e ele será frustrado; proferi uma palavra, e ela não permanecerá, pois Deus está conosco.",
+  "Pois assim YHWH me falou com mão forte e me instruiu a não andar pelo caminho deste povo, dizendo:",
+  "“Não chameis conspiração a tudo o que este povo chama conspiração; não temais o que eles temem, nem fiqueis aterrorizados.",
+  "A YHWH dos Exércitos, a ele santificai; seja ele vosso temor, e seja ele vosso terror.",
+  "Ele será santuário, mas também pedra de tropeço e rocha de queda para as duas casas de Israel, armadilha e laço para os habitantes de Jerusalém.",
+  "Muitos tropeçarão nela, cairão e serão quebrados; serão enlaçados e presos”.",
+  "Ata o testemunho, sela a instrução entre meus discípulos.",
+  "Esperarei por YHWH, que esconde seu rosto da casa de Jacó; nele porei minha esperança.",
+  "Eis que eu e os filhos que YHWH me deu somos sinais e presságios em Israel, da parte de YHWH dos Exércitos, que habita no monte Sião.",
+  "Quando vos disserem: “Consultai os médiuns e os adivinhos, que chilreiam e murmuram”, acaso um povo não deve consultar seu Deus? Consultará os mortos em favor dos vivos?",
+  "À instrução e ao testemunho! Se não falarem segundo esta palavra, jamais verão a luz da aurora."
+];
+
+window.ISAIAH_TEXT[9] = [
+  "Contudo, não haverá escuridão para aquela que estava em angústia. No passado ele humilhou a terra de Zebulom e a terra de Naftali, mas no futuro honrará o caminho do mar, além do Jordão, a Galileia das nações.",
+  "O povo que andava nas trevas viu grande luz; sobre os que habitavam na terra da sombra da morte brilhou uma luz.",
+  "Multiplicaste a nação e aumentaste sua alegria; eles se alegram diante de ti como na alegria da colheita, como os que exultam ao repartir o despojo.",
+  "Pois quebraste o jugo de seu fardo, a vara de seu ombro e o bastão de seu opressor, como no dia de Midiã.",
+  "Toda bota de guerreiro que marcha ruidosamente e toda veste enrolada em sangue serão destinadas ao fogo, alimento das chamas.",
+  "Pois um menino nos nasceu, um filho nos foi dado; o governo estará sobre seus ombros, e seu nome será chamado Maravilhoso Conselheiro, Deus Poderoso, Pai da Eternidade, Príncipe da Paz.",
+  "O aumento do governo e da paz não terá fim, sobre o trono de Davi e sobre seu reino, para estabelecê-lo e sustentá-lo com justiça e retidão, desde agora e para sempre. O zelo de YHWH dos Exércitos fará isso.",
+  "O Senhor enviou uma palavra contra Jacó, e ela caiu sobre Israel.",
+  "Todo o povo saberá, Efraim e os habitantes de Samaria, que dizem com orgulho e arrogância de coração:",
+  "“Os tijolos caíram, mas construiremos com pedras lavradas; os sicômoros foram cortados, mas os substituiremos por cedros”.",
+  "YHWH levantará contra eles os adversários de Rezim e incitará seus inimigos,",
+  "os sírios do oriente e os filisteus do ocidente; eles devorarão Israel de boca aberta. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida.",
+  "O povo não voltou para aquele que o feriu, nem buscou YHWH dos Exércitos.",
+  "Por isso YHWH cortará de Israel cabeça e cauda, ramo de palmeira e junco, num só dia.",
+  "O ancião e o homem respeitado são a cabeça; o profeta que ensina mentira é a cauda.",
+  "Os que guiam este povo o fazem errar, e os que são guiados por eles são destruídos.",
+  "Por isso o Senhor não se alegrará com seus jovens, nem terá compaixão de seus órfãos e viúvas, pois todos são ímpios e praticam o mal, e toda boca fala insensatez. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida.",
+  "Pois a perversidade arde como fogo; consome espinhos e cardos e incendeia os matagais da floresta; sobem em colunas de fumaça.",
+  "Pela ira de YHWH dos Exércitos a terra é abrasada, e o povo se torna alimento do fogo; ninguém poupa seu irmão.",
+  "Cortam à direita e ainda têm fome; devoram à esquerda e não se fartam; cada um devora a carne de seu próprio braço:",
+  "Manassés a Efraim, e Efraim a Manassés; juntos se voltam contra Judá. Apesar de tudo isso, sua ira não se afastou, e sua mão continua estendida."
+];
