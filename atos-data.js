@@ -1,0 +1,30 @@
+/* Atos — tradução de trabalho própria baseada no grego do SBLGNT. Conferir versificação com a edição exata antes de publicar. Progresso: capítulo 1 de 28; 26 versículos. */
+window.ACTS_TEXT = window.ACTS_TEXT || {};
+window.ACTS_TEXT[1] = [
+  "No primeiro relato, ó Teófilo, tratei de tudo o que Jesus começou a fazer e ensinar,",
+  "até o dia em que foi elevado, depois de instruir pelo Espírito Santo os apóstolos que escolhera.",
+  "Depois de sofrer, apresentou-se vivo com muitas provas, aparecendo por quarenta dias e falando do Reino de Deus.",
+  "Reunido com eles, ordenou que não saíssem de Jerusalém, mas esperassem a promessa do Pai.",
+  "João batizou com água; vós sereis batizados com o Espírito Santo dentro de poucos dias.",
+  "Perguntaram: Senhor, restaurarás agora o reino a Israel?",
+  "Ele respondeu: Não vos compete conhecer tempos ou épocas estabelecidos pelo Pai.",
+  "Recebereis poder quando o Espírito vier, e sereis minhas testemunhas em Jerusalém, Judeia, Samaria e até os confins da terra.",
+  "Depois de dizer isso, foi elevado, e uma nuvem o ocultou.",
+  "Enquanto olhavam para o céu, dois homens vestidos de branco apareceram",
+  "e disseram: Galileus, por que olhais para o céu? Jesus voltará como o vistes partir.",
+  "Voltaram a Jerusalém, do monte das Oliveiras, perto da cidade.",
+  "Entraram e subiram à sala superior: Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago de Alfeu, Simão Zelote e Judas de Tiago.",
+  "Todos perseveravam em oração, com as mulheres, Maria, mãe de Jesus, e os irmãos dele.",
+  "Pedro levantou-se entre os irmãos — cerca de cento e vinte pessoas — e disse:",
+  "Irmãos, era necessário cumprir a Escritura que o Espírito predisse por Davi a respeito de Judas, guia dos que prenderam Jesus.",
+  "Ele era contado entre nós e recebeu parte neste serviço.",
+  "Adquiriu um campo com o pagamento da injustiça; caiu, rompeu-se e suas entranhas se derramaram.",
+  "Isso se tornou conhecido em Jerusalém, e o campo foi chamado Aceldama, Campo de Sangue.",
+  "Está escrito: Fique deserta sua morada; e: Que outro assuma seu encargo.",
+  "É necessário que um dos homens que nos acompanharam durante todo o tempo em que Jesus esteve entre nós,",
+  "desde o batismo de João até o dia em que foi elevado, seja conosco testemunha de sua ressurreição.",
+  "Apresentaram José Barsabás, chamado Justo, e Matias.",
+  "Oraram: Senhor, conhecedor dos corações, mostra qual escolheste",
+  "para assumir este serviço e apostolado, do qual Judas se desviou.",
+  "Lançaram sortes, e a sorte caiu sobre Matias, contado com os onze apóstolos."
+];
