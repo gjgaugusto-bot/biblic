@@ -859,7 +859,6 @@ window.MATTHEW_TEXT[23] = [
   "O maior entre vós será vosso servo.",
   "Quem se exaltar será humilhado, e quem se humilhar será exaltado.",
   "Ai de vós, escribas e fariseus hipócritas! Fechais o Reino dos Céus diante das pessoas; não entrais e não permitis que entrem os que estão entrando.",
-  "Ai de vós, escribas e fariseus hipócritas! Devorais as casas das viúvas e, para disfarçar, fazeis longas orações; por isso recebereis condenação ainda maior.",
   "Ai de vós, escribas e fariseus hipócritas! Percorreis o mar e a terra para fazer um prosélito e, quando ele se torna um, fazeis dele filho da Geena duas vezes mais que vós.",
   "Ai de vós, guias cegos, que dizeis: ‘Se alguém jurar pelo santuário, nada significa; mas, se jurar pelo ouro do santuário, fica obrigado’.",
   "Insensatos e cegos! O que é maior: o ouro ou o santuário que santifica o ouro?",
