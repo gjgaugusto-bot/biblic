@@ -111,3 +111,37 @@ window.SONG_OF_SONGS_TEXT[6] = [
   "Desci ao jardim das nogueiras para ver os brotos do vale, para ver se a videira florescia e se as romãs brotavam.",
   "Antes que eu percebesse, meu desejo me colocou entre os carros de meu povo principesco."
 ];
+
+window.SONG_OF_SONGS_TEXT[7] = [
+  "Volta, volta, ó Sulamita! Volta, volta, para que te contemplemos. Por que olhais para a Sulamita como para a dança de Maanaim?",
+  "Como são belos teus passos nas sandálias, filha de príncipe! As curvas de teus quadris são como joias, obra de mãos de artista.",
+  "Teu umbigo é taça arredondada; que nela nunca falte vinho misturado. Teu ventre é monte de trigo cercado de lírios.",
+  "Teus dois seios são como dois filhotes, gêmeos de gazela.",
+  "Teu pescoço é como torre de marfim; teus olhos, como os açudes de Hesbom junto à porta de Bate-Rabim; teu nariz é como a torre do Líbano, que olha para Damasco.",
+  "Tua cabeça se ergue sobre ti como o Carmelo, e os cabelos de tua cabeça são como púrpura; um rei está preso em suas tranças.",
+  "Como és bela e encantadora, ó amor, entre as delícias!",
+  "Teu porte é semelhante à palmeira, e teus seios, a cachos de tâmaras.",
+  "Eu disse: “Subirei à palmeira e segurarei seus ramos”. Que teus seios sejam como cachos da videira, o perfume de teu hálito como maçãs,",
+  "e tua boca, como o melhor vinho, que desce suavemente para meu amado, deslizando pelos lábios dos que dormem.",
+  "Eu sou de meu amado, e seu desejo se dirige a mim.",
+  "Vem, meu amado, saiamos ao campo; passemos a noite entre as aldeias.",
+  "Levantemo-nos cedo para ir às vinhas; vejamos se a videira brotou, se as flores se abriram e se as romãs floresceram. Ali te darei meu amor.",
+  "As mandrágoras exalam seu perfume, e às nossas portas há toda espécie de frutos excelentes, novos e antigos, que guardei para ti, meu amado."
+];
+
+window.SONG_OF_SONGS_TEXT[8] = [
+  "Quem dera fosses como meu irmão, que mamou aos seios de minha mãe! Se te encontrasse na rua, eu te beijaria, e ninguém me desprezaria.",
+  "Eu te conduziria e te levaria à casa de minha mãe, que me ensinaria; dar-te-ia a beber vinho aromático, o suco de minhas romãs.",
+  "Sua mão esquerda estaria sob minha cabeça, e sua direita me abraçaria.",
+  "Conjuro-vos, filhas de Jerusalém: não desperteis nem acordeis o amor antes que ele queira.",
+  "Quem é esta que sobe do deserto, apoiada em seu amado? Debaixo da macieira te despertei; ali tua mãe teve dores de parto por ti, ali teve dores aquela que te deu à luz.",
+  "Põe-me como selo sobre teu coração, como selo sobre teu braço; pois o amor é forte como a morte, e o ciúme é cruel como o mundo dos mortos. Suas chamas são chamas de fogo, labareda de YHWH.",
+  "Muitas águas não podem apagar o amor, nem os rios podem afogá-lo. Se alguém oferecesse todos os bens de sua casa em troca do amor, seria totalmente desprezado.",
+  "Temos uma irmã pequena, que ainda não tem seios. Que faremos por nossa irmã no dia em que falarem dela?",
+  "Se ela for muro, construiremos sobre ela uma torre de prata; se for porta, a cercaremos com tábuas de cedro.",
+  "Eu sou muro, e meus seios são como torres; então aos olhos dele me tornei como quem encontra paz.",
+  "Salomão tinha uma vinha em Baal-Hamom; entregou a vinha a guardiões; cada um devia trazer mil peças de prata por seu fruto.",
+  "Minha vinha, que me pertence, está diante de mim. As mil peças sejam tuas, Salomão, e duzentas, para os guardiões de seu fruto.",
+  "Tu que habitas nos jardins, os companheiros prestam atenção à tua voz; faze-me ouvi-la.",
+  "Foge, meu amado, e sê como a gazela ou o filhote dos cervos sobre os montes de aromas."
+];
