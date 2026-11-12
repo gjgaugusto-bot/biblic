@@ -69,6 +69,13 @@ try {
   assert.equal(await page.locator('[data-section="characters"]').getAttribute("aria-selected"), "true", "As abas devem funcionar pelo teclado");
   await scanAccessibility(page, "leitor de capítulo");
 
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(43).click();
+  await page.locator('#chapterLinks [data-chapter-number="1"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("Preparei o primeiro relato"), "Atos 1 deve carregar a tradução baseada no grego");
+  assert.equal(await page.locator("#reader .verse-entry").count(), 26, "Atos 1 deve apresentar os 26 versículos da estrutura SBLGNT");
+  await scanAccessibility(page, "Atos capítulo 1");
+
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
