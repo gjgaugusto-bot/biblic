@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–9 de 36; 201 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–12 de 36; 259 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -231,4 +231,71 @@ window.SECOND_CHRONICLES_TEXT[9] = [
   "Os demais feitos de Salomão, dos primeiros aos últimos, não estão escritos nos registros de Natã, o profeta, na profecia de Aías, o silonita, e nas visões de Ido, o vidente, acerca de Jeroboão, filho de Nebate?",
   "Salomão reinou em Jerusalém sobre todo o Israel durante quarenta anos.",
   "Salomão repousou com seus pais e foi sepultado na Cidade de Davi, seu pai; Roboão, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[10] = [
+  "Roboão foi a Siquém, pois todo o Israel havia ido a Siquém para fazê-lo rei.",
+  "Quando Jeroboão, filho de Nebate, soube disso — ele estava no Egito, para onde havia fugido da presença do rei Salomão —, voltou do Egito.",
+  "Mandaram chamá-lo, e Jeroboão veio com todo o Israel falar a Roboão, dizendo:",
+  "“Teu pai tornou pesado o nosso jugo. Agora, alivia o trabalho duro de teu pai e o jugo pesado que ele nos impôs, e nós te serviremos”.",
+  "Ele lhes respondeu: “Voltai a mim daqui a três dias”. E o povo se retirou.",
+  "O rei Roboão consultou os anciãos que haviam servido a Salomão, seu pai, enquanto este ainda vivia, perguntando: “Que conselho dais para responder a este povo?”",
+  "Eles lhe falaram: “Se tratares bem este povo, agradares a eles e lhes deres uma resposta favorável, eles serão teus servos para sempre”.",
+  "Mas ele abandonou o conselho dos anciãos e consultou os jovens que haviam crescido com ele e o serviam.",
+  "Perguntou-lhes: “Que conselho dais? Como devemos responder a este povo que me disse: ‘Alivia o jugo que teu pai nos impôs’?”",
+  "Os jovens que haviam crescido com ele responderam: “Dirás ao povo que te falou: ‘Teu pai tornou pesado o nosso jugo, mas tu o aliviarás’; dirás assim: ‘Meu dedo mínimo é mais grosso que a cintura de meu pai.",
+  "Meu pai vos impôs um jugo pesado; eu o tornarei ainda mais pesado. Meu pai vos castigou com açoites; eu vos castigarei com escorpiões’”.",
+  "Jeroboão e todo o povo foram a Roboão no terceiro dia, conforme o rei lhes havia ordenado: “Voltai a mim no terceiro dia”.",
+  "O rei lhes respondeu duramente. Roboão abandonou o conselho dos anciãos",
+  "e falou segundo o conselho dos jovens: “Tornarei pesado o vosso jugo e o aumentarei. Meu pai vos castigou com açoites; eu vos castigarei com escorpiões”.",
+  "O rei não deu ouvidos ao povo, pois essa mudança vinha de Deus, para que YHWH cumprisse a palavra que havia falado por meio de Aías, o silonita, a Jeroboão, filho de Nebate.",
+  "Quando todo o Israel viu que o rei não lhe dava ouvidos, o povo respondeu ao rei: “Que parte temos com Davi? Não temos herança com o filho de Jessé! Cada um para sua tenda, Israel! Cuida agora de tua própria casa, Davi!” E todo o Israel voltou para suas tendas.",
+  "Quanto aos filhos de Israel que habitavam nas cidades de Judá, Roboão reinou sobre eles.",
+  "O rei Roboão enviou Adorão, responsável pelos trabalhos forçados, mas os filhos de Israel o apedrejaram até a morte. O rei Roboão conseguiu subir ao seu carro e fugir para Jerusalém.",
+  "Assim Israel se rebelou contra a casa de Davi, até o dia de hoje."
+];
+
+window.SECOND_CHRONICLES_TEXT[11] = [
+  "Quando Roboão chegou a Jerusalém, reuniu a casa de Judá e Benjamim: cento e oitenta mil homens escolhidos, aptos para a guerra, para lutar contra Israel e recuperar o reino para Roboão.",
+  "Mas a palavra de YHWH veio a Semaías, homem de Deus, dizendo:",
+  "“Fala a Roboão, filho de Salomão, rei de Judá, e a todo o Israel em Judá e Benjamim:",
+  "Assim diz YHWH: Não subais nem luteis contra vossos irmãos. Voltai cada um para sua casa, pois fui eu quem fez isso”. Eles ouviram as palavras de YHWH e desistiram de marchar contra Jeroboão.",
+  "Roboão habitou em Jerusalém e construiu cidades fortificadas em Judá.",
+  "Construiu Belém, Etã e Tecoa;",
+  "Bete-Zur, Socó e Adulão;",
+  "Gate, Maressa e Zife;",
+  "Adoraim, Laquis e Azeca;",
+  "Zorá, Aijalom e Hebrom, cidades fortificadas em Judá e Benjamim.",
+  "Fortificou essas cidades, colocou nelas comandantes e armazenou provisões, azeite e vinho.",
+  "Em cada cidade colocou escudos e lanças e as fortaleceu muito. Assim, Judá e Benjamim ficaram sob seu domínio.",
+  "Os sacerdotes e levitas de todo o Israel se apresentaram a ele, vindos de todos os seus territórios.",
+  "Os levitas abandonaram seus campos de pastagem e suas propriedades e foram para Judá e Jerusalém, porque Jeroboão e seus filhos os haviam afastado do sacerdócio de YHWH.",
+  "Jeroboão estabeleceu para si sacerdotes para os lugares altos, para os bodes e para os bezerros que havia feito.",
+  "Depois deles, pessoas de todas as tribos de Israel que haviam decidido de coração buscar YHWH, Deus de Israel, foram a Jerusalém para oferecer sacrifícios a YHWH, Deus de seus pais.",
+  "Assim fortaleceram o reino de Judá e sustentaram Roboão, filho de Salomão, durante três anos, pois por três anos andaram no caminho de Davi e Salomão.",
+  "Roboão tomou por mulher Maalate, filha de Jerimote, filho de Davi, e de Abiail, filha de Eliabe, filho de Jessé.",
+  "Ela lhe deu filhos: Jeús, Semarias e Zaão.",
+  "Depois dela, tomou Maacá, filha de Absalão, que lhe deu Abias, Atai, Ziza e Selomite.",
+  "Roboão amava Maacá, filha de Absalão, mais do que todas as suas mulheres e concubinas. Tomou dezoito mulheres e sessenta concubinas, e gerou vinte e oito filhos e sessenta filhas.",
+  "Roboão colocou Abias, filho de Maacá, como chefe e príncipe entre seus irmãos, pois pretendia fazê-lo rei.",
+  "Agindo com prudência, distribuiu alguns de seus filhos por todas as regiões de Judá e Benjamim, por todas as cidades fortificadas. Deu-lhes provisões em abundância e procurou muitas mulheres para eles."
+];
+
+window.SECOND_CHRONICLES_TEXT[12] = [
+  "Quando o reino de Roboão se firmou e ele se fortaleceu, abandonou a lei de YHWH, e todo o Israel o acompanhou.",
+  "No quinto ano do rei Roboão, Sisaque, rei do Egito, subiu contra Jerusalém, porque haviam sido infiéis a YHWH.",
+  "Veio com mil e duzentos carros, sessenta mil cavaleiros e um povo incontável que o acompanhava do Egito: líbios, suquitas e etíopes.",
+  "Conquistou as cidades fortificadas de Judá e chegou até Jerusalém.",
+  "Então Semaías, o profeta, foi a Roboão e aos chefes de Judá que se haviam reunido em Jerusalém por causa de Sisaque, e lhes disse: “Assim diz YHWH: Vós me abandonastes; por isso eu também vos entreguei nas mãos de Sisaque”.",
+  "Os chefes de Israel e o rei se humilharam e disseram: “YHWH é justo”.",
+  "Quando YHWH viu que se haviam humilhado, veio a palavra de YHWH a Semaías: “Eles se humilharam; não os destruirei. Em breve lhes darei livramento, e minha ira não será derramada sobre Jerusalém por meio de Sisaque.",
+  "Contudo, eles se tornarão servos dele, para que saibam a diferença entre servir a mim e servir aos reinos das terras”.",
+  "Sisaque, rei do Egito, subiu contra Jerusalém e levou os tesouros da casa de YHWH e os tesouros do palácio real. Levou tudo; levou também os escudos de ouro que Salomão havia feito.",
+  "Em lugar deles, o rei Roboão fez escudos de bronze e os confiou aos comandantes da guarda que vigiavam a entrada do palácio real.",
+  "Sempre que o rei entrava na casa de YHWH, os guardas vinham, carregavam os escudos e depois os devolviam à sala da guarda.",
+  "Quando Roboão se humilhou, a ira de YHWH se desviou dele, e não o destruiu completamente. Além disso, ainda havia coisas boas em Judá.",
+  "O rei Roboão fortaleceu-se em Jerusalém e continuou a reinar. Roboão tinha quarenta e um anos quando começou a reinar e reinou dezessete anos em Jerusalém, a cidade que YHWH havia escolhido dentre todas as tribos de Israel para nela colocar seu nome. O nome de sua mãe era Naamá, a amonita.",
+  "Ele praticou o mal, pois não dispôs o coração para buscar YHWH.",
+  "Os feitos de Roboão, dos primeiros aos últimos, não estão escritos nos registros de Semaías, o profeta, e de Ido, o vidente, nas genealogias? Houve guerras entre Roboão e Jeroboão durante todos os seus dias.",
+  "Roboão repousou com seus pais e foi sepultado na Cidade de Davi. Abias, seu filho, reinou em seu lugar."
 ];
