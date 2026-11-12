@@ -1,7 +1,7 @@
 /* 1 Coríntios — primeira redação independente em português a partir do grego SBLGNT.
  * Estrutura comparada ao MorphGNT SBLGNT Edition v6.12 (67-1Co-morphgnt.txt).
  * Texto-base: SBL Greek New Testament, Michael W. Holmes, CC BY 4.0.
- * Revisão lexical, gramatical, sintática e exegética integral ainda pendente.
+ * Estrutura de 16 capítulos e 437 posições comparada ao MorphGNT; revisão lexical, gramatical, sintática e exegética integral ainda pendente.
  */
 window.CORINTHIANS1_TEXT = window.CORINTHIANS1_TEXT || {};
 window.CORINTHIANS1_TEXT[1] = [
