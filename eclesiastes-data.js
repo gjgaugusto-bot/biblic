@@ -79,3 +79,60 @@ window.ECCLESIASTES_TEXT[3] = [
   "Quem sabe se o espírito dos filhos dos homens sobe para o alto e se o espírito do animal desce para a terra?",
   "Vi que nada há melhor para o homem do que alegrar-se em suas obras, pois essa é sua porção; quem o fará voltar para ver o que acontecerá depois dele?"
 ];
+
+window.ECCLESIASTES_TEXT[4] = [
+  "Voltei-me e vi todas as opressões que se praticam debaixo do sol: eis as lágrimas dos oprimidos, sem que haja quem os console; o poder estava na mão de seus opressores, e não havia quem os consolasse.",
+  "Por isso considerei mais felizes os mortos, que já morreram, do que os vivos, que ainda vivem.",
+  "Melhor do que ambos é aquele que ainda não nasceu e não viu as más obras que se fazem debaixo do sol.",
+  "Vi também que todo trabalho e toda habilidade na obra vêm da inveja de um homem contra seu próximo. Também isso é vaidade e correr atrás do vento.",
+  "O insensato cruza as mãos e consome a própria carne.",
+  "Melhor é um punhado com tranquilidade do que dois punhados com trabalho e correr atrás do vento.",
+  "Voltei-me e vi outra vaidade debaixo do sol:",
+  "há um homem sozinho, sem ninguém; não tem filho nem irmão, e não há fim para todo o seu trabalho. Seus olhos nunca se satisfazem com riquezas. Ele não pergunta: “Para quem trabalho e privo minha alma do bem?” Também isso é vaidade e tarefa penosa.",
+  "Melhor serem dois do que um, pois têm boa recompensa por seu trabalho.",
+  "Se um cair, o outro levanta seu companheiro; mas ai do que está sozinho quando cai e não tem outro para levantá-lo!",
+  "Também, se dois se deitarem juntos, terão calor; mas como se aquecerá um sozinho?",
+  "Se alguém prevalecer contra um, dois lhe resistirão; e o cordão de três dobras não se rompe depressa.",
+  "Melhor é um jovem pobre e sábio do que um rei velho e insensato, que já não sabe receber conselho.",
+  "Pois aquele saiu da prisão para reinar, embora tenha nascido pobre em seu reino.",
+  "Vi todos os viventes que andam debaixo do sol seguindo o jovem, o sucessor, que se levantou em lugar do rei.",
+  "Era incontável todo o povo diante do qual ele estava; contudo, os que vierem depois não se alegrarão nele. Também isso é vaidade e correr atrás do vento."
+];
+
+window.ECCLESIASTES_TEXT[5] = [
+  "Guarda teu pé quando fores à casa de Deus; aproxima-te para ouvir, em vez de oferecer sacrifício como os insensatos, pois não sabem que fazem o mal.",
+  "Não te precipites com a boca, e teu coração não se apresse a proferir palavra diante de Deus; pois Deus está nos céus, e tu estás na terra. Portanto, sejam poucas as tuas palavras.",
+  "Pois dos muitos afazeres vêm os sonhos, e da multidão de palavras, a voz do insensato.",
+  "Quando fizeres voto a Deus, não demores em cumpri-lo, pois ele não tem prazer nos insensatos. Cumpre o que votares.",
+  "Melhor é não fazer voto do que fazê-lo e não cumprir.",
+  "Não permitas que tua boca te faça pecar, nem digas diante do mensageiro que foi um engano. Por que Deus se indignaria com tua voz e destruiria a obra de tuas mãos?",
+  "Pois na multidão dos sonhos há vaidade e também na abundância de palavras; teme, porém, a Deus.",
+  "Se vires na província a opressão do pobre e a violação do direito e da justiça, não te espantes com o fato, pois um oficial é observado por outro oficial, e há autoridades acima deles.",
+  "O proveito da terra é para todos; até o rei depende do campo cultivado.",
+  "Quem ama o dinheiro nunca se fartará de dinheiro, e quem ama a abundância nunca se satisfará com o rendimento. Também isso é vaidade.",
+  "Quando aumentam os bens, aumentam também os que os consomem; que vantagem tem seu dono, além de olhar para eles?",
+  "Doce é o sono do trabalhador, coma pouco ou muito; mas a fartura do rico não o deixa dormir.",
+  "Há um mal grave que vi debaixo do sol: riquezas guardadas por seu dono para sua própria desgraça.",
+  "Essas riquezas se perdem num mau negócio; e, quando ele gera um filho, nada resta em suas mãos.",
+  "Como saiu do ventre de sua mãe, nu, assim voltará, indo-se como veio; de seu trabalho nada levará nas mãos.",
+  "Também isso é um mal grave: exatamente como veio, assim irá. Que proveito tem em trabalhar para o vento?",
+  "Todos os seus dias come em trevas, com muito desgosto, enfermidade e irritação.",
+  "Eis o que vi ser bom e apropriado: comer, beber e desfrutar o bem de todo o trabalho em que o homem se afadiga debaixo do sol durante os dias de vida que Deus lhe concede; pois essa é sua porção.",
+  "Também a todo homem a quem Deus deu riquezas e bens e a quem concedeu poder para deles comer, receber sua porção e alegrar-se em seu trabalho, isso é dom de Deus.",
+  "Pois ele não se lembrará muito dos dias de sua vida, porque Deus responde à alegria de seu coração."
+];
+
+window.ECCLESIASTES_TEXT[6] = [
+  "Há um mal que vi debaixo do sol, e é frequente entre os homens:",
+  "um homem a quem Deus dá riquezas, bens e honra, de modo que nada lhe falta de tudo o que deseja, mas Deus não lhe concede poder para desfrutar disso; um estranho o desfruta. Isso é vaidade e mal grave.",
+  "Ainda que um homem gere cem filhos e viva muitos anos, e os dias de seus anos se multipliquem, se sua alma não se fartar do bem e nem tiver sepultura, digo que um aborto é melhor do que ele.",
+  "Pois esse veio em vão e parte para as trevas, e seu nome fica encoberto pelas trevas.",
+  "Não viu o sol nem o conheceu; contudo, tem mais descanso do que aquele homem.",
+  "Mesmo que viva duas vezes mil anos sem desfrutar o bem, não vão todos para o mesmo lugar?",
+  "Todo o trabalho do homem é para sua boca, e ainda assim seu apetite não se satisfaz.",
+  "Que vantagem tem o sábio sobre o insensato? Que vantagem tem o pobre que sabe andar diante dos vivos?",
+  "Melhor é o que os olhos veem do que o vaguear do desejo. Também isso é vaidade e correr atrás do vento.",
+  "O que existe já recebeu seu nome, e sabe-se o que é o homem; ele não pode contender com aquele que é mais forte do que ele.",
+  "Quanto mais palavras, mais vaidade; que vantagem tem o homem?",
+  "Pois quem sabe o que é bom para o homem durante os poucos dias de sua vida vã, que ele passa como sombra? Quem poderá dizer ao homem o que acontecerá debaixo do sol depois dele?"
+];
