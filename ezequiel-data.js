@@ -284,3 +284,66 @@ window.EZEKIEL_TEXT[12] = [
   "“Filho do homem, eis que a casa de Israel diz: ‘A visão que ele vê é para muitos dias no futuro; ele profetiza para tempos distantes’.",
   "Por isso dize-lhes: Assim diz o Senhor YHWH: Nenhuma de minhas palavras será mais adiada; a palavra que eu falar se cumprirá”, diz o Senhor YHWH."
 ];
+
+window.EZEKIEL_TEXT[13] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Filho do homem, profetiza contra os profetas de Israel que profetizam; dize aos que profetizam de seu próprio coração: Ouvi a palavra de YHWH.",
+  "Assim diz o Senhor YHWH: Ai dos profetas insensatos, que seguem seu próprio espírito e nada viram!",
+  "Ó Israel, teus profetas são como raposas entre ruínas.",
+  "Não subistes às brechas nem levantastes um muro para a casa de Israel, para que permanecesse firme na batalha no dia de YHWH.",
+  "Tiveram visões falsas e adivinhações mentirosas, dizendo: ‘Oráculo de YHWH’, embora YHWH não os tenha enviado; ainda esperam que a palavra se confirme.",
+  "Acaso não tivestes visões falsas e não pronunciastes adivinhações mentirosas, quando dissestes: ‘Oráculo de YHWH’, embora eu não tenha falado?”",
+  "Por isso assim diz o Senhor YHWH: “Visto que falastes falsidade e tivestes visões mentirosas, eis que sou contra vós”, diz o Senhor YHWH.",
+  "Minha mão será contra os profetas que têm visões falsas e adivinham mentiras; não estarão no conselho de meu povo, não serão inscritos no registro da casa de Israel, nem entrarão na terra de Israel; sabereis que eu sou o Senhor YHWH.",
+  "Pois, sim, porque desviaram meu povo, dizendo: ‘Paz’, quando não há paz; e quando se constrói um muro, eles o rebocam com cal.",
+  "Dize aos que o rebocam com cal: Ele cairá. Virá chuva torrencial, e vós, grandes pedras de granizo, caireis; um vento tempestuoso o romperá.",
+  "Quando o muro cair, não vos perguntarão: ‘Onde está o reboco com que o cobríeis?’",
+  "Por isso assim diz o Senhor YHWH: Em meu furor farei irromper um vento tempestuoso; em minha ira haverá chuva torrencial, e em meu furor, grandes pedras de granizo para consumir.",
+  "Derrubarei o muro que rebocastes com cal e o lançarei por terra, de modo que seus fundamentos sejam descobertos; ele cairá, e sereis consumidos no meio dele; sabereis que eu sou YHWH.",
+  "Assim satisfarei meu furor contra o muro e contra os que o rebocaram com cal; dir-vos-ei: O muro já não existe, nem os que o rebocaram,",
+  "os profetas de Israel que profetizam acerca de Jerusalém e têm visões de paz para ela, quando não há paz”, diz o Senhor YHWH.",
+  "Tu, filho do homem, volta teu rosto contra as filhas de teu povo que profetizam de seu próprio coração; profetiza contra elas",
+  "e dize: Assim diz o Senhor YHWH: Ai das mulheres que costuram amuletos para todos os pulsos e fazem véus para cabeças de toda estatura, a fim de caçar almas! Caçareis as almas de meu povo e preservareis vossas próprias almas?",
+  "Profanais-me diante de meu povo por punhados de cevada e pedaços de pão, matando almas que não deveriam morrer e preservando vivas almas que não deveriam viver, mentindo ao meu povo, que dá ouvidos à mentira.",
+  "Por isso assim diz o Senhor YHWH: Eis que sou contra vossos amuletos, com os quais caçais almas como aves; arrancá-los-ei de vossos braços e libertarei as almas que caçais como aves.",
+  "Rasgarei também vossos véus e livrarei meu povo de vossas mãos; já não serão presa em vossas mãos; sabereis que eu sou YHWH.",
+  "Porque entristecestes o coração do justo com mentira, quando eu não o afligi, e fortalecestes as mãos do perverso para que não se convertesse de seu mau caminho e vivesse,",
+  "por isso não tereis mais visões falsas nem praticareis adivinhação; livrarei meu povo de vossas mãos. Sabereis que eu sou YHWH”."
+];
+
+window.EZEKIEL_TEXT[14] = [
+  "Alguns dos anciãos de Israel vieram a mim e se sentaram diante de mim.",
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Filho do homem, estes homens levantaram seus ídolos no coração e puseram diante de si o tropeço de sua iniquidade. Deveria eu permitir que me consultassem?",
+  "Por isso fala com eles e dize-lhes: Assim diz o Senhor YHWH: Qualquer homem da casa de Israel que levantar seus ídolos no coração e puser diante de si o tropeço de sua iniquidade e vier ao profeta, eu, YHWH, lhe responderei segundo a multidão de seus ídolos,",
+  "para tomar a casa de Israel pelo coração, pois todos se afastaram de mim por causa de seus ídolos.",
+  "Por isso dize à casa de Israel: Assim diz o Senhor YHWH: Convertei-vos e afastai-vos de vossos ídolos; afastai vosso rosto de todas as vossas abominações.",
+  "Pois qualquer homem da casa de Israel ou dos estrangeiros que peregrinam em Israel que se afastar de mim, levantar seus ídolos no coração e pôr diante de si o tropeço de sua iniquidade, e vier ao profeta para me consultar por meio dele, eu, YHWH, lhe responderei por mim mesmo.",
+  "Voltarei meu rosto contra esse homem, farei dele sinal e provérbio e o eliminarei do meio de meu povo; sabereis que eu sou YHWH.",
+  "Se o profeta for enganado e falar uma palavra, eu, YHWH, enganei esse profeta; estenderei minha mão contra ele e o destruirei do meio de meu povo Israel.",
+  "Carregarão sua iniquidade; a iniquidade do que consulta será como a iniquidade do profeta,",
+  "para que a casa de Israel não se desvie mais de mim nem se contamine com todas as suas transgressões; serão meu povo, e eu serei seu Deus”, diz o Senhor YHWH.",
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Filho do homem, quando uma terra pecar contra mim, agindo com infidelidade, e eu estender minha mão contra ela, quebrar seu sustento de pão, enviar fome contra ela e eliminar dela homens e animais,",
+  "ainda que nela estivessem estes três homens: Noé, Daniel e Jó, eles salvariam somente a própria vida por sua justiça”, diz o Senhor YHWH.",
+  "“Se eu fizer passar animais ferozes pela terra e eles a despojarem, tornando-a desolada, sem que alguém possa passar por causa dos animais,",
+  "ainda que esses três homens estivessem nela, tão certo como eu vivo”, diz o Senhor YHWH, “não salvariam filhos nem filhas; somente eles seriam salvos, e a terra ficaria desolada.",
+  "Ou, se eu trouxer espada sobre aquela terra e disser: ‘Espada, passa pela terra’, e eliminar dela homens e animais,",
+  "ainda que esses três homens estivessem nela, tão certo como eu vivo”, diz o Senhor YHWH, “não salvariam filhos nem filhas; somente eles seriam salvos.",
+  "Ou, se eu enviar peste àquela terra e derramar meu furor sobre ela com sangue, para eliminar dela homens e animais,",
+  "ainda que Noé, Daniel e Jó estivessem nela, tão certo como eu vivo”, diz o Senhor YHWH, “não salvariam filho nem filha; somente salvariam a própria vida por sua justiça”.",
+  "Pois assim diz o Senhor YHWH: “Quanto mais quando eu enviar meus quatro julgamentos severos — espada, fome, animais ferozes e peste — contra Jerusalém, para eliminar dela homens e animais!",
+  "Contudo, eis que haverá nela um remanescente, filhos e filhas que serão levados para fora; eis que virão a vós, e vereis seu caminho e suas obras; sereis consolados da calamidade que trouxe sobre Jerusalém, de tudo o que trouxe sobre ela.",
+  "Eles vos consolarão quando virdes seu caminho e suas obras; sabereis que não fiz sem motivo tudo o que fiz nela”, diz o Senhor YHWH."
+];
+
+window.EZEKIEL_TEXT[15] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Filho do homem, em que a madeira da videira é melhor que qualquer madeira, o ramo que está entre as árvores da floresta?",
+  "Acaso se toma dela madeira para fazer alguma obra? Ou se faz dela um pino para pendurar algum utensílio?",
+  "Eis que é lançada no fogo como combustível; o fogo consome suas duas extremidades, e o meio fica chamuscado. Serve para alguma obra?",
+  "Eis que, quando estava inteira, não servia para obra alguma; quanto menos servirá quando o fogo a consumir e ficar chamuscada!",
+  "Por isso assim diz o Senhor YHWH: Como a madeira da videira entre as árvores da floresta, que entreguei ao fogo como combustível, assim entregarei os habitantes de Jerusalém.",
+  "Voltarei meu rosto contra eles; saíram do fogo, mas o fogo os consumirá; sabereis que eu sou YHWH quando voltar meu rosto contra eles.",
+  "Farei da terra uma desolação, porque agiram infielmente”, diz o Senhor YHWH."
+];
