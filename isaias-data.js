@@ -1199,3 +1199,56 @@ window.ISAIAH_TEXT[51] = [
   "Assim diz teu Senhor YHWH, teu Deus, que defende a causa de seu povo: “Eis que tiro de tua mão o cálice que faz cambalear, a taça de minha ira; nunca mais beberás dele.",
   "Eu o porei na mão dos que te afligem, que disseram à tua alma: ‘Abaixa-te, para que passemos sobre ti’; e fizeste de tuas costas como chão, como rua para os que passam”."
 ];
+
+window.ISAIAH_TEXT[52] = [
+  "Desperta, desperta, reveste-te de tua força, Sião! Veste tuas roupas de beleza, Jerusalém, cidade santa; pois nunca mais entrará em ti o incircunciso e o impuro.",
+  "Sacode o pó, levanta-te e senta-te, Jerusalém; solta as correntes de teu pescoço, cativa filha de Sião.",
+  "Pois assim diz YHWH: “Fostes vendidos por nada e sereis resgatados sem dinheiro”.",
+  "Pois assim diz o Senhor YHWH: “Meu povo desceu antigamente ao Egito para peregrinar ali, e a Assíria o oprimiu sem motivo.",
+  "Agora, que tenho aqui?”, diz YHWH, “pois meu povo foi levado sem motivo; seus governantes uivam”, diz YHWH, “e continuamente, todos os dias, meu nome é blasfemado.",
+  "Por isso meu povo conhecerá meu nome; naquele dia saberá que sou eu quem fala: ‘Eis-me aqui’”.",
+  "Quão belos sobre os montes são os pés do que anuncia boas-novas, que proclama a paz, que anuncia o bem, que proclama a salvação, que diz a Sião: “Teu Deus reina!”",
+  "A voz de teus vigias! Eles levantam a voz, juntos cantam de alegria, pois verão face a face quando YHWH voltar a Sião.",
+  "Irrompei juntas em cânticos de alegria, ruínas de Jerusalém, pois YHWH consolou seu povo e resgatou Jerusalém.",
+  "YHWH descobriu seu braço santo aos olhos de todas as nações, e todos os confins da terra verão a salvação de nosso Deus.",
+  "Parti, parti, saí dali; não toqueis em coisa impura! Saí do meio dela, purificai-vos, vós que levais os utensílios de YHWH.",
+  "Pois não saireis apressadamente, nem partireis em fuga, porque YHWH irá diante de vós, e o Deus de Israel será vossa retaguarda.",
+  "Eis que meu servo agirá com prudência; será elevado, exaltado e muito sublime.",
+  "Assim como muitos ficaram espantados contigo — tão desfigurado estava seu aspecto, mais do que o de qualquer homem, e sua aparência, mais do que a dos filhos dos homens —,",
+  "assim ele surpreenderá muitas nações; reis fecharão a boca por causa dele, pois verão o que não lhes foi contado e compreenderão o que não ouviram."
+];
+
+window.ISAIAH_TEXT[53] = [
+  "Quem creu em nossa mensagem? E a quem foi revelado o braço de YHWH?",
+  "Ele cresceu diante dele como broto tenro e como raiz de terra seca; não tinha aparência nem esplendor para que olhássemos para ele, nem beleza para que dele nos agradássemos.",
+  "Foi desprezado e rejeitado pelos homens, homem de dores e familiarizado com o sofrimento; como alguém de quem os homens escondem o rosto, foi desprezado, e não o estimamos.",
+  "Certamente ele tomou sobre si nossas enfermidades e carregou nossas dores; nós, porém, o considerávamos castigado, ferido por Deus e afligido.",
+  "Mas ele foi traspassado por causa de nossas transgressões, esmagado por causa de nossas iniquidades; o castigo que nos trouxe paz estava sobre ele, e por suas feridas fomos curados.",
+  "Todos nós andávamos desgarrados como ovelhas; cada um se desviava por seu próprio caminho, mas YHWH fez cair sobre ele a iniquidade de todos nós.",
+  "Foi oprimido e humilhado, mas não abriu a boca; como cordeiro levado ao matadouro e como ovelha muda diante dos tosquiadores, não abriu a boca.",
+  "Por opressão e julgamento foi levado; e quanto à sua geração, quem considerou que foi cortado da terra dos viventes e ferido por causa da transgressão de meu povo?",
+  "Designaram-lhe sepultura com os perversos, mas esteve com o rico em sua morte, embora não tivesse praticado violência, nem houvesse engano em sua boca.",
+  "YHWH quis esmagá-lo e fazê-lo sofrer. Quando sua alma fizer oferta pela culpa, verá descendência, prolongará seus dias, e o propósito de YHWH prosperará em sua mão.",
+  "Depois do sofrimento de sua alma, verá luz e ficará satisfeito. Por seu conhecimento, meu servo justo justificará a muitos, pois levará sobre si as iniquidades deles.",
+  "Por isso lhe darei uma porção entre os grandes, e com os poderosos repartirá o despojo, porque derramou sua alma até a morte e foi contado com os transgressores; ele levou o pecado de muitos e intercedeu pelos transgressores."
+];
+
+window.ISAIAH_TEXT[54] = [
+  "Canta de alegria, ó estéril, que não deste à luz; irrompe em cânticos e clama, tu que não tiveste dores de parto, pois os filhos da abandonada serão mais numerosos que os filhos da casada, diz YHWH.",
+  "Alarga o espaço de tua tenda; estendam-se as cortinas de tuas moradas, não economizes; alonga tuas cordas e firma tuas estacas.",
+  "Pois te expandirás à direita e à esquerda; tua descendência possuirá nações e povoará cidades desoladas.",
+  "Não temas, pois não serás envergonhada; não te confundas, pois não serás humilhada. Esquecerás a vergonha de tua juventude e não te lembrarás mais do opróbrio de tua viuvez.",
+  "Pois teu Criador é teu marido; YHWH dos Exércitos é seu nome; teu Redentor é o Santo de Israel, chamado Deus de toda a terra.",
+  "Pois YHWH te chamou como mulher abandonada e aflita de espírito, como esposa da juventude que foi rejeitada, diz teu Deus.",
+  "Por um breve instante te abandonei, mas com grande compaixão te reunirei.",
+  "Num transbordamento de ira escondi de ti meu rosto por um instante, mas com lealdade eterna terei compaixão de ti, diz YHWH, teu Redentor.",
+  "Pois isso é para mim como as águas de Noé: assim como jurei que as águas de Noé não voltariam a cobrir a terra, assim jurei que não me indignarei contigo nem te repreenderei.",
+  "Ainda que os montes se retirem e as colinas sejam removidas, minha lealdade não se afastará de ti, e minha aliança de paz não será removida, diz YHWH, que tem compaixão de ti.",
+  "Ó aflita, açoitada pela tempestade e sem consolo, eis que assentarei tuas pedras com argamassa colorida e lançarei teus fundamentos com safiras.",
+  "Farei tuas ameias de rubis, teus portões de carbúnculos e toda tua muralha de pedras preciosas.",
+  "Todos os teus filhos serão ensinados por YHWH, e grande será a paz de teus filhos.",
+  "Serás estabelecida em justiça; estarás longe da opressão, pois não temerás, e do terror, pois não se aproximará de ti.",
+  "Se alguém te atacar, isso não virá de mim; quem te atacar cairá diante de ti.",
+  "Eis que eu criei o ferreiro, que sopra as brasas do fogo e produz uma arma para seu trabalho; também criei o destruidor para arruinar.",
+  "Nenhuma arma forjada contra ti prosperará, e toda língua que se levantar contra ti em julgamento condenarás. Esta é a herança dos servos de YHWH, e sua justiça vem de mim, diz YHWH."
+];
