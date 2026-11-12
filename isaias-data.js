@@ -465,3 +465,78 @@ window.ISAIAH_TEXT[21] = [
   "Pois assim me disse o Senhor: “Dentro de um ano, como os anos de um trabalhador contratado, toda a glória de Quedar chegará ao fim.",
   "O número dos arqueiros valentes dos filhos de Quedar será reduzido, pois YHWH, Deus de Israel, falou”."
 ];
+
+window.ISAIAH_TEXT[22] = [
+  "Oráculo contra o vale da visão. Que tens agora, para que todo o teu povo suba aos telhados?",
+  "Cidade cheia de tumulto, cidade agitada, cidade exultante! Teus mortos não foram mortos à espada, nem morreram na batalha.",
+  "Todos os teus governantes fugiram juntos; foram capturados sem arco. Todos os teus que foram encontrados foram capturados, embora tivessem fugido para longe.",
+  "Por isso digo: “Desviai de mim o olhar; chorarei amargamente. Não vos esforceis para me consolar pela destruição da filha de meu povo”.",
+  "Pois há um dia de tumulto, de pisoteio e confusão, da parte do Senhor YHWH dos Exércitos, no vale da visão; derrubam o muro e o clamor sobe até os montes.",
+  "Elão toma a aljava, com carros de homens e cavaleiros; Quir descobre o escudo.",
+  "Teus melhores vales ficam cheios de carros, e os cavaleiros tomam posição às portas.",
+  "Ele removeu a proteção de Judá. Naquele dia olhaste para as armas da Casa da Floresta.",
+  "Vistes as brechas da cidade de Davi, que eram muitas; recolhestes as águas do reservatório inferior.",
+  "Contastes as casas de Jerusalém e demolistes casas para fortalecer o muro.",
+  "Fizestes um reservatório entre os dois muros para as águas do reservatório antigo, mas não olhastes para aquele que fez isso, nem considerastes aquele que o planejou desde a antiguidade.",
+  "Naquele dia o Senhor YHWH dos Exércitos chamou ao choro e ao lamento, ao ato de raspar a cabeça e vestir pano de saco.",
+  "Mas eis alegria e regozijo, abate de bois e matança de ovelhas, comer carne e beber vinho: “Comamos e bebamos, pois amanhã morreremos”.",
+  "YHWH dos Exércitos revelou-se aos meus ouvidos: “Certamente esta iniquidade não será expiada por vós até que morrais”, diz o Senhor YHWH dos Exércitos.",
+  "Assim diz o Senhor YHWH dos Exércitos: “Vai a este administrador, a Sebna, que está encarregado da casa, e dize:",
+  "‘Que tens aqui, e quem tens aqui, para que caves para ti um sepulcro aqui, como quem cava seu sepulcro no alto, que escava para si uma morada na rocha?’”",
+  "Eis que YHWH te lançará para longe, ó homem poderoso; ele te agarrará com força.",
+  "Certamente te enrolará e te lançará como bola para uma terra extensa; ali morrerás, e ali ficarão os carros de tua glória, vergonha da casa de teu senhor.",
+  "Eu te expulsarei de teu posto, e de tua posição serás derrubado.",
+  "Naquele dia chamarei meu servo Eliaquim, filho de Hilquias;",
+  "vesti-lo-ei com tua túnica, cingi-lo-ei com teu cinto e entregarei em suas mãos tua autoridade; ele será pai para os habitantes de Jerusalém e para a casa de Judá.",
+  "Porei sobre seu ombro a chave da casa de Davi; ele abrirá, e ninguém fechará; fechará, e ninguém abrirá.",
+  "Fixá-lo-ei como estaca em lugar firme, e ele será um trono de honra para a casa de seu pai.",
+  "Pendurarão sobre ele toda a glória da casa de seu pai, os descendentes e a posteridade, todos os pequenos vasos, desde as taças até os jarros.",
+  "Naquele dia, diz YHWH dos Exércitos, a estaca fixada em lugar firme será removida; será cortada e cairá, e a carga que estava sobre ela será destruída, pois YHWH falou."
+];
+
+window.ISAIAH_TEXT[23] = [
+  "Oráculo contra Tiro. Uivai, navios de Társis, pois foi destruída; não há casa nem porto. Da terra de Quitim lhes foi anunciado.",
+  "Ficai em silêncio, habitantes da costa, comerciantes de Sidom, que atravessam o mar e se enriquecem.",
+  "Sobre as grandes águas vinha a semente do Nilo, a colheita do rio; ela era o mercado das nações.",
+  "Envergonha-te, Sidom, pois o mar falou, a fortaleza do mar disse: “Não tive dores de parto, nem dei à luz; não criei jovens, nem eduquei virgens”.",
+  "Quando a notícia chegar ao Egito, tremerão com a notícia de Tiro.",
+  "Passai para Társis; uivai, habitantes da costa.",
+  "É esta vossa cidade exultante, cuja origem é antiga, cujos pés a levaram a peregrinar longe?",
+  "Quem decidiu isso contra Tiro, a que distribui coroas, cujos comerciantes são príncipes e cujos negociantes são os honrados da terra?",
+  "YHWH dos Exércitos decidiu isso, para profanar o orgulho de toda a beleza e humilhar todos os honrados da terra.",
+  "Passa por tua terra como o Nilo, filha de Társis; já não há porto que te detenha.",
+  "Ele estendeu a mão sobre o mar, fez tremer os reinos; YHWH ordenou a respeito de Canaã que suas fortalezas fossem destruídas.",
+  "E disse: “Não continuarás a exultar, ó virgem oprimida, filha de Sidom. Levanta-te, passa para Quitim; ali também não terás descanso”.",
+  "Eis a terra dos caldeus; este povo já não existe. A Assíria a destinou aos animais do deserto; levantaram torres de cerco, destruíram seus palácios e a reduziram a ruínas.",
+  "Uivai, navios de Társis, pois vossa fortaleza foi destruída.",
+  "Naquele dia Tiro será esquecida por setenta anos, como os dias de um rei. Ao fim de setenta anos, acontecerá a Tiro como no cântico da prostituta:",
+  "“Toma a harpa, percorre a cidade, ó prostituta esquecida; toca bem, canta muitas canções, para que se lembrem de ti”.",
+  "Ao fim de setenta anos YHWH visitará Tiro, e ela voltará ao seu comércio e se prostituirá com todos os reinos do mundo sobre a face da terra.",
+  "Mas seu comércio e seu ganho serão consagrados a YHWH; não serão armazenados nem guardados, pois seu comércio será para os que habitam diante de YHWH, para que comam até se fartar e vistam roupas duradouras."
+];
+
+window.ISAIAH_TEXT[24] = [
+  "Eis que YHWH esvazia a terra e a deixa desolada; transtorna sua superfície e dispersa seus habitantes.",
+  "Será o mesmo para o povo e para o sacerdote, para o servo e seu senhor, para a serva e sua senhora, para o comprador e o vendedor, para quem empresta e quem toma emprestado, para o credor e o devedor.",
+  "A terra será completamente esvaziada e totalmente saqueada, pois YHWH falou esta palavra.",
+  "A terra pranteia e murcha; o mundo definha e murcha; definham os mais elevados do povo da terra.",
+  "A terra foi profanada debaixo de seus habitantes, pois transgrediram as instruções, violaram os estatutos e quebraram a aliança eterna.",
+  "Por isso a maldição devora a terra, e seus habitantes são considerados culpados; por isso os habitantes da terra são queimados, e poucos homens restam.",
+  "O vinho novo pranteia, a videira murcha, e todos os que tinham o coração alegre suspiram.",
+  "Cessa a alegria dos tamborins, termina o tumulto dos que exultam, e cessa a alegria da harpa.",
+  "Já não bebem vinho com cânticos; a bebida forte é amarga para os que a bebem.",
+  "A cidade da confusão está destruída; toda casa está fechada, para que ninguém entre.",
+  "Há clamor por vinho nas ruas; toda alegria se escureceu, e a exultação da terra desapareceu.",
+  "A desolação permanece na cidade, e a porta está reduzida a ruínas.",
+  "Pois assim será no meio da terra, entre os povos: como no sacudir da oliveira, como na respiga quando termina a vindima.",
+  "Eles levantarão a voz e cantarão; por causa da majestade de YHWH gritarão desde o mar.",
+  "Por isso, glorificai YHWH no Oriente; nas ilhas do mar, glorificai o nome de YHWH, Deus de Israel.",
+  "Dos confins da terra ouvimos cânticos: “Glória ao Justo!” Mas eu digo: “Estou definhando, estou definhando! Ai de mim! Os traidores traem; sim, os traidores agem traiçoeiramente”.",
+  "Terror, cova e armadilha estão sobre ti, habitante da terra.",
+  "Acontecerá que aquele que fugir da voz do terror cairá na cova, e aquele que subir da cova será apanhado na armadilha; pois as janelas do alto se abriram, e os fundamentos da terra tremem.",
+  "A terra se rompe completamente; a terra se parte em pedaços; a terra é sacudida violentamente.",
+  "A terra cambaleia como bêbado e oscila como cabana; sua transgressão pesa sobre ela; cairá e não se levantará novamente.",
+  "Naquele dia YHWH castigará o exército do alto, nas alturas, e os reis da terra, sobre a terra.",
+  "Serão reunidos como prisioneiros numa cova; serão encerrados na prisão e, depois de muitos dias, serão visitados.",
+  "A lua ficará envergonhada, e o sol, humilhado, pois YHWH dos Exércitos reinará no monte Sião e em Jerusalém, e sua glória estará diante de seus anciãos."
+];
