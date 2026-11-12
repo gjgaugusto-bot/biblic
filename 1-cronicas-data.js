@@ -1012,3 +1012,37 @@ window.FIRST_CHRONICLES_TEXT[28] = [
   "Davi disse ainda a Salomão, seu filho: “Sê forte e corajoso, e faze a obra. Não temas nem desanimes, pois o Senhor Deus, meu Deus, está contigo. Ele não te deixará nem te abandonará até que toda a obra do serviço da casa do Senhor esteja concluída.",
   "Estão aqui as divisões dos sacerdotes e dos levitas para todo o serviço da casa de Deus. Tens contigo, para todo o trabalho, homens dispostos e hábeis em toda espécie de serviço, e também os chefes e todo o povo, prontos para cumprir tuas ordens.”"
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[29] = [
+  "O rei Davi disse a toda a assembleia: “Salomão, meu filho, o único que Deus escolheu, ainda é jovem e inexperiente, e a obra é grande, pois este palácio não é para um ser humano, mas para o Senhor Deus.",
+  "Com todas as minhas forças, preparei para a casa de meu Deus ouro para os objetos de ouro, prata para os de prata, bronze para os de bronze, ferro para os de ferro e madeira para os de madeira; também pedras de ônix, pedras de engaste, pedras ornamentais e de várias cores, toda espécie de pedras preciosas e grande quantidade de mármore.",
+  "Além disso, por meu amor à casa de meu Deus, entrego meu tesouro particular de ouro e prata à casa de meu Deus, além de tudo o que já preparei para a casa santa:",
+  "três mil talentos de ouro, ouro de Ofir, e sete mil talentos de prata refinada, para revestir as paredes dos edifícios;",
+  "ouro para os objetos de ouro, prata para os de prata e para todo o trabalho dos artesãos. Quem, pois, está disposto a consagrar hoje suas ofertas ao Senhor?”",
+  "Então os chefes das casas paternas, os chefes das tribos de Israel, os comandantes de mil e de cem e os administradores dos trabalhos do rei fizeram ofertas voluntárias.",
+  "Para o serviço da casa de Deus, deram cinco mil talentos de ouro e dez mil daricos; dez mil talentos de prata; dezoito mil talentos de bronze; e cem mil talentos de ferro.",
+  "Quem possuía pedras preciosas também as entregou ao tesouro da casa do Senhor, sob os cuidados de Jeiel, o gersonita.",
+  "O povo se alegrou com as ofertas voluntárias, pois as deram ao Senhor de coração íntegro. O rei Davi também se alegrou muito.",
+  "Então Davi bendisse o Senhor diante de toda a assembleia e disse: “Bendito és tu, Senhor, Deus de Israel, nosso pai, de eternidade a eternidade.",
+  "Teus são, Senhor, a grandeza, o poder, a glória, a vitória e a majestade, pois tudo o que há nos céus e na terra é teu. Teu é o reino, Senhor; tu te exaltas como cabeça sobre todos.",
+  "As riquezas e a honra vêm de ti; tu dominas sobre tudo. Em tuas mãos estão a força e o poder, e em tuas mãos está engrandecer e fortalecer a todos.",
+  "Agora, ó nosso Deus, damos-te graças e louvamos teu nome glorioso.",
+  "Pois quem sou eu, e quem é meu povo, para que pudéssemos oferecer voluntariamente coisas como estas? Tudo vem de ti, e do que é teu te damos.",
+  "Somos estrangeiros diante de ti e peregrinos, como todos os nossos pais. Nossos dias sobre a terra são como uma sombra, e não há permanência.",
+  "Senhor, nosso Deus, toda esta abundância que preparamos para construir uma casa para teu santo nome vem de tua mão, e tudo pertence a ti.",
+  "Sei, meu Deus, que examinas o coração e te agradas da retidão. Eu, com integridade de coração, ofereci voluntariamente todas estas coisas; e agora vi com alegria teu povo aqui reunido oferecer voluntariamente a ti.",
+  "Senhor, Deus de Abraão, Isaque e Israel, nossos pais, conserva para sempre estas disposições e pensamentos no coração de teu povo e firma o coração deles em ti.",
+  "E dá a Salomão, meu filho, um coração íntegro para guardar teus mandamentos, teus testemunhos e teus estatutos, e para fazer todas essas coisas e construir o palácio para o qual fiz os preparativos.”",
+  "Então Davi disse a toda a assembleia: “Bendizei agora o Senhor, vosso Deus!” E toda a assembleia bendisse o Senhor, Deus de seus pais; inclinaram-se e prostraram-se diante do Senhor e diante do rei.",
+  "No dia seguinte, ofereceram sacrifícios ao Senhor e holocaustos: mil novilhos, mil carneiros e mil cordeiros, com suas libações, além de muitos sacrifícios por todo o Israel.",
+  "Naquele dia, comeram e beberam diante do Senhor com grande alegria. Pela segunda vez proclamaram Salomão, filho de Davi, rei, e o ungiram diante do Senhor como governante; e ungiram Zadoque como sacerdote.",
+  "Salomão sentou-se no trono do Senhor como rei, em lugar de Davi, seu pai. Prosperou, e todo o Israel lhe obedeceu.",
+  "Todos os chefes, os guerreiros e também todos os filhos do rei Davi se submeteram ao rei Salomão.",
+  "O Senhor engrandeceu muito Salomão diante de todo o Israel e lhe concedeu uma majestade real como nenhum rei de Israel antes dele tivera.",
+  "Assim, Davi, filho de Jessé, reinou sobre todo Israel.",
+  "O tempo em que reinou sobre Israel foi de quarenta anos: reinou sete anos em Hebrom e trinta e três anos em Jerusalém.",
+  "Morreu em boa velhice, cheio de dias, riquezas e honra; e Salomão, seu filho, reinou em seu lugar.",
+  "Os atos do rei Davi, os primeiros e os últimos, estão escritos nos registros de Samuel, o vidente, nos registros de Natã, o profeta, e nos registros de Gade, o vidente,",
+  "juntamente com todo o seu reinado, seu poder e os acontecimentos que lhe sobrevieram, a Israel e a todos os reinos das terras."
+];
