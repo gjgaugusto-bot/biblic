@@ -747,3 +747,94 @@ window.PSALMS_TEXT[40] = [
   "Alegrem-se e exultem em ti todos os que te buscam; digam continuamente os que amam tua salvação: “YHWH seja engrandecido!”",
   "Eu, porém, sou pobre e necessitado; o Senhor cuida de mim. Tu és meu auxílio e meu libertador; meu Deus, não te demores."
 ];
+
+window.PSALMS_TEXT[41] = [
+  "Ao regente do coro. Salmo de Davi.",
+  "Feliz aquele que considera o necessitado; no dia mau YHWH o livrará.",
+  "YHWH o guardará e preservará sua vida; será chamado feliz na terra, e não o entregarás ao desejo de seus inimigos.",
+  "YHWH o sustentará no leito da enfermidade; em sua doença, tu o restaurarás.",
+  "Eu disse: “YHWH, tem misericórdia de mim; cura minha alma, pois pequei contra ti”.",
+  "Meus inimigos falam mal de mim: “Quando morrerá e perecerá seu nome?”",
+  "Se alguém vem visitar-me, fala falsidade; seu coração acumula maldade; sai e a espalha.",
+  "Todos os que me odeiam cochicham juntos contra mim; imaginam o mal que me acontecerá:",
+  "“Uma doença mortal se apoderou dele; agora que está deitado, não voltará a levantar-se”.",
+  "Até meu amigo íntimo, em quem eu confiava, que comia meu pão, levantou contra mim o calcanhar.",
+  "Tu, porém, YHWH, tem misericórdia de mim e levanta-me, para que eu lhes retribua.",
+  "Sei que te agradas de mim, porque meu inimigo não triunfa sobre mim.",
+  "Tu me sustentas por causa de minha integridade e me colocas diante de tua face para sempre.",
+  "Bendito seja YHWH, Deus de Israel, de eternidade a eternidade. Amém e amém."
+];
+
+window.PSALMS_TEXT[42] = [
+  "Ao regente do coro. Poema de instrução dos filhos de Corá.",
+  "Como a corça anseia pelas correntes de água, assim minha alma anseia por ti, ó Deus.",
+  "Minha alma tem sede de Deus, do Deus vivo. Quando irei e comparecerei diante da face de Deus?",
+  "Minhas lágrimas têm sido meu alimento de dia e de noite, enquanto me dizem continuamente: “Onde está teu Deus?”",
+  "Lembro-me destas coisas e derramo minha alma dentro de mim: como eu passava com a multidão, conduzindo-a em procissão à casa de Deus, com voz de alegria e louvor, uma multidão em festa.",
+  "Por que estás abatida, minha alma? Por que te perturbas dentro de mim? Espera em Deus, pois ainda lhe darei graças; ele é a salvação de meu rosto e meu Deus.",
+  "Minha alma está abatida dentro de mim; por isso me lembro de ti desde a terra do Jordão e dos montes do Hermom, desde o monte Mizar.",
+  "Um abismo chama outro abismo ao ruído de tuas cachoeiras; todas as tuas ondas e vagas passaram sobre mim.",
+  "De dia YHWH ordena sua lealdade, e de noite seu cântico está comigo, uma oração ao Deus de minha vida.",
+  "Direi a Deus, minha Rocha: “Por que te esqueceste de mim? Por que ando enlutado por causa da opressão do inimigo?”",
+  "Como ferida mortal em meus ossos, meus adversários me insultam, dizendo-me continuamente: “Onde está teu Deus?”",
+  "Por que estás abatida, minha alma? Por que te perturbas dentro de mim? Espera em Deus, pois ainda lhe darei graças; ele é a salvação de meu rosto e meu Deus."
+];
+
+window.PSALMS_TEXT[43] = [
+  "Faze-me justiça, ó Deus, e defende minha causa contra uma nação infiel; livra-me do homem enganador e injusto.",
+  "Pois tu és o Deus de minha fortaleza. Por que me rejeitaste? Por que ando enlutado por causa da opressão do inimigo?",
+  "Envia tua luz e tua verdade; que elas me guiem e me levem ao teu santo monte e às tuas moradas.",
+  "Então irei ao altar de Deus, ao Deus que é minha alegria e meu júbilo; com a harpa te louvarei, ó Deus, meu Deus.",
+  "Por que estás abatida, minha alma? Por que te perturbas dentro de mim? Espera em Deus, pois ainda lhe darei graças; ele é a salvação de meu rosto e meu Deus."
+];
+
+window.PSALMS_TEXT[44] = [
+  "Ao regente do coro. Dos filhos de Corá. Poema de instrução.",
+  "Ó Deus, ouvimos com nossos ouvidos; nossos pais nos contaram a obra que realizaste em seus dias, nos tempos antigos.",
+  "Com tua mão expulsaste as nações e estabeleceste nossos pais; afligiste povos e os fizeste prosperar.",
+  "Pois não foi pela espada deles que conquistaram a terra, nem foi seu braço que os salvou; foi tua mão direita, teu braço e a luz de teu rosto, porque te agradaste deles.",
+  "Tu és meu Rei, ó Deus; ordena a salvação de Jacó.",
+  "Por ti empurraremos nossos adversários; em teu nome pisaremos os que se levantam contra nós.",
+  "Pois não confio em meu arco, e minha espada não me salvará.",
+  "Tu nos salvaste de nossos adversários e envergonhaste os que nos odeiam.",
+  "Em Deus nos gloriamos o dia inteiro e para sempre daremos graças a teu nome. Selá.",
+  "Mas agora nos rejeitaste e nos humilhaste; não sais com nossos exércitos.",
+  "Fizeste-nos recuar diante do adversário, e os que nos odeiam nos saqueiam.",
+  "Entregaste-nos como ovelhas destinadas ao abate e nos espalhaste entre as nações.",
+  "Vendeste teu povo por preço baixo e não aumentaste teu ganho com sua venda.",
+  "Fizeste de nós opróbrio para nossos vizinhos, escárnio e zombaria para os que nos rodeiam.",
+  "Fizeste de nós provérbio entre as nações; os povos meneiam a cabeça por nossa causa.",
+  "Minha humilhação está sempre diante de mim, e a vergonha de meu rosto me cobre,",
+  "por causa da voz do que insulta e blasfema, diante do inimigo e do vingador.",
+  "Tudo isso nos sobreveio, mas não nos esquecemos de ti, nem fomos infiéis à tua aliança.",
+  "Nosso coração não voltou atrás, e nossos passos não se desviaram de teu caminho,",
+  "embora nos tenhas esmagado no lugar dos chacais e nos coberto com sombra de morte.",
+  "Se tivéssemos esquecido o nome de nosso Deus ou estendido as mãos a um deus estranho,",
+  "Deus não o descobriria? Pois ele conhece os segredos do coração.",
+  "Por tua causa somos mortos o dia inteiro; somos considerados como ovelhas para o abate.",
+  "Desperta! Por que dormes, Senhor? Levanta-te! Não nos rejeites para sempre.",
+  "Por que escondes teu rosto e te esqueces de nossa aflição e opressão?",
+  "Pois nossa alma está abatida até o pó; nosso ventre está colado à terra.",
+  "Levanta-te para nos ajudar; resgata-nos por causa de tua lealdade."
+];
+
+window.PSALMS_TEXT[45] = [
+  "Ao regente do coro. Sobre os lírios. Dos filhos de Corá. Poema de instrução; cântico de amor.",
+  "Meu coração transborda com uma boa palavra; dedico meu poema ao rei; minha língua é como pena de escriba habilidoso.",
+  "Tu és o mais belo dos filhos dos homens; a graça se derramou em teus lábios; por isso Deus te abençoou para sempre.",
+  "Cinge tua espada à cintura, ó poderoso, com tua glória e majestade.",
+  "Em tua majestade avança vitoriosamente por causa da verdade, da humildade e da justiça; que tua mão direita te ensine feitos terríveis.",
+  "Tuas flechas são agudas; povos caem sob ti; elas penetram no coração dos inimigos do rei.",
+  "Teu trono, ó Deus, permanece para todo o sempre; o cetro de teu reino é cetro de retidão.",
+  "Amaste a justiça e odiaste a perversidade; por isso Deus, teu Deus, te ungiu com óleo de alegria acima de teus companheiros.",
+  "Todas as tuas vestes exalam mirra, aloés e cássia; dos palácios de marfim, instrumentos de cordas te alegram.",
+  "Filhas de reis estão entre tuas mulheres honradas; à tua direita está a rainha, adornada com ouro de Ofir.",
+  "Ouve, filha, olha e inclina teu ouvido; esquece teu povo e a casa de teu pai.",
+  "O rei desejará tua beleza; inclina-te diante dele, pois ele é teu senhor.",
+  "A filha de Tiro virá com presentes; os ricos do povo buscarão teu favor.",
+  "Toda gloriosa está a filha do rei em seu interior; suas vestes são bordadas de ouro.",
+  "Em roupas bordadas será conduzida ao rei; virgens a acompanham, suas companheiras são trazidas a ti.",
+  "Serão conduzidas com alegria e júbilo; entrarão no palácio do rei.",
+  "Em lugar de teus pais estarão teus filhos; tu os farás príncipes por toda a terra.",
+  "Farei teu nome ser lembrado por todas as gerações; por isso os povos te louvarão para todo o sempre."
+];
