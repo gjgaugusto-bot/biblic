@@ -96,11 +96,11 @@ window.ECCLESIASTES_TEXT[4] = [
   "Melhor é um jovem pobre e sábio do que um rei velho e insensato, que já não sabe receber conselho.",
   "Pois aquele saiu da prisão para reinar, embora tenha nascido pobre em seu reino.",
   "Vi todos os viventes que andam debaixo do sol seguindo o jovem, o sucessor, que se levantou em lugar do rei.",
-  "Era incontável todo o povo diante do qual ele estava; contudo, os que vierem depois não se alegrarão nele. Também isso é vaidade e correr atrás do vento."
+  "Era incontável todo o povo diante do qual ele estava; contudo, os que vierem depois não se alegrarão nele. Também isso é vaidade e correr atrás do vento.",
+  "Guarda teu pé quando fores à casa de Deus; aproxima-te para ouvir, em vez de oferecer sacrifício como os insensatos, pois não sabem que fazem o mal."
 ];
 
 window.ECCLESIASTES_TEXT[5] = [
-  "Guarda teu pé quando fores à casa de Deus; aproxima-te para ouvir, em vez de oferecer sacrifício como os insensatos, pois não sabem que fazem o mal.",
   "Não te precipites com a boca, e teu coração não se apresse a proferir palavra diante de Deus; pois Deus está nos céus, e tu estás na terra. Portanto, sejam poucas as tuas palavras.",
   "Pois dos muitos afazeres vêm os sonhos, e da multidão de palavras, a voz do insensato.",
   "Quando fizeres voto a Deus, não demores em cumpri-lo, pois ele não tem prazer nos insensatos. Cumpre o que votares.",
