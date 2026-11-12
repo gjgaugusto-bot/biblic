@@ -1577,3 +1577,89 @@ window.PSALMS_TEXT[80] = [
   "Então não nos afastaremos de ti; vivifica-nos, e invocaremos teu nome.",
   "Restaura-nos, YHWH, Deus dos Exércitos; faze resplandecer teu rosto, e seremos salvos."
 ];
+
+window.PSALMS_TEXT[81] = [
+  "Ao regente do coro. Sobre a Gitite. De Asafe.",
+  "Cantai com alegria a Deus, nossa força; aclamai o Deus de Jacó.",
+  "Entoai um salmo e tocai o tamborim, a harpa suave e a lira.",
+  "Tocai a trombeta na lua nova, na lua cheia, no dia de nossa festa.",
+  "Pois isso é estatuto para Israel, ordenança do Deus de Jacó.",
+  "Ele o estabeleceu como testemunho em José quando saiu contra a terra do Egito. Ouvi uma língua que eu não conhecia:",
+  "“Retirei seu ombro do fardo; suas mãos ficaram livres dos cestos.",
+  "Na angústia clamaste, e eu te livrei; respondi-te no esconderijo do trovão; provei-te junto às águas de Meribá. Selá.",
+  "Ouve, meu povo, e eu te advertirei; Israel, se me escutasses!",
+  "Não haja em ti deus estranho, nem te prostres diante de deus estrangeiro.",
+  "Eu sou YHWH, teu Deus, que te tirei da terra do Egito; abre bem tua boca, e eu a encherei.",
+  "Mas meu povo não ouviu minha voz, e Israel não quis saber de mim.",
+  "Por isso os entreguei à obstinação de seu coração, para que andassem segundo seus próprios conselhos.",
+  "Ah, se meu povo me ouvisse! Se Israel andasse em meus caminhos!",
+  "Eu logo subjugaria seus inimigos e voltaria minha mão contra seus adversários.",
+  "Os que odeiam YHWH se submeteriam a ele, e o tempo deles duraria para sempre.",
+  "Eu os alimentaria com o melhor trigo, e com mel da rocha os saciaria”."
+];
+
+window.PSALMS_TEXT[82] = [
+  "Salmo de Asafe. Deus está de pé na assembleia divina; no meio dos deuses ele julga:",
+  "“Até quando julgareis injustamente e favorecereis os perversos? Selá.",
+  "Fazei justiça ao fraco e ao órfão; defendei o direito do aflito e do necessitado.",
+  "Livrai o fraco e o pobre; arrancai-os das mãos dos perversos.",
+  "Eles não sabem nem entendem; andam em trevas; todos os fundamentos da terra vacilam.",
+  "Eu disse: ‘Vós sois deuses, todos sois filhos do Altíssimo’.",
+  "Contudo, morrereis como homens e caireis como qualquer dos príncipes”.",
+  "Levanta-te, ó Deus, julga a terra, pois tu herdarás todas as nações."
+];
+
+window.PSALMS_TEXT[83] = [
+  "Cântico. Salmo de Asafe.",
+  "Ó Deus, não permaneças em silêncio; não fiques calado nem inerte, ó Deus.",
+  "Pois eis que teus inimigos se agitam, e os que te odeiam levantam a cabeça.",
+  "Tramam astutamente contra teu povo e conspiram contra os que proteges.",
+  "Dizem: “Vinde, eliminemo-los como nação, para que o nome de Israel não seja mais lembrado”.",
+  "Conspiram juntos de comum acordo e fazem aliança contra ti:",
+  "as tendas de Edom e os ismaelitas, Moabe e os hagarenos,",
+  "Gebal, Amom e Amaleque, a Filístia com os habitantes de Tiro.",
+  "Também a Assíria se juntou a eles; tornaram-se braço para os filhos de Ló. Selá.",
+  "Faze-lhes como fizeste a Midiã, como a Sísera e Jabim junto ao ribeiro de Quisom,",
+  "que foram destruídos em En-Dor e se tornaram esterco para a terra.",
+  "Faze seus nobres como Orebe e Zeebe, e todos os seus príncipes como Zebá e Zalmuna,",
+  "que disseram: “Tomemos para nós as moradas de Deus”.",
+  "Meu Deus, faze-os como redemoinho de poeira, como palha diante do vento.",
+  "Como o fogo que queima a floresta e como a chama que incendeia os montes,",
+  "assim persegue-os com tua tempestade e aterroriza-os com teu vendaval.",
+  "Cobre-lhes o rosto de vergonha, para que busquem teu nome, YHWH.",
+  "Sejam envergonhados e aterrorizados para sempre; sejam humilhados e pereçam.",
+  "Saibam que tu, cujo nome é YHWH, somente tu és o Altíssimo sobre toda a terra."
+];
+
+window.PSALMS_TEXT[84] = [
+  "Ao regente do coro. Sobre a Gitite. Dos filhos de Corá. Salmo.",
+  "Quão amáveis são tuas moradas, YHWH dos Exércitos!",
+  "Minha alma suspira e desfalece pelos pátios de YHWH; meu coração e minha carne exultam pelo Deus vivo.",
+  "Até o pássaro encontra casa, e a andorinha, ninho para si, onde põe seus filhotes: teus altares, YHWH dos Exércitos, meu Rei e meu Deus.",
+  "Felizes os que habitam em tua casa; continuamente te louvam. Selá.",
+  "Feliz o homem cuja força está em ti, em cujo coração estão os caminhos para Sião.",
+  "Ao atravessarem o vale de Baca, fazem dele lugar de fontes; a chuva também o cobre de bênçãos.",
+  "Vão de força em força; cada um deles comparece diante de Deus em Sião.",
+  "YHWH, Deus dos Exércitos, ouve minha oração; dá ouvidos, ó Deus de Jacó. Selá.",
+  "Olha, ó Deus, nosso escudo, e contempla o rosto de teu ungido.",
+  "Pois um dia em teus pátios vale mais que mil em outro lugar; prefiro ficar à porta da casa de meu Deus a habitar nas tendas da perversidade.",
+  "Pois YHWH Deus é sol e escudo; YHWH concede graça e glória; não retém bem algum dos que andam com integridade.",
+  "YHWH dos Exércitos, feliz o homem que confia em ti!"
+];
+
+window.PSALMS_TEXT[85] = [
+  "Ao regente do coro. Dos filhos de Corá. Salmo.",
+  "Mostraste favor à tua terra, YHWH; restauraste a sorte de Jacó.",
+  "Perdoaste a iniquidade de teu povo; cobriste todos os seus pecados. Selá.",
+  "Recolheste toda tua indignação; voltaste atrás do ardor de tua ira.",
+  "Restaura-nos, Deus de nossa salvação, e faze cessar tua indignação contra nós.",
+  "Ficarás irado contra nós para sempre? Prolongarás tua ira por todas as gerações?",
+  "Não nos darás vida novamente, para que teu povo se alegre em ti?",
+  "Mostra-nos tua lealdade, YHWH, e concede-nos tua salvação.",
+  "Ouvirei o que Deus, YHWH, falar, pois falará de paz a seu povo e a seus leais, desde que não voltem à insensatez.",
+  "Certamente sua salvação está perto dos que o temem, para que a glória habite em nossa terra.",
+  "Lealdade e verdade se encontram; justiça e paz se beijam.",
+  "A verdade brota da terra, e a justiça olha desde os céus.",
+  "YHWH também dará o que é bom, e nossa terra produzirá sua colheita.",
+  "A justiça irá diante dele e fará do caminho um trilho para seus passos."
+];
