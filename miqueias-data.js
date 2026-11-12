@@ -68,11 +68,11 @@ window.MICAH_TEXT[4] = [
   "Sofre dores e dá à luz, ó filha de Sião, como mulher em trabalho de parto; pois agora sairás da cidade, habitarás no campo e irás até Babilônia. Ali serás resgatada; ali YHWH te livrará da mão de teus inimigos.",
   "Agora muitas nações se reuniram contra ti e dizem: “Que Sião seja profanada, e que nossos olhos contemplem sua ruína”.",
   "Mas elas não conhecem os pensamentos de YHWH, nem compreendem seu conselho; ele as ajuntou como feixes para a eira.",
-  "Levanta-te e debulha, filha de Sião; farei de teu chifre ferro e de teus cascos bronze; despedaçarás muitos povos. Consagrarei a YHWH o lucro deles e suas riquezas ao Senhor de toda a terra."
+  "Levanta-te e debulha, filha de Sião; farei de teu chifre ferro e de teus cascos bronze; despedaçarás muitos povos. Consagrarei a YHWH o lucro deles e suas riquezas ao Senhor de toda a terra.",
+  "Agora reúne-te em tropas, filha de tropas; puseram cerco contra nós; ferirão com vara a face do juiz de Israel."
 ];
 
 window.MICAH_TEXT[5] = [
-  "Agora reúne-te em tropas, filha de tropas; puseram cerco contra nós; ferirão com vara a face do juiz de Israel.",
   "Mas tu, Belém Efrata, pequena demais para estar entre os milhares de Judá, de ti sairá para mim aquele que será governante em Israel; suas origens remontam aos tempos antigos, aos dias da eternidade.",
   "Por isso ele os entregará até o tempo em que a que está em trabalho de parto der à luz; então o restante de seus irmãos voltará aos filhos de Israel.",
   "Ele se levantará e apascentará o rebanho na força de YHWH, na majestade do nome de YHWH, seu Deus; eles habitarão seguros, pois agora ele será grande até os confins da terra.",
