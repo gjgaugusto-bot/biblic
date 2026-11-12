@@ -690,3 +690,65 @@ window.ISAIAH_TEXT[30] = [
   "Cada golpe da vara de castigo que YHWH fizer cair sobre ela será acompanhado de tamborins e harpas; combaterá contra ela com golpes brandidos.",
   "Pois há muito está preparado um lugar de queima; está preparado também para o rei; sua fogueira é profunda e larga, com fogo e muita lenha; o sopro de YHWH, como torrente de enxofre, a acende."
 ];
+
+window.ISAIAH_TEXT[31] = [
+  "Naquele dia cantarás: “Dou-te graças, YHWH, pois, embora estivesses irado comigo, tua ira se desviou, e tu me consolaste.",
+  "Eis que Deus é minha salvação; confiarei e não temerei, pois YHWH é minha força e meu cântico; ele se tornou minha salvação”.",
+  "Com alegria tirareis água das fontes da salvação.",
+  "Naquele dia direis: “Dai graças a YHWH, invocai seu nome; fazei conhecidos entre os povos seus feitos; proclamai que seu nome é exaltado.",
+  "Cantai louvores a YHWH, pois fez coisas magníficas; que isso seja conhecido em toda a terra.",
+  "Clama e exulta, habitante de Sião, pois grande é no meio de ti o Santo de Israel”.",
+  "Ai dos que descem ao Egito em busca de auxílio, que confiam em cavalos, que põem sua esperança em carros por serem muitos e em cavaleiros por serem muito fortes, mas não olham para o Santo de Israel nem buscam YHWH.",
+  "Contudo, ele também é sábio e trará calamidade; não revogará suas palavras. Levantar-se-á contra a casa dos malfeitores e contra o auxílio dos que praticam a iniquidade.",
+  "O Egito é homem, e não Deus; seus cavalos são carne, e não espírito. Quando YHWH estender a mão, tropeçará quem ajuda, e cairá quem é ajudado; todos juntos perecerão."
+];
+
+window.ISAIAH_TEXT[32] = [
+  "Eis que um rei reinará com justiça, e príncipes governarão com retidão.",
+  "Cada um será como abrigo contra o vento e refúgio contra a tempestade, como correntes de água em terra seca, como sombra de uma grande rocha em terra sedenta.",
+  "Os olhos dos que veem não estarão fechados, e os ouvidos dos que ouvem prestarão atenção.",
+  "O coração dos apressados entenderá o conhecimento, e a língua dos que gaguejam falará com clareza e prontidão.",
+  "O insensato não será mais chamado nobre, nem o enganador será chamado generoso.",
+  "Pois o insensato fala insensatez, e seu coração pratica a iniquidade, para agir com impiedade e falar erro contra YHWH, deixando vazia a alma do faminto e negando bebida ao sedento.",
+  "As armas do enganador são más; ele planeja perversidades para destruir os aflitos com palavras falsas, mesmo quando o necessitado fala com justiça.",
+  "Mas o nobre planeja coisas nobres e permanece firme nas coisas nobres.",
+  "Mulheres despreocupadas, levantai-vos e ouvi minha voz; filhas confiantes, prestai atenção às minhas palavras.",
+  "Daqui a pouco mais de um ano ficareis perturbadas, ó confiantes, pois a vindima acabará, e não haverá colheita.",
+  "Tremei, ó despreocupadas; ficai perturbadas, ó confiantes. Despi-vos, despi-vos, cingi-vos de pano de saco.",
+  "Batei no peito por causa dos campos agradáveis e das vinhas frutíferas,",
+  "por causa da terra de meu povo, onde crescem espinhos e cardos, sim, por todas as casas alegres da cidade exultante.",
+  "Pois o palácio será abandonado, a cidade populosa ficará deserta; Ofel e a torre de vigia serão covis para sempre, alegria de jumentos selvagens e pasto de rebanhos,",
+  "até que sobre nós seja derramado o Espírito do alto; então o deserto se tornará campo fértil, e o campo fértil será considerado floresta.",
+  "O direito habitará no deserto, e a justiça permanecerá no campo fértil.",
+  "O fruto da justiça será paz, e o resultado da justiça, tranquilidade e segurança para sempre.",
+  "Meu povo habitará em morada de paz, em habitações seguras e em lugares tranquilos de repouso.",
+  "Mas haverá granizo quando a floresta cair, e a cidade será completamente abatida.",
+  "Felizes vós que semeais junto a todas as águas e deixais livres os pés do boi e do jumento."
+];
+
+window.ISAIAH_TEXT[33] = [
+  "Ai de ti, destruidor, que ainda não foste destruído; traidor, com quem ninguém agiu traiçoeiramente! Quando acabares de destruir, serás destruído; quando terminares de trair, agirão traiçoeiramente contra ti.",
+  "YHWH, tem misericórdia de nós; esperamos em ti. Sê nosso braço a cada manhã, nossa salvação também no tempo da angústia.",
+  "Ao som do tumulto, os povos fogem; quando te levantas, as nações se dispersam.",
+  "Vosso despojo será recolhido como se recolhem gafanhotos; como o salto dos gafanhotos, assim saltarão sobre ele.",
+  "YHWH é exaltado, pois habita nas alturas; encheu Sião de justiça e retidão.",
+  "Ele será a segurança de teus tempos, abundância de salvação, sabedoria e conhecimento; o temor de YHWH será seu tesouro.",
+  "Eis que seus heróis clamam nas ruas; os mensageiros da paz choram amargamente.",
+  "As estradas estão desertas; ninguém passa pelo caminho. Ele rompeu a aliança, desprezou as cidades e não considera homem algum.",
+  "A terra pranteia e murcha; o Líbano fica envergonhado e definha; Sarom se torna como deserto, e Basã e Carmelo perdem suas folhas.",
+  "“Agora me levantarei”, diz YHWH; “agora serei exaltado, agora serei elevado”.",
+  "Concebeis palha e dareis à luz restolho; vosso próprio sopro é fogo que vos consumirá.",
+  "Os povos serão como queimaduras de cal, como espinhos cortados que ardem no fogo.",
+  "Vós que estais longe, ouvi o que fiz; e vós que estais perto, reconhecei meu poder.",
+  "Os pecadores em Sião estão aterrorizados; o tremor se apodera dos hipócritas: “Quem de nós poderá habitar com o fogo consumidor? Quem de nós poderá habitar com chamas eternas?”",
+  "Aquele que anda em justiça e fala com retidão, que rejeita o ganho da opressão, que sacode as mãos para não receber suborno, que tapa os ouvidos para não ouvir planos de sangue e fecha os olhos para não ver o mal,",
+  "esse habitará nas alturas; fortalezas de rochas serão seu refúgio; seu pão lhe será dado, e suas águas serão certas.",
+  "Teus olhos verão o rei em sua beleza; contemplarão uma terra que se estende ao longe.",
+  "Teu coração meditará sobre o terror: “Onde está o escrivão? Onde está o pesador? Onde está o que conta as torres?”",
+  "Não verás mais o povo feroz, povo de fala obscura, que não se pode compreender, de língua estranha e ininteligível.",
+  "Olha para Sião, cidade de nossas festas solenes; teus olhos verão Jerusalém, morada tranquila, tenda que não será removida; suas estacas nunca serão arrancadas, e nenhuma de suas cordas se romperá.",
+  "Mas ali YHWH será majestoso para nós, lugar de rios e canais largos, onde não passará barco a remo, nem navio poderoso navegará.",
+  "Pois YHWH é nosso juiz, YHWH é nosso legislador, YHWH é nosso rei; ele nos salvará.",
+  "Tuas cordas estão frouxas; não conseguem firmar o mastro nem estender a vela. Então se repartirá abundante despojo; até os coxos tomarão parte na presa.",
+  "Nenhum habitante dirá: “Estou doente”; o povo que ali habita terá sua iniquidade perdoada."
+];
