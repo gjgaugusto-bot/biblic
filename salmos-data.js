@@ -381,7 +381,6 @@ window.PSALMS_TEXT[22] = [
 ];
 
 window.PSALMS_TEXT[23] = [
-  "Salmo de Davi.",
   "YHWH é meu pastor; nada me faltará.",
   "Ele me faz repousar em pastos verdejantes; conduz-me a águas tranquilas.",
   "Restaura minha alma; guia-me por caminhos de justiça por causa de seu nome.",
