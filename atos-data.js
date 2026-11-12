@@ -5,7 +5,7 @@
  * https://github.com/morphgnt/sblgnt (arquivo 65-Ac-morphgnt.txt; DOI 10.5281/zenodo.376200).
  * Esta redação é uma tradução independente de trabalho; não é endossada pelos detentores do SBLGNT.
  * Conferência lexical: MorphGNT SBLGNT v6.12, arquivo 65-Ac-morphgnt.txt; formas superficiais, lemas e códigos morfológicos agrupados por versículo.
- * Progresso: capítulos 1–2 de 28; 73 versículos. Livro ainda incompleto; revisão exegética aprofundada fica para a etapa global.
+ * Progresso: capítulos 1–4 de 28; 136 versículos. Livro ainda incompleto; revisão exegética aprofundada fica para a etapa global.
  */
 window.ACTS_TEXT = window.ACTS_TEXT || {};
 window.ACTS_TEXT[1] = [
@@ -85,4 +85,72 @@ window.ACTS_TEXT[2] = [
   "Vendiam suas propriedades e seus bens e os repartiam entre todos, conforme alguém tivesse necessidade.",
   "Dia após dia, perseveravam unânimes no templo; partiam o pão de casa em casa e compartilhavam o alimento com alegria e simplicidade de coração,",
   "louvando a Deus e tendo o favor de todo o povo. E o Senhor acrescentava diariamente ao grupo os que iam sendo salvos."
+];
+
+window.ACTS_TEXT[3] = [
+  "Pedro e João subiam ao templo para a oração da hora nona.",
+  "E era levado um homem, coxo desde o ventre de sua mãe, que colocavam diariamente junto à porta do templo chamada Formosa, para pedir esmolas aos que entravam no templo.",
+  "Ele, vendo Pedro e João prestes a entrar no templo, pedia que recebesse uma esmola.",
+  "Pedro, fixando os olhos nele, juntamente com João, disse: Olha para nós.",
+  "Ele os observava atentamente, esperando receber algo deles.",
+  "Pedro, porém, disse: Prata e ouro não tenho; mas o que tenho, isto te dou: em nome de Jesus Cristo, o Nazareno, anda!",
+  "E, tomando-o pela mão direita, levantou-o; imediatamente seus pés e tornozelos se fortaleceram.",
+  "Saltando, pôs-se em pé e começou a andar; entrou com eles no templo, andando, saltando e louvando a Deus.",
+  "Todo o povo o viu andando e louvando a Deus.",
+  "E reconheceram que era ele quem se sentava junto à porta Formosa do templo para pedir esmolas; e ficaram cheios de assombro e espanto pelo que lhe acontecera.",
+  "Enquanto ele se agarrava a Pedro e João, todo o povo correu para junto deles, no pórtico chamado de Salomão, tomado de espanto.",
+  "Vendo isso, Pedro respondeu ao povo: Homens israelitas, por que vocês se admiram disto? Por que fixam os olhos em nós, como se por nosso próprio poder ou piedade tivéssemos feito este homem andar?",
+  "O Deus de Abraão, de Isaque e de Jacó, o Deus de nossos pais, glorificou seu servo Jesus, a quem vocês entregaram e negaram diante de Pilatos, quando este havia decidido soltá-lo.",
+  "Vocês, porém, negaram o Santo e Justo e pediram que lhes fosse concedido um homem homicida.",
+  "Vocês mataram o Autor da vida, a quem Deus ressuscitou dentre os mortos; disso nós somos testemunhas.",
+  "E, pela fé em seu nome, o nome de Jesus fortaleceu este homem que vocês veem e conhecem; a fé que vem por meio dele lhe deu esta plena saúde diante de todos vocês.",
+  "Agora, irmãos, sei que vocês agiram por ignorância, assim como também seus governantes.",
+  "Mas Deus cumpriu assim o que havia anunciado de antemão pela boca de todos os profetas: que seu Cristo sofreria.",
+  "Arrependam-se, portanto, e voltem-se para Deus, para que seus pecados sejam apagados,",
+  "a fim de que venham tempos de refrigério da presença do Senhor e ele envie o Cristo que lhes foi destinado, Jesus,",
+  "a quem o céu deve receber até os tempos da restauração de todas as coisas, dos quais Deus falou pela boca de seus santos profetas desde a antiguidade.",
+  "Moisés, de fato, disse: O Senhor Deus lhes levantará dentre seus irmãos um profeta como eu; a ele vocês ouvirão em tudo quanto lhes disser.",
+  "E acontecerá que toda pessoa que não ouvir esse profeta será completamente eliminada do meio do povo.",
+  "E também todos os profetas, desde Samuel e os que vieram depois, quantos falaram, anunciaram estes dias.",
+  "Vocês são os filhos dos profetas e da aliança que Deus estabeleceu com seus pais, dizendo a Abraão: Em tua descendência serão abençoadas todas as famílias da terra.",
+  "Deus, tendo levantado seu Servo, enviou-o primeiro a vocês, para abençoá-los, afastando cada um de suas maldades."
+];
+window.ACTS_TEXT[4] = [
+  "Enquanto eles falavam ao povo, chegaram os sacerdotes, o comandante da guarda do templo e os saduceus,",
+  "indignados porque ensinavam o povo e anunciavam, em Jesus, a ressurreição dentre os mortos.",
+  "Prenderam-nos e os colocaram sob custódia até o dia seguinte, pois já era tarde.",
+  "Muitos, porém, dos que ouviram a palavra creram; e o número dos homens chegou a cerca de cinco mil.",
+  "No dia seguinte, reuniram-se em Jerusalém os governantes, os anciãos e os escribas,",
+  "bem como o sumo sacerdote Anás, Caifás, João, Alexandre e todos os que eram da linhagem sacerdotal.",
+  "Colocando-os no meio, perguntaram: Com que poder ou em nome de quem vocês fizeram isso?",
+  "Então Pedro, cheio do Espírito Santo, disse-lhes: Governantes do povo e anciãos,",
+  "se hoje somos interrogados por causa de um benefício feito a um homem enfermo, para saber por qual meio ele foi curado,",
+  "seja conhecido de todos vocês e de todo o povo de Israel: em nome de Jesus Cristo, o Nazareno, a quem vocês crucificaram e a quem Deus ressuscitou dentre os mortos, por ele este homem está aqui diante de vocês com saúde.",
+  "Ele é a pedra desprezada por vocês, os construtores, que se tornou pedra angular.",
+  "E não há salvação em nenhum outro, pois não existe outro nome debaixo do céu, dado entre os seres humanos, pelo qual devamos ser salvos.",
+  "Vendo a ousadia de Pedro e João e percebendo que eram homens sem instrução formal e comuns, ficaram admirados; e reconheceram que eles haviam estado com Jesus.",
+  "E, vendo de pé com eles o homem que fora curado, nada tinham a dizer contra isso.",
+  "Mandando-os sair do conselho, começaram a deliberar entre si,",
+  "dizendo: Que faremos com esses homens? Pois é evidente a todos os habitantes de Jerusalém que um sinal notável aconteceu por meio deles, e não podemos negá-lo.",
+  "Mas, para que isso não se espalhe ainda mais entre o povo, vamos ameaçá-los para que não falem mais a ninguém nesse nome.",
+  "Chamando-os, ordenaram que de modo algum falassem ou ensinassem em nome de Jesus.",
+  "Pedro e João, porém, responderam: Julguem vocês se é justo diante de Deus ouvir a vocês em vez de ouvir a Deus.",
+  "Pois não podemos deixar de falar das coisas que vimos e ouvimos.",
+  "Eles, depois de ameaçá-los novamente, soltaram-nos, não encontrando motivo para puni-los, por causa do povo; pois todos glorificavam a Deus pelo que acontecera.",
+  "Porque o homem em quem se realizara esse sinal de cura tinha mais de quarenta anos.",
+  "Uma vez soltos, foram para os seus e relataram tudo o que os principais sacerdotes e os anciãos lhes haviam dito.",
+  "Ao ouvirem isso, levantaram juntos a voz a Deus e disseram: Soberano Senhor, tu fizeste o céu, a terra, o mar e tudo o que neles há;",
+  "tu disseste, por meio do Espírito Santo, pela boca de nosso pai Davi, teu servo: Por que as nações se enfureceram e os povos imaginaram coisas vãs?",
+  "Os reis da terra se apresentaram, e os governantes se reuniram contra o Senhor e contra o seu Ungido.",
+  "Pois, de fato, nesta cidade se reuniram contra teu santo Servo Jesus, a quem ungiste, Herodes e Pôncio Pilatos, com os gentios e os povos de Israel,",
+  "para fazerem tudo o que tua mão e teu propósito predeterminaram que acontecesse.",
+  "E agora, Senhor, considera as ameaças deles e concede aos teus servos que anunciem tua palavra com toda ousadia,",
+  "enquanto estendes tua mão para curar e realizas sinais e prodígios por meio do nome de teu santo Servo Jesus.",
+  "Depois de orarem, tremeu o lugar onde estavam reunidos; todos ficaram cheios do Espírito Santo e anunciavam a palavra de Deus com ousadia.",
+  "A multidão dos que creram era um só coração e uma só alma; ninguém considerava exclusivamente sua coisa alguma das que possuía, mas tudo entre eles era comum.",
+  "Com grande poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus, e grande graça estava sobre todos eles.",
+  "Pois não havia necessitado algum entre eles; todos os que possuíam terrenos ou casas os vendiam, traziam o valor do que fora vendido",
+  "e o depositavam aos pés dos apóstolos; então se distribuía a cada um conforme alguém tivesse necessidade.",
+  "José, chamado pelos apóstolos Barnabé — que significa Filho da Consolação —, levita, natural de Chipre,",
+  "possuía um campo; vendeu-o, trouxe o dinheiro e o depositou aos pés dos apóstolos."
 ];
