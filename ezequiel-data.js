@@ -78,3 +78,60 @@ window.EZEKIEL_TEXT[3] = [
   "Farei tua língua aderir ao céu da boca, e ficarás mudo; não serás para eles homem que repreende, pois são casa rebelde.",
   "Mas, quando eu falar contigo, abrirei tua boca, e lhes dirás: Assim diz o Senhor YHWH. Quem ouvir, ouça; quem deixar de ouvir, deixe de ouvir, pois são casa rebelde”."
 ];
+
+window.EZEKIEL_TEXT[4] = [
+  "“Tu, filho do homem, toma um tijolo, põe-no diante de ti e grava nele uma cidade: Jerusalém.",
+  "Faz contra ela um cerco, constrói contra ela uma rampa, levanta contra ela um acampamento e coloca aríetes ao redor.",
+  "Toma uma chapa de ferro e põe-na como muro de ferro entre ti e a cidade; fixa teu rosto contra ela, e ela ficará sitiada; tu a cercarás. Isso será sinal para a casa de Israel.",
+  "Deita-te sobre teu lado esquerdo e põe sobre ele a iniquidade da casa de Israel; carregarás sua iniquidade pelo número de dias em que estiveres deitado.",
+  "Pois determinei para ti os anos de sua iniquidade segundo o número de dias: trezentos e noventa dias; assim carregarás a iniquidade da casa de Israel.",
+  "Quando completares esses dias, deita-te novamente sobre teu lado direito e carregarás a iniquidade da casa de Judá por quarenta dias; determinei para ti um dia por ano.",
+  "Volta teu rosto para o cerco de Jerusalém, com o braço descoberto, e profetiza contra ela.",
+  "Eis que ponho cordas sobre ti, para que não te vires de um lado para o outro, até que completes os dias de teu cerco.",
+  "Toma trigo, cevada, favas, lentilhas, painço e espelta; coloca-os num só recipiente e faze deles pão para ti. Comerás dele durante os dias em que estiveres deitado de lado: trezentos e noventa dias.",
+  "O alimento que comerás será pesado: vinte siclos por dia; comerás de tempos em tempos.",
+  "Também beberás água medida: a sexta parte de um him; beberás de tempos em tempos.",
+  "Comerás um pão de cevada, assado sobre excrementos humanos, diante dos olhos deles”.",
+  "YHWH disse: “Assim os filhos de Israel comerão seu pão impuro entre as nações para onde os expulsarei”.",
+  "Então respondi: “Ah, Senhor YHWH! Eis que minha alma nunca foi contaminada; desde minha juventude até agora não comi animal que morreu por si mesmo ou que foi despedaçado, nem carne impura entrou em minha boca”.",
+  "Ele me disse: “Vê, permito que uses esterco de bois em lugar de excrementos humanos; prepararás teu pão sobre ele”.",
+  "Também me disse: “Filho do homem, eis que quebrarei o sustento do pão em Jerusalém; comerão pão pesado e com ansiedade, e beberão água medida e com espanto,",
+  "para que lhes falte pão e água; ficarão espantados uns com os outros e definharão por causa de sua iniquidade”."
+];
+
+window.EZEKIEL_TEXT[5] = [
+  "“Tu, filho do homem, toma uma espada afiada; usa-a como navalha de barbeiro e passa-a sobre tua cabeça e tua barba. Depois toma uma balança e divide os cabelos.",
+  "Queima no fogo uma terça parte no meio da cidade, quando se completarem os dias do cerco; toma outra terça parte e golpeia-a com a espada ao redor da cidade; espalha a última terça parte ao vento, pois desembainharei a espada atrás deles.",
+  "Toma também alguns fios e amarra-os nas abas de tua roupa.",
+  "Toma ainda alguns deles, lança-os no meio do fogo e queima-os; dali sairá fogo contra toda a casa de Israel.",
+  "Assim diz o Senhor YHWH: Esta é Jerusalém; coloquei-a no meio das nações e das terras ao redor.",
+  "Ela se rebelou contra meus julgamentos, praticando maldade mais que as nações, e contra meus estatutos mais que as terras ao redor; pois rejeitaram meus julgamentos e não andaram em meus estatutos.",
+  "Por isso assim diz o Senhor YHWH: Vós vos tornastes mais tumultuosos que as nações ao redor, não andastes em meus estatutos nem praticastes meus julgamentos; nem sequer agistes segundo os julgamentos das nações ao redor.",
+  "Por isso assim diz o Senhor YHWH: Eis que eu, sim eu, sou contra ti; executarei julgamentos no meio de ti, diante das nações.",
+  "Farei contigo o que nunca fiz e o que nunca mais farei, por causa de todas as tuas abominações.",
+  "Por isso pais comerão filhos no meio de ti, e filhos comerão seus pais; executarei julgamentos contra ti e espalharei todo o teu remanescente a todos os ventos.",
+  "Por isso, tão certo como eu vivo”, diz o Senhor YHWH, “visto que profanaste meu santuário com todas as tuas coisas repugnantes e com todas as tuas abominações, também eu te diminuirei; meu olho não poupará, nem terei compaixão.",
+  "Uma terça parte de ti morrerá pela peste e será consumida pela fome no meio de ti; outra terça parte cairá à espada ao teu redor; e espalharei a última terça parte a todos os ventos e desembainharei a espada atrás deles.",
+  "Assim se cumprirá minha ira; satisfarei meu furor contra eles e me consolarei. Saberão que eu, YHWH, falei em meu zelo, quando cumprir neles meu furor.",
+  "Farei de ti desolação e opróbrio entre as nações ao redor, diante dos olhos de todos os que passam.",
+  "Serás opróbrio e zombaria, advertência e espanto para as nações ao redor, quando eu executar julgamentos contra ti com ira, furor e repreensões furiosas. Eu, YHWH, falei.",
+  "Quando enviar contra eles as flechas malignas da fome, que trazem destruição, as quais enviarei para vos destruir, aumentarei a fome contra vós e quebrarei vosso sustento de pão.",
+  "Enviarei contra vós fome e animais ferozes, que vos deixarão sem filhos; peste e sangue passarão por ti, e trarei a espada contra ti. Eu, YHWH, falei”."
+];
+
+window.EZEKIEL_TEXT[6] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Filho do homem, volta teu rosto para os montes de Israel e profetiza contra eles.",
+  "Dize: Montes de Israel, ouvi a palavra do Senhor YHWH. Assim diz o Senhor YHWH aos montes, às colinas, aos ribeiros e aos vales: Eis que trarei contra vós a espada e destruirei vossos lugares altos.",
+  "Vossos altares serão devastados, vossos altares de incenso serão quebrados; farei cair vossos mortos diante de vossos ídolos.",
+  "Porei os cadáveres dos filhos de Israel diante de seus ídolos e espalharei vossos ossos ao redor de vossos altares.",
+  "Em todos os vossos lugares de habitação as cidades serão arruinadas, e os lugares altos ficarão desolados; vossos altares serão arruinados e abandonados, vossos ídolos serão quebrados e deixarão de existir; vossos altares de incenso serão cortados, e vossas obras serão apagadas.",
+  "Os mortos cairão no meio de vós, e sabereis que eu sou YHWH.",
+  "Mas deixarei um remanescente, pois alguns de vós escaparão da espada entre as nações, quando fordes espalhados pelas terras.",
+  "Os que escaparem de vós se lembrarão de mim entre as nações para onde forem levados cativos, pois fui quebrantado por seu coração adúltero, que se afastou de mim, e por seus olhos que se prostituíram seguindo seus ídolos; sentirão repugnância de si mesmos por causa dos males que fizeram, por todas as suas abominações.",
+  "Saberão que eu sou YHWH; não falei em vão que lhes faria este mal”.",
+  "Assim diz o Senhor YHWH: “Bate as mãos, bate o pé e dize: Ai! por todas as abominações malignas da casa de Israel, pois cairão pela espada, pela fome e pela peste.",
+  "Quem estiver longe morrerá pela peste; quem estiver perto cairá pela espada; quem restar e for preservado morrerá de fome. Assim satisfarei meu furor contra eles.",
+  "Saberão que eu sou YHWH, quando seus mortos estiverem entre seus ídolos, ao redor de seus altares, sobre todo monte alto, em todos os cumes das colinas e debaixo de toda árvore verde e de todo carvalho frondoso, nos lugares onde ofereceram aroma agradável a todos os seus ídolos.",
+  "Estenderei minha mão contra eles e farei da terra uma desolação e um espanto, desde o deserto até Dibla, em todas as suas moradas; saberão que eu sou YHWH”."
+];
