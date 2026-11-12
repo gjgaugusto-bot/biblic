@@ -292,3 +292,75 @@ window.ISAIAH_TEXT[12] = [
   "Cantai louvores a YHWH, pois fez coisas magníficas; que isso seja conhecido em toda a terra.",
   "Clama e exulta, habitante de Sião, pois grande é no meio de ti o Santo de Israel”."
 ];
+
+window.ISAIAH_TEXT[13] = [
+  "Oráculo contra a Babilônia, que Isaías, filho de Amoz, recebeu em visão.",
+  "Levantai um estandarte sobre um monte desnudo; erguei a voz para eles, acenai com a mão, para que entrem pelas portas dos nobres.",
+  "Eu mesmo dei ordens aos meus consagrados; chamei também meus valentes para executar minha ira, os que exultam em minha majestade.",
+  "Há um ruído de multidão nos montes, como o de um povo numeroso; há um tumulto de reinos, de nações reunidas. YHWH dos Exércitos passa em revista o exército para a guerra.",
+  "Vêm de uma terra distante, desde os confins dos céus: YHWH e os instrumentos de sua indignação, para destruir toda a terra.",
+  "Uivai, pois o dia de YHWH está próximo; virá como destruição da parte do Todo-Poderoso.",
+  "Por isso todas as mãos ficarão fracas, e todo coração humano se derreterá.",
+  "Ficarão aterrorizados; dores e angústias os dominarão; terão dores como a mulher que dá à luz. Olharão uns para os outros espantados; seus rostos estarão em chamas.",
+  "Eis que vem o dia de YHWH, cruel, com furor e ira ardente, para fazer da terra uma desolação e eliminar dela os pecadores.",
+  "Pois as estrelas dos céus e suas constelações não darão sua luz; o sol escurecerá ao nascer, e a lua não fará resplandecer sua luz.",
+  "Castigarei o mundo por sua maldade e os perversos por sua iniquidade; farei cessar a arrogância dos soberbos e abaterei a altivez dos violentos.",
+  "Farei o homem mais raro que o ouro puro, e a humanidade, mais rara que o ouro de Ofir.",
+  "Por isso farei tremer os céus, e a terra será sacudida de seu lugar, por causa da ira de YHWH dos Exércitos, no dia de seu furor ardente.",
+  "Será como gazela perseguida e como ovelhas sem quem as reúna; cada um voltará para seu próprio povo, e cada um fugirá para sua terra.",
+  "Todo o que for encontrado será traspassado, e todo o que for apanhado cairá à espada.",
+  "Seus pequeninos serão despedaçados diante de seus olhos; suas casas serão saqueadas, e suas mulheres violentadas.",
+  "Eis que suscitarei contra eles os medos, que não se importarão com a prata nem desejarão ouro.",
+  "Seus arcos despedaçarão os jovens; não terão compaixão do fruto do ventre, e seus olhos não pouparão as crianças.",
+  "Babilônia, a joia dos reinos, o esplendor e orgulho dos caldeus, será como Sodoma e Gomorra quando Deus as destruiu.",
+  "Nunca mais será habitada, nem será povoada de geração em geração; o árabe não armará ali sua tenda, nem os pastores farão seus rebanhos repousar ali.",
+  "Mas animais do deserto se deitarão ali, e suas casas ficarão cheias de criaturas uivantes; ali habitarão avestruzes, e bodes selvagens saltarão.",
+  "Hienas uivarão em suas fortalezas, e chacais nos palácios de prazer. Seu tempo está próximo, e seus dias não serão prolongados."
+];
+
+window.ISAIAH_TEXT[14] = [
+  "Pois YHWH terá compaixão de Jacó e tornará a escolher Israel; fará com que descansem em sua própria terra, e estrangeiros se juntarão a eles e se apegarão à casa de Jacó.",
+  "Os povos os tomarão e os levarão ao seu lugar; a casa de Israel os possuirá na terra de YHWH como servos e servas. Levarão cativos os que os haviam levado cativos e dominarão sobre seus opressores.",
+  "No dia em que YHWH te der descanso de tua dor, de tua inquietação e da dura servidão a que foste submetido,",
+  "proferirás este cântico contra o rei da Babilônia e dirás: “Como cessou o opressor! Como terminou a arrogância!",
+  "YHWH quebrou o bastão dos perversos, o cetro dos governantes,",
+  "aquele que golpeava os povos com furor, com golpes incessantes, que dominava as nações com ira e as perseguia sem descanso.",
+  "Toda a terra repousa e está tranquila; irrompem em cânticos de alegria.",
+  "Até os ciprestes se alegram por tua causa, e os cedros do Líbano dizem: ‘Desde que caíste, nenhum lenhador subiu contra nós’.",
+  "O mundo dos mortos, lá embaixo, se agita por tua causa, para receber tua chegada; desperta por ti os mortos, todos os chefes da terra; faz levantar de seus tronos todos os reis das nações.",
+  "Todos eles falarão e te dirão: ‘Também tu foste enfraquecido como nós; tornaste-te semelhante a nós!’",
+  "Tua pompa foi lançada ao mundo dos mortos, junto com o som de tuas harpas; debaixo de ti há larvas como cama, e vermes são tua coberta.",
+  "Como caíste dos céus, estrela da manhã, filho da aurora! Como foste lançado por terra, tu que abatias as nações!",
+  "Tu dizias em teu coração: ‘Subirei aos céus; acima das estrelas de Deus exaltarei meu trono; sentar-me-ei no monte da assembleia, nos confins do norte.",
+  "Subirei acima das alturas das nuvens; serei semelhante ao Altíssimo’.",
+  "Mas serás levado ao mundo dos mortos, às profundezas da cova.",
+  "Os que te virem te observarão atentamente e refletirão sobre ti: ‘É este o homem que fazia a terra tremer, que abalava reinos,",
+  "que fazia do mundo um deserto, destruía suas cidades e não soltava seus prisioneiros para voltarem para casa?’",
+  "Todos os reis das nações, todos eles, jazem com honra, cada um em seu túmulo.",
+  "Tu, porém, foste lançado fora de teu túmulo como ramo abominável, vestido de mortos traspassados pela espada, que descem às pedras da cova; como cadáver pisoteado.",
+  "Não te juntarás a eles no sepultamento, pois destruíste tua terra e mataste teu povo. Nunca mais será mencionado o descendente dos malfeitores.",
+  "Preparai a matança de seus filhos por causa da iniquidade de seus pais, para que não se levantem, nem possuam a terra, nem encham de cidades a face do mundo.",
+  "“Levantar-me-ei contra eles”, diz YHWH dos Exércitos, “e eliminarei da Babilônia nome e remanescente, descendência e posteridade”, diz YHWH.",
+  "“Farei dela propriedade de ouriços e pântanos; varrê-la-ei com a vassoura da destruição”, diz YHWH dos Exércitos.",
+  "YHWH dos Exércitos jurou: “Certamente, como planejei, assim acontecerá; como determinei, assim se cumprirá:",
+  "quebrarei a Assíria em minha terra e a pisarei em meus montes; seu jugo será removido de sobre eles, e seu fardo será tirado de seus ombros”.",
+  "Este é o plano determinado contra toda a terra, e esta é a mão estendida contra todas as nações.",
+  "Pois YHWH dos Exércitos determinou, e quem o anulará? Sua mão está estendida, e quem a fará voltar?",
+  "No ano da morte do rei Acaz, veio este oráculo:",
+  "“Não te alegres, Filístia inteira, porque foi quebrado o bastão que te feria; pois da raiz da serpente sairá uma víbora, e seu fruto será serpente voadora.",
+  "Os primogênitos dos pobres pastarão, e os necessitados repousarão em segurança; mas farei morrer de fome tua raiz, e teus sobreviventes serão mortos.",
+  "Uiva, ó porta! Grita, ó cidade! Derrete-te de medo, Filístia inteira, pois do norte vem fumaça, e ninguém abandona seu posto”.",
+  "Que resposta se dará aos mensageiros da nação? Que YHWH fundou Sião, e nela os aflitos de seu povo encontrarão refúgio."
+];
+
+window.ISAIAH_TEXT[15] = [
+  "Oráculo contra Moabe. Ar foi devastada numa noite e destruída; Quir foi devastada numa noite e destruída.",
+  "Subiu ao templo e a Dibom, aos lugares altos, para chorar. Moabe lamenta por Nebo e Medeba; todas as cabeças estão calvas, e toda barba foi cortada.",
+  "Nas ruas vestem pano de saco; nos telhados e nas praças todos uivam, descendo em lágrimas.",
+  "Hesbom e Eleale gritam; sua voz é ouvida até Jaza. Por isso os guerreiros de Moabe clamam; sua alma treme dentro deles.",
+  "Meu coração clama por Moabe; seus fugitivos chegam a Zoar e a Eglate-Selisia. Sobem a ladeira de Luíte chorando; no caminho de Horonaim levantam um clamor de destruição.",
+  "Pois as águas de Ninrim se tornaram desolação; a relva secou, a vegetação desapareceu, e não há mais verdura.",
+  "Por isso levam a riqueza que ajuntaram e seus bens guardados para além do ribeiro dos Salgueiros.",
+  "O clamor percorre todo o território de Moabe; seu uivo chega a Eglaim, e seu lamento, a Beer-Elim.",
+  "Pois as águas de Dimom estão cheias de sangue; contudo, trarei ainda mais sobre Dimom: um leão para os fugitivos de Moabe e para o remanescente da terra."
+];
