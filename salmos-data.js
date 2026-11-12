@@ -1,6 +1,6 @@
 /* Salmos — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ps.
- * Progresso: salmos 1–5 de 150; 49 versículos. Não publicar até concluir e conferir os 150 salmos.
+ * Progresso: salmos 1–118 concluídos; Salmo 119 em andamento (44/176 versículos). Não publicar até concluir e conferir os 150 salmos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.PSALMS_TEXT = window.PSALMS_TEXT || {};
@@ -2380,4 +2380,51 @@ window.PSALMS_TEXT[118] = [
   "YHWH é Deus, e ele nos deu luz. Atai o sacrifício festivo com cordas até as pontas do altar.",
   "Tu és meu Deus, e eu te darei graças; meu Deus, eu te exaltarei.",
   "Dai graças a YHWH, pois ele é bom, porque sua lealdade dura para sempre."
+];
+
+window.PSALMS_TEXT[119] = [
+  "Felizes os íntegros em seu caminho, os que andam na instrução de YHWH.",
+  "Felizes os que guardam seus testemunhos e o buscam de todo o coração.",
+  "Não praticam injustiça; andam em seus caminhos.",
+  "Tu ordenaste teus preceitos para que sejam guardados com diligência.",
+  "Quem dera meus caminhos fossem firmes para guardar teus estatutos!",
+  "Então não serei envergonhado quando considerar todos os teus mandamentos.",
+  "Darei graças a ti com coração reto quando aprender teus justos julgamentos.",
+  "Guardarei teus estatutos; não me abandones completamente.",
+  "Como poderá o jovem manter puro seu caminho? Guardando-o segundo tua palavra.",
+  "De todo o coração te busquei; não permitas que eu me desvie de teus mandamentos.",
+  "Guardei tua palavra no coração para não pecar contra ti.",
+  "Bendito és tu, YHWH; ensina-me teus estatutos.",
+  "Com meus lábios declarei todos os julgamentos de tua boca.",
+  "Alegro-me no caminho de teus testemunhos mais do que em todas as riquezas.",
+  "Meditarei em teus preceitos e considerarei teus caminhos.",
+  "Terei prazer em teus estatutos; não me esquecerei de tua palavra.",
+  "Trata com bondade teu servo, para que eu viva e guarde tua palavra.",
+  "Abre meus olhos, para que eu contemple as maravilhas de tua instrução.",
+  "Sou estrangeiro na terra; não escondas de mim teus mandamentos.",
+  "Minha alma se consome de desejo por teus julgamentos em todo tempo.",
+  "Repreendeste os arrogantes, os malditos que se desviam de teus mandamentos.",
+  "Afasta de mim o insulto e o desprezo, pois guardei teus testemunhos.",
+  "Mesmo que príncipes se assentem e falem contra mim, teu servo meditará em teus estatutos.",
+  "Também teus testemunhos são meu prazer e meus conselheiros.",
+  "Minha alma está apegada ao pó; vivifica-me segundo tua palavra.",
+  "Contei meus caminhos, e tu me respondeste; ensina-me teus estatutos.",
+  "Faze-me compreender o caminho de teus preceitos, e meditarei em tuas maravilhas.",
+  "Minha alma se derrete de tristeza; fortalece-me segundo tua palavra.",
+  "Afasta de mim o caminho da falsidade e concede-me tua instrução por tua graça.",
+  "Escolhi o caminho da fidelidade; pus diante de mim teus julgamentos.",
+  "Apego-me a teus testemunhos; YHWH, não permitas que eu seja envergonhado.",
+  "Correrei pelo caminho de teus mandamentos, pois alargaste meu coração.",
+  "Ensina-me, YHWH, o caminho de teus estatutos, e eu o guardarei até o fim.",
+  "Dá-me entendimento, e guardarei tua instrução; observá-la-ei de todo o coração.",
+  "Faze-me andar na vereda de teus mandamentos, pois nela tenho prazer.",
+  "Inclina meu coração para teus testemunhos, e não para a ganância.",
+  "Desvia meus olhos de contemplarem a vaidade; vivifica-me em teu caminho.",
+  "Confirma a teu servo tua promessa, que conduz ao temor de ti.",
+  "Afasta o insulto que temo, pois teus julgamentos são bons.",
+  "Eis que desejo teus preceitos; vivifica-me por tua justiça.",
+  "Que tua lealdade venha também a mim, YHWH, tua salvação conforme tua palavra,",
+  "para que eu tenha resposta ao que me insulta, pois confio em tua palavra.",
+  "Não tires completamente de minha boca a palavra da verdade, pois espero em teus julgamentos.",
+  "Guardarei tua instrução continuamente, para todo o sempre."
 ];
