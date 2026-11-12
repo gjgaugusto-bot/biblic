@@ -2,7 +2,7 @@
  * Texto-base: SBL Greek New Testament (SBLGNT), ed. Michael W. Holmes, © SBL/Logos, CC BY 4.0.
  * Segmentação e conferência: MorphGNT SBLGNT Edition v6.12, CC BY-SA 3.0.
  * Referências: https://www.sblgnt.com/license/ e https://github.com/morphgnt/sblgnt
- * Progresso: capítulos 1–3 de 21; 112 versículos de 879. Não integrar/publicar até concluir e conferir o livro.
+ * Progresso: capítulos 1–6 de 21; 284 versículos de 879. Não integrar/publicar até concluir e conferir o livro.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.JOHN_TEXT = window.JOHN_TEXT || {};
@@ -190,7 +190,7 @@ window.JOHN_TEXT[5] = [
   "Depois disso, havia uma festa dos judeus, e Jesus subiu a Jerusalém.",
   "Em Jerusalém, junto à Porta das Ovelhas, há um tanque chamado em hebraico Betesda, com cinco pórticos.",
   "Neles jazia grande número de enfermos: cegos, coxos e paralíticos.",
-  "",
+  "〔O versículo 4 não consta do texto-base crítico adotado; a numeração tradicional é preservada.〕",
   "Havia ali um homem enfermo havia trinta e oito anos.",
   "Jesus o viu deitado e, sabendo que estava assim havia muito tempo, perguntou-lhe: Queres ser curado?",
   "O enfermo respondeu: Senhor, não tenho ninguém que me coloque no tanque quando a água é agitada; enquanto vou, outro desce antes de mim.",
