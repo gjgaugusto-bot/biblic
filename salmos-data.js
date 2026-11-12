@@ -1,6 +1,6 @@
 /* Salmos — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ps.
- * Progresso: salmos 1–118 concluídos; Salmo 119 em andamento (44/176 versículos). Não publicar até concluir e conferir os 150 salmos.
+ * Progresso: salmos 1–118 concluídos; Salmo 119 em andamento (132/176 versículos). Não publicar até concluir e conferir os 150 salmos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.PSALMS_TEXT = window.PSALMS_TEXT || {};
@@ -2473,5 +2473,46 @@ window.PSALMS_TEXT[119] = [
   "Os arrogantes cavaram covas para mim, homens que não seguem tua instrução.",
   "Todos os teus mandamentos são fiéis; perseguem-me sem motivo; ajuda-me!",
   "Quase me eliminaram da terra, mas não abandonei teus preceitos.",
-  "Vivifica-me segundo tua lealdade, e guardarei o testemunho de tua boca."
+  "Vivifica-me segundo tua lealdade, e guardarei o testemunho de tua boca.",
+  "Elas permanecem firmes até hoje, conforme teus julgamentos, pois todas as coisas te servem.",
+  "Se tua instrução não fosse meu prazer, eu já teria perecido em minha aflição.",
+  "Jamais me esquecerei de teus preceitos, pois por eles me deste vida.",
+  "Sou teu; salva-me, pois busquei teus preceitos.",
+  "Os perversos me espreitam para me destruir; considero teus testemunhos.",
+  "Vi que toda perfeição tem limite, mas teu mandamento é imenso.",
+  "Quanto amo tua instrução! É minha meditação o dia inteiro.",
+  "Teus mandamentos me tornam mais sábio que meus inimigos, pois estão sempre comigo.",
+  "Tenho mais entendimento que todos os meus mestres, pois medito em teus testemunhos.",
+  "Sou mais entendido que os idosos, porque guardo teus preceitos.",
+  "Desviei meus pés de todo caminho mau, para guardar tua palavra.",
+  "Não me afastei de teus julgamentos, pois tu me ensinaste.",
+  "Quão doces são tuas palavras ao meu paladar! Mais doces que o mel à minha boca.",
+  "Por teus preceitos adquiro entendimento; por isso odeio todo caminho de falsidade.",
+  "Tua palavra é lâmpada para meus pés e luz para meu caminho.",
+  "Jurei e confirmei que guardarei teus justos julgamentos.",
+  "Estou muito aflito; vivifica-me, YHWH, segundo tua palavra.",
+  "Aceita, YHWH, as ofertas voluntárias de minha boca e ensina-me teus julgamentos.",
+  "Minha vida está continuamente em minhas mãos, mas não me esqueço de tua instrução.",
+  "Os perversos armam uma rede para mim, mas não me desvio de teus preceitos.",
+  "Teus testemunhos são minha herança para sempre, pois são a alegria de meu coração.",
+  "Inclinei meu coração a praticar teus estatutos para sempre, até o fim.",
+  "Odeio os que têm coração dividido, mas amo tua instrução.",
+  "Tu és meu esconderijo e meu escudo; espero em tua palavra.",
+  "Afastai-vos de mim, malfeitores, para que eu guarde os mandamentos de meu Deus.",
+  "Sustenta-me conforme tua promessa, para que eu viva; não permitas que minha esperança me envergonhe.",
+  "Ampara-me, e serei salvo; terei sempre prazer em teus estatutos.",
+  "Tu rejeitas todos os que se desviam de teus estatutos, pois seu engano é inútil.",
+  "Tu eliminas como escória todos os perversos da terra; por isso amo teus testemunhos.",
+  "Meu corpo treme de temor diante de ti, e temo teus julgamentos.",
+  "Pratiquei julgamento e justiça; não me entregues aos meus opressores.",
+  "Sê fiador de teu servo para o bem; não permitas que os arrogantes me oprimam.",
+  "Meus olhos se consomem esperando tua salvação e a palavra de tua justiça.",
+  "Age com teu servo segundo tua lealdade e ensina-me teus estatutos.",
+  "Sou teu servo; dá-me entendimento para conhecer teus testemunhos.",
+  "É tempo de YHWH agir, pois violaram tua instrução.",
+  "Por isso amo teus mandamentos mais que o ouro, mais que o ouro puro.",
+  "Por isso considero retos todos os teus preceitos e odeio todo caminho de falsidade.",
+  "Maravilhosos são teus testemunhos; por isso minha alma os guarda.",
+  "A abertura de tuas palavras ilumina e dá entendimento aos simples.",
+  "Abro a boca e suspiro, pois anseio por teus mandamentos."
 ];
