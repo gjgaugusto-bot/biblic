@@ -75,6 +75,11 @@ try {
   assert.ok((await page.locator("#reader").innerText()).includes("Preparei o primeiro relato"), "Atos 1 deve carregar a tradução baseada no grego");
   assert.equal(await page.locator("#reader .verse-entry").count(), 26, "Atos 1 deve apresentar os 26 versículos da estrutura SBLGNT");
   await scanAccessibility(page, "Atos capítulo 1");
+  await page.locator("#chapterList").click();
+  await page.locator("#chapterLinks [data-chapter-number=\"2\"]").click();
+  assert.ok((await page.locator("#reader").innerText()).includes("dia de Pentecostes"), "Atos 2 deve carregar a tradução baseada no grego");
+  assert.equal(await page.locator("#reader .verse-entry").count(), 47, "Atos 2 deve apresentar os 47 versículos da estrutura SBLGNT");
+  await scanAccessibility(page, "Atos capítulo 2");
 
   await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
@@ -199,7 +204,7 @@ try {
     failures.push(`${axeFindings.length} violações detectáveis de acessibilidade`);
   }
   if (failures.length) throw new Error(failures.join("; "));
-  console.log("TESTES DE NAVEGADOR APROVADOS: 66 livros, ficha do livro, capítulo 4, abas, persistência, categorias da biblioteca, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
+  console.log("TESTES DE NAVEGADOR APROVADOS: 66 livros, Atos 1 (26 versículos), Atos 2 (47 versículos), ficha do livro, capítulo 4, abas, persistência, categorias da biblioteca, simbologia, personagem, guia, exportação, importação, limpeza, celular e acessibilidade.");
 } catch (error) {
   console.error("FALHA NOS TESTES DE NAVEGADOR:", error);
   process.exitCode = 1;
