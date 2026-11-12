@@ -1252,3 +1252,58 @@ window.ISAIAH_TEXT[54] = [
   "Eis que eu criei o ferreiro, que sopra as brasas do fogo e produz uma arma para seu trabalho; também criei o destruidor para arruinar.",
   "Nenhuma arma forjada contra ti prosperará, e toda língua que se levantar contra ti em julgamento condenarás. Esta é a herança dos servos de YHWH, e sua justiça vem de mim, diz YHWH."
 ];
+
+window.ISAIAH_TEXT[55] = [
+  "Ah, todos vós que tendes sede, vinde às águas; e vós que não tendes dinheiro, vinde, comprai e comei! Vinde, comprai vinho e leite sem dinheiro e sem preço.",
+  "Por que gastais dinheiro naquilo que não é pão, e vosso trabalho naquilo que não satisfaz? Ouvi-me atentamente e comei o que é bom; deleite-se vossa alma com alimento rico.",
+  "Inclinai o ouvido e vinde a mim; ouvi, e vossa alma viverá. Farei convosco uma aliança eterna, as lealdades firmes prometidas a Davi.",
+  "Eis que o constituí testemunha para os povos, príncipe e comandante das nações.",
+  "Eis que chamarás uma nação que não conheces, e uma nação que não te conhece correrá a ti, por causa de YHWH, teu Deus, e do Santo de Israel, pois ele te glorificou.",
+  "Buscai YHWH enquanto pode ser encontrado; invocai-o enquanto está perto.",
+  "Que o perverso abandone seu caminho, e o homem iníquo, seus pensamentos; que volte para YHWH, e ele terá misericórdia dele; volte para nosso Deus, pois ele perdoa abundantemente.",
+  "“Pois meus pensamentos não são vossos pensamentos, nem vossos caminhos são meus caminhos”, diz YHWH.",
+  "“Assim como os céus são mais altos que a terra, assim meus caminhos são mais altos que vossos caminhos, e meus pensamentos, mais altos que vossos pensamentos.",
+  "Pois assim como a chuva e a neve descem dos céus e para lá não voltam sem regar a terra, fazê-la produzir e brotar, dando semente ao semeador e pão ao que come,",
+  "assim será minha palavra que sai de minha boca: não voltará para mim vazia, mas fará o que desejo e prosperará naquilo para que a enviei.",
+  "Pois saireis com alegria e sereis conduzidos em paz; os montes e as colinas romperão em cânticos diante de vós, e todas as árvores do campo baterão palmas.",
+  "Em lugar do espinheiro crescerá o cipreste; em lugar da urtiga crescerá a murta. Isso será para YHWH como nome e sinal eterno, que não será eliminado”."
+];
+
+window.ISAIAH_TEXT[56] = [
+  "Assim diz YHWH: “Guardai o direito e praticai a justiça, pois minha salvação está prestes a vir, e minha justiça, a ser revelada.",
+  "Feliz o homem que faz isso, e o filho do homem que se apega a isso: que guarda o sábado e não o profana, e que guarda sua mão de praticar qualquer mal”.",
+  "Que o estrangeiro que se uniu a YHWH não diga: “YHWH certamente me separará de seu povo”; e que o eunuco não diga: “Eis que sou uma árvore seca”.",
+  "Pois assim diz YHWH aos eunucos que guardam meus sábados, escolhem o que me agrada e se apegam à minha aliança:",
+  "“Darei a eles, em minha casa e dentro de meus muros, um monumento e um nome melhor que filhos e filhas; darei a cada um nome eterno, que não será eliminado.",
+  "Quanto aos estrangeiros que se unem a YHWH para servi-lo, para amar o nome de YHWH e serem seus servos, todos os que guardam o sábado sem profaná-lo e se apegam à minha aliança,",
+  "eu os levarei ao meu santo monte e os alegrarei em minha casa de oração; seus holocaustos e sacrifícios serão aceitos sobre meu altar, pois minha casa será chamada casa de oração para todos os povos”.",
+  "O Senhor YHWH, que reúne os dispersos de Israel, declara: “Ainda reunirei outros a ele, além dos que já foram reunidos”.",
+  "Todos os animais do campo, vinde comer; todos os animais da floresta!",
+  "Seus vigias são cegos; nenhum deles sabe coisa alguma. Todos são cães mudos, incapazes de latir; sonham, ficam deitados e amam dormir.",
+  "São cães vorazes, que nunca se fartam; são pastores sem entendimento; todos se voltam para seu próprio caminho, cada um para seu ganho, sem exceção.",
+  "“Vinde”, dizem, “trarei vinho, e nos embriagaremos de bebida forte; amanhã será como hoje, e muito melhor”."
+];
+
+window.ISAIAH_TEXT[57] = [
+  "O justo perece, e ninguém leva isso a sério; homens leais são recolhidos, e ninguém entende que o justo é recolhido por causa do mal.",
+  "Ele entra na paz; repousam em seus leitos os que andam em retidão.",
+  "Mas vós, aproximai-vos, filhos da feiticeira, descendência do adúltero e da prostituta!",
+  "De quem zombais? Contra quem abris a boca e estendeis a língua? Não sois filhos da transgressão, descendência da mentira,",
+  "vós que vos inflamais entre os carvalhos, debaixo de toda árvore verde, que sacrificais crianças nos vales, debaixo das fendas das rochas?",
+  "Entre as pedras lisas do vale está tua porção; elas, elas são tua sorte. Também lhes derramaste ofertas de bebida e apresentaste ofertas de cereal. Deveria eu consolar-me com essas coisas?",
+  "Sobre um monte alto e elevado puseste teu leito; também subiste ali para oferecer sacrifício.",
+  "Atrás da porta e dos batentes colocaste teu memorial; afastaste-te de mim, descobriste teu leito e subiste nele; fizeste aliança com eles, amaste seu leito e contemplaste sua nudez.",
+  "Foste ao rei com óleo e multiplicaste teus perfumes; enviaste teus mensageiros para longe e te rebaixaste até o mundo dos mortos.",
+  "Na longa jornada te cansaste, mas não disseste: “Não há esperança”. Encontraste renovação de força; por isso não desfaleceste.",
+  "De quem tiveste medo e receio, para que mentisses e não te lembrasses de mim nem o pusesses no coração? Não fiquei em silêncio por muito tempo? E não me temeste?",
+  "Eu anunciarei tua justiça e tuas obras, mas elas não te aproveitarão.",
+  "Quando clamares, que teu ajuntamento de ídolos te livre! O vento os levará a todos, um sopro os arrebatará; mas quem se refugia em mim herdará a terra e possuirá meu santo monte.",
+  "Dir-se-á: “Aterrai, aterrai, preparai o caminho; removei os obstáculos do caminho de meu povo”.",
+  "Pois assim diz o Alto e Sublime, que habita a eternidade e cujo nome é Santo: “Habito no lugar alto e santo, mas também com o contrito e humilde de espírito, para vivificar o espírito dos humildes e vivificar o coração dos contritos.",
+  "Pois não contenderei para sempre, nem ficarei irado eternamente, porque o espírito desfaleceria diante de mim, e o fôlego dos que criei.",
+  "Por causa da iniquidade de sua ganância fiquei irado e o feri; escondi meu rosto e me indignei, mas ele continuou rebelde, seguindo o caminho de seu coração.",
+  "Vi seus caminhos, mas o curarei; eu o guiarei e lhe darei consolo, a ele e aos que choram com ele.",
+  "Crio o fruto dos lábios: paz, paz para o que está longe e para o que está perto”, diz YHWH, “e eu o curarei”.",
+  "Mas os perversos são como o mar agitado, que não pode aquietar-se, cujas águas lançam lama e lodo.",
+  "“Não há paz para os perversos”, diz meu Deus."
+];
