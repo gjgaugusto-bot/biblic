@@ -1307,3 +1307,69 @@ window.ISAIAH_TEXT[57] = [
   "Mas os perversos são como o mar agitado, que não pode aquietar-se, cujas águas lançam lama e lodo.",
   "“Não há paz para os perversos”, diz meu Deus."
 ];
+
+window.ISAIAH_TEXT[58] = [
+  "Clama em alta voz, não te contenhas; levanta tua voz como trombeta e anuncia a meu povo sua transgressão, e à casa de Jacó, seus pecados.",
+  "Eles me procuram dia após dia e têm prazer em conhecer meus caminhos, como nação que praticou justiça e não abandonou o direito de seu Deus; pedem-me julgamentos justos e têm prazer em se aproximar de Deus.",
+  "“Por que jejuamos, e tu não vês? Por que afligimos nossa alma, e tu não notas?” Eis que no dia de vosso jejum procurais vosso próprio prazer e exigis todo o vosso trabalho.",
+  "Eis que jejuais para contendas e disputas e para ferir com punho perverso. Não jejueis como hoje, para fazer ouvir vossa voz no alto.",
+  "Seria este o jejum que escolhi, o dia em que o homem aflige sua alma? Inclinar a cabeça como junco e deitar-se sobre pano de saco e cinzas? Chamarias isso jejum e dia aceitável a YHWH?",
+  "Não é este o jejum que escolhi: soltar as correntes da perversidade, desatar as cordas do jugo, deixar livres os oprimidos e quebrar todo jugo?",
+  "Não é repartir teu pão com o faminto, trazer para casa os pobres desabrigados, vestir o nu quando o vires e não te esconder de tua própria carne?",
+  "Então tua luz romperá como a aurora, e tua cura brotará depressa; tua justiça irá adiante de ti, e a glória de YHWH será tua retaguarda.",
+  "Então clamarás, e YHWH responderá; gritarás por socorro, e ele dirá: “Eis-me aqui”. Se removeres do meio de ti o jugo, o apontar do dedo e a fala perversa,",
+  "se ofereceres tua alma ao faminto e satisfizeres a alma aflita, tua luz nascerá nas trevas, e tua escuridão será como o meio-dia.",
+  "YHWH te guiará continuamente, satisfará tua alma em lugares secos e fortalecerá teus ossos; serás como jardim regado e como fonte cujas águas nunca falham.",
+  "Os teus reconstruirão as ruínas antigas; levantarás os fundamentos de muitas gerações. Serás chamado reparador de brechas, restaurador de caminhos para habitar.",
+  "Se desviares teu pé do sábado, de fazer teu próprio prazer em meu santo dia, e chamares o sábado deleite, santo e honrado de YHWH, e o honrares, não seguindo teus próprios caminhos, não buscando teu prazer nem falando palavras vãs,",
+  "então te deleitarás em YHWH, e eu te farei cavalgar sobre as alturas da terra; alimentar-te-ei com a herança de Jacó, teu pai, pois a boca de YHWH falou."
+];
+
+window.ISAIAH_TEXT[59] = [
+  "Eis que a mão de YHWH não está curta demais para salvar, nem seu ouvido pesado demais para ouvir.",
+  "Mas vossas iniquidades fizeram separação entre vós e vosso Deus; vossos pecados esconderam de vós o rosto dele, para que não ouvisse.",
+  "Pois vossas mãos estão manchadas de sangue, e vossos dedos, de iniquidade; vossos lábios falam mentiras, e vossa língua murmura perversidade.",
+  "Ninguém clama por justiça, e ninguém pleiteia com verdade. Confiam na vaidade e falam falsidade; concebem maldade e dão à luz iniquidade.",
+  "Chocam ovos de víbora e tecem teias de aranha; quem come de seus ovos morre, e do ovo esmagado sai uma serpente.",
+  "Suas teias não servirão de roupa, nem se cobrirão com suas obras; suas obras são obras de iniquidade, e atos de violência estão em suas mãos.",
+  "Seus pés correm para o mal e se apressam a derramar sangue inocente; seus pensamentos são pensamentos de iniquidade; devastação e destruição estão em seus caminhos.",
+  "Não conhecem o caminho da paz, e não há justiça em suas veredas; fizeram para si caminhos tortuosos; quem anda neles não conhece a paz.",
+  "Por isso o direito está longe de nós, e a justiça não nos alcança. Esperamos pela luz, mas eis trevas; pelo brilho, mas andamos na escuridão.",
+  "Tateamos como cegos junto ao muro; como quem não tem olhos, tateamos. Tropeçamos ao meio-dia como no crepúsculo; entre os vigorosos somos como mortos.",
+  "Todos rugimos como ursos e gememos como pombas; esperamos pelo direito, mas não há, pela salvação, mas está longe de nós.",
+  "Pois nossas transgressões se multiplicaram diante de ti, e nossos pecados testemunham contra nós; nossas transgressões estão conosco, e conhecemos nossas iniquidades:",
+  "transgredir e negar YHWH, afastar-nos de nosso Deus, falar opressão e rebelião, conceber e proferir do coração palavras falsas.",
+  "O direito recuou, e a justiça ficou distante; pois a verdade tropeçou na praça, e a retidão não pode entrar.",
+  "A verdade desapareceu, e quem se afasta do mal torna-se presa. YHWH viu isso e foi mau aos seus olhos que não houvesse justiça.",
+  "Viu que não havia homem algum e admirou-se de que ninguém intercedesse; então seu próprio braço lhe trouxe salvação, e sua justiça o sustentou.",
+  "Vestiu a justiça como couraça e pôs na cabeça o capacete da salvação; vestiu roupas de vingança como vestimenta e envolveu-se de zelo como manto.",
+  "Segundo as obras, assim retribuirá: furor aos adversários, retribuição aos inimigos; às ilhas dará a devida retribuição.",
+  "Então temerão o nome de YHWH desde o Ocidente, e sua glória desde o nascente do sol; quando o adversário vier como rio, o sopro de YHWH o impelirá.",
+  "Virá um Redentor a Sião e aos que se converterem da transgressão em Jacó, diz YHWH.",
+  "“Quanto a mim, esta é minha aliança com eles”, diz YHWH: “meu Espírito que está sobre ti e minhas palavras que pus em tua boca não se afastarão de tua boca, nem da boca de tua descendência, nem da boca da descendência de tua descendência”, diz YHWH, “desde agora e para sempre”."
+];
+
+window.ISAIAH_TEXT[60] = [
+  "Levanta-te, resplandece, pois tua luz chegou, e a glória de YHWH nasceu sobre ti.",
+  "Pois eis que as trevas cobrem a terra, e a escuridão, os povos; mas sobre ti YHWH nasce, e sua glória aparece sobre ti.",
+  "As nações caminharão para tua luz, e os reis, para o brilho de teu amanhecer.",
+  "Levanta os olhos ao redor e vê: todos se reúnem e vêm a ti; teus filhos vêm de longe, e tuas filhas são carregadas nos braços.",
+  "Então verás e ficarás radiante; teu coração estremecerá e se alargará, pois a abundância do mar se voltará para ti, e a riqueza das nações virá a ti.",
+  "Uma multidão de camelos te cobrirá, dromedários de Midiã e Efa; todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores de YHWH.",
+  "Todos os rebanhos de Quedar serão reunidos a ti; os carneiros de Nebaiote te servirão; subirão com aceitação sobre meu altar, e glorificarei a casa de minha glória.",
+  "Quem são estes que voam como nuvens, como pombas para suas janelas?",
+  "Pois as ilhas esperarão por mim, e os navios de Társis virão primeiro, para trazer teus filhos de longe, com sua prata e seu ouro, ao nome de YHWH, teu Deus, e ao Santo de Israel, pois ele te glorificou.",
+  "Estrangeiros reconstruirão teus muros, e seus reis te servirão; pois em minha ira te feri, mas em meu favor tive misericórdia de ti.",
+  "Teus portões estarão abertos continuamente; não serão fechados de dia nem de noite, para que te tragam a riqueza das nações e sejam conduzidos seus reis.",
+  "Pois a nação e o reino que não te servirem perecerão; essas nações serão completamente devastadas.",
+  "A glória do Líbano virá a ti, cipreste, olmo e pinheiro juntos, para adornar o lugar de meu santuário; glorificarei o lugar de meus pés.",
+  "Os filhos dos que te oprimiram virão curvados a ti, e todos os que te desprezaram se prostrarão às plantas de teus pés; chamar-te-ão Cidade de YHWH, Sião do Santo de Israel.",
+  "Em vez de seres abandonada e odiada, sem ninguém que passe por ti, farei de ti orgulho eterno e alegria de geração em geração.",
+  "Mamarás o leite das nações e serás amamentada ao peito dos reis; saberás que eu, YHWH, sou teu Salvador e teu Redentor, o Poderoso de Jacó.",
+  "Em vez de bronze trarei ouro; em vez de ferro, prata; em vez de madeira, bronze; em vez de pedras, ferro. Farei da paz teu administrador e da justiça teu governante.",
+  "Não se ouvirá mais violência em tua terra, nem devastação ou destruição em teus limites; chamarás tuas muralhas Salvação e teus portões Louvor.",
+  "O sol não será mais tua luz durante o dia, nem o brilho da lua te iluminará; YHWH será tua luz eterna, e teu Deus, tua glória.",
+  "Teu sol nunca mais se porá, nem tua lua se retirará, pois YHWH será tua luz eterna, e os dias de teu luto terminarão.",
+  "Todo o teu povo será justo; possuirá a terra para sempre, ramo de minha plantação, obra de minhas mãos, para que eu seja glorificado.",
+  "O menor se tornará mil, e o mais pequeno, uma nação poderosa. Eu, YHWH, apressarei isso a seu tempo."
+];
