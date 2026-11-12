@@ -1116,3 +1116,68 @@ window.JEREMIAH_TEXT[39] = [
   "Mas te livrarei naquele dia”, diz YHWH, “e não serás entregue nas mãos dos homens de quem tens medo.",
   "Certamente te livrarei, e não cairás à espada; tua vida será teu despojo, pois confiaste em mim”, diz YHWH."
 ];
+
+window.JEREMIAH_TEXT[40] = [
+  "A palavra que veio a Jeremias da parte de YHWH, depois que Nebuzaradã, comandante da guarda, o libertou de Ramá, onde o havia encontrado acorrentado entre todos os cativos de Jerusalém e de Judá que estavam sendo levados para a Babilônia.",
+  "O comandante da guarda tomou Jeremias e lhe disse: “YHWH, teu Deus, pronunciou esta calamidade contra este lugar.",
+  "YHWH a trouxe e fez conforme havia falado, pois pecastes contra YHWH e não ouvistes sua voz; por isso vos aconteceu esta coisa.",
+  "Agora, eis que hoje te solto das correntes que estavam em tuas mãos. Se te parecer bom vir comigo para a Babilônia, vem, e cuidarei de ti; mas, se não te parecer bom vir comigo para a Babilônia, não venhas. Vê, toda a terra está diante de ti; vai para onde te parecer bom e reto ir”.",
+  "Como Jeremias ainda não tinha voltado, Nebuzaradã disse: “Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei da Babilônia nomeou sobre as cidades de Judá, e habita com ele no meio do povo; ou vai para onde te parecer bom”. O comandante da guarda lhe deu provisões e um presente e o despediu.",
+  "Jeremias foi a Gedalias, filho de Aicão, em Mispa, e habitou com ele no meio do povo que restara na terra.",
+  "Todos os comandantes dos exércitos que estavam no campo, eles e seus homens, ouviram que o rei da Babilônia havia nomeado Gedalias, filho de Aicão, sobre a terra e lhe confiado homens, mulheres e crianças, os mais pobres da terra, que não haviam sido levados para a Babilônia.",
+  "Vieram a Gedalias em Mispa: Ismael, filho de Netanias; Joanã e Jônatas, filhos de Careá; Seraías, filho de Tanumete; os filhos de Efai, o netofatita; e Jezanias, filho de um maacatita, eles e seus homens.",
+  "Gedalias, filho de Aicão, filho de Safã, jurou a eles e a seus homens, dizendo: “Não temais servir aos caldeus; habitai na terra e servi ao rei da Babilônia, e tudo vos irá bem.",
+  "Quanto a mim, eis que habitarei em Mispa para representar-vos diante dos caldeus que vierem a nós; mas vós recolhei vinho, frutos de verão e azeite, colocai-os em vossos vasos e habitai nas cidades que tomastes”.",
+  "Também todos os judeus que estavam em Moabe, entre os filhos de Amom, em Edom e em todas as terras ouviram que o rei da Babilônia deixara um remanescente em Judá e que nomeara sobre eles Gedalias, filho de Aicão, filho de Safã.",
+  "Todos os judeus voltaram de todos os lugares para onde haviam sido expulsos e vieram à terra de Judá, a Gedalias, em Mispa; recolheram vinho e frutos de verão em grande abundância.",
+  "Joanã, filho de Careá, e todos os comandantes dos exércitos que estavam no campo vieram a Gedalias, em Mispa,",
+  "e lhe disseram: “Sabes que Baalis, rei dos filhos de Amom, enviou Ismael, filho de Netanias, para tirar tua vida?” Mas Gedalias, filho de Aicão, não acreditou neles.",
+  "Joanã, filho de Careá, falou secretamente a Gedalias, em Mispa, dizendo: “Deixa-me ir e matar Ismael, filho de Netanias, e ninguém saberá. Por que ele tiraria tua vida, fazendo que todos os judeus reunidos a ti sejam dispersos e o remanescente de Judá pereça?”",
+  "Mas Gedalias, filho de Aicão, disse a Joanã, filho de Careá: “Não faças isso, pois falas mentira a respeito de Ismael”."
+];
+
+window.JEREMIAH_TEXT[41] = [
+  "No sétimo mês, Ismael, filho de Netanias, filho de Elisama, da descendência real e um dos oficiais do rei, veio com dez homens a Gedalias, filho de Aicão, em Mispa. Ali comeram pão juntos em Mispa.",
+  "Então Ismael, filho de Netanias, levantou-se com os dez homens que estavam com ele e feriu à espada Gedalias, filho de Aicão, filho de Safã, matando aquele que o rei da Babilônia havia nomeado sobre a terra.",
+  "Ismael matou também todos os judeus que estavam com Gedalias em Mispa e os caldeus, os homens de guerra que ali se encontravam.",
+  "No segundo dia depois de matar Gedalias, quando ninguém ainda sabia disso,",
+  "vieram oitenta homens de Siquém, Siló e Samaria, com a barba raspada, as roupas rasgadas e cortes no corpo; traziam ofertas de cereal e incenso para levá-los à casa de YHWH.",
+  "Ismael, filho de Netanias, saiu de Mispa ao encontro deles, chorando enquanto caminhava. Quando os encontrou, disse-lhes: “Vinde a Gedalias, filho de Aicão”.",
+  "Quando chegaram ao meio da cidade, Ismael, filho de Netanias, e os homens que estavam com ele os mataram e os lançaram numa cisterna.",
+  "Mas dez homens entre eles disseram a Ismael: “Não nos mates, pois temos tesouros escondidos no campo: trigo, cevada, azeite e mel”. Então ele desistiu e não os matou com seus irmãos.",
+  "A cisterna na qual Ismael lançou todos os cadáveres dos homens que matou por causa de Gedalias era a que o rei Asa havia feito por medo de Baasa, rei de Israel. Ismael, filho de Netanias, encheu-a com os mortos.",
+  "Ismael levou cativos todo o remanescente do povo que estava em Mispa: as filhas do rei e todo o povo que restara em Mispa, sobre quem Nebuzaradã, comandante da guarda, havia nomeado Gedalias, filho de Aicão. Ismael, filho de Netanias, levou-os cativos e partiu para passar aos filhos de Amom.",
+  "Quando Joanã, filho de Careá, e todos os comandantes dos exércitos que estavam com ele ouviram todo o mal que Ismael, filho de Netanias, havia feito,",
+  "tomaram todos os homens e foram guerrear contra Ismael, filho de Netanias; encontraram-no junto às grandes águas de Gibeão.",
+  "Quando todo o povo que estava com Ismael viu Joanã, filho de Careá, e todos os comandantes dos exércitos, alegrou-se.",
+  "Todo o povo que Ismael havia levado cativo de Mispa voltou e foi para o lado de Joanã, filho de Careá.",
+  "Mas Ismael, filho de Netanias, escapou de Joanã com oito homens e foi para os filhos de Amom.",
+  "Joanã, filho de Careá, e todos os comandantes dos exércitos que estavam com ele tomaram todo o remanescente do povo que Ismael, filho de Netanias, havia levado de Mispa, depois de matar Gedalias, filho de Aicão: homens de guerra, mulheres, crianças e eunucos, que trouxeram de Gibeão.",
+  "Partiram e ficaram em Gerute-Quimã, perto de Belém, para seguir viagem e entrar no Egito,",
+  "por causa dos caldeus, pois os temiam, porque Ismael, filho de Netanias, havia matado Gedalias, filho de Aicão, a quem o rei da Babilônia nomeara sobre a terra."
+];
+
+window.JEREMIAH_TEXT[42] = [
+  "Todos os comandantes dos exércitos, Joanã, filho de Careá, Jezanias, filho de Hosaías, e todo o povo, do menor ao maior, aproximaram-se",
+  "e disseram a Jeremias, o profeta: “Que nossa súplica seja aceita diante de ti; ora por nós a YHWH, teu Deus, por todo este remanescente, pois de muitos restamos poucos, como teus olhos nos veem.",
+  "Que YHWH, teu Deus, nos mostre o caminho pelo qual devemos andar e o que devemos fazer”.",
+  "Jeremias, o profeta, lhes respondeu: “Ouvi. Eis que orarei a YHWH, vosso Deus, segundo vossas palavras; tudo o que YHWH vos responder vos anunciarei; não vos ocultarei palavra alguma”.",
+  "Então disseram a Jeremias: “YHWH seja testemunha verdadeira e fiel contra nós, se não fizermos segundo toda a palavra com que YHWH, teu Deus, te enviar a nós.",
+  "Seja boa ou má, obedeceremos à voz de YHWH, nosso Deus, a quem te enviamos, para que nos vá bem quando obedecermos à voz de YHWH, nosso Deus”.",
+  "Ao fim de dez dias veio a palavra de YHWH a Jeremias.",
+  "Ele chamou Joanã, filho de Careá, todos os comandantes dos exércitos que estavam com ele e todo o povo, do menor ao maior,",
+  "e lhes disse: “Assim diz YHWH, Deus de Israel, a quem me enviastes para apresentar vossa súplica diante dele:",
+  "Se permanecerdes nesta terra, eu vos edificarei e não vos derrubarei; plantar-vos-ei e não vos arrancarei, pois me arrependi da calamidade que vos fiz.",
+  "Não temais o rei da Babilônia, de quem tendes medo; não o temais”, diz YHWH, “pois estou convosco para vos salvar e vos livrar de sua mão.",
+  "Conceder-vos-ei misericórdia, e ele terá misericórdia de vós e vos fará voltar à vossa terra.",
+  "Mas, se disserdes: ‘Não habitaremos nesta terra’, desobedecendo à voz de YHWH, vosso Deus,",
+  "e disserdes: ‘Não! Iremos à terra do Egito, onde não veremos guerra, nem ouviremos o som da trombeta, nem teremos fome de pão; ali habitaremos’,",
+  "então ouvi a palavra de YHWH, remanescente de Judá. Assim diz YHWH dos Exércitos, Deus de Israel: Se realmente decidirdes entrar no Egito e fordes habitar ali,",
+  "a espada que temeis vos alcançará ali na terra do Egito, e a fome de que tendes medo vos seguirá de perto no Egito; ali morrereis.",
+  "Todos os homens que decidirem entrar no Egito para ali habitar morrerão pela espada, pela fome e pela peste; nenhum deles escapará nem sobreviverá à calamidade que trarei sobre eles.",
+  "Pois assim diz YHWH dos Exércitos, Deus de Israel: Assim como minha ira e meu furor foram derramados sobre os habitantes de Jerusalém, assim meu furor será derramado sobre vós quando entrardes no Egito; sereis maldição, espanto, opróbrio e insulto, e nunca mais vereis este lugar.",
+  "YHWH falou a vosso respeito, remanescente de Judá: Não entreis no Egito. Sabei certamente que hoje vos adverti.",
+  "Pois vos enganastes a vós mesmos, quando me enviastes a YHWH, vosso Deus, dizendo: ‘Ora por nós a YHWH, nosso Deus; tudo o que YHWH, nosso Deus, disser, anuncia-nos, e o faremos’.",
+  "Hoje vos anunciei, mas não ouvistes a voz de YHWH, vosso Deus, nem coisa alguma que ele me enviou a vos dizer.",
+  "Agora, pois, sabei certamente que morrereis pela espada, pela fome e pela peste no lugar para onde desejais ir para habitar”."
+];
