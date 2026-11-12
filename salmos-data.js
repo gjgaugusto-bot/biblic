@@ -934,3 +934,87 @@ window.PSALMS_TEXT[50] = [
   "Considerai isto, vós que vos esqueceis de Deus, para que eu não vos despedace sem que haja quem vos livre.",
   "Aquele que oferece sacrifício de ação de graças me honra; ao que ordena corretamente seu caminho, mostrarei a salvação de Deus”."
 ];
+
+window.PSALMS_TEXT[51] = [
+  "Ao regente do coro. Salmo de Davi, quando o profeta Natã veio a ele depois de seu encontro com Bate-Seba.",
+  "Tem misericórdia de mim, ó Deus, segundo tua lealdade; segundo a abundância de tuas misericórdias, apaga minhas transgressões.",
+  "Lava-me completamente de minha iniquidade e purifica-me de meu pecado.",
+  "Pois reconheço minhas transgressões, e meu pecado está sempre diante de mim.",
+  "Contra ti, contra ti somente pequei e fiz o que é mau aos teus olhos; por isso és justo quando falas e irrepreensível quando julgas.",
+  "Eis que fui formado em iniquidade, e em pecado minha mãe me concebeu.",
+  "Eis que desejas verdade no íntimo; no secreto do coração me fazes conhecer a sabedoria.",
+  "Purifica-me com hissopo, e ficarei puro; lava-me, e ficarei mais branco que a neve.",
+  "Faze-me ouvir júbilo e alegria, para que exultem os ossos que esmagaste.",
+  "Esconde teu rosto de meus pecados e apaga todas as minhas iniquidades.",
+  "Cria em mim, ó Deus, um coração puro e renova dentro de mim um espírito firme.",
+  "Não me lances fora de tua presença, nem retires de mim teu santo Espírito.",
+  "Restitui-me a alegria de tua salvação e sustenta-me com espírito voluntário.",
+  "Então ensinarei teus caminhos aos transgressores, e os pecadores voltarão a ti.",
+  "Livra-me da culpa de sangue, ó Deus, Deus de minha salvação, e minha língua cantará tua justiça.",
+  "Senhor, abre meus lábios, e minha boca anunciará teu louvor.",
+  "Pois não desejas sacrifício, senão eu o daria; não te agradas de holocausto.",
+  "O sacrifício agradável a Deus é o espírito quebrantado; coração quebrantado e contrito, ó Deus, não desprezarás.",
+  "Faze o bem a Sião segundo tua benevolência; edifica os muros de Jerusalém.",
+  "Então te agradarás de sacrifícios de justiça, de holocaustos e de ofertas completas; então novilhos serão oferecidos sobre teu altar."
+];
+
+window.PSALMS_TEXT[52] = [
+  "Ao regente do coro. Poema de instrução de Davi, quando Doegue, o edomita, veio contar a Saul que Davi entrara na casa de Aimeleque.",
+  "Por que te glorias do mal, ó poderoso? A lealdade de Deus permanece o dia inteiro.",
+  "Tua língua trama destruição, como navalha afiada, ó praticante de engano.",
+  "Amas o mal mais que o bem, a mentira mais que falar a verdade. Selá.",
+  "Amas todas as palavras devoradoras, ó língua enganadora.",
+  "Por isso Deus te derrubará para sempre; te agarrará e te arrancará de tua tenda; te desarraigará da terra dos viventes. Selá.",
+  "Os justos verão e temerão; rirão dele, dizendo:",
+  "“Eis o homem que não fez de Deus sua fortaleza, mas confiou na abundância de sua riqueza e se fortaleceu em sua destruição”.",
+  "Eu, porém, sou como oliveira verdejante na casa de Deus; confio na lealdade de Deus para todo o sempre.",
+  "Darei graças a ti para sempre, porque agiste; esperarei em teu nome, pois é bom diante de teus leais."
+];
+
+window.PSALMS_TEXT[53] = [
+  "Ao regente do coro. Sobre Mahalate. Poema de instrução de Davi.",
+  "O insensato diz em seu coração: “Não há Deus”. Corromperam-se e cometeram injustiça abominável; não há quem faça o bem.",
+  "Deus olha dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.",
+  "Todos se desviaram; juntos se corromperam. Não há quem faça o bem, nem sequer um.",
+  "Acaso não sabem os que praticam a iniquidade, que devoram meu povo como quem come pão e não invocam a Deus?",
+  "Ali serão tomados de grande pavor, onde não havia motivo para temer; pois Deus espalhou os ossos dos que te cercavam. Tu os envergonhaste, porque Deus os rejeitou.",
+  "Quem dera viesse de Sião a salvação de Israel! Quando Deus restaurar a sorte de seu povo, Jacó exultará, e Israel se alegrará."
+];
+
+window.PSALMS_TEXT[54] = [
+  "Ao regente do coro. Com instrumentos de cordas. Poema de Davi, quando os zifeus foram dizer a Saul: “Davi está escondido entre nós”.",
+  "Salva-me, ó Deus, por teu nome e faze-me justiça por teu poder.",
+  "Ouve minha oração, ó Deus; dá ouvidos às palavras de minha boca.",
+  "Pois estrangeiros se levantaram contra mim, e homens violentos procuram minha vida; não põem Deus diante de si. Selá.",
+  "Eis que Deus é meu auxílio; o Senhor está entre os que sustentam minha vida.",
+  "Ele fará recair o mal sobre meus adversários; em tua fidelidade, elimina-os.",
+  "Oferecerei sacrifício voluntário a ti; darei graças ao teu nome, YHWH, pois é bom.",
+  "Pois ele me livrou de toda angústia, e meus olhos viram a derrota de meus inimigos."
+];
+
+window.PSALMS_TEXT[55] = [
+  "Ao regente do coro. Com instrumentos de cordas. Poema de Davi.",
+  "Dá ouvidos, ó Deus, à minha oração; não te escondas de minha súplica.",
+  "Atende-me e responde-me; vagueio em minha queixa e gemo,",
+  "por causa da voz do inimigo, por causa da opressão do perverso; pois fazem cair sobre mim a calamidade e me perseguem com ira.",
+  "Meu coração se contorce dentro de mim, e terrores de morte caem sobre mim.",
+  "Temor e tremor me sobrevêm, e o horror me cobre.",
+  "Eu disse: “Quem dera tivesse asas como a pomba! Voaria e encontraria descanso.",
+  "Fugiria para longe; passaria a noite no deserto. Selá.",
+  "Apressar-me-ia em buscar abrigo contra o vento impetuoso e a tempestade”.",
+  "Confunde-os, Senhor, divide sua língua, pois vejo violência e contenda na cidade.",
+  "Dia e noite rondam sobre seus muros; dentro dela há maldade e sofrimento.",
+  "A destruição está no meio dela; opressão e engano não se afastam de sua praça.",
+  "Pois não é um inimigo que me insulta; eu poderia suportar. Não é alguém que me odeia que se engrandece contra mim; eu poderia esconder-me dele.",
+  "Mas és tu, homem igual a mim, meu companheiro e meu amigo íntimo!",
+  "Juntos tínhamos doce comunhão; caminhávamos com a multidão à casa de Deus.",
+  "Que a morte os surpreenda; desçam vivos ao mundo dos mortos, pois a maldade está em suas moradas e em seu íntimo.",
+  "Eu, porém, invocarei a Deus, e YHWH me salvará.",
+  "À tarde, pela manhã e ao meio-dia, lamentarei e gemerei; ele ouvirá minha voz.",
+  "Em paz resgatará minha alma da batalha contra mim, embora muitos estejam contra mim.",
+  "Deus ouvirá e os humilhará, ele que está entronizado desde a antiguidade. Selá. Pois não mudam e não temem a Deus.",
+  "Meu companheiro estendeu a mão contra os que estavam em paz com ele; violou sua aliança.",
+  "Sua boca era mais macia que manteiga, mas havia guerra em seu coração; suas palavras eram mais suaves que azeite, mas eram espadas desembainhadas.",
+  "Lança teu fardo sobre YHWH, e ele te sustentará; jamais permitirá que o justo seja abalado.",
+  "Tu, ó Deus, os farás descer à cova da destruição; homens sanguinários e enganadores não chegarão à metade de seus dias. Eu, porém, confiarei em ti."
+];
