@@ -540,3 +540,58 @@ window.ISAIAH_TEXT[24] = [
   "Serão reunidos como prisioneiros numa cova; serão encerrados na prisão e, depois de muitos dias, serão visitados.",
   "A lua ficará envergonhada, e o sol, humilhado, pois YHWH dos Exércitos reinará no monte Sião e em Jerusalém, e sua glória estará diante de seus anciãos."
 ];
+
+window.ISAIAH_TEXT[25] = [
+  "YHWH, tu és meu Deus; eu te exaltarei e darei graças a teu nome, pois fizeste maravilhas, planos antigos, fiéis e verdadeiros.",
+  "Pois fizeste da cidade um montão de pedras, da cidade fortificada uma ruína; a fortaleza dos estrangeiros já não é cidade, nunca mais será reconstruída.",
+  "Por isso um povo forte te glorificará; a cidade das nações cruéis te temerá.",
+  "Pois foste fortaleza para o pobre, fortaleza para o necessitado em sua angústia, abrigo contra a tempestade e sombra contra o calor, quando o sopro dos violentos era como tempestade contra um muro.",
+  "Como calor em terra seca, tu abates o tumulto dos estrangeiros; como calor à sombra de uma nuvem, o cântico dos cruéis é silenciado.",
+  "YHWH dos Exércitos fará neste monte um banquete de alimentos ricos para todos os povos, banquete de vinhos envelhecidos, de pratos ricos e suculentos, de vinhos envelhecidos e bem filtrados.",
+  "Neste monte ele destruirá o véu que envolve todos os povos e a cobertura que está estendida sobre todas as nações.",
+  "Ele tragará a morte para sempre; o Senhor YHWH enxugará as lágrimas de todos os rostos e removerá de toda a terra o opróbrio de seu povo, pois YHWH falou.",
+  "Naquele dia se dirá: “Eis que este é nosso Deus; esperamos nele, e ele nos salvou. Este é YHWH; esperamos nele. Exultemos e alegremo-nos em sua salvação”.",
+  "Pois a mão de YHWH repousará sobre este monte, e Moabe será pisado em seu lugar, como se pisa a palha no esterco.",
+  "Ele estenderá suas mãos no meio dele, como o nadador estende as mãos para nadar; mas YHWH abaterá seu orgulho, apesar da habilidade de suas mãos.",
+  "A fortaleza elevada de teus muros ele derrubará, abaterá e lançará por terra, até o pó."
+];
+
+window.ISAIAH_TEXT[26] = [
+  "Naquele dia este cântico será entoado na terra de Judá: “Temos uma cidade forte; Deus estabelece salvação como muros e baluartes.",
+  "Abri as portas, para que entre a nação justa, que guarda a fidelidade.",
+  "Tu conservarás em perfeita paz aquele cujo propósito está firme, porque confia em ti.",
+  "Confiai em YHWH para sempre, pois YHWH é uma Rocha eterna.",
+  "Pois ele abate os que habitam nas alturas, a cidade elevada; derruba-a, derruba-a por terra, até o pó.",
+  "O pé a pisará, os pés dos aflitos e os passos dos necessitados”.",
+  "A vereda do justo é reta; tu, que és justo, aplainas o caminho do justo.",
+  "Também no caminho de teus julgamentos, YHWH, esperamos por ti; teu nome e tua memória são o desejo de nossa alma.",
+  "Minha alma te deseja de noite; sim, meu espírito dentro de mim te busca diligentemente, pois quando teus julgamentos alcançam a terra, os habitantes do mundo aprendem justiça.",
+  "Ainda que se mostre favor ao perverso, ele não aprende justiça; na terra da retidão pratica a injustiça e não vê a majestade de YHWH.",
+  "YHWH, tua mão está levantada, mas eles não a veem. Que vejam teu zelo pelo povo e sejam envergonhados; que o fogo destinado a teus adversários os consuma.",
+  "YHWH, tu nos estabelecerás a paz, pois também realizaste para nós todas as nossas obras.",
+  "YHWH, nosso Deus, outros senhores além de ti nos dominaram, mas somente teu nome mencionamos.",
+  "Eles estão mortos, não viverão; são sombras, não se levantarão. Tu os visitaste e os destruíste e apagaste toda lembrança deles.",
+  "Aumentaste a nação, YHWH; aumentaste a nação e foste glorificado; estendeste todos os limites da terra.",
+  "YHWH, em angústia te buscaram; derramaram uma oração quando tua disciplina estava sobre eles.",
+  "Como mulher grávida, próxima de dar à luz, se contorce e grita em suas dores, assim fomos diante de ti, YHWH.",
+  "Concebemos, tivemos dores de parto, mas demos à luz vento. Não trouxemos salvação à terra, e os habitantes do mundo não caíram.",
+  "Teus mortos viverão; seus cadáveres se levantarão. Despertai e cantai de alegria, vós que habitais no pó, pois teu orvalho é orvalho de luz, e a terra dará à luz as sombras.",
+  "Vai, meu povo, entra em teus aposentos e fecha as portas atrás de ti; esconde-te por um breve momento, até que passe a indignação.",
+  "Pois eis que YHWH sai de seu lugar para castigar a iniquidade dos habitantes da terra; a terra revelará o sangue derramado sobre ela e não esconderá mais seus mortos."
+];
+
+window.ISAIAH_TEXT[27] = [
+  "Naquele dia YHWH castigará com sua espada dura, grande e forte o Leviatã, a serpente veloz, o Leviatã, a serpente tortuosa; matará o monstro que está no mar.",
+  "Naquele dia haverá uma vinha de vinho novo; cantai a respeito dela!",
+  "Eu, YHWH, a guardo; rego-a a cada momento. Para que ninguém a danifique, guardo-a noite e dia.",
+  "Não tenho ira. Quem me dera espinheiros e cardos contra mim! Eu avançaria contra eles e os queimaria juntos.",
+  "Ou que se agarrem à minha fortaleza, para que façam paz comigo; sim, que façam paz comigo.",
+  "Nos dias vindouros Jacó criará raízes; Israel florescerá e brotará, e encherão de fruto a face do mundo.",
+  "Acaso ele o feriu como feriu os que o feriram? Ou foi morto como foram mortos os que o mataram?",
+  "Com medida, ao expulsá-lo, tu contendes com ele; ele o remove com seu vento forte no dia do vento oriental.",
+  "Assim será expiada a iniquidade de Jacó, e este será todo o fruto da remoção de seu pecado: quando ele fizer todas as pedras do altar como pedras de cal despedaçadas, os postes sagrados e os altares de incenso não permanecerão.",
+  "Pois a cidade fortificada está solitária, uma morada abandonada e deserta como o deserto; ali o bezerro pastará e se deitará e consumirá seus ramos.",
+  "Quando seus galhos secarem, serão quebrados; mulheres virão e farão fogo com eles. Pois este é um povo sem entendimento; por isso aquele que o fez não terá compaixão dele, e aquele que o formou não lhe mostrará favor.",
+  "Naquele dia YHWH debulhará desde a corrente do rio até o ribeiro do Egito, e vós sereis recolhidos um a um, filhos de Israel.",
+  "Naquele dia soará uma grande trombeta; os que estavam perecendo na terra da Assíria e os que foram dispersos na terra do Egito virão e adorarão YHWH no monte santo, em Jerusalém."
+];
