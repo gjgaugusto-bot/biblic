@@ -1071,3 +1071,62 @@ window.ISAIAH_TEXT[45] = [
   "Dirão de mim: ‘Somente em YHWH há justiça e força’. A ele virão, e serão envergonhados todos os que se indignam contra ele.",
   "Em YHWH toda a descendência de Israel será justificada e se gloriará."
 ];
+
+window.ISAIAH_TEXT[46] = [
+  "Bel se curva, Nebo se abaixa; seus ídolos são postos sobre animais e bestas de carga. As coisas que carregáveis tornam-se fardo para os animais cansados.",
+  "Eles se abaixam e se curvam juntos; não conseguem salvar o fardo, mas eles mesmos vão para o cativeiro.",
+  "“Ouvi-me, casa de Jacó e todo o remanescente da casa de Israel, vós que fostes carregados por mim desde o ventre e levados desde o nascimento.",
+  "Até a velhice eu serei o mesmo, e até os cabelos brancos eu vos carregarei. Eu o fiz e eu vos sustentarei; eu vos carregarei e vos livrarei.",
+  "A quem me comparareis, me igualareis ou me assemelhareis, para que sejamos semelhantes?",
+  "Os que tiram ouro da bolsa e pesam prata na balança contratam um ourives, que faz disso um deus; então se prostram e o adoram.",
+  "Levam-no sobre o ombro, carregam-no e o colocam em seu lugar; ali fica de pé e não sai de seu lugar. Clamam a ele, mas não responde nem salva da angústia.",
+  "Lembrai-vos disso e sede firmes; levai-o ao coração, transgressores.",
+  "Lembrai-vos das coisas antigas, desde a antiguidade, pois eu sou Deus, e não há outro; sou Deus, e não há ninguém semelhante a mim,",
+  "que desde o princípio anuncio o fim e, desde os tempos antigos, as coisas que ainda não aconteceram; que digo: ‘Meu propósito permanecerá, e farei toda a minha vontade’,",
+  "que chamo do Oriente uma ave de rapina e de uma terra distante o homem de meu propósito. Eu falei e farei acontecer; planejei e também o executarei.",
+  "Ouvi-me, duros de coração, que estais longe da justiça.",
+  "Faço chegar minha justiça; ela não está longe, e minha salvação não tardará. Porei salvação em Sião e minha glória em Israel."
+];
+
+window.ISAIAH_TEXT[47] = [
+  "Desce e senta-te no pó, virgem filha da Babilônia; senta-te no chão sem trono, filha dos caldeus, pois nunca mais serás chamada delicada e mimada.",
+  "Toma as pedras de moinho e mói farinha; remove teu véu, levanta a saia, descobre as pernas, atravessa os rios.",
+  "Tua nudez será descoberta, e tua vergonha será vista. Tomarei vingança e não pouparei ninguém.",
+  "Nosso Redentor — YHWH dos Exércitos é seu nome — é o Santo de Israel.",
+  "Senta-te em silêncio e entra nas trevas, filha dos caldeus, pois nunca mais serás chamada senhora de reinos.",
+  "Irritei-me contra meu povo, profanei minha herança e os entreguei em tua mão; não lhes mostraste misericórdia; fizeste muito pesado teu jugo sobre os idosos.",
+  "Disseste: “Serei senhora para sempre”, e não levaste essas coisas ao coração, nem te lembraste de seu fim.",
+  "Agora, pois, ouve isto, voluptuosa, que habitas em segurança e dizes em teu coração: “Eu sou, e não há outra além de mim; não ficarei viúva, nem conhecerei a perda de filhos”.",
+  "Mas essas duas coisas virão sobre ti num instante, num só dia: perda de filhos e viuvez; virão plenamente sobre ti, apesar da multidão de teus feitiços e da grande força de teus encantamentos.",
+  "Confiavas em tua maldade e dizias: “Ninguém me vê”. Tua sabedoria e teu conhecimento te desviaram, e disseste em teu coração: “Eu sou, e não há outra além de mim”.",
+  "Por isso virá sobre ti calamidade que não saberás conjurar; cairá sobre ti destruição que não poderás evitar; de repente virá sobre ti ruína que não prevês.",
+  "Persiste, pois, em teus encantamentos e na multidão de teus feitiços, nos quais te afadigaste desde tua juventude; talvez possas tirar proveito, talvez possas inspirar terror.",
+  "Estás cansada da multidão de teus conselhos. Que se levantem agora e te salvem os que dividem os céus, observam as estrelas e anunciam a cada lua nova o que virá sobre ti.",
+  "Eis que são como palha; o fogo os queimará. Não poderão livrar a própria vida do poder da chama; não haverá brasa para aquecer-se, nem fogo para sentar-se diante dele.",
+  "Assim serão para ti aqueles com quem te afadigaste, teus negociantes desde tua juventude; cada um vagueará para seu próprio lado, e não haverá quem te salve."
+];
+
+window.ISAIAH_TEXT[48] = [
+  "Ouvi isto, casa de Jacó, vós que sois chamados pelo nome de Israel e saístes das águas de Judá, que jurais pelo nome de YHWH e mencionais o Deus de Israel, mas não em verdade nem em justiça.",
+  "Pois se chamam da cidade santa e se apoiam no Deus de Israel; YHWH dos Exércitos é seu nome.",
+  "Anunciei as coisas antigas desde o princípio; saíram de minha boca, e eu as fiz ouvir; de repente agi, e aconteceram.",
+  "Porque sei que és obstinado, que teu pescoço é tendão de ferro e tua testa, bronze,",
+  "anunciei-as desde o princípio; antes que acontecessem, eu as fiz ouvir, para que não dissesses: “Meu ídolo as fez; minha imagem esculpida e minha imagem fundida as ordenaram”.",
+  "Tu as ouviste; vê tudo isso. Não o reconhecereis? De agora em diante faço-te ouvir coisas novas, coisas ocultas que não conhecias.",
+  "Agora são criadas, e não desde tempos antigos; antes deste dia não as ouvistes, para que não dissesses: “Eis que eu já as conhecia”.",
+  "Não as ouvistes nem as conhecestes; desde então teu ouvido não foi aberto. Pois sei que agiste muito traiçoeiramente e foste chamado transgressor desde o ventre.",
+  "Por amor de meu nome retardarei minha ira; por causa de meu louvor me conterei para contigo, para não te exterminar.",
+  "Eis que te refinei, mas não como prata; provei-te na fornalha da aflição.",
+  "Por amor de mim, por amor de mim o farei, pois como seria profanado meu nome? Não darei minha glória a outro.",
+  "Ouve-me, Jacó, e Israel, a quem chamei: eu sou o mesmo; eu sou o primeiro, e também sou o último.",
+  "Minha mão fundou a terra, e minha direita estendeu os céus; quando os chamo, todos se apresentam juntos.",
+  "Reuni-vos todos e ouvi: quem entre eles anunciou essas coisas? YHWH o ama; ele cumprirá sua vontade contra a Babilônia, e seu braço será contra os caldeus.",
+  "Eu, eu falei; sim, eu o chamei. Eu o trouxe, e seu caminho prosperará.",
+  "Aproximai-vos de mim e ouvi isto: desde o princípio não falei em segredo; desde o tempo em que aconteceu, eu estava ali. E agora o Senhor YHWH me enviou, com seu Espírito.",
+  "Assim diz YHWH, teu Redentor, o Santo de Israel: “Eu sou YHWH, teu Deus, que te ensina para teu proveito e te guia pelo caminho em que deves andar.",
+  "Ah, se tivesses dado ouvidos a meus mandamentos! Então tua paz seria como um rio, e tua justiça, como as ondas do mar.",
+  "Tua descendência seria como a areia, e os frutos de teu ventre, como seus grãos; seu nome não seria eliminado nem destruído de diante de mim”.",
+  "Saí da Babilônia, fugi dos caldeus; anunciai isso com voz de júbilo, proclamai e fazei ouvir até os confins da terra; dizei: “YHWH resgatou Jacó, seu servo”.",
+  "Não tiveram sede quando ele os conduziu pelos desertos; fez sair água da rocha para eles; fendeu a rocha, e as águas jorraram.",
+  "“Não há paz para os perversos”, diz YHWH."
+];
