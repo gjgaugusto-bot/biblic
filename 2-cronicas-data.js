@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–18 de 36; 382 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–21 de 36; 450 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -439,4 +439,81 @@ window.SECOND_CHRONICLES_TEXT[18] = [
   "Quando os comandantes dos carros perceberam que ele não era o rei de Israel, deixaram de persegui-lo.",
   "Um homem, porém, atirou com o arco ao acaso e atingiu o rei de Israel entre as juntas da armadura. O rei disse ao condutor do carro: “Dá meia-volta e tira-me do campo de batalha, pois estou ferido”.",
   "A batalha se intensificou naquele dia. O rei de Israel permaneceu de pé em seu carro, de frente para os sírios, até a tarde; ao pôr do sol, morreu."
+];
+
+window.SECOND_CHRONICLES_TEXT[19] = [
+  "Josafá, rei de Judá, voltou em paz para sua casa, em Jerusalém.",
+  "Jeú, filho de Hanani, o vidente, saiu ao seu encontro e disse ao rei Josafá: “Deverias ajudar o perverso e amar os que odeiam YHWH? Por causa disso, a ira de YHWH está sobre ti.",
+  "Contudo, coisas boas foram encontradas em ti, pois removeste os postes de Aserá da terra e dispuseste teu coração para buscar a Deus”.",
+  "Josafá permaneceu em Jerusalém. Depois voltou a percorrer o povo, desde Berseba até a região montanhosa de Efraim, e o reconduziu a YHWH, Deus de seus pais.",
+  "Estabeleceu juízes na terra, em todas as cidades fortificadas de Judá, cidade por cidade.",
+  "Disse aos juízes: “Considerai o que estais fazendo, pois não julgais em nome de seres humanos, mas em nome de YHWH; ele está convosco quando proferis uma decisão.",
+  "Agora, que o temor de YHWH esteja sobre vós. Agi com cuidado, pois com YHWH, nosso Deus, não há injustiça, parcialidade nem aceitação de suborno”.",
+  "Também em Jerusalém Josafá designou alguns levitas, sacerdotes e chefes de casas paternas de Israel para julgarem segundo a lei de YHWH e resolverem disputas. Depois voltaram a Jerusalém.",
+  "Ordenou-lhes: “Assim procedereis no temor de YHWH, com fidelidade e coração íntegro.",
+  "Em qualquer causa que vos trouxerem vossos irmãos que habitam em suas cidades — seja questão de sangue, lei, mandamento, estatuto ou decisão —, adverti-os para que não se tornem culpados diante de YHWH e para que a ira não venha sobre vós nem sobre vossos irmãos. Assim procedereis, e não sereis culpados.",
+  "Amarias, o sumo sacerdote, estará à vossa frente em todos os assuntos de YHWH; Zebadias, filho de Ismael, líder da casa de Judá, estará à frente de todos os assuntos do rei; e os levitas atuarão como oficiais diante de vós. Sede fortes e agi; que YHWH esteja com aquele que fizer o bem”."
+];
+
+window.SECOND_CHRONICLES_TEXT[20] = [
+  "Depois disso, os filhos de Moabe e os filhos de Amom, acompanhados de alguns dos meunitas, vieram lutar contra Josafá.",
+  "Vieram mensageiros e disseram a Josafá: “Uma grande multidão vem contra ti do outro lado do mar, da região de Edom; já estão em Hazazom-Tamar, isto é, En-Gedi”.",
+  "Josafá ficou com medo e decidiu buscar YHWH. Proclamou um jejum em todo o Judá.",
+  "Judá se reuniu para buscar o auxílio de YHWH; também vieram de todas as cidades de Judá para buscar YHWH.",
+  "Josafá ficou de pé na assembleia de Judá e Jerusalém, na casa de YHWH, diante do pátio novo,",
+  "e disse: “YHWH, Deus de nossos pais, não és tu Deus nos céus? Não governas sobre todos os reinos das nações? Em tua mão estão força e poder, e ninguém pode resistir a ti.",
+  "Não foste tu, nosso Deus, que expulsaste os habitantes desta terra diante de teu povo Israel e a deste para sempre à descendência de Abraão, teu amigo?",
+  "Eles habitaram nela e construíram nela um santuário para teu nome, dizendo:",
+  "‘Se vier sobre nós uma calamidade — espada, julgamento, peste ou fome —, ficaremos diante desta casa e diante de ti, pois teu nome está nesta casa. Clamaremos a ti em nossa aflição, e tu ouvirás e salvarás’.",
+  "Agora, vê os filhos de Amom, Moabe e os da região montanhosa de Seir, por cujas terras não permitiste que Israel passasse quando vinha da terra do Egito; Israel se desviou deles e não os destruiu.",
+  "Eis que eles nos retribuem vindo para nos expulsar da herança que nos deste.",
+  "Ó nosso Deus, não os julgarás? Não temos força diante desta grande multidão que vem contra nós. Não sabemos o que fazer, mas nossos olhos estão voltados para ti”.",
+  "Todo o Judá estava de pé diante de YHWH, inclusive suas crianças, suas mulheres e seus filhos.",
+  "Então o espírito de YHWH veio sobre Jaaziel, filho de Zacarias, filho de Benaia, filho de Jeiel, filho de Matanias, levita dos filhos de Asafe, no meio da assembleia.",
+  "Ele disse: “Escutai, todo o Judá, habitantes de Jerusalém e rei Josafá! Assim vos diz YHWH: Não tenhais medo nem vos assusteis por causa desta grande multidão, pois a batalha não é vossa, mas de Deus.",
+  "Amanhã descei contra eles. Eles subirão pela ladeira de Ziz, e os encontrareis no fim do vale, diante do deserto de Jeruel.",
+  "Não tereis de lutar nesta batalha. Tomai posição, permanecei firmes e vede a salvação de YHWH em vosso favor, Judá e Jerusalém. Não tenhais medo nem vos assusteis. Amanhã saí ao encontro deles, pois YHWH estará convosco”.",
+  "Josafá inclinou o rosto até o chão, e todo o Judá e os habitantes de Jerusalém se prostraram diante de YHWH para adorá-lo.",
+  "Então os levitas dos filhos de Coate e dos filhos de Corá se levantaram para louvar YHWH, Deus de Israel, em voz muito alta.",
+  "Na manhã seguinte, levantaram-se cedo e saíram para o deserto de Tecoa. Ao saírem, Josafá se pôs de pé e disse: “Ouvi-me, Judá e habitantes de Jerusalém! Confiai em YHWH, vosso Deus, e estareis firmes; confiai em seus profetas e sereis bem-sucedidos”.",
+  "Depois de consultar o povo, designou cantores para YHWH, vestidos com ornamentos sagrados, que marchariam à frente do exército, louvando e dizendo: “Dai graças a YHWH, pois sua lealdade dura para sempre”.",
+  "No momento em que começaram a cantar e louvar, YHWH colocou emboscadas contra os filhos de Amom, Moabe e os da região montanhosa de Seir, que vinham contra Judá; e eles foram derrotados.",
+  "Os filhos de Amom e Moabe se levantaram contra os habitantes da região montanhosa de Seir para destruí-los e exterminá-los. Depois de acabar com os habitantes de Seir, ajudaram uns aos outros a destruir-se.",
+  "Quando Judá chegou ao mirante do deserto e olhou para a multidão, viu cadáveres caídos por terra; ninguém havia escapado.",
+  "Josafá e seu povo vieram recolher os despojos. Encontraram entre eles muitos bens, roupas e objetos preciosos; levaram tanto que não conseguiam carregar tudo. Passaram três dias recolhendo os despojos, pois eram muitos.",
+  "No quarto dia, reuniram-se no vale de Beraca, pois ali bendisseram YHWH. Por isso aquele lugar é chamado vale de Beraca até hoje.",
+  "Todos os homens de Judá e Jerusalém voltaram, com Josafá à frente, para Jerusalém, alegres, pois YHWH lhes dera motivo de alegria por causa de seus inimigos.",
+  "Entraram em Jerusalém com liras, harpas e trombetas, e foram à casa de YHWH.",
+  "O temor de Deus caiu sobre todos os reinos das terras quando ouviram que YHWH havia lutado contra os inimigos de Israel.",
+  "O reino de Josafá ficou em paz, pois seu Deus lhe concedeu repouso por todos os lados.",
+  "Josafá reinou sobre Judá. Tinha trinta e cinco anos quando começou a reinar e reinou vinte e cinco anos em Jerusalém. O nome de sua mãe era Azuba, filha de Sili.",
+  "Andou no caminho de Asa, seu pai, e não se desviou dele, fazendo o que era correto aos olhos de YHWH.",
+  "Os lugares altos, porém, não foram removidos, e o povo ainda não havia disposto seu coração para o Deus de seus pais.",
+  "Os demais feitos de Josafá, dos primeiros aos últimos, estão escritos nos registros de Jeú, filho de Hanani, que foram incorporados ao Livro dos Reis de Israel.",
+  "Depois disso, Josafá, rei de Judá, aliou-se a Acazias, rei de Israel, que agiu perversamente.",
+  "Associou-se a ele para construir navios que fossem a Társis. Construíram os navios em Eziom-Geber.",
+  "Então Eliezer, filho de Dodavá, de Maressa, profetizou contra Josafá, dizendo: “Porque te associaste a Acazias, YHWH destruiu tuas obras”. E os navios naufragaram e não puderam ir a Társis."
+];
+
+window.SECOND_CHRONICLES_TEXT[21] = [
+  "Josafá repousou com seus pais e foi sepultado com eles na Cidade de Davi. Jeorão, seu filho, reinou em seu lugar.",
+  "Seus irmãos, filhos de Josafá, eram Azarias, Jeiel, Zacarias, Azarias, Micael e Sefatias; todos estes eram filhos de Josafá, rei de Israel.",
+  "Seu pai lhes dera muitos presentes de prata, ouro e objetos preciosos, além de cidades fortificadas em Judá; mas entregou o reino a Jeorão, pois ele era o primogênito.",
+  "Quando Jeorão assumiu o reino de seu pai e se fortaleceu, matou à espada todos os seus irmãos e também alguns dos chefes de Israel.",
+  "Jeorão tinha trinta e dois anos quando começou a reinar e reinou oito anos em Jerusalém.",
+  "Andou no caminho dos reis de Israel, como havia feito a casa de Acabe, pois se casara com uma filha de Acabe. Fez o que era mau aos olhos de YHWH.",
+  "Mas YHWH não quis destruir a casa de Davi, por causa da aliança que havia feito com Davi e conforme sua promessa de dar a ele e a seus filhos uma lâmpada para sempre.",
+  "Em seus dias, Edom se rebelou contra o domínio de Judá e constituiu um rei para si.",
+  "Jeorão atravessou a região com seus comandantes e todos os carros. Levantou-se durante a noite e atacou os edomitas que o cercavam, bem como os comandantes dos carros.",
+  "Assim Edom se rebelou contra o domínio de Judá, até o dia de hoje. Na mesma ocasião, Libna também se rebelou contra seu domínio, porque ele havia abandonado YHWH, Deus de seus pais.",
+  "Jeorão também construiu lugares altos nas montanhas de Judá, levou os habitantes de Jerusalém à infidelidade e desviou Judá.",
+  "Chegou-lhe uma carta do profeta Elias, que dizia: “Assim diz YHWH, Deus de Davi, teu pai: Porque não andaste nos caminhos de Josafá, teu pai, nem nos caminhos de Asa, rei de Judá,",
+  "mas andaste no caminho dos reis de Israel, levando Judá e os habitantes de Jerusalém à infidelidade, como fez a casa de Acabe, e também mataste teus irmãos, a casa de teu pai, que eram melhores do que tu,",
+  "eis que YHWH ferirá com grande calamidade teu povo, teus filhos, tuas mulheres e todos os teus bens.",
+  "Tu mesmo sofrerás muitas enfermidades, uma doença grave nos intestinos, até que, dia após dia, teus intestinos saiam por causa da doença”.",
+  "YHWH despertou contra Jeorão a hostilidade dos filisteus e dos árabes que viviam junto aos cuxitas.",
+  "Eles subiram contra Judá, invadiram a terra e levaram todos os bens que encontraram no palácio real, bem como seus filhos e suas mulheres. Não lhe restou filho algum, exceto Jeoacaz, o mais novo deles.",
+  "Depois de tudo isso, YHWH o feriu nos intestinos com uma doença incurável.",
+  "Passados alguns dias, ao fim de dois anos, seus intestinos saíram por causa da doença, e ele morreu em grande sofrimento. Seu povo não fez uma queima em sua honra como havia feito para seus pais.",
+  "Tinha trinta e dois anos quando começou a reinar e reinou oito anos em Jerusalém. Partiu sem deixar saudade; sepultaram-no na Cidade de Davi, mas não nos túmulos dos reis."
 ];
