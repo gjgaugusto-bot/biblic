@@ -2,7 +2,7 @@
  * Texto-base: SBL Greek New Testament (SBLGNT), ed. Michael W. Holmes, © SBL/Logos, CC BY 4.0.
  * Segmentação e conferência: MorphGNT SBLGNT Edition v6.12, CC BY-SA 3.0.
  * Referências: https://www.sblgnt.com/license/ e https://github.com/morphgnt/sblgnt
- * Progresso: capítulos 1–6 de 21; 284 versículos de 879. Não integrar/publicar até concluir e conferir o livro.
+ * Progresso: capítulos 1–21 de 21; 879 versículos em numeração de trabalho. Total sujeito à reconciliação com a edição/dataset exato do SBLGNT.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.JOHN_TEXT = window.JOHN_TEXT || {};
