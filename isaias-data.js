@@ -752,3 +752,61 @@ window.ISAIAH_TEXT[33] = [
   "Tuas cordas estão frouxas; não conseguem firmar o mastro nem estender a vela. Então se repartirá abundante despojo; até os coxos tomarão parte na presa.",
   "Nenhum habitante dirá: “Estou doente”; o povo que ali habita terá sua iniquidade perdoada."
 ];
+
+window.ISAIAH_TEXT[34] = [
+  "Aproximai-vos, nações, para ouvir; povos, prestai atenção! Ouça a terra e tudo o que a enche, o mundo e tudo o que dele procede.",
+  "Pois YHWH está indignado contra todas as nações e furioso contra todo o seu exército; destinou-as à destruição e as entregou ao massacre.",
+  "Seus mortos serão lançados fora, e o mau cheiro de seus cadáveres subirá; os montes se derreterão com seu sangue.",
+  "Todo o exército dos céus se dissolverá; os céus serão enrolados como pergaminho, e todo o seu exército cairá como cai a folha da videira e como o figo da figueira.",
+  "Pois minha espada se embriagou nos céus; eis que descerá sobre Edom, sobre o povo que destinei à destruição, para executar julgamento.",
+  "A espada de YHWH está cheia de sangue, coberta de gordura, do sangue de cordeiros e bodes, da gordura dos rins de carneiros; pois YHWH tem sacrifício em Bozra e grande matança na terra de Edom.",
+  "Bois selvagens cairão com eles, e novilhos com touros; sua terra ficará embriagada de sangue, e seu pó será saturado de gordura.",
+  "Pois YHWH tem um dia de vingança, um ano de retribuição pela causa de Sião.",
+  "Seus riachos se transformarão em piche, seu pó em enxofre, e sua terra será piche ardente.",
+  "Não se apagará de noite nem de dia; sua fumaça subirá para sempre. De geração em geração ficará desolada; ninguém passará por ela para todo o sempre.",
+  "Mas o pelicano e o ouriço a possuirão; a coruja e o corvo habitarão nela. YHWH estenderá sobre ela a linha do caos e o prumo da desolação.",
+  "Seus nobres não terão reino para proclamar, e todos os seus príncipes desaparecerão.",
+  "Espinhos crescerão em seus palácios, urtigas e cardos em suas fortalezas; será morada de chacais e abrigo de avestruzes.",
+  "Animais do deserto se encontrarão com hienas, e bodes selvagens chamarão uns aos outros; ali também a criatura da noite repousará e encontrará descanso.",
+  "Ali a serpente fará seu ninho, porá ovos, chocará e reunirá seus filhotes à sombra; ali também se reunirão os abutres, cada um com seu companheiro.",
+  "Consultai o livro de YHWH e lede: nenhum deles faltará, nenhum carecerá de seu companheiro; pois a boca de YHWH ordenou, e seu Espírito os reuniu.",
+  "Ele lançou a sorte para eles, e sua mão lhes repartiu a terra por linha de medir; eles a possuirão para sempre, de geração em geração habitarão nela."
+];
+
+window.ISAIAH_TEXT[35] = [
+  "O deserto e a terra seca se alegrarão; o ermo exultará e florescerá como o narciso.",
+  "Florescerá abundantemente e exultará com júbilo e cânticos; a glória do Líbano lhe será dada, o esplendor do Carmelo e de Sarom. Eles verão a glória de YHWH, o esplendor de nosso Deus.",
+  "Fortalecei as mãos fracas e firmai os joelhos vacilantes.",
+  "Dizei aos de coração ansioso: “Sede fortes, não temais! Eis que vosso Deus virá com vingança, com retribuição divina; ele virá e vos salvará”.",
+  "Então os olhos dos cegos serão abertos, e os ouvidos dos surdos serão desimpedidos.",
+  "Então o coxo saltará como cervo, e a língua do mudo cantará; pois águas jorrarão no deserto, e riachos no ermo.",
+  "A areia ardente se tornará lago, e a terra sedenta, fontes de água; na morada dos chacais, onde repousam, haverá relva, caniços e juncos.",
+  "Ali haverá uma estrada, um caminho, que será chamado Caminho Santo; o impuro não passará por ele, mas será para os que andam no caminho; até os insensatos não se perderão.",
+  "Ali não haverá leão, nem animal feroz subirá por ele; não será encontrado ali. Mas os resgatados andarão por ele.",
+  "Os resgatados de YHWH voltarão e virão a Sião com cânticos de júbilo; alegria eterna coroará suas cabeças. Alcançarão alegria e regozijo, e tristeza e gemido fugirão."
+];
+
+window.ISAIAH_TEXT[36] = [
+  "No décimo quarto ano do rei Ezequias, Senaqueribe, rei da Assíria, subiu contra todas as cidades fortificadas de Judá e as tomou.",
+  "O rei da Assíria enviou o comandante de campo de Laquis a Jerusalém, ao rei Ezequias, com grande exército. Ele parou junto ao aqueduto do reservatório superior, na estrada do campo do lavadeiro.",
+  "Saíram ao seu encontro Eliaquim, filho de Hilquias, administrador da casa, Sebna, o escrivão, e Joá, filho de Asafe, o cronista.",
+  "O comandante de campo lhes disse: “Dizei a Ezequias: Assim diz o grande rei, o rei da Assíria: Que confiança é essa em que te apoias?",
+  "Dizes — mas são apenas palavras vazias — que tens conselho e força para a guerra. Em quem confias, para te rebelares contra mim?",
+  "Eis que confias no Egito, aquele bordão de cana quebrada, que penetra e fura a mão de quem se apoia nele. Assim é o faraó, rei do Egito, para todos os que nele confiam.",
+  "Mas, se me disseres: ‘Confiamos em YHWH, nosso Deus’, não foi esse cujos lugares altos e altares Ezequias removeu, dizendo a Judá e a Jerusalém: ‘Diante deste altar adorareis’?",
+  "Agora, pois, faz uma aposta com meu senhor, o rei da Assíria: eu te darei dois mil cavalos, se conseguires fornecer cavaleiros para eles.",
+  "Como poderias repelir um só capitão entre os menores servos de meu senhor, quando confias no Egito por carros e cavaleiros?",
+  "Acaso subi agora sem YHWH contra esta terra para destruí-la? YHWH me disse: ‘Sobe contra esta terra e destrói-a’”.",
+  "Então Eliaquim, Sebna e Joá disseram ao comandante de campo: “Fala, por favor, a teus servos em aramaico, pois o entendemos; não nos fales em judaico aos ouvidos do povo que está sobre o muro”.",
+  "Mas o comandante de campo respondeu: “Foi a teu senhor e a ti que meu senhor me enviou para dizer estas palavras? Não foi também aos homens que estão sentados sobre o muro, que terão de comer seus excrementos e beber sua urina convosco?”",
+  "Então o comandante de campo se levantou e clamou em alta voz em judaico: “Ouvi as palavras do grande rei, o rei da Assíria!",
+  "Assim diz o rei: Não vos deixeis enganar por Ezequias, pois ele não poderá livrar-vos.",
+  "Não deixeis que Ezequias vos faça confiar em YHWH, dizendo: ‘YHWH certamente nos livrará; esta cidade não será entregue nas mãos do rei da Assíria’.",
+  "Não deis ouvidos a Ezequias, pois assim diz o rei da Assíria: ‘Fazei paz comigo e saí para mim; cada um comerá de sua vinha e de sua figueira e beberá água de sua cisterna,",
+  "até que eu venha e vos leve para uma terra como a vossa, terra de cereal e vinho novo, terra de pão e vinhas’.",
+  "Não vos engane Ezequias, dizendo: ‘YHWH nos livrará’. Acaso os deuses das nações livraram cada um sua terra das mãos do rei da Assíria?",
+  "Onde estão os deuses de Hamate e Arpade? Onde estão os deuses de Sefarvaim? Acaso livraram Samaria de minhas mãos?",
+  "Quais, entre todos os deuses dessas terras, livraram sua terra de minhas mãos, para que YHWH livre Jerusalém de minhas mãos?”",
+  "Mas eles ficaram em silêncio e não lhe responderam palavra alguma, pois a ordem do rei era: “Não lhe respondais”.",
+  "Então Eliaquim, filho de Hilquias, administrador da casa, Sebna, o escrivão, e Joá, filho de Asafe, o cronista, foram a Ezequias com as roupas rasgadas e lhe contaram as palavras do comandante de campo."
+];
