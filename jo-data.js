@@ -677,3 +677,77 @@ window.JOB_TEXT[25] = [
   "Até a lua não tem brilho, e as estrelas não são puras aos olhos dele;",
   "quanto menos o homem, que é um verme, e o filho do homem, que é um verme pequeno!”"
 ];
+
+window.JOB_TEXT[26] = [
+  "Jó respondeu:",
+  "“Como ajudaste aquele que não tem força! Como socorreste o braço sem vigor!",
+  "Como aconselhaste aquele que não tem sabedoria e revelaste plenamente o entendimento!",
+  "A quem dirigiste palavras? De quem é o espírito que saiu de ti?",
+  "Os mortos tremem debaixo das águas, e os que nelas habitam.",
+  "O mundo dos mortos está nu diante de Deus, e o Abadom não tem cobertura.",
+  "Ele estende o norte sobre o vazio e suspende a terra sobre o nada.",
+  "Envolve as águas em suas nuvens, e a nuvem não se rompe sob seu peso.",
+  "Encobre a face da lua cheia e estende sobre ela sua nuvem.",
+  "Traçou um círculo sobre a superfície das águas, até o limite entre a luz e as trevas.",
+  "As colunas dos céus tremem e ficam aterrorizadas diante de sua repreensão.",
+  "Com seu poder agita o mar e com seu entendimento despedaça Raabe.",
+  "Por seu sopro os céus se tornam claros; sua mão fere a serpente fugitiva.",
+  "Eis que essas são apenas as bordas de seus caminhos; que pequeno sussurro ouvimos dele! Quem compreenderá o trovão de seu poder?”"
+];
+
+window.JOB_TEXT[27] = [
+  "Jó continuou seu discurso e disse:",
+  "“Tão certo como vive Deus, que tirou meu direito, e o Todo-Poderoso, que amargurou minha alma,",
+  "enquanto houver fôlego em mim e o sopro de Deus em minhas narinas,",
+  "meus lábios não falarão injustiça, nem minha língua pronunciará engano.",
+  "Longe de mim declarar-vos justos! Até que eu morra, não abandonarei minha integridade.",
+  "Apegarei-me à minha justiça e não a deixarei; meu coração não me condena por nenhum de meus dias.",
+  "Que meu inimigo seja como o perverso, e aquele que se levanta contra mim como o injusto.",
+  "Pois que esperança tem o ímpio quando Deus lhe tira a vida, quando lhe arrebata a alma?",
+  "Deus ouvirá seu clamor quando a aflição vier sobre ele?",
+  "Acaso terá prazer no Todo-Poderoso? Invocará a Deus em todo tempo?",
+  "Eu vos ensinarei sobre a mão de Deus; não esconderei o que está com o Todo-Poderoso.",
+  "Eis que todos vós já vistes isso; por que, então, vos entregais a palavras vazias?",
+  "Esta é a porção que Deus reserva ao homem perverso, a herança que os violentos recebem do Todo-Poderoso:",
+  "seus filhos se multiplicam para a espada, e seus descendentes não terão pão suficiente.",
+  "Os sobreviventes serão sepultados pela peste, e suas viúvas não chorarão por eles.",
+  "Ainda que acumule prata como pó e prepare roupas como barro,",
+  "ele as prepara, mas o justo as vestirá; e o inocente repartirá a prata.",
+  "Constrói sua casa como a traça, como a cabana que o vigia faz.",
+  "Deita-se rico, mas não será recolhido assim; abre os olhos, e já não existe.",
+  "Terrores o alcançam como águas; uma tempestade o arrebata durante a noite.",
+  "O vento oriental o leva, e ele desaparece; arranca-o de seu lugar.",
+  "Deus lança sobre ele sem piedade; ele tenta fugir de sua mão.",
+  "Batem palmas contra ele e o assobiam de seu lugar”."
+];
+
+window.JOB_TEXT[28] = [
+  "“Há minas de prata e lugares onde se refina o ouro.",
+  "O ferro é extraído da terra, e da pedra se funde o cobre.",
+  "O homem põe fim às trevas e examina até os limites mais remotos as pedras na escuridão profunda.",
+  "Abre um poço longe dos lugares habitados; esquecidos pelos pés dos homens, ficam suspensos e balançam longe das pessoas.",
+  "Da terra vem o pão, mas por baixo ela é revolvida como pelo fogo.",
+  "Suas pedras contêm safiras, e seu pó contém ouro.",
+  "Nenhuma ave de rapina conhece esse caminho, e o olho do falcão não o viu.",
+  "Os animais altivos não o pisaram, e o leão não passou por ele.",
+  "O homem estende a mão contra a rocha e revolve as montanhas desde suas raízes.",
+  "Abre canais nas rochas, e seus olhos veem toda espécie de preciosidade.",
+  "Represa as correntes de água e traz à luz o que estava oculto.",
+  "Mas onde se encontrará a sabedoria? Onde está o lugar do entendimento?",
+  "O homem não conhece seu valor, e ela não se encontra na terra dos viventes.",
+  "O abismo diz: ‘Não está em mim’; e o mar diz: ‘Não está comigo’.",
+  "Não pode ser comprada com ouro puro, nem a prata pode ser pesada como seu preço.",
+  "Não pode ser avaliada pelo ouro de Ofir, nem pelo precioso ônix ou pela safira.",
+  "O ouro e o cristal não se comparam a ela; não se troca por joia de ouro fino.",
+  "Coral e cristal não merecem menção; o preço da sabedoria supera o das pérolas.",
+  "O topázio da Etiópia não se compara a ela; não pode ser avaliada com ouro puro.",
+  "De onde vem, então, a sabedoria? Onde está o lugar do entendimento?",
+  "Está escondida aos olhos de todos os viventes e oculta até das aves dos céus.",
+  "O Abadom e a morte dizem: ‘Ouvimos falar dela com nossos ouvidos’.",
+  "Deus conhece seu caminho; ele sabe onde ela está.",
+  "Pois ele contempla os confins da terra e vê tudo o que há debaixo dos céus.",
+  "Quando deu peso ao vento e mediu as águas com medida,",
+  "quando estabeleceu uma lei para a chuva e um caminho para o relâmpago dos trovões,",
+  "então viu a sabedoria e a manifestou; estabeleceu-a e também a examinou.",
+  "E disse ao ser humano: ‘Eis que o temor do Senhor é sabedoria, e afastar-se do mal é entendimento’”."
+];
