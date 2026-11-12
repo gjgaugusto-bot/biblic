@@ -2278,3 +2278,106 @@ window.PSALMS_TEXT[112] = [
   "Distribui generosamente aos pobres; sua justiça permanece para sempre; seu poder será exaltado em honra.",
   "O perverso verá isso e se irritará; rangerá os dentes e se consumirá. O desejo dos perversos perecerá."
 ];
+
+window.PSALMS_TEXT[113] = [
+  "Aleluia! Louvai, servos de YHWH, louvai o nome de YHWH.",
+  "Bendito seja o nome de YHWH, desde agora e para sempre.",
+  "Do nascente ao poente, seja louvado o nome de YHWH.",
+  "YHWH é exaltado acima de todas as nações; sua glória está acima dos céus.",
+  "Quem é como YHWH, nosso Deus, que está entronizado nas alturas,",
+  "mas se inclina para olhar os céus e a terra?",
+  "Ele levanta o pobre do pó e ergue o necessitado do monturo,",
+  "para fazê-lo sentar-se com os nobres, com os nobres de seu povo.",
+  "Faz a mulher estéril habitar em família, alegre mãe de filhos. Aleluia!"
+];
+
+window.PSALMS_TEXT[114] = [
+  "Quando Israel saiu do Egito, a casa de Jacó, de um povo de língua estrangeira,",
+  "Judá tornou-se seu santuário, e Israel, seu domínio.",
+  "O mar viu e fugiu; o Jordão voltou para trás.",
+  "Os montes saltaram como carneiros, e as colinas, como cordeiros.",
+  "Que tens, ó mar, para fugires? E tu, Jordão, para voltares atrás?",
+  "Montes, por que saltastes como carneiros? E vós, colinas, como cordeiros?",
+  "Treme, ó terra, diante do Senhor, diante do Deus de Jacó,",
+  "que transforma a rocha em lago de água e o sílex em fonte de água."
+];
+
+window.PSALMS_TEXT[115] = [
+  "Não a nós, YHWH, não a nós, mas a teu nome dá glória, por tua lealdade e tua verdade.",
+  "Por que diriam as nações: “Onde está o Deus deles?”",
+  "Nosso Deus está nos céus; ele faz tudo o que lhe agrada.",
+  "Seus ídolos são prata e ouro, obra das mãos dos homens.",
+  "Têm boca, mas não falam; têm olhos, mas não veem.",
+  "Têm ouvidos, mas não ouvem; têm nariz, mas não cheiram.",
+  "Têm mãos, mas não apalpam; têm pés, mas não andam; não emitem som algum com a garganta.",
+  "Tornem-se semelhantes a eles os que os fazem e todos os que neles confiam.",
+  "Israel, confia em YHWH; ele é seu auxílio e seu escudo.",
+  "Casa de Arão, confia em YHWH; ele é seu auxílio e seu escudo.",
+  "Vós que temeis YHWH, confiai em YHWH; ele é vosso auxílio e vosso escudo.",
+  "YHWH se lembra de nós; ele abençoará. Abençoará a casa de Israel, abençoará a casa de Arão.",
+  "Abençoará os que temem YHWH, pequenos e grandes.",
+  "Que YHWH vos multiplique, a vós e a vossos filhos.",
+  "Sede benditos por YHWH, que fez os céus e a terra.",
+  "Os céus pertencem a YHWH, mas a terra ele deu aos filhos dos homens.",
+  "Os mortos não louvam YHWH, nem os que descem ao silêncio.",
+  "Nós, porém, bendiremos YHWH, desde agora e para sempre. Aleluia!"
+];
+
+window.PSALMS_TEXT[116] = [
+  "Amo YHWH, pois ele ouve minha voz e minhas súplicas.",
+  "Porque inclinou para mim seu ouvido, eu o invocarei enquanto viver.",
+  "Cordas de morte me cercaram, e angústias do mundo dos mortos me alcançaram; encontrei aflição e tristeza.",
+  "Então invoquei o nome de YHWH: “Ah, YHWH, livra minha alma!”",
+  "YHWH é gracioso e justo; nosso Deus é compassivo.",
+  "YHWH guarda os simples; eu estava abatido, e ele me salvou.",
+  "Volta, minha alma, ao teu descanso, pois YHWH te tratou com bondade.",
+  "Pois livraste minha alma da morte, meus olhos das lágrimas e meus pés de tropeçar.",
+  "Andarei diante de YHWH na terra dos viventes.",
+  "Cri; por isso falei. Eu estava muito aflito.",
+  "Em meu espanto, disse: “Todos os homens são mentirosos”.",
+  "Que darei a YHWH por todos os benefícios que me fez?",
+  "Tomarei o cálice da salvação e invocarei o nome de YHWH.",
+  "Cumprirei meus votos a YHWH na presença de todo o seu povo.",
+  "Preciosa aos olhos de YHWH é a morte de seus leais.",
+  "Ah, YHWH, sou teu servo; sou teu servo, filho de tua serva; rompeste minhas correntes.",
+  "Oferecerei a ti sacrifício de ação de graças e invocarei o nome de YHWH.",
+  "Cumprirei meus votos a YHWH na presença de todo o seu povo,",
+  "nos pátios da casa de YHWH, no meio de ti, Jerusalém. Aleluia!"
+];
+
+window.PSALMS_TEXT[117] = [
+  "Louvai YHWH, todas as nações; exaltai-o, todos os povos.",
+  "Pois sua lealdade é poderosa sobre nós, e a fidelidade de YHWH dura para sempre. Aleluia!"
+];
+
+window.PSALMS_TEXT[118] = [
+  "Dai graças a YHWH, pois ele é bom, porque sua lealdade dura para sempre.",
+  "Diga agora Israel: “Sua lealdade dura para sempre”.",
+  "Diga agora a casa de Arão: “Sua lealdade dura para sempre”.",
+  "Digam agora os que temem YHWH: “Sua lealdade dura para sempre”.",
+  "Da angústia invoquei YHWH; YHWH me respondeu e me pôs em lugar amplo.",
+  "YHWH está comigo; não temerei. Que pode o homem fazer contra mim?",
+  "YHWH está comigo entre os que me ajudam; verei a derrota dos que me odeiam.",
+  "Melhor é refugiar-se em YHWH do que confiar no homem.",
+  "Melhor é refugiar-se em YHWH do que confiar em príncipes.",
+  "Todas as nações me cercaram; em nome de YHWH as destruí.",
+  "Cercaram-me, sim, rodearam-me; em nome de YHWH as destruí.",
+  "Cercaram-me como abelhas; apagaram-se como fogo de espinhos; em nome de YHWH as destruí.",
+  "Empurraram-me com força para que eu caísse, mas YHWH me ajudou.",
+  "YHWH é minha força e meu cântico; ele se tornou minha salvação.",
+  "Há voz de júbilo e salvação nas tendas dos justos: “A mão direita de YHWH age com poder!",
+  "A mão direita de YHWH é exaltada; a mão direita de YHWH age com poder!”",
+  "Não morrerei, mas viverei e anunciarei as obras de YHWH.",
+  "YHWH me disciplinou severamente, mas não me entregou à morte.",
+  "Abri para mim as portas da justiça; entrarei por elas e darei graças a YHWH.",
+  "Esta é a porta de YHWH; os justos entrarão por ela.",
+  "Dou-te graças, pois me respondeste e te tornaste minha salvação.",
+  "A pedra que os construtores rejeitaram tornou-se a pedra angular.",
+  "Isso veio de YHWH; é maravilhoso aos nossos olhos.",
+  "Este é o dia que YHWH fez; alegremo-nos e exultemos nele.",
+  "Ah, YHWH, salva, por favor! Ah, YHWH, concede prosperidade, por favor!",
+  "Bendito aquele que vem em nome de YHWH! Da casa de YHWH vos abençoamos.",
+  "YHWH é Deus, e ele nos deu luz. Atai o sacrifício festivo com cordas até as pontas do altar.",
+  "Tu és meu Deus, e eu te darei graças; meu Deus, eu te exaltarei.",
+  "Dai graças a YHWH, pois ele é bom, porque sua lealdade dura para sempre."
+];
