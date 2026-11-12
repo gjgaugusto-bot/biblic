@@ -1419,9 +1419,5 @@ window.EZEKIEL_TEXT[48] = [
   "No lado oriental, que mede quatro mil e quinhentos côvados, haverá três portas, uma de José, uma de Benjamim e uma de Dã.",
   "No lado sul, que mede quatro mil e quinhentos côvados, haverá três portas, uma de Simeão, uma de Issacar e uma de Zebulom.",
   "No lado ocidental, que mede quatro mil e quinhentos côvados, haverá três portas, uma de Gade, uma de Aser e uma de Naftali.",
-  "O perímetro será de dezoito mil côvados; e o nome da cidade, daquele dia em diante, será: YHWH Está Ali.",
-  "No lado oriental, que mede quatro mil e quinhentos côvados, haverá três portas, uma de José, uma de Benjamim e uma de Dã.",
-  "No lado sul, que mede quatro mil e quinhentos côvados, haverá três portas, uma de Simeão, uma de Issacar e uma de Zebulom.",
-  "No lado ocidental, que mede quatro mil e quinhentos côvados, haverá três portas, uma de Gade, uma de Aser e uma de Naftali.",
   "O perímetro será de dezoito mil côvados; e o nome da cidade, daquele dia em diante, será: YHWH Está Ali."
 ];
