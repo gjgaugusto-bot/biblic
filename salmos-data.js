@@ -1877,3 +1877,66 @@ window.PSALMS_TEXT[95] = [
   "Durante quarenta anos tive repugnância daquela geração e disse: “São povo cujo coração se desvia; não conhecem meus caminhos”.",
   "Por isso jurei em minha ira: “Não entrarão no meu descanso”."
 ];
+
+window.PSALMS_TEXT[96] = [
+  "Cantai a YHWH um cântico novo; cantai a YHWH, toda a terra.",
+  "Cantai a YHWH, bendizei seu nome; anunciai dia após dia sua salvação.",
+  "Anunciai sua glória entre as nações, suas maravilhas entre todos os povos.",
+  "Pois YHWH é grande e digno de muito louvor; é temível acima de todos os deuses.",
+  "Pois todos os deuses dos povos são ídolos, mas YHWH fez os céus.",
+  "Majestade e esplendor estão diante dele; força e beleza, em seu santuário.",
+  "Atribuí a YHWH, famílias dos povos, atribuí a YHWH glória e força.",
+  "Atribuí a YHWH a glória devida a seu nome; trazei ofertas e entrai em seus pátios.",
+  "Adorai YHWH na beleza da santidade; tremei diante dele, toda a terra.",
+  "Dizei entre as nações: “YHWH reina! O mundo está firme e não será abalado; ele julgará os povos com retidão”.",
+  "Alegrem-se os céus e exulte a terra; ruja o mar e tudo o que nele há.",
+  "Alegrem-se os campos e tudo o que neles existe; então todas as árvores da floresta cantarão de alegria",
+  "diante de YHWH, pois ele vem; vem para julgar a terra. Julgará o mundo com justiça e os povos com sua verdade."
+];
+
+window.PSALMS_TEXT[97] = [
+  "YHWH reina; alegre-se a terra, exultem as muitas ilhas.",
+  "Nuvens e escuridão o cercam; justiça e direito são o fundamento de seu trono.",
+  "Fogo vai adiante dele e consome seus adversários ao redor.",
+  "Seus relâmpagos iluminam o mundo; a terra vê e estremece.",
+  "Os montes derretem como cera diante de YHWH, diante do Senhor de toda a terra.",
+  "Os céus anunciam sua justiça, e todos os povos veem sua glória.",
+  "Sejam envergonhados todos os que servem imagens esculpidas, os que se gloriam em ídolos; prostrai-vos diante dele, todos os deuses.",
+  "Sião ouve e se alegra, e as filhas de Judá exultam por causa de teus julgamentos, YHWH.",
+  "Pois tu, YHWH, és o Altíssimo sobre toda a terra; estás muito acima de todos os deuses.",
+  "Vós que amais YHWH, odiai o mal; ele guarda a alma de seus leais e os livra das mãos dos perversos.",
+  "A luz nasce para o justo, e a alegria, para os retos de coração.",
+  "Alegrai-vos em YHWH, ó justos, e dai graças à memória de sua santidade."
+];
+
+window.PSALMS_TEXT[98] = [
+  "Salmo. Cantai a YHWH um cântico novo, pois ele realizou maravilhas; sua mão direita e seu braço santo lhe deram vitória.",
+  "YHWH tornou conhecida sua salvação; revelou sua justiça diante das nações.",
+  "Lembrou-se de sua lealdade e fidelidade para com a casa de Israel; todos os confins da terra viram a salvação de nosso Deus.",
+  "Aclamai a YHWH, toda a terra; irrompei em júbilo, alegrai-vos e cantai louvores.",
+  "Cantai louvores a YHWH com a harpa, com a harpa e ao som do cântico.",
+  "Com trombetas e som de chifre, aclamai diante do Rei, YHWH.",
+  "Ruja o mar e tudo o que nele há, o mundo e os que nele habitam.",
+  "Batam palmas os rios; juntos cantem de alegria os montes",
+  "diante de YHWH, pois ele vem para julgar a terra. Julgará o mundo com justiça e os povos com retidão."
+];
+
+window.PSALMS_TEXT[99] = [
+  "YHWH reina; tremam os povos. Ele está entronizado sobre os querubins; estremeça a terra.",
+  "YHWH é grande em Sião e exaltado acima de todos os povos.",
+  "Louvem teu nome grande e temível; ele é santo.",
+  "A força do Rei ama a justiça; tu estabeleceste a retidão, executaste julgamento e justiça em Jacó.",
+  "Exaltai YHWH, nosso Deus, e prostrai-vos diante do estrado de seus pés; ele é santo.",
+  "Moisés e Arão estavam entre seus sacerdotes, e Samuel entre os que invocavam seu nome; clamavam a YHWH, e ele lhes respondia.",
+  "Falava-lhes na coluna de nuvem; guardavam seus testemunhos e o estatuto que lhes dera.",
+  "YHWH, nosso Deus, tu lhes respondias; foste para eles Deus perdoador, embora castigasses suas obras.",
+  "Exaltai YHWH, nosso Deus, e prostrai-vos diante de seu santo monte, pois YHWH, nosso Deus, é santo."
+];
+
+window.PSALMS_TEXT[100] = [
+  "Salmo de ação de graças. Aclamai a YHWH, toda a terra.",
+  "Servi a YHWH com alegria; vinde diante dele com cânticos de júbilo.",
+  "Sabei que YHWH é Deus; foi ele quem nos fez, e somos dele; somos seu povo e ovelhas de seu pasto.",
+  "Entrai por suas portas com ação de graças e em seus pátios com louvor; dai-lhe graças e bendizei seu nome.",
+  "Pois YHWH é bom; sua lealdade dura para sempre, e sua fidelidade, de geração em geração."
+];
