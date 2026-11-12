@@ -838,3 +838,99 @@ window.PSALMS_TEXT[45] = [
   "Em lugar de teus pais estarão teus filhos; tu os farás príncipes por toda a terra.",
   "Farei teu nome ser lembrado por todas as gerações; por isso os povos te louvarão para todo o sempre."
 ];
+
+window.PSALMS_TEXT[46] = [
+  "Ao regente do coro. Dos filhos de Corá. Sobre Alamote. Cântico.",
+  "Deus é nosso refúgio e força, auxílio sempre presente nas angústias.",
+  "Por isso não temeremos, ainda que a terra se transforme e os montes sejam lançados no coração dos mares,",
+  "ainda que suas águas rujam e espumem, e os montes tremam diante de sua fúria. Selá.",
+  "Há um rio cujos canais alegram a cidade de Deus, o santo lugar das moradas do Altíssimo.",
+  "Deus está no meio dela; não será abalada. Deus a ajudará ao romper da manhã.",
+  "As nações se agitaram, os reinos vacilaram; ele levantou sua voz, e a terra se derreteu.",
+  "YHWH dos Exércitos está conosco; o Deus de Jacó é nosso alto refúgio. Selá.",
+  "Vinde, contemplai as obras de YHWH, as desolações que ele fez na terra.",
+  "Ele faz cessar as guerras até os confins da terra; quebra o arco e despedaça a lança; queima os carros no fogo.",
+  "“Aquietai-vos e sabei que eu sou Deus; serei exaltado entre as nações, serei exaltado na terra”.",
+  "YHWH dos Exércitos está conosco; o Deus de Jacó é nosso alto refúgio. Selá."
+];
+
+window.PSALMS_TEXT[47] = [
+  "Ao regente do coro. Dos filhos de Corá. Salmo.",
+  "Todos os povos, batei palmas; aclamai a Deus com voz de júbilo.",
+  "Pois YHWH, o Altíssimo, é temível, grande Rei sobre toda a terra.",
+  "Ele submete povos a nós e nações debaixo de nossos pés.",
+  "Escolhe para nós nossa herança, a glória de Jacó, a quem ama. Selá.",
+  "Deus subiu entre aclamações, YHWH, ao som da trombeta.",
+  "Cantai louvores a Deus, cantai louvores; cantai louvores a nosso Rei, cantai louvores.",
+  "Pois Deus é Rei de toda a terra; cantai louvores com entendimento.",
+  "Deus reina sobre as nações; Deus está sentado em seu santo trono.",
+  "Os nobres dos povos se reúnem como povo do Deus de Abraão, pois os escudos da terra pertencem a Deus; ele é grandemente exaltado."
+];
+
+window.PSALMS_TEXT[48] = [
+  "Cântico. Salmo dos filhos de Corá.",
+  "Grande é YHWH e digno de muito louvor na cidade de nosso Deus, em seu santo monte.",
+  "Belo em elevação, alegria de toda a terra é o monte Sião, no extremo norte, a cidade do grande Rei.",
+  "Deus se faz conhecer em seus palácios como alto refúgio.",
+  "Pois eis que os reis se reuniram e avançaram juntos.",
+  "Quando a viram, ficaram espantados; aterrorizados, fugiram apressadamente.",
+  "Ali o tremor os tomou, dores como as da mulher que dá à luz.",
+  "Com o vento oriental despedaças os navios de Társis.",
+  "Assim como ouvimos, também vimos na cidade de YHWH dos Exércitos, na cidade de nosso Deus; Deus a estabelece para sempre. Selá.",
+  "Meditamos, ó Deus, em tua lealdade no meio de teu templo.",
+  "Como teu nome, ó Deus, assim teu louvor alcança os confins da terra; tua mão direita está cheia de justiça.",
+  "Alegre-se o monte Sião; exultem as filhas de Judá por causa de teus julgamentos.",
+  "Caminhai ao redor de Sião, contai suas torres.",
+  "Considerai bem suas muralhas, examinai seus palácios, para que conteis à geração seguinte.",
+  "Pois este Deus é nosso Deus para todo o sempre; ele nos guiará até a morte."
+];
+
+window.PSALMS_TEXT[49] = [
+  "Ao regente do coro. Dos filhos de Corá. Salmo.",
+  "Ouvi isto, todos os povos; dai ouvidos, todos os habitantes do mundo,",
+  "tanto os humildes como os nobres, o rico e o pobre juntos.",
+  "Minha boca falará sabedoria, e a meditação de meu coração será entendimento.",
+  "Inclinarei meu ouvido a um provérbio; explicarei meu enigma ao som da harpa.",
+  "Por que temeria nos dias maus, quando a iniquidade dos que me perseguem me cerca?",
+  "Eles confiam em seus bens e se gloriam na abundância de suas riquezas.",
+  "Ninguém pode de modo algum resgatar seu irmão, nem dar a Deus o preço de seu resgate,",
+  "pois o resgate de sua vida é caro demais; jamais poderá pagá-lo,",
+  "para que viva para sempre e não veja a cova.",
+  "Pois vê-se que os sábios morrem; perecem igualmente o tolo e o insensato, deixando seus bens a outros.",
+  "Seu pensamento íntimo é que suas casas durarão para sempre, suas moradas por todas as gerações; dão seus nomes às suas terras.",
+  "Mas o homem, apesar de sua honra, não permanece; é semelhante aos animais que perecem.",
+  "Este é o caminho dos que confiam em si mesmos, e o destino dos que se agradam de suas próprias palavras. Selá.",
+  "Como ovelhas, são destinados ao mundo dos mortos; a morte os pastoreia. Pela manhã, os retos os dominarão, e sua forma será consumida no mundo dos mortos, longe de sua morada.",
+  "Mas Deus resgatará minha alma do poder do mundo dos mortos, pois me tomará para si. Selá.",
+  "Não temas quando alguém enriquece, quando aumenta a glória de sua casa.",
+  "Pois, ao morrer, nada levará consigo; sua glória não descerá atrás dele.",
+  "Ainda que em vida se considere feliz — e os homens te louvem quando prosperas —,",
+  "irá para a geração de seus pais, que nunca mais verão a luz.",
+  "O homem que está em honra, mas não tem entendimento, é semelhante aos animais que perecem."
+];
+
+window.PSALMS_TEXT[50] = [
+  "Salmo de Asafe. O Deus dos deuses, YHWH, fala e convoca a terra, do nascente ao poente.",
+  "De Sião, perfeita em beleza, Deus resplandece.",
+  "Nosso Deus vem e não ficará em silêncio; diante dele há fogo consumidor, e ao seu redor uma grande tempestade.",
+  "Ele convoca os céus acima e a terra, para julgar seu povo:",
+  "“Reuni diante de mim meus leais, os que fizeram aliança comigo por meio de sacrifício”.",
+  "Os céus anunciam sua justiça, pois o próprio Deus é juiz. Selá.",
+  "“Ouve, meu povo, e falarei; Israel, testemunharei contra ti. Eu sou Deus, teu Deus.",
+  "Não te repreendo por causa de teus sacrifícios, pois teus holocaustos estão sempre diante de mim.",
+  "Não tomarei novilho de tua casa, nem bodes de teus apriscos.",
+  "Pois meus são todos os animais da floresta e o gado sobre milhares de montanhas.",
+  "Conheço todas as aves dos montes, e tudo o que se move no campo me pertence.",
+  "Se eu tivesse fome, não te diria, pois meu é o mundo e tudo o que nele há.",
+  "Acaso comerei carne de touros ou beberei sangue de bodes?",
+  "Oferece a Deus sacrifício de ação de graças e cumpre teus votos ao Altíssimo.",
+  "Invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás”.",
+  "Mas ao perverso Deus diz: “Que direito tens de recitar meus estatutos e tomar minha aliança em tua boca?",
+  "Tu odeias a disciplina e lanças minhas palavras para trás de ti.",
+  "Quando vês um ladrão, te agradas dele; e tua parte está com os adúlteros.",
+  "Entregas tua boca ao mal, e tua língua trama engano.",
+  "Sentas-te e falas contra teu irmão; difamas o filho de tua própria mãe.",
+  "Fizeste essas coisas, e me calei; pensaste que eu era como tu. Mas eu te repreenderei e porei tudo diante de teus olhos.",
+  "Considerai isto, vós que vos esqueceis de Deus, para que eu não vos despedace sem que haja quem vos livre.",
+  "Aquele que oferece sacrifício de ação de graças me honra; ao que ordena corretamente seu caminho, mostrarei a salvação de Deus”."
+];
