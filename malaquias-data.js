@@ -1,6 +1,6 @@
 /* Malaquias — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: WLC, Midvash/bible-data, versions/he/wlc/books/Mal.json.
- * Livro completo: 3 capítulos e 51 versículos; contagem conferida capítulo a capítulo.
+ * Livro completo: 3 capítulos e 55 versículos; contagem conferida capítulo a capítulo.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.MALACHI_TEXT = window.MALACHI_TEXT || {};
