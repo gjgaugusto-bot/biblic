@@ -1182,8 +1182,7 @@ window.PSALMS_TEXT[65] = [
 ];
 
 window.PSALMS_TEXT[66] = [
-  "Ao regente do coro. Cântico. Salmo.",
-  "Aclamai a Deus, toda a terra!",
+  "Ao regente do coro. Cântico. Salmo. Aclamai a Deus, toda a terra!",
   "Cantai a glória de seu nome; tornai glorioso seu louvor.",
   "Dizei a Deus: “Quão temíveis são tuas obras! Por causa da grandeza de teu poder, teus inimigos se submetem a ti.",
   "Toda a terra te adora e canta louvores a ti; canta louvores ao teu nome”. Selá.",
