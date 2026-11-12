@@ -443,3 +443,78 @@ window.JOB_TEXT[16] = [
   "para que ele julgue entre o homem e Deus, entre o filho do homem e seu próximo.",
   "Pois poucos anos ainda me restam, e partirei pelo caminho sem retorno”."
 ];
+
+window.JOB_TEXT[17] = [
+  "“Meu espírito está quebrantado, meus dias se apagam, e a sepultura me espera.",
+  "Certamente há zombadores comigo, e meus olhos permanecem entre suas provocações.",
+  "Põe-te como fiador por mim junto de ti; quem mais poderia dar a mão em meu favor?",
+  "Pois fechaste o entendimento deles; por isso não os deixarás triunfar.",
+  "Quem denuncia os amigos para obter uma parte verá os olhos de seus filhos desfalecerem.",
+  "Ele me tornou motivo de provérbio entre os povos; tornei-me alguém em cujo rosto se cospe.",
+  "Meu olho escureceu de tristeza, e todos os meus membros são como uma sombra.",
+  "Os retos ficam espantados com isso, e o inocente se levanta contra o perverso.",
+  "Mas o justo se apega ao seu caminho, e quem tem mãos puras aumenta sua força.",
+  "Vinde, pois, todos vós; voltarei a falar, mas não encontrarei entre vós um sábio.",
+  "Meus dias passaram; meus planos foram desfeitos, assim como os desejos de meu coração.",
+  "Transformam a noite em dia; dizem que a luz está próxima, embora haja trevas.",
+  "Se espero, o mundo dos mortos será minha casa; nas trevas estenderei meu leito.",
+  "Direi à sepultura: ‘Tu és meu pai’; e aos vermes: ‘Minha mãe e minha irmã’.",
+  "Onde está, então, minha esperança? Quem poderá enxergá-la?",
+  "Ela descerá às portas do mundo dos mortos, quando juntos descansarmos no pó”."
+];
+
+window.JOB_TEXT[18] = [
+  "Então Bildade, o suíta, respondeu:",
+  "“Até quando poreis fim às palavras? Refleti, e depois falaremos.",
+  "Por que somos considerados como animais e tratados como impuros aos vossos olhos?",
+  "Tu, que te dilaceras em tua ira, por tua causa ficará a terra abandonada? A rocha será removida de seu lugar?",
+  "A luz do perverso se apagará, e a chama de seu fogo não brilhará.",
+  "A luz escurecerá em sua tenda, e sua lâmpada se apagará sobre ele.",
+  "Seus passos vigorosos se estreitarão, e seu próprio conselho o derrubará.",
+  "Pois seus pés o lançam na rede, e ele anda sobre armadilhas.",
+  "A cilada o agarra pelo calcanhar; o laço se fecha sobre ele.",
+  "Uma corda está escondida no chão para ele, e uma armadilha, em seu caminho.",
+  "Terrores o cercam por todos os lados e o perseguem a cada passo.",
+  "Sua força será consumida pela fome, e a calamidade estará pronta ao seu lado.",
+  "A doença devorará partes de sua pele; o primogênito da morte consumirá seus membros.",
+  "Será arrancado da segurança de sua tenda e conduzido ao rei dos terrores.",
+  "O fogo habitará em sua tenda, pois já não lhe pertence; enxofre será espalhado sobre sua morada.",
+  "Suas raízes secarão por baixo, e seus ramos murcharão por cima.",
+  "Sua memória desaparecerá da terra, e seu nome não será lembrado nas ruas.",
+  "Será empurrado da luz para as trevas e expulso do mundo.",
+  "Não terá descendência nem posteridade entre seu povo, nem sobrevivente em seus lugares de habitação.",
+  "Os que vierem depois ficarão espantados com seu destino, e os que vieram antes serão tomados de horror.",
+  "Tais são as moradas do perverso; este é o lugar daquele que não conhece a Deus”."
+];
+
+window.JOB_TEXT[19] = [
+  "Jó respondeu:",
+  "“Até quando afligireis minha alma e me esmagareis com palavras?",
+  "Já me insultastes dez vezes; não vos envergonhais de me tratar com violência?",
+  "Mesmo que eu tenha errado, meu erro permanece comigo.",
+  "Se de fato vos engrandeceis contra mim e usais minha humilhação como prova,",
+  "sabei então que Deus me tratou injustamente e me cercou com sua rede.",
+  "Clamo: ‘Violência!’, mas não recebo resposta; grito por socorro, mas não há justiça.",
+  "Ele cercou meu caminho, e não posso passar; pôs trevas sobre minhas veredas.",
+  "Despiu-me de minha honra e tirou a coroa de minha cabeça.",
+  "Destrói-me por todos os lados, e eu desapareço; arranca minha esperança como se arranca uma árvore.",
+  "Sua ira se acendeu contra mim e ele me considera como um de seus inimigos.",
+  "Suas tropas avançam juntas; levantam seu caminho contra mim e acampam ao redor de minha tenda.",
+  "Meus irmãos se afastaram de mim, e meus conhecidos se tornaram estranhos para mim.",
+  "Meus parentes me abandonaram, e meus amigos íntimos se esqueceram de mim.",
+  "Os hóspedes de minha casa e minhas servas me consideram um estranho; sou estrangeiro aos olhos deles.",
+  "Chamo meu servo, mas ele não responde, ainda que eu lhe suplique com minha própria boca.",
+  "Meu hálito é repulsivo para minha mulher; sou repugnante aos filhos de meu próprio ventre.",
+  "Até as crianças me desprezam; quando me levanto, zombam de mim.",
+  "Todos os meus amigos íntimos me abominam; aqueles a quem amei se voltaram contra mim.",
+  "Meus ossos se apegam à minha pele e à minha carne; escapei apenas com a pele dos dentes.",
+  "Tende compaixão de mim, tende compaixão de mim, ó meus amigos, pois a mão de Deus me atingiu.",
+  "Por que me perseguis como Deus? Não vos fartais de minha carne?",
+  "Quem dera minhas palavras fossem escritas! Quem dera fossem registradas num livro!",
+  "Com ponteiro de ferro e chumbo, fossem gravadas para sempre na rocha!",
+  "Eu sei que meu Redentor vive e que, por fim, se levantará sobre o pó.",
+  "Depois que minha pele tiver sido destruída, ainda assim, sem minha carne, verei a Deus.",
+  "Eu mesmo o verei; meus olhos o contemplarão, e não os de um estranho. Meu coração desfalece dentro de mim.",
+  "Se disserdes: ‘Como o perseguiremos? A raiz da questão está nele’,",
+  "temei a espada, pois a ira traz o castigo da espada, para que saibais que há juízo”."
+];
