@@ -1,7 +1,7 @@
 /* Lucas — tradução de trabalho própria em português, baseada no grego do Novo Testamento.
  * Texto-base: SBL Greek New Testament (SBLGNT), ed. Michael W. Holmes, CC BY 4.0.
  * Segmentação: MorphGNT SBLGNT Edition v6.12, CC BY-SA 3.0.
- * Progresso: capítulos 1–3 de 24; 170 versículos (80 + 52 + 38). Não publicar até concluir e conferir os 24 capítulos.
+ * Progresso: capítulos 1–5 de 24; 253 versículos (80 + 52 + 38 + 44 + 39). Não publicar até concluir e conferir os 24 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.LUKE_TEXT = window.LUKE_TEXT || {};
@@ -281,4 +281,94 @@ window.LUKE_TEXT[3] = [
   "filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,",
   "filho de Matusalém, filho de Enoque, filho de Jarete, filho de Maalaleel, filho de Cainã,",
   "filho de Enos, filho de Sete, filho de Adão, filho de Deus."
+];
+
+
+window.LUKE_TEXT[4] = [
+  "Jesus, cheio do Espírito Santo, voltou do Jordão e era conduzido pelo Espírito no deserto,",
+  "durante quarenta dias, sendo tentado pelo diabo. Não comeu nada naqueles dias; ao terminarem, sentiu fome.",
+  "O diabo lhe disse: Se és Filho de Deus, manda que esta pedra se transforme em pão.",
+  "Jesus respondeu: Está escrito: Não só de pão viverá o ser humano.",
+  "Então o diabo o levou para o alto e lhe mostrou, num instante, todos os reinos do mundo habitado.",
+  "E lhe disse: Eu te darei toda esta autoridade e a glória deles, porque me foi entregue, e a dou a quem eu quiser.",
+  "Portanto, se te prostrares diante de mim, tudo será teu.",
+  "Jesus respondeu: Está escrito: Adorarás o Senhor, teu Deus, e somente a ele prestarás culto.",
+  "Depois o levou a Jerusalém, colocou-o sobre o ponto mais alto do templo e lhe disse: Se és Filho de Deus, lança-te daqui abaixo,",
+  "pois está escrito: Ele dará ordens a seus anjos a teu respeito, para que te guardem,",
+  "e: Eles te sustentarão nas mãos, para que não tropeces em alguma pedra.",
+  "Jesus respondeu: Foi dito: Não porás à prova o Senhor, teu Deus.",
+  "Tendo terminado toda tentação, o diabo afastou-se dele até ocasião oportuna.",
+  "Jesus voltou para a Galileia no poder do Espírito, e sua fama se espalhou por toda a região ao redor.",
+  "Ensinava nas sinagogas deles e era honrado por todos.",
+  "Foi a Nazaré, onde havia sido criado, e, conforme seu costume, entrou na sinagoga no sábado e levantou-se para ler.",
+  "Entregaram-lhe o rolo do profeta Isaías. Ele o desenrolou e encontrou o lugar onde estava escrito:",
+  "O Espírito do Senhor está sobre mim, porque me ungiu para anunciar boas-novas aos pobres; enviou-me para proclamar libertação aos cativos e recuperação da vista aos cegos, para pôr em liberdade os oprimidos,",
+  "e proclamar o ano favorável do Senhor.",
+  "Enrolou o rolo, devolveu-o ao assistente e sentou-se. Os olhos de todos na sinagoga estavam fixos nele.",
+  "Então começou a dizer-lhes: Hoje se cumpriu esta Escritura que acabais de ouvir.",
+  "Todos davam testemunho dele e se admiravam das palavras cheias de graça que saíam de sua boca. Diziam: Não é este o filho de José?",
+  "Ele lhes disse: Certamente me direis este provérbio: Médico, cura a ti mesmo. Faz também aqui, em tua terra, tudo o que ouvimos ter acontecido em Cafarnaum.",
+  "E acrescentou: Em verdade vos digo que nenhum profeta é bem recebido em sua própria terra.",
+  "De fato, digo-vos que havia muitas viúvas em Israel nos dias de Elias, quando o céu ficou fechado por três anos e seis meses e houve grande fome em toda a terra;",
+  "e Elias não foi enviado a nenhuma delas, mas a uma viúva em Sarepta, na região de Sidom.",
+  "Havia também muitos leprosos em Israel no tempo do profeta Eliseu, mas nenhum deles foi purificado, a não ser Naamã, o sírio.",
+  "Todos os que estavam na sinagoga ficaram cheios de ira ao ouvir essas coisas.",
+  "Levantaram-se, expulsaram-no da cidade e o levaram até a encosta do monte sobre o qual a cidade estava construída, para lançá-lo abaixo.",
+  "Mas ele passou pelo meio deles e seguiu seu caminho.",
+  "Desceu a Cafarnaum, cidade da Galileia, e os ensinava nos sábados.",
+  "Ficavam admirados com seu ensino, porque sua palavra tinha autoridade.",
+  "Na sinagoga havia um homem possuído pelo espírito de um demônio impuro. Ele gritou em alta voz:",
+  "Ah! Que temos nós contigo, Jesus de Nazaré? Vieste para nos destruir? Sei quem tu és: o Santo de Deus!",
+  "Jesus o repreendeu: Cala-te e sai dele! O demônio lançou o homem no chão no meio deles e saiu sem lhe fazer mal algum.",
+  "Todos ficaram espantados e diziam uns aos outros: Que palavra é esta? Pois com autoridade e poder ordena aos espíritos impuros, e eles saem.",
+  "E a notícia a respeito dele se espalhava por todos os lugares da região.",
+  "Saindo da sinagoga, entrou na casa de Simão. A sogra de Simão estava com febre alta, e pediram-lhe que a ajudasse.",
+  "Inclinando-se sobre ela, repreendeu a febre, e esta a deixou. Imediatamente ela se levantou e os servia.",
+  "Ao pôr do sol, todos os que tinham enfermos de várias doenças os traziam a ele. Jesus impunha as mãos sobre cada um e os curava.",
+  "De muitos também saíam demônios, gritando: Tu és o Filho de Deus! Ele os repreendia e não lhes permitia falar, pois sabiam que ele era o Cristo.",
+  "Ao amanhecer, saiu e foi para um lugar deserto. As multidões o procuravam; chegaram até ele e tentavam impedi-lo de deixá-las.",
+  "Mas ele lhes disse: Também às outras cidades devo anunciar as boas-novas do reino de Deus, porque para isso fui enviado.",
+  "E continuava a proclamar nas sinagogas da Judeia."
+];
+
+window.LUKE_TEXT[5] = [
+  "Aconteceu que a multidão o apertava para ouvir a palavra de Deus, enquanto ele estava junto ao lago de Genesaré.",
+  "Viu dois barcos parados à margem do lago; os pescadores haviam desembarcado e lavavam as redes.",
+  "Entrou num dos barcos, que era o de Simão, e pediu-lhe que se afastasse um pouco da terra. Sentou-se e ensinava as multidões do barco.",
+  "Quando terminou de falar, disse a Simão: Vai para águas profundas e lançai as redes para a pesca.",
+  "Simão respondeu: Mestre, trabalhamos a noite inteira e nada apanhamos; mas, porque tu o dizes, lançarei as redes.",
+  "Depois de fazerem isso, apanharam tamanha quantidade de peixes que as redes começavam a romper-se.",
+  "Fizeram sinais aos companheiros do outro barco para que viessem ajudá-los. Eles vieram, e encheram ambos os barcos, a ponto de quase afundarem.",
+  "Ao ver isso, Simão Pedro caiu aos pés de Jesus e disse: Afasta-te de mim, Senhor, porque sou homem pecador.",
+  "Pois o espanto havia tomado conta dele e de todos os que estavam com ele, por causa da pesca que tinham feito,",
+  "e também de Tiago e João, filhos de Zebedeu, que eram sócios de Simão. Jesus disse a Simão: Não temas; de agora em diante pescarás pessoas.",
+  "Depois de levarem os barcos para terra, deixaram tudo e o seguiram.",
+  "Aconteceu que Jesus estava numa das cidades quando apareceu um homem coberto de lepra. Ao ver Jesus, prostrou-se com o rosto em terra e suplicou: Senhor, se quiseres, podes purificar-me.",
+  "Jesus estendeu a mão, tocou nele e disse: Quero; sê purificado! Imediatamente a lepra o deixou.",
+  "Jesus ordenou-lhe que não contasse a ninguém: Vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés determinou, para que lhes sirva de testemunho.",
+  "Mas a notícia a respeito dele se espalhava ainda mais, e grandes multidões se reuniam para ouvi-lo e ser curadas de suas enfermidades.",
+  "Ele, porém, retirava-se para lugares desertos e orava.",
+  "Certo dia, enquanto ensinava, estavam sentados ali fariseus e mestres da lei, vindos de todas as aldeias da Galileia e da Judeia e de Jerusalém; e o poder do Senhor estava com ele para curar.",
+  "Alguns homens chegaram trazendo numa maca um paralítico e procuravam levá-lo para dentro e colocá-lo diante de Jesus.",
+  "Como não encontrassem por onde introduzi-lo, por causa da multidão, subiram ao terraço e o desceram com a maca, por entre as telhas, bem no meio, diante de Jesus.",
+  "Ao ver a fé que tinham, Jesus disse: Homem, teus pecados estão perdoados.",
+  "Os escribas e fariseus começaram a questionar: Quem é este que profere blasfêmias? Quem pode perdoar pecados, senão somente Deus?",
+  "Jesus, percebendo o que pensavam, respondeu: Por que questionais em vosso coração?",
+  "Que é mais fácil dizer: Teus pecados estão perdoados, ou dizer: Levanta-te e anda?",
+  "Mas, para que saibais que o Filho do Homem tem autoridade na terra para perdoar pecados — disse ao paralítico — eu te ordeno: levanta-te, toma tua maca e vai para casa.",
+  "Imediatamente ele se levantou diante deles, tomou o que usava para deitar-se e foi para casa, glorificando a Deus.",
+  "Todos ficaram tomados de espanto, glorificavam a Deus e, cheios de temor, diziam: Hoje vimos coisas extraordinárias.",
+  "Depois disso, Jesus saiu e viu um cobrador de impostos chamado Levi, sentado na coletoria, e lhe disse: Segue-me.",
+  "Ele deixou tudo, levantou-se e o seguiu.",
+  "Levi ofereceu-lhe um grande banquete em sua casa; havia numerosa multidão de cobradores de impostos e outras pessoas reclinadas à mesa com eles.",
+  "Os fariseus e seus escribas murmuravam contra os discípulos de Jesus: Por que comeis e bebeis com cobradores de impostos e pecadores?",
+  "Jesus respondeu: Os sãos não precisam de médico, mas os doentes.",
+  "Não vim chamar justos, mas pecadores ao arrependimento.",
+  "Eles lhe disseram: Os discípulos de João jejuam frequentemente e fazem orações, assim como os dos fariseus; os teus, porém, comem e bebem.",
+  "Jesus lhes respondeu: Podeis fazer os convidados do casamento jejuar enquanto o noivo está com eles?",
+  "Mas virão dias em que o noivo lhes será tirado; então, naqueles dias, jejuarão.",
+  "Contou-lhes também uma parábola: Ninguém tira um remendo de roupa nova para colocá-lo em roupa velha; caso contrário, rasgará a nova, e o remendo da nova não combinará com a velha.",
+  "E ninguém põe vinho novo em odres velhos; caso contrário, o vinho novo romperá os odres, derramar-se-á, e os odres ficarão destruídos.",
+  "Mas vinho novo deve ser posto em odres novos.",
+  "Ninguém que bebeu vinho envelhecido deseja o novo, pois diz: O envelhecido é melhor."
 ];
