@@ -1130,3 +1130,72 @@ window.ISAIAH_TEXT[48] = [
   "Não tiveram sede quando ele os conduziu pelos desertos; fez sair água da rocha para eles; fendeu a rocha, e as águas jorraram.",
   "“Não há paz para os perversos”, diz YHWH."
 ];
+
+window.ISAIAH_TEXT[49] = [
+  "Ouvi-me, ilhas, e prestai atenção, povos de longe. YHWH me chamou desde o ventre; desde as entranhas de minha mãe fez menção de meu nome.",
+  "Fez minha boca como espada afiada, escondeu-me à sombra de sua mão; fez de mim uma flecha polida, guardou-me em sua aljava.",
+  "Disse-me: “Tu és meu servo, Israel, em quem serei glorificado”.",
+  "Mas eu disse: “Trabalhei em vão, gastei minhas forças por nada e inutilmente; contudo, meu direito está com YHWH, e minha recompensa, com meu Deus”.",
+  "Agora diz YHWH, que me formou desde o ventre para ser seu servo, para trazer Jacó de volta a ele e reunir Israel junto dele — pois sou honrado aos olhos de YHWH, e meu Deus é minha força —,",
+  "ele diz: “É pouco que sejas meu servo para levantar as tribos de Jacó e restaurar os preservados de Israel; também te darei como luz para as nações, para que minha salvação alcance os confins da terra”.",
+  "Assim diz YHWH, o Redentor de Israel, seu Santo, ao que é desprezado, abominado pela nação, servo dos governantes: “Reis verão e se levantarão; príncipes se prostrarão por causa de YHWH, que é fiel, o Santo de Israel, que te escolheu”.",
+  "Assim diz YHWH: “No tempo favorável te responderei, e no dia da salvação te ajudarei; eu te guardarei e te darei como aliança para o povo, para restaurar a terra e repartir as heranças desoladas,",
+  "para dizer aos presos: ‘Saí!’ e aos que estão nas trevas: ‘Mostrai-vos!’ Eles pastarão junto aos caminhos e encontrarão pastagem em todas as colinas desnudas.",
+  "Não terão fome nem sede, nem o calor nem o sol os ferirão; pois aquele que se compadece deles os guiará e os conduzirá às fontes de água.",
+  "Transformarei todos os meus montes em caminho, e minhas estradas serão elevadas.",
+  "Eis que estes virão de longe; eis que aqueles, do norte e do ocidente, e outros da terra de Sinim”.",
+  "Cantai de alegria, ó céus; exulta, ó terra; irrompei em cânticos, ó montes, pois YHWH consolou seu povo e terá compaixão de seus aflitos.",
+  "Sião, porém, disse: “YHWH me abandonou, o Senhor se esqueceu de mim”.",
+  "Acaso uma mulher pode esquecer-se de seu bebê e não ter compaixão do filho de seu ventre? Mesmo que ela se esqueça, eu não me esquecerei de ti.",
+  "Eis que te gravei nas palmas de minhas mãos; teus muros estão continuamente diante de mim.",
+  "Teus filhos se apressam; teus destruidores e devastadores sairão de ti.",
+  "Levanta os olhos ao redor e vê: todos se reúnem e vêm a ti. Tão certo como eu vivo, diz YHWH, tu os vestirás a todos como ornamento e os atarás a ti como noiva.",
+  "Pois teus lugares devastados e desolados e tua terra destruída serão agora estreitos demais para os habitantes; e os que te devoravam estarão longe.",
+  "Os filhos de tua viuvez ainda dirão aos teus ouvidos: “O lugar é estreito demais para mim; dá-me espaço para que eu habite”.",
+  "Então dirás em teu coração: “Quem me gerou estes? Eu estava privada de filhos e estéril, exilada e rejeitada; quem os criou? Eis que eu havia ficado sozinha; estes, de onde vieram?”",
+  "Assim diz o Senhor YHWH: “Eis que levantarei minha mão para as nações e erguerei meu estandarte para os povos; trarão teus filhos nos braços e carregarão tuas filhas nos ombros.",
+  "Reis serão teus tutores, e suas princesas, tuas amas; prostrar-se-ão diante de ti com o rosto em terra e lamberão o pó de teus pés. Então saberás que eu sou YHWH; os que esperam em mim não serão envergonhados”.",
+  "Acaso se pode tirar a presa do poderoso, ou os cativos do tirano podem ser libertados?",
+  "Pois assim diz YHWH: “Até os cativos do poderoso serão tirados, e a presa do tirano será libertada; eu contenderei com os que contendem contigo e salvarei teus filhos.",
+  "Farei teus opressores comerem a própria carne e se embriagarem com o próprio sangue como com vinho novo; toda carne saberá que eu, YHWH, sou teu Salvador e teu Redentor, o Poderoso de Jacó”."
+];
+
+window.ISAIAH_TEXT[50] = [
+  "Assim diz YHWH: “Onde está a carta de divórcio de vossa mãe, com a qual a despedi? Ou a qual de meus credores vos vendi? Eis que fostes vendidos por causa de vossas iniquidades, e vossa mãe foi despedida por causa de vossas transgressões.",
+  "Por que, quando vim, não havia ninguém? Quando chamei, ninguém respondeu? Acaso minha mão ficou curta demais para resgatar? Não tenho força para livrar? Eis que com minha repreensão seco o mar; transformo rios em deserto, e seus peixes apodrecem por falta de água e morrem de sede.",
+  "Visto os céus de negrume e faço de pano de saco sua cobertura”.",
+  "O Senhor YHWH me deu língua de discípulo, para que eu saiba sustentar com palavra o cansado. Ele desperta a cada manhã; desperta meu ouvido para ouvir como discípulos.",
+  "O Senhor YHWH abriu meu ouvido, e eu não fui rebelde, nem voltei atrás.",
+  "Ofereci minhas costas aos que me feriam e minhas faces aos que arrancavam minha barba; não escondi o rosto dos insultos e dos escarros.",
+  "Mas o Senhor YHWH me ajuda; por isso não fui humilhado. Por isso fiz meu rosto como pedra dura e sei que não serei envergonhado.",
+  "Perto está aquele que me justifica; quem contenderá comigo? Compareçamos juntos! Quem é meu adversário? Que se aproxime de mim!",
+  "Eis que o Senhor YHWH me ajuda; quem me condenará? Todos eles envelhecerão como roupa; a traça os consumirá.",
+  "Quem entre vós teme YHWH e ouve a voz de seu servo? Aquele que anda em trevas e não tem luz confie no nome de YHWH e se apoie em seu Deus.",
+  "Eis que todos vós que acendeis fogo e vos cingis de faíscas, andai na luz de vosso fogo e entre as faíscas que acendestes. Isto recebereis de minha mão: deitar-vos-eis em tormento."
+];
+
+window.ISAIAH_TEXT[51] = [
+  "Ouvi-me, vós que buscais a justiça, que procurais YHWH. Olhai para a rocha de onde fostes cortados e para a pedreira de onde fostes extraídos.",
+  "Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; pois quando era um só, eu o chamei, o abençoei e o multipliquei.",
+  "Pois YHWH consolará Sião; consolará todos os seus lugares devastados. Tornará seu deserto como Éden e seu ermo como jardim de YHWH; nela se encontrará alegria e regozijo, ação de graças e voz de cântico.",
+  "Atendei-me, meu povo; escutai-me, minha nação, pois de mim sairá instrução, e estabelecerei minha justiça como luz para os povos.",
+  "Minha justiça está perto; minha salvação saiu, e meus braços julgarão os povos. As ilhas esperarão por mim e confiarão em meu braço.",
+  "Levantai os olhos para os céus e olhai para a terra embaixo; pois os céus desaparecerão como fumaça, a terra envelhecerá como roupa, e seus habitantes morrerão como mosquitos. Mas minha salvação será para sempre, e minha justiça não será quebrada.",
+  "Ouvi-me, vós que conheceis a justiça, povo em cujo coração está minha instrução. Não temais o insulto dos homens, nem fiqueis aterrorizados por suas ofensas.",
+  "Pois a traça os comerá como roupa, e o verme os devorará como lã; mas minha justiça será para sempre, e minha salvação, de geração em geração.",
+  "Desperta, desperta, reveste-te de força, braço de YHWH! Desperta como nos dias antigos, nas gerações passadas. Não foste tu que despedaçaste Raabe e traspassaste o monstro marinho?",
+  "Não foste tu que secaste o mar, as águas do grande abismo, e fizeste das profundezas do mar um caminho para que passassem os resgatados?",
+  "Os resgatados de YHWH voltarão e virão a Sião com cânticos de júbilo; alegria eterna estará sobre suas cabeças. Alcançarão alegria e regozijo; tristeza e gemido fugirão.",
+  "“Eu, eu sou aquele que vos consola. Quem és tu para temeres o homem mortal, o filho do homem que será como a erva,",
+  "e te esqueceres de YHWH, teu Criador, que estendeu os céus e fundou a terra? Vives em temor contínuo, o dia inteiro, por causa do furor do opressor, que se prepara para destruir. Onde está o furor do opressor?",
+  "O exilado cativo logo será solto; não morrerá na masmorra, nem lhe faltará pão.",
+  "Pois eu sou YHWH, teu Deus, que agito o mar e faço rugir suas ondas; YHWH dos Exércitos é meu nome.",
+  "Pus minhas palavras em tua boca e te cobri com a sombra de minha mão, para plantar os céus, fundar a terra e dizer a Sião: ‘Tu és meu povo’”.",
+  "Desperta, desperta, levanta-te, ó Jerusalém, tu que bebeste da mão de YHWH o cálice de sua ira; bebeste até o fundo a taça que faz cambalear.",
+  "Não há quem a guie entre todos os filhos que deu à luz; não há quem a tome pela mão entre todos os filhos que criou.",
+  "Estas duas coisas te aconteceram — quem terá compaixão de ti? — desolação e destruição, fome e espada; quem te consolará?",
+  "Teus filhos desmaiaram; jazem nas esquinas de todas as ruas como antílope preso na rede, cheios da ira de YHWH e da repreensão de teu Deus.",
+  "Por isso ouve agora isto, aflita, embriagada, mas não de vinho:",
+  "Assim diz teu Senhor YHWH, teu Deus, que defende a causa de seu povo: “Eis que tiro de tua mão o cálice que faz cambalear, a taça de minha ira; nunca mais beberás dele.",
+  "Eu o porei na mão dos que te afligem, que disseram à tua alma: ‘Abaixa-te, para que passemos sobre ti’; e fizeste de tuas costas como chão, como rua para os que passam”."
+];
