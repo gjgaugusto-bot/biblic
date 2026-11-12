@@ -1,6 +1,6 @@
 /* Esdras — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ezra.
- * Progresso: capítulos 1–8 de 10; 221 versículos. Não publicar até concluir e conferir os 10 capítulos.
+ * Progresso: capítulos 1–10 de 10; 280 versículos. Não publicar até concluir e conferir os 10 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.EZRA_TEXT = window.EZRA_TEXT || {};
@@ -248,4 +248,69 @@ window.EZRA_TEXT[8] = [
   "Tudo foi contado e pesado, e o peso total foi registrado naquela ocasião.",
   "Os que haviam voltado do cativeiro ofereceram holocaustos ao Deus de Israel: doze novilhos por todo Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes como oferta pelo pecado. Tudo isso foi oferecido em holocausto a YHWH.",
   "Entregaram também os decretos do rei aos sátrapas do rei e aos governadores da região a oeste do Eufrates. Estes apoiaram o povo e a casa de Deus."
+];
+
+window.EZRA_TEXT[9] = [
+  "Depois que tudo isso foi concluído, os chefes vieram falar comigo e disseram: “O povo de Israel, os sacerdotes e os levitas não se separaram dos povos das terras e de suas abominações: as dos cananeus, hititas, perizeus, jebuseus, amonitas, moabitas, egípcios e amorreus.",
+  "Pois tomaram mulheres dentre as filhas deles para si e para seus filhos, misturando a descendência santa com os povos das terras. E os chefes e os oficiais foram os primeiros a cometer essa infidelidade”.",
+  "Quando ouvi isso, rasguei minhas roupas e meu manto, arranquei cabelos da cabeça e da barba e me sentei, desolado.",
+  "Então todos os que tremiam diante das palavras do Deus de Israel por causa da infidelidade dos exilados se reuniram ao meu redor, enquanto eu permanecia sentado, desolado, até a oferta da tarde.",
+  "Na hora da oferta da tarde, levantei-me da minha humilhação, com as roupas e o manto rasgados, ajoelhei-me e estendi as mãos a YHWH, meu Deus.",
+  "Eu disse: “Meu Deus, estou envergonhado e humilhado demais para levantar o rosto a ti, meu Deus, pois nossas culpas se multiplicaram acima de nossa cabeça, e nossa culpa cresceu até os céus.",
+  "Desde os dias de nossos pais até hoje, nossa culpa tem sido grande. Por causa de nossas iniquidades, nós, nossos reis e nossos sacerdotes fomos entregues nas mãos dos reis das terras, à espada, ao cativeiro, ao saque e à vergonha, como acontece hoje.",
+  "Mas agora, por um breve momento, YHWH, nosso Deus, nos concedeu favor, deixando-nos um remanescente e dando-nos um ponto de apoio em seu lugar santo, para iluminar nossos olhos, ó Deus, e nos dar um pouco de vida em nossa servidão.",
+  "Pois somos servos, mas nosso Deus não nos abandonou em nossa servidão. Ele nos concedeu favor diante dos reis da Pérsia, dando-nos vida para levantar a casa de nosso Deus, restaurar suas ruínas e nos dar proteção em Judá e em Jerusalém.",
+  "Agora, ó nosso Deus, que diremos depois disso? Pois abandonamos teus mandamentos,",
+  "que ordenaste por meio de teus servos, os profetas, dizendo: ‘A terra na qual estais entrando para possuí-la é uma terra impura, por causa da impureza dos povos das terras e de suas abominações, com as quais a encheram de uma extremidade à outra.',
+  "Agora, pois, não deis vossas filhas aos filhos deles, nem tomeis as filhas deles para vossos filhos. Não procureis jamais a paz nem o bem-estar deles, para que vos fortaleçais, comais o melhor da terra e a deixeis por herança a vossos filhos para sempre’.",
+  "Depois de tudo o que nos sobreveio por causa de nossas más obras e de nossa grande culpa — embora tu, nosso Deus, tenhas nos punido menos do que nossas iniquidades mereciam e nos tenhas concedido este remanescente —,",
+  "voltaremos a violar teus mandamentos e a nos aparentar com os povos que praticam essas abominações? Não te indignarias contra nós até nos consumir, sem deixar remanescente nem sobrevivente?",
+  "YHWH, Deus de Israel, tu és justo, pois hoje nos deixaste um remanescente. Eis-nos diante de ti com nossa culpa, embora por causa dela ninguém possa permanecer diante de ti”."
+];
+
+window.EZRA_TEXT[10] = [
+  "Enquanto Esdras orava, confessava os pecados, chorava e se prostrava diante da casa de Deus, reuniu-se ao redor dele uma grande assembleia de Israel, homens, mulheres e crianças, pois o povo chorava amargamente.",
+  "Então Secanias, filho de Jeiel, dos filhos de Elão, respondeu a Esdras: “Fomos infiéis ao nosso Deus, pois tomamos mulheres estrangeiras dentre os povos da terra. Mas, apesar disso, ainda há esperança para Israel.",
+  "Agora, façamos uma aliança com nosso Deus para despedir todas essas mulheres e os filhos nascidos delas, conforme o conselho de meu senhor e dos que tremem diante do mandamento de nosso Deus. Que se faça segundo a Lei.",
+  "Levanta-te, pois esta questão está sob tua responsabilidade, e nós estaremos contigo. Sê forte e age”.",
+  "Então Esdras se levantou e fez os chefes dos sacerdotes, os levitas e todo o Israel jurarem que agiriam conforme essa palavra. E eles juraram.",
+  "Esdras se retirou de diante da casa de Deus e foi à câmara de Joanã, filho de Eliasibe. Passou a noite ali sem comer pão nem beber água, pois estava de luto por causa da infidelidade dos que haviam voltado do cativeiro.",
+  "Fizeram proclamar por Judá e Jerusalém que todos os que haviam voltado do cativeiro deveriam reunir-se em Jerusalém.",
+  "Todo aquele que não comparecesse dentro de três dias, conforme a decisão dos chefes e dos anciãos, teria todos os seus bens confiscados e seria excluído da assembleia dos exilados.",
+  "Então todos os homens de Judá e Benjamim se reuniram em Jerusalém dentro dos três dias. Era o vigésimo dia do nono mês. Todo o povo se sentou na praça da casa de Deus, tremendo por causa do assunto e da forte chuva.",
+  "Esdras, o sacerdote, levantou-se e lhes disse: “Fostes infiéis e tomastes mulheres estrangeiras, aumentando a culpa de Israel.",
+  "Agora, confessai vossa culpa a YHWH, Deus de vossos pais, e fazei sua vontade. Separai-vos dos povos da terra e das mulheres estrangeiras”.",
+  "Toda a assembleia respondeu em alta voz: “Sim! Devemos fazer conforme tuas palavras.",
+  "Mas o povo é numeroso, e estamos na estação das chuvas; não temos condições de permanecer ao ar livre. Além disso, essa tarefa não se resolve em um ou dois dias, pois muitos de nós transgredimos gravemente neste assunto.",
+  "Que nossos chefes representem toda a assembleia. Todos os que em nossas cidades tomaram mulheres estrangeiras venham em datas marcadas, acompanhados dos anciãos e juízes de cada cidade, até que se afaste de nós o ardor da ira de nosso Deus por causa deste assunto”.",
+  "Somente Jônatas, filho de Asael, e Jaazias, filho de Ticvá, se opuseram a isso; Mesulão e Sabetai, o levita, os apoiaram.",
+  "Os que haviam voltado do cativeiro fizeram conforme a proposta. Esdras, o sacerdote, escolheu homens que eram chefes das casas paternas, segundo suas casas, todos designados por nome. No primeiro dia do décimo mês, sentaram-se para investigar o assunto.",
+  "Até o primeiro dia do primeiro mês, terminaram de tratar com todos os homens que haviam tomado mulheres estrangeiras.",
+  "Entre os filhos dos sacerdotes, encontraram-se os seguintes que haviam tomado mulheres estrangeiras: dos filhos de Jesua, filho de Jozadaque, e de seus irmãos: Maaseias, Eliezer, Jaribe e Gedalias.",
+  "Eles prometeram despedir suas mulheres e ofereceram um carneiro do rebanho como oferta pela culpa.",
+  "Dos filhos de Imer: Hanani e Zebadias;",
+  "dos filhos de Harim: Maaseias, Elias, Semaías, Jeiel e Uzias;",
+  "dos filhos de Pasur: Elioenai, Maaseias, Ismael, Natanael, Jozabade e Eleasa.",
+  "Dos levitas: Jozabade, Simei, Quelaias — também chamado Quelita —, Petaías, Judá e Eliezer.",
+  "Dos cantores: Eliasibe. Dos porteiros: Salum, Telém e Uri.",
+  "E, dentre Israel, dos filhos de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, Malquias e Benaia;",
+  "dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jeremote e Elias;",
+  "dos filhos de Zatu: Elioenai, Eliasibe, Matanias, Jeremote, Zabade e Aziza;",
+  "dos filhos de Bebai: Joanã, Hananias, Zabai e Atlai;",
+  "dos filhos de Bani: Mesulão, Maluque, Adaías, Jasube, Seal e Jeremote;",
+  "dos filhos de Paate-Moabe: Adna, Quelal, Benaia, Maaseias, Matanias, Bezalel, Binui e Manassés;",
+  "dos filhos de Harim: Eliezer, Issias, Malquias, Semaías, Simeão,",
+  "Benjamim, Maluque e Semarias;",
+  "dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei;",
+  "dos filhos de Bani: Maadai, Anrão, Uel,",
+  "Benaia, Bedias e Quelui;",
+  "Vanias, Meremote e Eliasibe;",
+  "Matanias, Matenai e Jaasai;",
+  "Bani, Binui e Simei;",
+  "Selemias, Natã e Adaías;",
+  "Macnadbai, Sasai e Sarai;",
+  "Azarel, Selemias e Semarias;",
+  "Salum, Amarias e José;",
+  "e dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaia.",
+  "Todos esses haviam tomado mulheres estrangeiras; alguns deles tinham mulheres com filhos."
 ];
