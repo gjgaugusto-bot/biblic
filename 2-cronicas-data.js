@@ -743,7 +743,7 @@ window.SECOND_CHRONICLES_TEXT[30] = [
   "Abateram o cordeiro da Páscoa no décimo quarto dia do segundo mês. Os sacerdotes e os levitas ficaram envergonhados, consagraram-se e trouxeram holocaustos à casa de YHWH.",
   "Tomaram seus lugares, conforme a ordem estabelecida, segundo a Lei de Moisés, homem de Deus. Os sacerdotes aspergiam o sangue recebido das mãos dos levitas.",
   "Havia muitos na assembleia que não se haviam consagrado. Por isso os levitas ficaram responsáveis pelo abate dos cordeiros da Páscoa para todos os que não estavam puros, a fim de consagrá-los a YHWH.",
-  "Pois grande parte do povo, muitos de Efraim, Manassés, Issacar e Zebulom, não havia se purificado; ainda assim comeram a Páscoa, embora não conforme o que estava escrito. Ezequias orou por eles, dizendo: “Que YHWH, que é bom, faça expiação por",
+  "Pois grande parte do povo, muitos de Efraim, Manassés, Issacar e Zebulom, não havia se purificado; ainda assim comeram a Páscoa, embora não conforme o que estava escrito. Ezequias orou por eles, dizendo: “Que YHWH, que é bom, faça expiação por eles”.",
   "todo aquele que dispôs o coração para buscar a Deus, YHWH, Deus de seus pais, mesmo sem a purificação exigida para as coisas sagradas”.",
   "YHWH ouviu Ezequias e curou o povo.",
   "Os filhos de Israel que estavam em Jerusalém celebraram a Festa dos Pães sem Fermento durante sete dias, com grande alegria. Os levitas e os sacerdotes louvavam YHWH dia após dia, com instrumentos poderosos para YHWH.",
