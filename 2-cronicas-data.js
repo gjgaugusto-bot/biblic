@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–12 de 36; 259 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–15 de 36; 315 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -298,4 +298,69 @@ window.SECOND_CHRONICLES_TEXT[12] = [
   "Ele praticou o mal, pois não dispôs o coração para buscar YHWH.",
   "Os feitos de Roboão, dos primeiros aos últimos, não estão escritos nos registros de Semaías, o profeta, e de Ido, o vidente, nas genealogias? Houve guerras entre Roboão e Jeroboão durante todos os seus dias.",
   "Roboão repousou com seus pais e foi sepultado na Cidade de Davi. Abias, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[13] = [
+  "No décimo oitavo ano do rei Jeroboão, Abias começou a reinar sobre Judá.",
+  "Reinou três anos em Jerusalém. Sua mãe se chamava Micaías, filha de Uriel, de Gibeá. Houve guerra entre Abias e Jeroboão.",
+  "Abias entrou em batalha com um exército de quatrocentos mil homens escolhidos, guerreiros valentes; Jeroboão dispôs-se contra ele com oitocentos mil homens escolhidos, guerreiros valorosos.",
+  "Abias se pôs de pé no monte Zemaraim, na região montanhosa de Efraim, e disse: “Ouvi-me, Jeroboão e todo o Israel!",
+  "Não sabeis que YHWH, Deus de Israel, deu para sempre a realeza sobre Israel a Davi e a seus filhos, por uma aliança irrevogável?",
+  "Jeroboão, filho de Nebate, servo de Salomão, filho de Davi, levantou-se e se rebelou contra seu senhor.",
+  "Homens desprezíveis e perversos se ajuntaram a ele e prevaleceram contra Roboão, filho de Salomão. Roboão era jovem e inexperiente, e não conseguiu resistir a eles.",
+  "Agora pensais que podeis resistir ao reino de YHWH, que está nas mãos dos filhos de Davi? Sois uma grande multidão e tendes convosco os bezerros de ouro que Jeroboão vos fez como deuses.",
+  "Não expulsastes os sacerdotes de YHWH, os filhos de Arão, e os levitas? Não fizestes para vós sacerdotes como os povos das outras terras? Qualquer pessoa que viesse para ser consagrada com um novilho e sete carneiros podia tornar-se sacerdote daqueles que não são deuses.",
+  "Quanto a nós, YHWH é nosso Deus, e não o abandonamos. Os sacerdotes que servem a YHWH são filhos de Arão, e os levitas cumprem seu serviço.",
+  "Todas as manhãs e todas as tardes oferecem holocaustos a YHWH e incenso aromático; dispõem os pães sobre a mesa pura e acendem, todas as tardes, as lâmpadas do candelabro de ouro. Nós guardamos o serviço de YHWH, nosso Deus; vós, porém, o abandonastes.",
+  "Eis que Deus está conosco à nossa frente, e seus sacerdotes estão aqui, com as trombetas de toque estridente para dar o sinal contra vós. Filhos de Israel, não luteis contra YHWH, Deus de vossos pais, pois não sereis bem-sucedidos”.",
+  "Jeroboão, porém, enviou uma tropa de emboscada para atacá-los pela retaguarda. Assim, suas forças estavam diante de Judá, enquanto a emboscada ficava atrás.",
+  "Quando os homens de Judá se viraram, viram que teriam de lutar pela frente e pela retaguarda. Clamaram a YHWH, e os sacerdotes tocaram as trombetas.",
+  "Os homens de Judá soltaram o grito de guerra; quando gritaram, Deus derrotou Jeroboão e todo o Israel diante de Abias e de Judá.",
+  "Os filhos de Israel fugiram diante de Judá, e Deus os entregou nas mãos de Judá.",
+  "Abias e seu povo lhes infligiram uma grande derrota; quinhentos mil homens escolhidos de Israel caíram mortos.",
+  "Naquela ocasião, os filhos de Israel foram humilhados, enquanto os filhos de Judá prevaleceram, porque confiaram em YHWH, Deus de seus pais.",
+  "Abias perseguiu Jeroboão e tomou dele algumas cidades: Betel e seus povoados, Jesana e seus povoados, e Efrom e seus povoados.",
+  "Jeroboão não recuperou seu poder nos dias de Abias. YHWH o feriu, e ele morreu.",
+  "Abias, porém, fortaleceu-se. Tomou para si quatorze mulheres e gerou vinte e dois filhos e dezesseis filhas.",
+  "Os demais feitos de Abias, seus caminhos e suas palavras estão escritos no relato do profeta Ido.",
+  "Abias repousou com seus pais e o sepultaram na Cidade de Davi. Asa, seu filho, reinou em seu lugar. Em seus dias, a terra teve paz durante dez anos."
+];
+
+window.SECOND_CHRONICLES_TEXT[14] = [
+  "Asa fez o que era bom e correto aos olhos de YHWH, seu Deus.",
+  "Removeu os altares dos deuses estrangeiros e os lugares altos, quebrou as colunas sagradas e cortou os postes de Aserá.",
+  "Ordenou a Judá que buscasse YHWH, Deus de seus pais, e cumprisse a lei e o mandamento.",
+  "Removeu de todas as cidades de Judá os lugares altos e os altares de incenso. O reino permaneceu em paz sob seu governo.",
+  "Construiu cidades fortificadas em Judá, pois a terra estava em paz e não houve guerra naqueles anos, porque YHWH lhe concedeu repouso.",
+  "Disse a Judá: “Construamos estas cidades, cercando-as com muralhas, torres, portas e ferrolhos. A terra ainda está diante de nós, pois buscamos YHWH, nosso Deus; nós o buscamos, e ele nos deu repouso por todos os lados”. Então construíram e prosperaram.",
+  "Asa tinha um exército de trezentos mil homens de Judá, equipados com escudos grandes e lanças, e duzentos e oitenta mil de Benjamim, armados com escudos e arcos. Todos eram guerreiros valentes.",
+  "Zera, o cuxita, saiu contra eles com um exército de um milhão de homens e trezentos carros, e chegou até Maressa.",
+  "Asa saiu ao seu encontro, e eles se dispuseram para a batalha no vale de Zefatá, perto de Maressa.",
+  "Asa clamou a YHWH, seu Deus, e disse: “YHWH, não há diferença para ti entre ajudar o poderoso e aquele que não tem força. Ajuda-nos, YHWH, nosso Deus, pois confiamos em ti e em teu nome viemos contra esta multidão. YHWH, tu és nosso Deus; não prevaleça contra ti o ser humano!”",
+  "YHWH derrotou os cuxitas diante de Asa e de Judá, e os cuxitas fugiram.",
+  "Asa e o povo que estava com ele os perseguiram até Gerar. Muitos cuxitas caíram, sem que lhes restasse força, pois foram destroçados diante de YHWH e de seu exército. Os homens de Judá levaram grande quantidade de despojos.",
+  "Atacaram também todas as cidades ao redor de Gerar, pois o terror de YHWH havia caído sobre elas. Saquearam todas essas cidades, porque nelas havia muitos bens.",
+  "Atacaram ainda os acampamentos dos rebanhos, levaram grande quantidade de ovelhas e camelos e depois voltaram a Jerusalém."
+];
+
+window.SECOND_CHRONICLES_TEXT[15] = [
+  "O espírito de Deus veio sobre Azarias, filho de Odede.",
+  "Ele saiu ao encontro de Asa e lhe disse: “Ouvi-me, Asa, e todo o Judá e Benjamim! YHWH estará convosco enquanto estiverdes com ele. Se o buscardes, ele se deixará encontrar por vós; mas, se o abandonardes, ele vos abandonará.",
+  "Durante muito tempo Israel esteve sem o Deus verdadeiro, sem sacerdote que ensinasse e sem lei.",
+  "Mas, em sua aflição, voltaram-se para YHWH, Deus de Israel, buscaram-no, e ele se deixou encontrar por eles.",
+  "Naqueles tempos não havia segurança para quem saía nem para quem entrava, pois grandes perturbações atingiam todos os habitantes das terras.",
+  "Nações eram despedaçadas por nações, e cidades por cidades, porque Deus os afligia com toda espécie de adversidade.",
+  "Vós, porém, sede fortes e não deixeis vossas mãos enfraquecerem, pois vossa obra terá recompensa”.",
+  "Quando Asa ouviu essas palavras e a profecia de Azarias, filho de Odede, tomou coragem e removeu os ídolos repugnantes de toda a terra de Judá e Benjamim e das cidades que havia conquistado na região montanhosa de Efraim. Restaurou o altar de YHWH que ficava diante do pórtico de YHWH.",
+  "Reuniu todo o Judá e Benjamim, bem como os estrangeiros que viviam com eles, vindos de Efraim, Manassés e Simeão, pois muitos de Israel haviam passado para o seu lado ao verem que YHWH, seu Deus, estava com ele.",
+  "Reuniram-se em Jerusalém no terceiro mês do décimo quinto ano do reinado de Asa.",
+  "Naquele dia sacrificaram a YHWH, do despojo que haviam trazido: setecentos bois e sete mil ovelhas.",
+  "Entraram numa aliança para buscar YHWH, Deus de seus pais, de todo o coração e de toda a alma.",
+  "Todo aquele que não buscasse YHWH, Deus de Israel, deveria morrer, fosse pequeno ou grande, homem ou mulher.",
+  "Juraram a YHWH em alta voz, com gritos de alegria, trombetas e chifres de carneiro.",
+  "Todo o Judá se alegrou por causa do juramento, pois haviam jurado de todo o coração e o buscavam com inteira disposição. Ele se deixou encontrar por eles, e YHWH lhes concedeu repouso por todos os lados.",
+  "O rei Asa também destituiu Maacá, sua avó, da posição de rainha-mãe, porque ela havia feito uma imagem abominável para Aserá. Asa derrubou essa imagem, reduziu-a a pó e a queimou no vale do Cedrom.",
+  "Os lugares altos, porém, não foram removidos de Israel. Ainda assim, o coração de Asa foi íntegro todos os seus dias.",
+  "Ele trouxe para a casa de Deus as coisas consagradas por seu pai e as que ele próprio havia consagrado: prata, ouro e utensílios.",
+  "Não houve guerra até o trigésimo quinto ano do reinado de Asa."
 ];
