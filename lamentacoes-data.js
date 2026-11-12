@@ -123,3 +123,53 @@ window.LAMENTATIONS_TEXT[3] = [
   "Dá-lhes dureza de coração; que tua maldição esteja sobre eles.",
   "Persegue-os com ira e elimina-os de debaixo dos céus de YHWH."
 ];
+
+window.LAMENTATIONS_TEXT[4] = [
+  "Como o ouro perdeu seu brilho! Como o ouro fino se alterou! As pedras do santuário estão espalhadas no início de todas as ruas.",
+  "Os preciosos filhos de Sião, avaliados como ouro puro, são considerados como vasos de barro, obra das mãos do oleiro.",
+  "Até os chacais oferecem o peito e amamentam seus filhotes; a filha de meu povo tornou-se cruel como avestruzes no deserto.",
+  "A língua do lactente se apega ao céu da boca por causa da sede; as crianças pedem pão, mas ninguém lhes reparte.",
+  "Os que comiam iguarias estão desolados nas ruas; os que foram criados em púrpura abraçam montes de lixo.",
+  "A iniquidade da filha de meu povo é maior que o pecado de Sodoma, que foi subvertida num instante, sem mãos que se voltassem contra ela.",
+  "Seus nazireus eram mais puros que a neve, mais brancos que o leite; seus corpos eram mais rubros que corais, sua aparência como safira.",
+  "Agora sua aparência está mais escura que o carvão; não são reconhecidos nas ruas; sua pele se apega aos ossos, seca como madeira.",
+  "Os mortos à espada são mais felizes que os mortos de fome, pois estes definham, feridos pela falta dos frutos do campo.",
+  "As mãos de mulheres compassivas cozinharam seus próprios filhos; tornaram-se alimento para elas na ruína da filha de meu povo.",
+  "YHWH consumou seu furor, derramou o ardor de sua ira; acendeu fogo em Sião, que devorou seus fundamentos.",
+  "Os reis da terra e todos os habitantes do mundo não acreditavam que adversário ou inimigo entraria pelos portões de Jerusalém.",
+  "Isso aconteceu por causa dos pecados de seus profetas e das iniquidades de seus sacerdotes, que derramaram no meio dela o sangue dos justos.",
+  "Vagueavam cegos pelas ruas, contaminados com sangue, de modo que ninguém podia tocar suas vestes.",
+  "“Afastai-vos! Impuros!”, gritavam-lhes; “afastai-vos, afastai-vos, não toqueis!” Quando fugiram e vaguearam, dizia-se entre as nações: “Não permanecerão aqui”.",
+  "A face de YHWH os dispersou; ele não mais os contemplará. Não respeitaram os sacerdotes, nem tiveram compaixão dos anciãos.",
+  "Ainda se consumiam nossos olhos, esperando em vão por socorro; de nossas torres de vigia olhávamos para uma nação que não podia salvar.",
+  "Espiaram nossos passos, para que não andássemos em nossas praças; nosso fim se aproximava, nossos dias se cumpriram, pois chegou nosso fim.",
+  "Nossos perseguidores eram mais velozes que as águias dos céus; perseguiram-nos sobre os montes, armaram emboscada contra nós no deserto.",
+  "O sopro de nossas narinas, o ungido de YHWH, foi capturado em suas covas; aquele de quem dizíamos: “À sua sombra viveremos entre as nações”.",
+  "Alegra-te e exulta, filha de Edom, que habitas na terra de Uz; também a ti chegará o cálice; embriagar-te-ás e ficarás nua.",
+  "A punição de tua iniquidade está completa, filha de Sião; ele não te levará mais para o exílio. Mas visitará tua iniquidade, filha de Edom, e descobrirá teus pecados."
+];
+
+window.LAMENTATIONS_TEXT[5] = [
+  "Lembra-te, YHWH, do que nos aconteceu; olha e vê nosso opróbrio.",
+  "Nossa herança passou a estrangeiros, nossas casas, a forasteiros.",
+  "Somos órfãos, sem pai; nossas mães são como viúvas.",
+  "Bebemos nossa água por dinheiro; nossa lenha chega a nós por pagamento.",
+  "Nossos perseguidores estão sobre nosso pescoço; estamos exaustos, e não nos dão descanso.",
+  "Estendemos a mão ao Egito e à Assíria para nos fartarmos de pão.",
+  "Nossos pais pecaram e já não existem; nós carregamos suas iniquidades.",
+  "Escravos dominam sobre nós; não há quem nos livre de suas mãos.",
+  "Arriscamos a vida para obter nosso pão, diante da espada do deserto.",
+  "Nossa pele está quente como forno, por causa do ardor da fome.",
+  "Violentaram mulheres em Sião e virgens nas cidades de Judá.",
+  "Príncipes foram pendurados por suas mãos; os rostos dos anciãos não foram respeitados.",
+  "Os jovens carregaram a mó, e os meninos tropeçaram sob a lenha.",
+  "Os anciãos já não se assentam à porta, e os jovens cessaram sua música.",
+  "Cessou a alegria de nosso coração; nossa dança se transformou em luto.",
+  "Caiu a coroa de nossa cabeça. Ai de nós, pois pecamos!",
+  "Por isso nosso coração desfalece; por essas coisas nossos olhos escurecem,",
+  "por causa do monte Sião, que está desolado; chacais andam sobre ele.",
+  "Tu, YHWH, permaneces para sempre; teu trono dura de geração em geração.",
+  "Por que te esquecerias de nós para sempre? Por que nos abandonarias por tantos dias?",
+  "Faze-nos voltar a ti, YHWH, e voltaremos; renova nossos dias como antigamente.",
+  "Ou nos rejeitaste completamente? Estás irado contra nós em extremo?"
+];
