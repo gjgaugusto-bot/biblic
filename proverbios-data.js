@@ -452,6 +452,44 @@ window.PROVERBS_TEXT[16] = [
   "A sorte é lançada no colo, mas toda decisão vem de YHWH."
 ];
 
+window.PROVERBS_TEXT[14] = [
+  "A mulher sábia edifica sua casa, mas a insensata a derruba com as próprias mãos.",
+  "Quem anda em retidão teme YHWH, mas quem se desvia de seus caminhos o despreza.",
+  "Na boca do insensato há uma vara para suas costas, mas os lábios dos sábios os protegem.",
+  "Onde não há bois, o estábulo fica limpo, mas a força da colheita vem da força do boi.",
+  "A testemunha fiel não mente, mas a testemunha falsa profere mentiras.",
+  "O zombador procura sabedoria e não a encontra, mas o conhecimento é fácil para o entendido.",
+  "Afasta-te do homem insensato, pois não encontrarás conhecimento em seus lábios.",
+  "A sabedoria do prudente é compreender seu caminho, mas a insensatez dos tolos é engano.",
+  "Os insensatos zombam da oferta pela culpa, mas entre os retos há boa vontade.",
+  "O coração conhece sua própria amargura, e nenhum estranho compartilha sua alegria.",
+  "A casa dos perversos será destruída, mas a tenda dos retos florescerá.",
+  "Há caminho que parece reto ao homem, mas seu fim são caminhos de morte.",
+  "Mesmo no riso o coração pode sofrer, e o fim da alegria pode ser tristeza.",
+  "O desviado de coração se fartará de seus próprios caminhos, mas o homem bom, de suas obras.",
+  "O simples acredita em toda palavra, mas o prudente considera seus passos.",
+  "O sábio teme e se afasta do mal, mas o insensato é arrogante e confiante.",
+  "O iracundo comete insensatez, e o homem de planos perversos é odiado.",
+  "Os simples herdam a insensatez, mas os prudentes são coroados de conhecimento.",
+  "Os maus se curvarão diante dos bons, e os perversos, às portas dos justos.",
+  "O pobre é odiado até pelo próprio vizinho, mas muitos são os amigos do rico.",
+  "Quem despreza seu próximo peca, mas feliz aquele que tem misericórdia dos pobres.",
+  "Não erram os que tramam o mal? Mas lealdade e verdade pertencem aos que planejam o bem.",
+  "Em todo trabalho há proveito, mas a conversa dos lábios conduz somente à pobreza.",
+  "A coroa dos sábios é sua riqueza, mas a insensatez dos tolos é insensatez.",
+  "A testemunha verdadeira salva vidas, mas quem profere mentiras é enganador.",
+  "No temor de YHWH há forte confiança, e seus filhos terão refúgio.",
+  "O temor de YHWH é fonte de vida, para afastar dos laços da morte.",
+  "Na multidão do povo está a glória do rei, mas na falta de povo está a ruína do governante.",
+  "O homem tardio em irar-se tem grande entendimento, mas o impaciente exalta a insensatez.",
+  "O coração tranquilo é vida para o corpo, mas a inveja é podridão para os ossos.",
+  "Quem oprime o pobre insulta seu Criador, mas honra-o quem tem misericórdia do necessitado.",
+  "O perverso será derrubado por sua maldade, mas o justo tem refúgio mesmo na morte.",
+  "No coração do entendido repousa a sabedoria, mas o que há no íntimo dos insensatos se torna conhecido.",
+  "A justiça exalta uma nação, mas o pecado é vergonha para os povos.",
+  "O favor do rei está com o servo prudente, mas sua ira é contra aquele que o envergonha."
+];
+
 window.PROVERBS_TEXT[15] = [
   "O coração do homem planeja seu caminho, mas YHWH dirige seus passos.",
   "Todos os caminhos do homem são puros aos seus próprios olhos, mas YHWH pesa os espíritos.",
