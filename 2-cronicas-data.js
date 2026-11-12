@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–27 de 36; 570 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–30 de 36; 660 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -654,4 +654,103 @@ window.SECOND_CHRONICLES_TEXT[27] = [
   "Os demais feitos de Jotão, todas as suas guerras e seus caminhos, estão escritos no Livro dos Reis de Israel e de Judá.",
   "Tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém.",
   "Jotão repousou com seus pais e foi sepultado na Cidade de Davi. Acaz, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[28] = [
+  "Acaz tinha vinte anos quando começou a reinar e reinou dezesseis anos em Jerusalém. Não fez o que era correto aos olhos de YHWH, como Davi, seu antepassado.",
+  "Andou nos caminhos dos reis de Israel e também fez imagens fundidas para os baalins.",
+  "Queimou incenso no vale do filho de Hinom e queimou seus filhos no fogo, conforme as abominações das nações que YHWH havia expulsado de diante dos filhos de Israel.",
+  "Ofereceu sacrifícios e queimou incenso nos lugares altos, nas colinas e debaixo de toda árvore verdejante.",
+  "Por isso, YHWH, seu Deus, o entregou nas mãos do rei da Síria. Os sírios o derrotaram, levaram muitos cativos e os conduziram a Damasco. Também foi entregue nas mãos do rei de Israel, que lhe infligiu grande derrota.",
+  "Peca, filho de Remalias, matou em Judá cento e vinte mil homens num só dia, todos guerreiros valentes, porque haviam abandonado YHWH, Deus de seus pais.",
+  "Zicri, guerreiro de Efraim, matou Maaseias, filho do rei, Azricão, responsável pelo palácio, e Elcana, o segundo depois do rei.",
+  "Os filhos de Israel levaram cativos duzentos mil de seus irmãos: mulheres, filhos e filhas. Também tomaram deles grande despojo e levaram tudo a Samaria.",
+  "Havia ali um profeta de YHWH chamado Odede. Ele saiu ao encontro do exército que voltava a Samaria e lhes disse: “Eis que, por causa da ira de YHWH, Deus de vossos pais, Judá foi entregue em vossas mãos. Mas vós os matastes com tamanha fúria que ela chegou aos céus.",
+  "Agora pensais em submeter os filhos de Judá e de Jerusalém como escravos e escravas. Mas não tendes também culpa diante de YHWH, vosso Deus?",
+  "Ouvi-me, pois, e devolvei os cativos que tomastes de vossos irmãos, porque o ardor da ira de YHWH está sobre vós”.",
+  "Então alguns chefes dos filhos de Efraim — Azarias, filho de Joanã; Berequias, filho de Mesilemote; Jeizquias, filho de Salum; e Amasa, filho de Hadlai — se levantaram contra os que voltavam da guerra",
+  "e lhes disseram: “Não trareis os cativos para cá, pois isso aumentaria nossa culpa diante de YHWH. Já temos grande culpa e a ira ardente está sobre Israel”.",
+  "Os soldados deixaram os cativos e o despojo diante dos chefes e de toda a assembleia.",
+  "Os homens designados por nome se levantaram, tomaram os cativos e, com o despojo, vestiram todos os que estavam nus. Deram-lhes roupas e sandálias, alimento e bebida, ungiram-nos e conduziram em jumentos todos os fracos. Levaram-nos a Jericó, a cidade das palmeiras, para junto de seus irmãos; depois voltaram a Samaria.",
+  "Naquela ocasião, o rei Acaz enviou mensageiros aos reis da Assíria para pedir ajuda.",
+  "Os edomitas também vieram, atacaram Judá e levaram cativos.",
+  "Os filisteus invadiram as cidades da planície e do Neguebe de Judá. Conquistaram Bete-Semes, Aijalom, Gederote, Socó e seus povoados, Timna e seus povoados, e Ginzo e seus povoados; estabeleceram-se ali.",
+  "YHWH humilhou Judá por causa de Acaz, rei de Israel, pois ele havia promovido a corrupção em Judá e sido profundamente infiel a YHWH.",
+  "Tiglate-Pileser, rei da Assíria, veio contra ele e o oprimiu, em vez de fortalecê-lo.",
+  "Acaz tomou parte dos bens da casa de YHWH, do palácio real e dos chefes e os deu ao rei da Assíria, mas isso não lhe trouxe ajuda.",
+  "Mesmo no tempo de sua aflição, o rei Acaz continuou a ser infiel a YHWH.",
+  "Ofereceu sacrifícios aos deuses de Damasco que o haviam derrotado, dizendo: “Os deuses dos reis da Síria os ajudam; oferecerei sacrifícios a eles para que também me ajudem”. Mas eles foram sua ruína e a de todo o Israel.",
+  "Acaz reuniu os utensílios da casa de Deus, cortou-os em pedaços, fechou as portas da casa de YHWH e fez altares em cada esquina de Jerusalém.",
+  "Em todas as cidades de Judá construiu lugares altos para queimar incenso a outros deuses, provocando a ira de YHWH, Deus de seus pais.",
+  "Os demais feitos de Acaz e todos os seus caminhos, dos primeiros aos últimos, estão escritos no Livro dos Reis de Judá e de Israel.",
+  "Acaz repousou com seus pais e foi sepultado na cidade de Jerusalém, mas não o levaram aos túmulos dos reis de Israel. Ezequias, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[29] = [
+  "Ezequias tinha vinte e cinco anos quando começou a reinar e reinou vinte e nove anos em Jerusalém. O nome de sua mãe era Abia, filha de Zacarias.",
+  "Ele fez o que era correto aos olhos de YHWH, conforme tudo o que Davi, seu antepassado, havia feito.",
+  "No primeiro ano de seu reinado, no primeiro mês, abriu as portas da casa de YHWH e as reparou.",
+  "Fez vir os sacerdotes e os levitas e os reuniu na praça do lado oriental.",
+  "Disse-lhes: “Ouvi-me, levitas! Agora, consagrai-vos e consagrai a casa de YHWH, Deus de vossos pais; retirai do santuário tudo o que é impuro.",
+  "Nossos pais foram infiéis e fizeram o que era mau aos olhos de YHWH, nosso Deus. Abandonaram-no, desviaram o rosto da morada de YHWH e lhe deram as costas.",
+  "Também fecharam as portas do pórtico, apagaram as lâmpadas, deixaram de queimar incenso e de oferecer holocaustos no santuário ao Deus de Israel.",
+  "Por isso a ira de YHWH veio sobre Judá e Jerusalém, e ele os entregou à devastação, ao espanto e ao escárnio, como vedes com vossos próprios olhos.",
+  "Eis que nossos pais caíram à espada, e nossos filhos, nossas filhas e nossas mulheres foram levados cativos por causa disso.",
+  "Agora decidi em meu coração fazer uma aliança com YHWH, Deus de Israel, para que se afaste de nós o ardor de sua ira.",
+  "Meus filhos, não sejais negligentes, pois YHWH vos escolheu para estar diante dele, servi-lo, ser seus ministros e queimar incenso”.",
+  "Então se levantaram os levitas: Maate, filho de Amasai, e Joel, filho de Azarias, dos coatitas; Quis, filho de Abdi, e Azarias, filho de Jealelel, dos meraritas; Joá, filho de Zima, e Éden, filho de Joá, dos gersonitas;",
+  "Simeri e Jeuel, dos filhos de Elisafã; Zacarias e Matanias, dos filhos de Asafe;",
+  "Jeiel e Simei, dos filhos de Hemã; Semaías e Uziel, dos filhos de Jedutum.",
+  "Reuniram seus irmãos, consagraram-se e, conforme a ordem do rei, segundo as palavras de YHWH, entraram para purificar a casa de YHWH.",
+  "Os sacerdotes entraram no interior da casa de YHWH para purificá-la. Retiraram toda a impureza que encontraram no templo de YHWH e a levaram ao pátio da casa de YHWH; dali os levitas a transportaram para fora, ao vale do Cedrom.",
+  "Começaram a consagração no primeiro dia do primeiro mês. No oitavo dia do mês chegaram ao pórtico de YHWH e consagraram a casa de YHWH durante oito dias; no décimo sexto dia do primeiro mês terminaram.",
+  "Então foram até o rei Ezequias e disseram: “Purificamos toda a casa de YHWH, o altar do holocausto e todos os seus utensílios, bem como a mesa dos pães da proposição e todos os seus utensílios.",
+  "Também preparamos e consagramos todos os utensílios que o rei Acaz havia descartado durante sua infidelidade. Eles estão agora diante do altar de YHWH”.",
+  "O rei Ezequias levantou-se bem cedo, reuniu os chefes da cidade e subiu à casa de YHWH.",
+  "Trouxeram sete novilhos, sete carneiros, sete cordeiros e sete bodes como oferta pelo pecado, pelo reino, pelo santuário e por Judá. O rei ordenou aos filhos de Arão, os sacerdotes, que os oferecessem sobre o altar de YHWH.",
+  "Abateram os bois, e os sacerdotes receberam o sangue e o aspergiram sobre o altar. Abateram também os carneiros e aspergiram o sangue sobre o altar; depois abateram os cordeiros e aspergiram o sangue sobre o altar.",
+  "Trouxeram os bodes da oferta pelo pecado diante do rei e da assembleia, que puseram as mãos sobre eles.",
+  "Os sacerdotes os abateram e ofereceram o sangue sobre o altar como expiação por todo o Israel, pois o rei havia ordenado que o holocausto e a oferta pelo pecado fossem feitos por todo o Israel.",
+  "Ezequias colocou os levitas na casa de YHWH com címbalos, liras e harpas, conforme a ordem de Davi, de Gade, vidente do rei, e do profeta Natã, pois essa ordem vinha de YHWH por meio de seus profetas.",
+  "Os levitas ficaram de pé com os instrumentos de Davi, e os sacerdotes, com as trombetas.",
+  "Ezequias ordenou que se oferecesse o holocausto sobre o altar. No momento em que começou o holocausto, começou também o cântico de YHWH, acompanhado pelas trombetas e pelos instrumentos de Davi, rei de Israel.",
+  "Toda a assembleia se prostrava, os cantores cantavam e os trombeteiros tocavam; tudo isso continuou até que o holocausto terminou.",
+  "Quando terminaram de oferecer o holocausto, o rei e todos os que estavam com ele se ajoelharam e se prostraram.",
+  "O rei Ezequias e os chefes ordenaram aos levitas que louvassem YHWH com as palavras de Davi e de Asafe, o vidente. Eles louvaram com alegria, inclinaram-se e adoraram.",
+  "Ezequias declarou: “Agora vos consagrastes a YHWH. Aproximai-vos e trazei sacrifícios e ofertas de gratidão à casa de YHWH”. A assembleia trouxe sacrifícios e ofertas de gratidão, e todo aquele cujo coração era voluntário trouxe holocaustos.",
+  "O número dos holocaustos que a assembleia trouxe foi de setenta bois, cem carneiros e duzentos cordeiros; todos foram oferecidos em holocausto a YHWH.",
+  "As ofertas consagradas foram seiscentos bois e três mil ovelhas.",
+  "Os sacerdotes, porém, eram poucos e não conseguiam retirar a pele de todos os holocaustos. Seus irmãos, os levitas, os ajudaram até que o trabalho terminou e até que os sacerdotes se consagraram, pois os levitas haviam sido mais diligentes em se consagrar do que os sacerdotes.",
+  "Além dos muitos holocaustos, havia também as porções de gordura dos sacrifícios de comunhão e as ofertas de libação para os holocaustos. Assim foi restabelecido o serviço da casa de YHWH.",
+  "Ezequias e todo o povo se alegraram pelo que Deus havia preparado para o povo, pois tudo aconteceu de modo inesperado."
+];
+
+window.SECOND_CHRONICLES_TEXT[30] = [
+  "Ezequias enviou mensageiros a todo o Israel e Judá e também escreveu cartas a Efraim e Manassés, convidando-os a vir à casa de YHWH, em Jerusalém, para celebrar a Páscoa a YHWH, Deus de Israel.",
+  "O rei, seus chefes e toda a assembleia de Jerusalém decidiram celebrar a Páscoa no segundo mês,",
+  "pois não podiam celebrá-la naquela ocasião, porque os sacerdotes ainda não haviam se consagrado em número suficiente e o povo não se reunira em Jerusalém.",
+  "A proposta pareceu correta ao rei e a toda a assembleia.",
+  "Decidiram proclamar por todo o Israel, desde Berseba até Dã, que viessem a Jerusalém celebrar a Páscoa a YHWH, Deus de Israel, pois muitos não a celebravam conforme o que estava escrito.",
+  "Os mensageiros percorreram Israel e Judá com as cartas do rei e de seus chefes, conforme a ordem do rei: “Filhos de Israel, voltai para YHWH, Deus de Abraão, Isaque e Israel, para que ele volte ao remanescente que escapou das mãos dos reis da Assíria.",
+  "Não sejais como vossos pais e vossos irmãos, que foram infiéis a YHWH, Deus de seus pais, e ele os entregou à devastação, como vedes.",
+  "Não endureçais agora a vossa cerviz como fizeram vossos pais. Estendei a mão a YHWH, vinde ao seu santuário, que ele consagrou para sempre, e servi a YHWH, vosso Deus, para que o ardor de sua ira se afaste de vós.",
+  "Se voltardes para YHWH, vossos irmãos e vossos filhos encontrarão compaixão diante daqueles que os levaram cativos e voltarão a esta terra, pois YHWH, vosso Deus, é compassivo e misericordioso; não desviará de vós o rosto, se voltardes para ele”.",
+  "Os mensageiros passaram de cidade em cidade pela terra de Efraim e Manassés até Zebulom, mas o povo zombava deles e os ridicularizava.",
+  "Contudo, alguns homens de Aser, Manassés e Zebulom se humilharam e foram a Jerusalém.",
+  "Também em Judá a mão de Deus atuou, dando ao povo um só coração para cumprir a ordem do rei e dos chefes, conforme a palavra de YHWH.",
+  "Uma grande multidão se reuniu em Jerusalém para celebrar a Festa dos Pães sem Fermento no segundo mês; era uma assembleia muito numerosa.",
+  "Levantaram-se e removeram os altares que havia em Jerusalém; retiraram também todos os altares de incenso e os lançaram no vale do Cedrom.",
+  "Abateram o cordeiro da Páscoa no décimo quarto dia do segundo mês. Os sacerdotes e os levitas ficaram envergonhados, consagraram-se e trouxeram holocaustos à casa de YHWH.",
+  "Tomaram seus lugares, conforme a ordem estabelecida, segundo a Lei de Moisés, homem de Deus. Os sacerdotes aspergiam o sangue recebido das mãos dos levitas.",
+  "Havia muitos na assembleia que não se haviam consagrado. Por isso os levitas ficaram responsáveis pelo abate dos cordeiros da Páscoa para todos os que não estavam puros, a fim de consagrá-los a YHWH.",
+  "Pois grande parte do povo, muitos de Efraim, Manassés, Issacar e Zebulom, não havia se purificado; ainda assim comeram a Páscoa, embora não conforme o que estava escrito. Ezequias orou por eles, dizendo: “Que YHWH, que é bom, faça expiação por",
+  "todo aquele que dispôs o coração para buscar a Deus, YHWH, Deus de seus pais, mesmo sem a purificação exigida para as coisas sagradas”.",
+  "YHWH ouviu Ezequias e curou o povo.",
+  "Os filhos de Israel que estavam em Jerusalém celebraram a Festa dos Pães sem Fermento durante sete dias, com grande alegria. Os levitas e os sacerdotes louvavam YHWH dia após dia, com instrumentos poderosos para YHWH.",
+  "Ezequias falou ao coração de todos os levitas que demonstravam bom entendimento no serviço de YHWH. Durante sete dias comeram a festa, oferecendo sacrifícios de comunhão e confessando a YHWH, Deus de seus pais.",
+  "Toda a assembleia decidiu celebrar outros sete dias, e celebraram mais sete dias com alegria.",
+  "Pois Ezequias, rei de Judá, havia oferecido à assembleia mil novilhos e sete mil ovelhas; os chefes, por sua vez, ofereceram à assembleia mil novilhos e dez mil ovelhas. Muitos sacerdotes se consagraram.",
+  "Toda a assembleia de Judá se alegrou, assim como os sacerdotes, os levitas e todos os que vieram de Israel, bem como os estrangeiros que vieram da terra de Israel e os que habitavam em Judá.",
+  "Houve grande alegria em Jerusalém, pois desde os dias de Salomão, filho de Davi, rei de Israel, não havia acontecido algo semelhante em Jerusalém.",
+  "Então os sacerdotes levitas se levantaram e abençoaram o povo. Sua voz foi ouvida, e sua oração chegou à santa morada de YHWH, nos céus."
 ];
