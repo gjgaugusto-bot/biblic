@@ -552,3 +552,73 @@ window.FIRST_CHRONICLES_TEXT[12] = [
   "Ficaram ali com Davi três dias, comendo e bebendo, pois seus irmãos haviam preparado provisões para eles.",
   "Além disso, os que estavam perto deles, até Issacar, Zebulom e Naftali, trouxeram alimento em jumentos, camelos, mulas e bois: farinha, bolos de figos, cachos de passas, vinho, azeite, bois e ovelhas em abundância, pois havia alegria em Israel."
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[13] = [
+  "Davi consultou os comandantes de mil e de cem e todos os líderes.",
+  "Disse a toda a assembleia de Israel: “Se isso lhes parece bem e se vem do Senhor, nosso Deus, enviemos mensageiros aos nossos irmãos que ficaram em todas as regiões de Israel, e também aos sacerdotes e levitas nas cidades com seus campos de pastagem, para que se reúnam conosco.",
+  "Tragamos para junto de nós a arca do nosso Deus, pois não a buscamos nos dias de Saul.”",
+  "Toda a assembleia concordou em fazer assim, pois a proposta pareceu boa a todo o povo.",
+  "Davi reuniu todo o Israel, desde o Sior do Egito até a entrada de Hamate, para trazer a arca de Deus de Quiriate-Jearim.",
+  "Davi e todo o Israel foram a Baalá, isto é, Quiriate-Jearim, que pertence a Judá, para trazer de lá a arca de Deus, o Senhor, que está entronizado acima dos querubins, a arca sobre a qual seu nome é invocado.",
+  "Transportaram a arca de Deus num carro novo, levando-a da casa de Abinadabe. Uzá e Aiô conduziam o carro.",
+  "Davi e todo o Israel celebravam diante de Deus com todas as suas forças, com cânticos, harpas, liras, tamborins, címbalos e trombetas.",
+  "Quando chegaram à eira de Quidom, Uzá estendeu a mão para segurar a arca, pois os bois a haviam feito tombar.",
+  "A ira do Senhor se acendeu contra Uzá, e ele o feriu porque estendeu a mão sobre a arca. Uzá morreu ali diante de Deus.",
+  "Davi ficou indignado porque o Senhor havia irrompido contra Uzá. Por isso, aquele lugar é chamado Perez-Uzá até hoje.",
+  "Naquele dia, Davi teve medo de Deus e perguntou: “Como poderei trazer para junto de mim a arca de Deus?”",
+  "Por isso, Davi não trouxe a arca para junto de si, à Cidade de Davi; mandou levá-la à casa de Obede-Edom, o geteu.",
+  "A arca de Deus ficou com a família de Obede-Edom, em sua casa, durante três meses; e o Senhor abençoou a casa de Obede-Edom e tudo o que lhe pertencia."
+];
+
+window.FIRST_CHRONICLES_TEXT[14] = [
+  "Hirão, rei de Tiro, enviou mensageiros a Davi, juntamente com madeira de cedro, pedreiros e carpinteiros, para lhe construírem um palácio.",
+  "Davi reconheceu que o Senhor o havia estabelecido como rei sobre Israel e que seu reino fora exaltado por causa de seu povo Israel.",
+  "Davi tomou ainda mais mulheres em Jerusalém e gerou mais filhos e filhas.",
+  "Estes são os nomes dos filhos que lhe nasceram em Jerusalém: Samua, Sobabe, Natã e Salomão;",
+  "Ibar, Elisua, Elpelete,",
+  "Nogá, Nefegue e Jafia;",
+  "Elisama, Beeliada e Elifelete.",
+  "Quando os filisteus souberam que Davi havia sido ungido rei sobre todo Israel, todos eles subiram para procurá-lo. Davi soube disso e saiu contra eles.",
+  "Os filisteus vieram e fizeram uma incursão pelo vale dos Refains.",
+  "Davi consultou a Deus, perguntando: “Devo subir contra os filisteus? Tu os entregarás em minhas mãos?” O Senhor lhe respondeu: “Sobe, pois eu os entregarei em tuas mãos.”",
+  "Davi subiu a Baal-Perazim e ali os derrotou. Davi disse: “Deus rompeu minhas fileiras inimigas por minha mão, como uma inundação rompe barreiras.” Por isso, deram àquele lugar o nome de Baal-Perazim.",
+  "Os filisteus abandonaram ali seus deuses, e Davi ordenou que fossem queimados no fogo.",
+  "Os filisteus fizeram outra incursão pelo vale.",
+  "Davi consultou novamente a Deus, e Deus lhe disse: “Não subas atrás deles. Dá a volta por trás deles e ataca-os em frente às amoreiras.",
+  "Quando ouvires o som de passos nas copas das amoreiras, sai para a batalha, pois Deus terá saído à tua frente para derrotar o exército dos filisteus.”",
+  "Davi fez como Deus lhe havia ordenado, e derrotaram o exército dos filisteus desde Gibeão até Gezer.",
+  "A fama de Davi se espalhou por todas as terras, e o Senhor fez com que todas as nações o temessem."
+];
+
+window.FIRST_CHRONICLES_TEXT[15] = [
+  "Davi construiu para si casas na Cidade de Davi, preparou um lugar para a arca de Deus e armou para ela uma tenda.",
+  "Então Davi declarou: “Ninguém deve carregar a arca de Deus, a não ser os levitas, pois o Senhor os escolheu para carregar a arca do Senhor e para servi-lo para sempre.”",
+  "Davi reuniu todo o Israel em Jerusalém para fazer subir a arca do Senhor ao lugar que havia preparado para ela.",
+  "Davi reuniu os filhos de Arão e os levitas.",
+  "Dos filhos de Coate: Uriel, o chefe, e cento e vinte de seus irmãos.",
+  "Dos filhos de Merari: Asaías, o chefe, e duzentos e vinte de seus irmãos.",
+  "Dos filhos de Gérson: Joel, o chefe, e cento e trinta de seus irmãos.",
+  "Dos filhos de Elisafã: Semaías, o chefe, e duzentos de seus irmãos.",
+  "Dos filhos de Hebrom: Eliel, o chefe, e oitenta de seus irmãos.",
+  "Dos filhos de Uziel: Aminadabe, o chefe, e cento e doze de seus irmãos.",
+  "Davi chamou os sacerdotes Zadoque e Abiatar e os levitas Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe.",
+  "Disse-lhes: “Vocês são os chefes das casas paternas dos levitas. Santifiquem-se, vocês e seus irmãos, e façam subir a arca do Senhor, Deus de Israel, ao lugar que preparei para ela.",
+  "Como vocês não a carregaram da primeira vez, o Senhor, nosso Deus, irrompeu contra nós, pois não o buscamos conforme a ordem estabelecida.”",
+  "Os sacerdotes e os levitas se santificaram para fazer subir a arca do Senhor, Deus de Israel.",
+  "Os filhos dos levitas carregaram a arca de Deus sobre os ombros, com as varas, conforme Moisés havia ordenado segundo a palavra do Senhor.",
+  "Davi ordenou aos chefes dos levitas que designassem seus irmãos, os cantores, para tocar instrumentos musicais — liras, harpas e címbalos — e fazer ressoar alegremente suas vozes.",
+  "Os levitas designaram Hemã, filho de Joel; dentre seus irmãos, Asafe, filho de Berequias; e, dentre os filhos de Merari, seus irmãos, Etã, filho de Cusaías.",
+  "Com eles estavam seus irmãos de segunda ordem: Zacarias, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaséias, Matitias, Elifeleu, Micneias, Obede-Edom e Jeiel, os porteiros.",
+  "Os cantores Hemã, Asafe e Etã tocavam címbalos de bronze para fazer ressoar o som.",
+  "Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaséias e Benaia tocavam liras, afinadas para vozes agudas.",
+  "Matitias, Elifeleu, Micneias, Obede-Edom, Jeiel e Azazias tocavam harpas, afinadas para a oitava, dirigindo o canto.",
+  "Quenanias, chefe dos levitas, dirigia o transporte, pois era entendido nisso.",
+  "Berequias e Elcana eram porteiros da arca.",
+  "Sebanias, Josafá, Natanael, Amasai, Zacarias, Benaia e Eliézer, os sacerdotes, tocavam trombetas diante da arca de Deus. Obede-Edom e Jeías também eram porteiros da arca.",
+  "Davi, os anciãos de Israel e os comandantes de mil foram buscar a arca da aliança do Senhor na casa de Obede-Edom com alegria.",
+  "Como Deus ajudou os levitas que carregavam a arca da aliança do Senhor, sacrificaram sete novilhos e sete carneiros.",
+  "Davi vestia um manto de linho fino, assim como todos os levitas que carregavam a arca, os cantores e Quenanias, chefe do transporte dos cantores. Davi também usava um éfode de linho.",
+  "Todo o Israel fez subir a arca da aliança do Senhor com aclamações, ao som de trombetas, buzinas e címbalos, fazendo ressoar liras e harpas.",
+  "Quando a arca da aliança do Senhor chegou à Cidade de Davi, Mical, filha de Saul, olhou pela janela e viu o rei Davi saltando e dançando; e o desprezou em seu coração."
+];
