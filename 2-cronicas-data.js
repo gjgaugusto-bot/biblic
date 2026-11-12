@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–15 de 36; 315 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–18 de 36; 382 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -363,4 +363,80 @@ window.SECOND_CHRONICLES_TEXT[15] = [
   "Os lugares altos, porém, não foram removidos de Israel. Ainda assim, o coração de Asa foi íntegro todos os seus dias.",
   "Ele trouxe para a casa de Deus as coisas consagradas por seu pai e as que ele próprio havia consagrado: prata, ouro e utensílios.",
   "Não houve guerra até o trigésimo quinto ano do reinado de Asa."
+];
+
+window.SECOND_CHRONICLES_TEXT[16] = [
+  "No trigésimo sexto ano do reinado de Asa, Baasa, rei de Israel, subiu contra Judá e fortificou Ramá, para impedir que alguém saísse ou entrasse no território de Asa, rei de Judá.",
+  "Asa tirou prata e ouro dos tesouros da casa de YHWH e do palácio real e os enviou a Ben-Hadade, rei da Síria, que residia em Damasco, com esta mensagem:",
+  "“Há uma aliança entre mim e ti, como houve entre meu pai e teu pai. Envio-te prata e ouro. Vem, rompe tua aliança com Baasa, rei de Israel, para que ele se retire de mim”.",
+  "Ben-Hadade deu ouvidos ao rei Asa e enviou os comandantes de seus exércitos contra as cidades de Israel. Atacaram Ijom, Dã, Abel-Maim e todas as cidades-armazéns de Naftali.",
+  "Quando Baasa soube disso, deixou de fortificar Ramá e interrompeu sua obra.",
+  "Então o rei Asa reuniu todo o Judá. Levaram as pedras e a madeira de Ramá que Baasa havia usado na construção e, com esse material, Asa fortificou Geba e Mispa.",
+  "Naquela ocasião, Hanani, o vidente, foi a Asa, rei de Judá, e lhe disse: “Porque te apoiaste no rei da Síria e não te apoiaste em YHWH, teu Deus, o exército do rei da Síria escapou de tuas mãos.",
+  "Não eram os cuxitas e os líbios um grande exército, com inúmeros carros e cavaleiros? Contudo, quando te apoiaste em YHWH, ele os entregou em tuas mãos.",
+  "Pois os olhos de YHWH percorrem toda a terra, para mostrar sua força em favor daqueles cujo coração é inteiramente dele. Nisto agiste insensatamente; de agora em diante terás guerras”.",
+  "Asa ficou indignado com o vidente e o colocou na prisão, pois estava furioso com ele por causa dessas palavras. Naquele tempo, Asa também oprimiu algumas pessoas do povo.",
+  "Os feitos de Asa, dos primeiros aos últimos, estão escritos no Livro dos Reis de Judá e de Israel.",
+  "No trigésimo nono ano de seu reinado, Asa adoeceu dos pés; sua enfermidade se tornou muito grave. Mesmo em sua doença, não buscou YHWH, mas os médicos.",
+  "Asa repousou com seus pais e morreu no quadragésimo primeiro ano de seu reinado.",
+  "Sepultaram-no nos túmulos que havia mandado escavar para si na Cidade de Davi. Deitaram-no num leito cheio de aromas e de unguentos preparados segundo a arte dos perfumistas; fizeram em sua honra uma queima muito grande."
+];
+
+window.SECOND_CHRONICLES_TEXT[17] = [
+  "Josafá, seu filho, reinou em seu lugar e fortaleceu-se contra Israel.",
+  "Estabeleceu tropas em todas as cidades fortificadas de Judá e colocou guarnições na terra de Judá e nas cidades de Efraim que Asa, seu pai, havia conquistado.",
+  "YHWH estava com Josafá, porque ele andou nos primeiros caminhos de Davi, seu pai, e não buscou os baalins.",
+  "Buscou o Deus de seu pai, andou em seus mandamentos e não imitou as práticas de Israel.",
+  "YHWH firmou o reino em suas mãos. Todo o Judá trazia presentes a Josafá, e ele teve grande riqueza e honra.",
+  "Seu coração se elevou nos caminhos de YHWH; além disso, removeu de Judá os lugares altos e os postes de Aserá.",
+  "No terceiro ano de seu reinado, enviou seus oficiais Ben-Hail, Obadias, Zacarias, Natanael e Micaías para ensinarem nas cidades de Judá.",
+  "Com eles estavam os levitas Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tobe-Adonias; também estavam com eles os sacerdotes Elisama e Jeorão.",
+  "Ensinaram em Judá, levando consigo o livro da Lei de YHWH. Percorreram todas as cidades de Judá e ensinaram o povo.",
+  "O temor de YHWH caiu sobre todos os reinos das terras ao redor de Judá, e eles não fizeram guerra contra Josafá.",
+  "Alguns filisteus traziam presentes e prata como tributo a Josafá. Os árabes também lhe traziam rebanhos: sete mil e setecentos carneiros e sete mil e setecentos bodes.",
+  "Josafá tornou-se cada vez mais poderoso. Construiu em Judá fortalezas e cidades-armazéns.",
+  "Tinha muitas obras nas cidades de Judá e, em Jerusalém, homens de guerra, guerreiros valentes.",
+  "Este era o registro deles, segundo as casas paternas. De Judá, os comandantes de mil eram: Adna, o chefe, com trezentos mil guerreiros valentes;",
+  "ao seu lado estava Jeoanã, o comandante, com duzentos e oitenta mil;",
+  "ao seu lado estava Amasias, filho de Zicri, que se oferecera voluntariamente a YHWH, com duzentos mil guerreiros valentes;",
+  "de Benjamim: Eliada, guerreiro valente, com duzentos mil homens armados de arco e escudo;",
+  "ao seu lado estava Jeozabade, com cento e oitenta mil homens equipados para o serviço militar.",
+  "Esses eram os que serviam ao rei, além daqueles que o rei havia colocado nas cidades fortificadas por todo o Judá."
+];
+
+window.SECOND_CHRONICLES_TEXT[18] = [
+  "Josafá teve grande riqueza e honra, e aparentou-se com Acabe.",
+  "Depois de alguns anos, desceu a Samaria para visitar Acabe. Acabe sacrificou para ele e para o povo que o acompanhava muitas ovelhas e bois, e o persuadiu a subir contra Ramote-Gileade.",
+  "Acabe, rei de Israel, perguntou a Josafá, rei de Judá: “Irás comigo a Ramote-Gileade?” Ele respondeu: “Sou como tu, meu povo é como teu povo; estaremos contigo na guerra”.",
+  "Josafá disse ao rei de Israel: “Consulta hoje, por favor, a palavra de YHWH”.",
+  "O rei de Israel reuniu os profetas, quatrocentos homens, e lhes perguntou: “Devemos ir à guerra contra Ramote-Gileade ou devo desistir?” Eles responderam: “Sobe, pois Deus a entregará nas mãos do rei”.",
+  "Josafá perguntou: “Não há aqui ainda algum profeta de YHWH, para que o consultemos?”",
+  "O rei de Israel respondeu a Josafá: “Há ainda um homem por meio de quem podemos consultar YHWH, mas eu o odeio, pois nunca profetiza o bem a meu respeito, e sim sempre o mal. É Micaías, filho de Inlá”. Josafá disse: “Não fale o rei assim”.",
+  "Então o rei de Israel chamou um oficial e ordenou: “Traze depressa Micaías, filho de Inlá”.",
+  "O rei de Israel e Josafá, rei de Judá, estavam sentados, cada um em seu trono, vestidos com suas roupas reais, na eira à entrada da porta de Samaria. Todos os profetas profetizavam diante deles.",
+  "Zedequias, filho de Quenaana, fez para si chifres de ferro e declarou: “Assim diz YHWH: Com estes chifres ferirás os sírios até os destruir”.",
+  "Todos os profetas profetizavam da mesma maneira, dizendo: “Sobe a Ramote-Gileade e serás bem-sucedido; YHWH a entregará nas mãos do rei”.",
+  "O mensageiro que fora chamar Micaías lhe disse: “Eis que as palavras dos profetas são unânimes em favor do rei. Que tua palavra seja como a de um deles; fala o que é favorável”.",
+  "Micaías respondeu: “Tão certo como vive YHWH, direi aquilo que meu Deus me disser”.",
+  "Quando chegou ao rei, este lhe perguntou: “Micaías, devemos ir à guerra contra Ramote-Gileade ou devo desistir?” Ele respondeu: “Ide e sereis bem-sucedidos; eles serão entregues em vossas mãos”.",
+  "O rei lhe disse: “Quantas vezes terei de te fazer jurar que não me dirás nada além da verdade em nome de YHWH?”",
+  "Então Micaías declarou: “Vi todo o Israel espalhado pelos montes, como ovelhas sem pastor. YHWH disse: ‘Estes não têm senhor; que cada um volte em paz para sua casa’”.",
+  "O rei de Israel disse a Josafá: “Não te falei que ele não profetizaria o bem a meu respeito, mas somente o mal?”",
+  "Micaías prosseguiu: “Portanto, ouvi a palavra de YHWH: vi YHWH sentado em seu trono, e todo o exército dos céus estava de pé à sua direita e à sua esquerda.",
+  "YHWH perguntou: ‘Quem enganará Acabe, rei de Israel, para que suba e caia em Ramote-Gileade?’ Um dizia uma coisa, e outro dizia outra.",
+  "Então um espírito se apresentou, pôs-se diante de YHWH e disse: ‘Eu o enganarei’. YHWH lhe perguntou: ‘De que maneira?’",
+  "Ele respondeu: ‘Sairei e serei um espírito de mentira na boca de todos os seus profetas’. YHWH disse: ‘Tu o enganarás e também prevalecerás. Vai e faze assim’.",
+  "Agora, pois, eis que YHWH pôs um espírito de mentira na boca destes teus profetas; mas YHWH declarou calamidade contra ti”.",
+  "Então Zedequias, filho de Quenaana, aproximou-se, deu um tapa no rosto de Micaías e perguntou: “Por qual caminho o espírito de YHWH saiu de mim para falar contigo?”",
+  "Micaías respondeu: “Tu o verás naquele dia, quando entrares de quarto em quarto para te esconderes”.",
+  "O rei de Israel ordenou: “Prendei Micaías e levai-o de volta a Amom, governador da cidade, e a Joás, filho do rei.",
+  "Dizei-lhes: ‘Assim ordena o rei: Colocai este homem na prisão e dai-lhe pão e água de aflição, até que eu volte em paz’”.",
+  "Micaías declarou: “Se voltares em paz, YHWH não falou por meu intermédio”. E acrescentou: “Ouvi isto, todos os povos!”",
+  "O rei de Israel e Josafá, rei de Judá, subiram contra Ramote-Gileade.",
+  "O rei de Israel disse a Josafá: “Entrarei disfarçado na batalha, mas tu veste tuas roupas reais”. O rei de Israel se disfarçou, e eles foram à batalha.",
+  "O rei da Síria havia ordenado aos comandantes de seus carros: “Não luteis contra ninguém, pequeno ou grande, mas somente contra o rei de Israel”.",
+  "Quando os comandantes dos carros viram Josafá, disseram: “Este é o rei de Israel!” Cercaram-no para atacá-lo. Josafá gritou, e YHWH o socorreu; Deus os desviou dele.",
+  "Quando os comandantes dos carros perceberam que ele não era o rei de Israel, deixaram de persegui-lo.",
+  "Um homem, porém, atirou com o arco ao acaso e atingiu o rei de Israel entre as juntas da armadura. O rei disse ao condutor do carro: “Dá meia-volta e tira-me do campo de batalha, pois estou ferido”.",
+  "A batalha se intensificou naquele dia. O rei de Israel permaneceu de pé em seu carro, de frente para os sírios, até a tarde; ao pôr do sol, morreu."
 ];
