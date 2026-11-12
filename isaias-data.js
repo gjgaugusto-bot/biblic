@@ -364,3 +364,47 @@ window.ISAIAH_TEXT[15] = [
   "O clamor percorre todo o território de Moabe; seu uivo chega a Eglaim, e seu lamento, a Beer-Elim.",
   "Pois as águas de Dimom estão cheias de sangue; contudo, trarei ainda mais sobre Dimom: um leão para os fugitivos de Moabe e para o remanescente da terra."
 ];
+
+window.ISAIAH_TEXT[16] = [
+  "Enviai um cordeiro ao governante da terra, desde Selá, pelo deserto, até o monte da filha de Sião.",
+  "Como aves que fogem do ninho, assim serão as filhas de Moabe nos vaus do Arnom.",
+  "“Dá conselho, faze justiça; torna tua sombra como a noite em pleno meio-dia; esconde os dispersos, não traias os fugitivos.",
+  "Que meus dispersos habitem contigo, ó Moabe; sê abrigo para eles diante do destruidor. Quando o opressor desaparecer e a destruição cessar, e os que pisam a terra forem eliminados,",
+  "um trono será estabelecido em lealdade; nele se assentará em verdade, na tenda de Davi, um juiz que busca o direito e se apressa em praticar justiça”.",
+  "Ouvimos falar do orgulho de Moabe, de sua grande arrogância, de seu orgulho, sua soberba e seu furor; suas jactâncias são vazias.",
+  "Por isso Moabe lamentará; todo Moabe lamentará. Gemei pelos bolos de passas de Quir-Haresete, profundamente abatidos.",
+  "Pois os campos de Hesbom murcharam, e as vinhas de Sibma; os senhores das nações esmagaram seus ramos, que chegavam até Jazer e se estendiam pelo deserto. Seus brotos se espalhavam e atravessavam o mar.",
+  "Por isso chorarei com o choro de Jazer pela vinha de Sibma; encharcar-te-ei com minhas lágrimas, ó Hesbom e Eleale, pois sobre tua colheita e tua vindima caiu o grito de guerra.",
+  "A alegria e o júbilo foram retirados do pomar; nas vinhas já não há cântico nem grito de alegria; o pisador não pisa vinho nos lagares; fiz cessar o grito da vindima.",
+  "Por isso minhas entranhas vibram por Moabe como harpa, e meu íntimo, por Quir-Heres.",
+  "Quando Moabe se apresentar, quando se cansar nos lugares altos e entrar em seu santuário para orar, nada conseguirá.",
+  "Esta é a palavra que YHWH falou anteriormente a respeito de Moabe.",
+  "Agora YHWH falou, dizendo: “Dentro de três anos, como os anos de um trabalhador contratado, a glória de Moabe será desprezada com toda sua grande multidão; e o remanescente será muito pequeno e fraco”."
+];
+
+window.ISAIAH_TEXT[17] = [
+  "Oráculo contra Damasco. Eis que Damasco deixará de ser cidade e se tornará um montão de ruínas.",
+  "As cidades de Aroer serão abandonadas; serão para os rebanhos, que se deitarão ali sem que ninguém os espante.",
+  "A fortaleza desaparecerá de Efraim, e o reino de Damasco; o remanescente da Síria será como a glória dos filhos de Israel, diz YHWH dos Exércitos.",
+  "Naquele dia a glória de Jacó diminuirá, e a gordura de sua carne emagrecerá.",
+  "Será como quando o ceifeiro recolhe o cereal e seu braço corta as espigas; será como quem colhe espigas no vale de Refaim.",
+  "Restarão nele algumas espigas, como quando se sacode a oliveira: duas ou três azeitonas no alto dos ramos, quatro ou cinco nos galhos frutíferos, diz YHWH, Deus de Israel.",
+  "Naquele dia o homem olhará para seu Criador, e seus olhos contemplarão o Santo de Israel.",
+  "Não olhará para os altares, obra de suas mãos; não contemplará o que seus dedos fizeram, nem os postes sagrados, nem os altares de incenso.",
+  "Naquele dia suas cidades fortificadas serão como lugares abandonados na floresta e no alto dos montes, que foram deixados diante dos filhos de Israel; haverá desolação.",
+  "Pois te esqueceste do Deus de tua salvação e não te lembraste da Rocha de tua fortaleza. Por isso plantaste jardins agradáveis e neles semeaste mudas estrangeiras.",
+  "No dia em que as plantaste, fizeste-as crescer; pela manhã fizeste florescer tua semente, mas a colheita desapareceu no dia da doença e da dor incurável.",
+  "Ai do tumulto de muitos povos, que rugem como o rugido dos mares! Ai do bramido das nações, que bramam como o bramido de muitas águas!",
+  "As nações bramam como o bramido de muitas águas, mas ele as repreende, e elas fogem para longe; são perseguidas como palha dos montes diante do vento e como poeira diante do vendaval.",
+  "Ao anoitecer, eis o terror; antes da manhã, já não existem. Esta é a porção dos que nos saqueiam e a sorte dos que nos despojam."
+];
+
+window.ISAIAH_TEXT[18] = [
+  "Ai da terra dos insetos zumbidores, que está além dos rios de Cuxe,",
+  "que envia mensageiros pelo mar em barcos de papiro sobre as águas, dizendo: “Ide, mensageiros velozes, a uma nação alta e de pele lisa, a um povo temido de perto e de longe, nação poderosa e conquistadora, cuja terra os rios dividem”.",
+  "Todos vós, habitantes do mundo e moradores da terra, quando se levantar um estandarte sobre os montes, olhai; quando soar a trombeta, ouvi!",
+  "Pois assim YHWH me disse: “Ficarei quieto e olharei de minha morada, como calor claro sob a luz do sol, como nuvem de orvalho no calor da colheita”.",
+  "Pois antes da colheita, quando a floração terminar e a flor se tornar uva madura, ele cortará os brotos com podadeiras e removerá os ramos espalhados.",
+  "Serão deixados juntos para as aves de rapina dos montes e para os animais da terra; as aves passarão o verão sobre eles, e todos os animais da terra passarão o inverno sobre eles.",
+  "Naquele tempo será levado um presente a YHWH dos Exércitos, da parte de um povo alto e de pele lisa, de uma nação temida de perto e de longe, povo poderoso e conquistador, cuja terra os rios dividem, ao lugar do nome de YHWH dos Exércitos, ao monte Sião."
+];
