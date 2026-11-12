@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–30 de 36; 660 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–33 de 36; 739 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -753,4 +753,92 @@ window.SECOND_CHRONICLES_TEXT[30] = [
   "Toda a assembleia de Judá se alegrou, assim como os sacerdotes, os levitas e todos os que vieram de Israel, bem como os estrangeiros que vieram da terra de Israel e os que habitavam em Judá.",
   "Houve grande alegria em Jerusalém, pois desde os dias de Salomão, filho de Davi, rei de Israel, não havia acontecido algo semelhante em Jerusalém.",
   "Então os sacerdotes levitas se levantaram e abençoaram o povo. Sua voz foi ouvida, e sua oração chegou à santa morada de YHWH, nos céus."
+];
+
+window.SECOND_CHRONICLES_TEXT[31] = [
+  "Quando tudo isso terminou, todos os israelitas que estavam presentes saíram pelas cidades de Judá, quebraram as colunas sagradas, cortaram os postes de Aserá e derrubaram os lugares altos e os altares em todo Judá e Benjamim, em Efraim e Manassés, até destruí-los por completo. Depois todos os filhos de Israel voltaram para suas cidades, cada um para sua propriedade.",
+  "Ezequias estabeleceu as divisões dos sacerdotes e dos levitas, cada um segundo seu serviço: sacerdotes e levitas para os holocaustos e os sacrifícios de comunhão, para ministrar, dar graças e louvar nas portas dos acampamentos de YHWH.",
+  "O rei destinou parte de seus próprios bens para os holocaustos da manhã e da tarde, para os holocaustos dos sábados, das luas novas e das festas fixas, conforme está escrito na Lei de YHWH.",
+  "Ordenou ao povo, aos habitantes de Jerusalém, que entregassem a porção devida aos sacerdotes e aos levitas, para que se dedicassem à Lei de YHWH.",
+  "Assim que a ordem foi divulgada, os filhos de Israel deram em abundância as primícias do cereal, do vinho novo, do azeite, do mel e de toda a produção do campo; trouxeram também em grande quantidade o dízimo de tudo.",
+  "Os filhos de Israel e de Judá que habitavam nas cidades de Judá também trouxeram o dízimo dos bois e das ovelhas e o dízimo das coisas sagradas consagradas a YHWH, seu Deus. Amontoaram tudo em montes.",
+  "Começaram a formar os montes no terceiro mês e terminaram no sétimo mês.",
+  "Quando Ezequias e os chefes chegaram e viram os montes, bendisseram YHWH e seu povo Israel.",
+  "Ezequias perguntou aos sacerdotes e aos levitas a respeito dos montes.",
+  "Azarias, o sumo sacerdote, da casa de Zadoque, respondeu: “Desde que começaram a trazer as contribuições à casa de YHWH, temos comido e ficado satisfeitos, e ainda sobrou muito, pois YHWH abençoou seu povo. Esta grande quantidade é o que restou”.",
+  "Ezequias ordenou que preparassem depósitos na casa de YHWH, e eles os prepararam.",
+  "Trouxeram fielmente as contribuições, os dízimos e as coisas consagradas. O levita Conanias ficou encarregado delas, e Simei, seu irmão, era o segundo em autoridade.",
+  "Jeiel, Azazias, Naate, Asael, Jerimote, Jozabade, Eliel, Ismaquias, Maate e Benaia eram supervisores sob as ordens de Conanias e de Simei, seu irmão, por determinação do rei Ezequias e de Azarias, chefe da casa de Deus.",
+  "Coré, filho de Imna, o levita, porteiro da porta oriental, estava encarregado das ofertas voluntárias a Deus, para distribuir as contribuições de YHWH e as coisas santíssimas.",
+  "Sob suas ordens estavam Éden, Miniamim, Jesua, Semaías, Amarias e Secanias, nas cidades dos sacerdotes, para distribuir fielmente as porções aos seus irmãos, segundo suas divisões, tanto aos grandes como aos pequenos.",
+  "A distribuição era feita a todos os homens registrados, de três anos para cima, a todos os que entravam na casa de YHWH para o serviço diário, conforme suas funções e suas divisões.",
+  "O registro dos sacerdotes era feito segundo as casas paternas, e o dos levitas, de vinte anos para cima, segundo suas funções e divisões.",
+  "O registro incluía toda a comunidade: suas mulheres, seus filhos e suas filhas, pois em sua fidelidade se consagravam às coisas sagradas.",
+  "Quanto aos filhos de Arão, os sacerdotes que viviam nos campos de pastagem de suas cidades, em cada cidade, havia homens designados por nome para distribuir porções a todos os homens entre os sacerdotes e a todos os que estavam registrados entre os levitas.",
+  "Foi assim que Ezequias procedeu em todo o Judá. Fez o que era bom, correto e fiel diante de YHWH, seu Deus.",
+  "Em toda obra que começou no serviço da casa de Deus, na Lei e nos mandamentos, buscou seu Deus de todo o coração e foi bem-sucedido."
+];
+
+window.SECOND_CHRONICLES_TEXT[32] = [
+  "Depois desses acontecimentos e desses atos de fidelidade, Senaqueribe, rei da Assíria, veio, invadiu Judá e cercou as cidades fortificadas, planejando conquistá-las.",
+  "Quando Ezequias viu que Senaqueribe havia chegado e pretendia guerrear contra Jerusalém,",
+  "consultou seus chefes e seus guerreiros sobre a possibilidade de fechar as fontes de água que ficavam fora da cidade; eles o ajudaram.",
+  "Reuniu-se muita gente, e eles fecharam todas as fontes e o riacho que atravessava a região, dizendo: “Por que os reis da Assíria deveriam encontrar água em abundância quando vierem?”",
+  "Ezequias tomou coragem, reconstruiu toda a muralha que estava derrubada, ergueu torres sobre ela, construiu outra muralha do lado de fora, fortaleceu o aterro da Cidade de Davi e fabricou muitas armas e escudos.",
+  "Designou comandantes militares sobre o povo e os reuniu na praça junto à porta da cidade. Falou-lhes ao coração, dizendo:",
+  "“Sede fortes e corajosos! Não tenhais medo nem vos assusteis por causa do rei da Assíria e de toda a multidão que está com ele, pois conosco há alguém maior do que com ele.",
+  "Com ele está o braço humano, mas conosco está YHWH, nosso Deus, para nos ajudar e lutar nossas batalhas”. O povo se fortaleceu com as palavras de Ezequias, rei de Judá.",
+  "Depois disso, Senaqueribe, rei da Assíria, enquanto estava em Laquis com todo o seu poder, enviou seus servos a Jerusalém, a Ezequias, rei de Judá, e a todo o Judá que estava em Jerusalém, dizendo:",
+  "“Assim diz Senaqueribe, rei da Assíria: Em que estais confiando para permanecer cercados em Jerusalém?",
+  "Não vos engana Ezequias, levando-vos a morrer de fome e sede, quando diz: ‘YHWH, nosso Deus, nos livrará das mãos do rei da Assíria’?",
+  "Não foi o próprio Ezequias que removeu os lugares altos e os altares de YHWH e ordenou a Judá e a Jerusalém: ‘Diante de um só altar vos prostrareis e sobre ele queimareis incenso’?",
+  "Não sabeis o que eu e meus pais fizemos a todos os povos das outras terras? Acaso os deuses das nações puderam livrar suas terras de minhas mãos?",
+  "Qual, dentre todos os deuses dessas nações que meus pais destruíram, pôde livrar seu povo de minhas mãos? Como, então, vosso Deus poderia livrar-vos de minhas mãos?",
+  "Agora, não deixeis que Ezequias vos engane nem vos induza assim ao erro. Não acrediteis nele, pois nenhum deus de nação ou reino pôde livrar seu povo de minhas mãos nem das mãos de meus pais; muito menos vosso Deus poderá livrar-vos de minhas mãos!”",
+  "Seus servos ainda falaram contra YHWH Deus e contra Ezequias, seu servo.",
+  "Senaqueribe também escreveu cartas para insultar YHWH, Deus de Israel, e falar contra ele, dizendo: “Assim como os deuses das nações das terras não livraram seus povos de minhas mãos, também o Deus de Ezequias não livrará seu povo de minhas mãos”.",
+  "Gritavam em língua judaica ao povo de Jerusalém que estava sobre a muralha, para amedrontá-lo e aterrorizá-lo, a fim de conquistar a cidade.",
+  "Falaram contra o Deus de Jerusalém como se ele fosse igual aos deuses dos povos da terra, obra das mãos humanas.",
+  "Então o rei Ezequias e o profeta Isaías, filho de Amoz, oraram por causa disso e clamaram aos céus.",
+  "YHWH enviou um anjo, que exterminou todos os guerreiros valentes, os chefes e os comandantes do acampamento do rei da Assíria. Senaqueribe voltou envergonhado para sua terra e, quando entrou na casa de seu deus, alguns de seus próprios filhos o mataram à espada.",
+  "Assim YHWH salvou Ezequias e os habitantes de Jerusalém das mãos de Senaqueribe, rei da Assíria, e das mãos de todos os outros; concedeu-lhes repouso por todos os lados.",
+  "Muitos trouxeram presentes a YHWH em Jerusalém e objetos preciosos a Ezequias, rei de Judá. Depois disso, ele foi respeitado por todas as nações.",
+  "Naqueles dias, Ezequias adoeceu mortalmente. Orou a YHWH, que lhe respondeu e lhe concedeu um sinal.",
+  "Mas Ezequias não correspondeu ao benefício recebido, pois seu coração se exaltou. Por isso veio sobre ele a ira, sobre Judá e Jerusalém.",
+  "Então Ezequias se humilhou pelo orgulho de seu coração, ele e os habitantes de Jerusalém; por isso a ira de YHWH não veio sobre eles nos dias de Ezequias.",
+  "Ezequias teve grande riqueza e honra. Fez para si tesouros de prata, ouro, pedras preciosas, especiarias, escudos e todo tipo de objetos valiosos;",
+  "depósitos para o cereal, o vinho novo e o azeite, estábulos para todo tipo de animal e apriscos para os rebanhos.",
+  "Construiu cidades e adquiriu muitos rebanhos de ovelhas e bois, pois Deus lhe havia dado bens em grande abundância.",
+  "Foi Ezequias quem bloqueou a saída superior das águas de Giom e as conduziu para baixo, a oeste da Cidade de Davi. Ezequias prosperou em todas as suas obras.",
+  "Contudo, quando os enviados dos chefes da Babilônia vieram até ele para perguntar sobre o sinal que havia acontecido na terra, Deus o deixou, para prová-lo e conhecer tudo o que havia em seu coração.",
+  "Os demais feitos de Ezequias e seus atos de fidelidade estão escritos na visão do profeta Isaías, filho de Amoz, no Livro dos Reis de Judá e de Israel.",
+  "Ezequias repousou com seus pais e o sepultaram na subida dos túmulos dos filhos de Davi. Todo o Judá e os habitantes de Jerusalém lhe prestaram honras em sua morte. Manassés, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[33] = [
+  "Manassés tinha doze anos quando começou a reinar e reinou cinquenta e cinco anos em Jerusalém.",
+  "Fez o que era mau aos olhos de YHWH, conforme as abominações das nações que YHWH havia expulsado de diante dos filhos de Israel.",
+  "Reconstruiu os lugares altos que Ezequias, seu pai, havia derrubado; ergueu altares aos baalins, fez postes de Aserá e se prostrou diante de todo o exército dos céus, servindo-o.",
+  "Construiu altares na casa de YHWH, a respeito da qual YHWH havia dito: “Em Jerusalém estará meu nome para sempre”.",
+  "Construiu altares para todo o exército dos céus nos dois pátios da casa de YHWH.",
+  "Fez seus filhos passarem pelo fogo no vale do filho de Hinom, praticou adivinhação, feitiçaria e encantamentos, consultou médiuns e adivinhos. Fez muitas coisas más aos olhos de YHWH, provocando sua ira.",
+  "Colocou na casa de Deus a imagem esculpida do ídolo que havia feito, embora Deus tivesse dito a Davi e a Salomão, seu filho: “Nesta casa e em Jerusalém, que escolhi dentre todas as tribos de Israel, porei meu nome para sempre.",
+  "Não removerei mais Israel da terra que destinei a seus pais, desde que tenham o cuidado de fazer tudo o que lhes ordenei, toda a Lei, os estatutos e as decisões transmitidos por meio de Moisés”.",
+  "Manassés desviou Judá e os habitantes de Jerusalém, levando-os a fazer mais mal do que as nações que YHWH havia destruído diante dos filhos de Israel.",
+  "YHWH falou a Manassés e ao seu povo, mas eles não deram ouvidos.",
+  "Por isso YHWH trouxe contra eles os comandantes do exército do rei da Assíria. Capturaram Manassés com ganchos, prenderam-no com correntes de bronze e o levaram para a Babilônia.",
+  "Em sua aflição, ele suplicou a YHWH, seu Deus, e se humilhou profundamente diante do Deus de seus pais.",
+  "Orou a ele, e Deus se deixou comover por sua súplica, ouviu seu pedido e o fez voltar a Jerusalém, ao seu reino. Então Manassés reconheceu que YHWH é Deus.",
+  "Depois disso, construiu uma muralha externa para a Cidade de Davi, a oeste de Giom, no vale, até a entrada da Porta dos Peixes; ela contornava Ofel e se elevava muito. Também colocou comandantes militares em todas as cidades fortificadas de Judá.",
+  "Removeu da casa de YHWH os deuses estrangeiros e o ídolo, bem como todos os altares que havia construído no monte da casa de YHWH e em Jerusalém, e os lançou para fora da cidade.",
+  "Restaurou o altar de YHWH e ofereceu sobre ele sacrifícios de comunhão e ofertas de gratidão. Ordenou a Judá que servisse a YHWH, Deus de Israel.",
+  "O povo, contudo, ainda oferecia sacrifícios nos lugares altos, mas somente a YHWH, seu Deus.",
+  "Os demais feitos de Manassés, sua oração a seu Deus e as palavras dos videntes que lhe falaram em nome de YHWH, Deus de Israel, estão registrados nos relatos dos reis de Israel.",
+  "Sua oração e como Deus se deixou comover por ela, todo o seu pecado e sua infidelidade, os lugares onde construiu lugares altos e ergueu postes de Aserá e imagens esculpidas antes de se humilhar, tudo isso está escrito nos registros de Hozai.",
+  "Manassés repousou com seus pais e o sepultaram em sua própria casa. Amom, seu filho, reinou em seu lugar.",
+  "Amom tinha vinte e dois anos quando começou a reinar e reinou dois anos em Jerusalém.",
+  "Fez o que era mau aos olhos de YHWH, como Manassés, seu pai. Amom ofereceu sacrifícios a todas as imagens esculpidas que Manassés, seu pai, havia feito e as serviu.",
+  "Não se humilhou diante de YHWH, como Manassés, seu pai, havia se humilhado; pelo contrário, Amom aumentou sua culpa.",
+  "Seus servos conspiraram contra ele e o mataram em seu próprio palácio.",
+  "Mas o povo da terra matou todos os que haviam conspirado contra o rei Amom e fez Josias, seu filho, rei em seu lugar."
 ];
