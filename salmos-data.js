@@ -1773,8 +1773,7 @@ window.PSALMS_TEXT[89] = [
 ];
 
 window.PSALMS_TEXT[90] = [
-  "Oração de Moisés, homem de Deus.",
-  "Senhor, tu tens sido nossa morada de geração em geração.",
+  "Oração de Moisés, homem de Deus. Senhor, tu tens sido nossa morada de geração em geração.",
   "Antes que nascessem os montes e formasses a terra e o mundo, de eternidade a eternidade, tu és Deus.",
   "Fazes o homem voltar ao pó e dizes: “Voltai, filhos dos homens”.",
   "Pois mil anos aos teus olhos são como o dia de ontem que passou, como uma vigília da noite.",
