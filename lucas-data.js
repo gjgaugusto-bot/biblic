@@ -1067,7 +1067,7 @@ window.LUKE_TEXT[22] = [
   "Quando chegou a hora, Jesus se reclinou à mesa, e os apóstolos com ele.",
   "Disse-lhes: Desejei intensamente comer esta Páscoa convosco antes de sofrer;",
   "pois vos digo que não a comerei novamente até que ela se cumpra no reino de Deus.",
-  "Então tomou um cálice, deu graças e disse: Tomai isto e repart i entre vós;",
+  "Então tomou um cálice, deu graças e disse: Tomai isto e reparti entre vós;",
   "pois vos digo que, de agora em diante, não beberei do fruto da videira até que venha o reino de Deus.",
   "Tomou também o pão, deu graças, partiu-o e o deu a eles, dizendo: Isto é meu corpo, entregue por vós; fazei isto em memória de mim.",
   "Da mesma forma, depois da ceia, tomou o cálice, dizendo: Este cálice é a nova aliança em meu sangue, derramado por vós.",
