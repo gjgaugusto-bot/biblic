@@ -606,3 +606,31 @@ window.ACTS_TEXT[15] = [
   "Paulo escolheu Silas e partiu, confiado pelos irmãos à graça do Senhor.",
   "Percorria a Síria e a Cilícia, fortalecendo as igrejas."
 ];
+
+window.ACTS_TEXT[16] = [
+  "Chegou a Derbe e a Listra. Havia ali um discípulo chamado Timóteo, filho de uma judia crente e de pai grego.",
+  "Os irmãos de Listra e Icônio davam bom testemunho dele.",
+  "Paulo quis levá-lo consigo; tomou-o e o circuncidou por causa dos judeus daquela região, pois todos sabiam que seu pai era grego.",
+  "Enquanto passavam pelas cidades, entregavam as decisões dos apóstolos e anciãos de Jerusalém, para que fossem observadas.",
+  "Assim, as igrejas eram fortalecidas na fé e cresciam diariamente em número.",
+  "Atravessaram a Frígia e a região da Galácia, impedidos pelo Espírito Santo de anunciar a palavra na Ásia.",
+  "Chegando à Mísia, tentavam ir à Bitínia, mas o Espírito de Jesus não lhes permitiu.",
+  "Então, passando pela Mísia, desceram a Trôade.",
+  "Durante a noite, Paulo teve uma visão: um homem macedônio estava de pé e lhe suplicava: Passa à Macedônia e ajuda-nos!",
+  "Depois da visão, procuramos partir imediatamente para a Macedônia, concluindo que Deus nos havia chamado para anunciar-lhes as boas-novas.",
+  "Zarpando de Trôade, navegamos diretamente para Samotrácia; no dia seguinte, para Neápolis,",
+  "e dali para Filipos, colônia romana e cidade principal daquele distrito da Macedônia. Permanecemos ali alguns dias.",
+  "No sábado, saímos para fora do portão, junto a um rio, onde supúnhamos haver um lugar de oração; sentados, falávamos às mulheres reunidas.",
+  "Lídia, vendedora de púrpura de Tiatira e temente a Deus, nos ouvia; o Senhor abriu seu coração para prestar atenção ao que Paulo dizia.",
+  "Depois de ser batizada, ela e sua casa, rogou-nos: Se me consideram fiel ao Senhor, entrem em minha casa e permaneçam. E nos constrangeu a aceitar.",
+  "Enquanto íamos ao lugar de oração, veio ao nosso encontro uma jovem escrava que tinha um espírito de adivinhação e dava grande lucro a seus senhores.",
+  "Ela seguia Paulo e nós, gritando: Estes homens são servos do Deus Altíssimo e anunciam o caminho da salvação.",
+  "Fazia isso por muitos dias. Paulo, perturbado, voltou-se e disse ao espírito: Ordeno-te em nome de Jesus Cristo que saias dela! E ele saiu naquela hora.",
+  "Vendo seus senhores que desaparecera a esperança de lucro, agarraram Paulo e Silas e os arrastaram à praça, diante das autoridades.",
+  "Levando-os aos magistrados, disseram: Estes homens, sendo judeus, perturbam nossa cidade",
+  "e anunciam costumes que nós, romanos, não podemos receber nem praticar.",
+  "A multidão se levantou contra eles; os magistrados rasgaram-lhes as roupas e ordenaram que fossem açoitados com varas.",
+  "Depois de muitos golpes, lançaram-nos na prisão e ordenaram ao carcereiro que os guardasse com segurança.",
+  "Ele os colocou na prisão interior e prendeu seus pés no tronco.",
+  "Por volta da meia-noite, Paulo e Silas oravam e cantavam hinos a Deus, e os presos os escutavam."
+];
