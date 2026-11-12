@@ -1373,3 +1373,54 @@ window.ISAIAH_TEXT[60] = [
   "Todo o teu povo será justo; possuirá a terra para sempre, ramo de minha plantação, obra de minhas mãos, para que eu seja glorificado.",
   "O menor se tornará mil, e o mais pequeno, uma nação poderosa. Eu, YHWH, apressarei isso a seu tempo."
 ];
+
+window.ISAIAH_TEXT[61] = [
+  "O Espírito do Senhor YHWH está sobre mim, pois YHWH me ungiu para anunciar boas-novas aos humildes; enviou-me para enfaixar os quebrantados de coração, proclamar liberdade aos cativos e abertura da prisão aos presos,",
+  "para proclamar o ano favorável de YHWH e o dia da vingança de nosso Deus, para consolar todos os que choram,",
+  "para conceder aos que choram em Sião uma coroa em vez de cinzas, óleo de alegria em vez de luto, veste de louvor em vez de espírito abatido; serão chamados carvalhos de justiça, plantação de YHWH, para sua glória.",
+  "Reconstruirão as ruínas antigas, levantarão as desolações de outrora; restaurarão as cidades arruinadas, as desolações de muitas gerações.",
+  "Estrangeiros estarão de pé e apascentarão vossos rebanhos; filhos de estrangeiros serão vossos lavradores e vossos vinhateiros.",
+  "Vós, porém, sereis chamados sacerdotes de YHWH; sereis chamados ministros de nosso Deus. Comereis a riqueza das nações e vos gloriareis em sua glória.",
+  "Em lugar de vossa vergonha, tereis porção dobrada; em lugar de humilhação, exultareis em vossa herança. Por isso possuirão porção dobrada em sua terra; alegria eterna será deles.",
+  "Pois eu, YHWH, amo o direito e odeio o roubo acompanhado de injustiça; darei fielmente sua recompensa e farei com eles uma aliança eterna.",
+  "Sua descendência será conhecida entre as nações, e seus descendentes, no meio dos povos; todos os que os virem reconhecerão que são descendência abençoada por YHWH.",
+  "Exultarei muito em YHWH; minha alma se alegrará em meu Deus, pois me vestiu com roupas de salvação e me cobriu com o manto da justiça, como noivo que se adorna com turbante sacerdotal e como noiva que se enfeita com suas joias.",
+  "Pois, como a terra faz brotar seus rebentos e como o jardim faz germinar o que nele é semeado, assim o Senhor YHWH fará brotar justiça e louvor diante de todas as nações."
+];
+
+window.ISAIAH_TEXT[62] = [
+  "Por amor de Sião não me calarei, e por amor de Jerusalém não descansarei, até que sua justiça saia como brilho e sua salvação como tocha acesa.",
+  "As nações verão tua justiça, e todos os reis, tua glória; serás chamada por um nome novo, que a boca de YHWH determinará.",
+  "Serás uma coroa de beleza na mão de YHWH, um diadema real na palma de teu Deus.",
+  "Nunca mais serás chamada Abandonada, nem tua terra será chamada Desolada; mas serás chamada Meu Prazer Está Nela, e tua terra, Desposada, pois YHWH terá prazer em ti, e tua terra será desposada.",
+  "Pois como o jovem se casa com a virgem, assim teus filhos se casarão contigo; como o noivo se alegra com a noiva, assim teu Deus se alegrará contigo.",
+  "Sobre teus muros, Jerusalém, pus vigias; nunca se calarão, nem de dia nem de noite. Vós que fazeis lembrar YHWH, não descanseis,",
+  "nem lhe deis descanso até que estabeleça Jerusalém e a torne louvor na terra.",
+  "YHWH jurou por sua mão direita e pelo braço de sua força: “Nunca mais darei teu cereal como alimento a teus inimigos, nem estrangeiros beberão teu vinho novo, pelo qual trabalhaste.",
+  "Mas os que o colherem o comerão e louvarão YHWH; os que o ajuntarem o beberão nos pátios de meu santuário”.",
+  "Passai, passai pelos portões; preparai o caminho do povo. Aterrai, aterrai a estrada; removei as pedras; erguei um estandarte para os povos.",
+  "Eis que YHWH fez ouvir até os confins da terra: “Dizei à filha de Sião: Eis que tua salvação vem; eis que sua recompensa está com ele, e sua retribuição vai adiante dele”.",
+  "Serão chamados Povo Santo, Redimidos de YHWH; e tu serás chamada Procurada, Cidade Não Abandonada."
+];
+
+window.ISAIAH_TEXT[63] = [
+  "Quem é este que vem de Edom, de Bozra, com vestes tingidas, glorioso em seu traje, que avança com grande força? “Sou eu, que falo em justiça, poderoso para salvar”.",
+  "Por que teu traje é vermelho, e tuas vestes como as de quem pisa no lagar?",
+  "“Pisei sozinho o lagar, e dos povos ninguém estava comigo; pisei-os em minha ira e os esmaguei em meu furor; seu sangue respingou em minhas vestes, e manchei todo meu traje.",
+  "Pois o dia da vingança estava em meu coração, e chegou o ano de meus redimidos.",
+  "Olhei, e não havia quem ajudasse; admirei-me de que ninguém sustentasse. Então meu próprio braço me trouxe salvação, e meu furor me sustentou.",
+  "Pisei os povos em minha ira, embriaguei-os em meu furor e fiz descer seu sangue à terra”.",
+  "Recordarei as lealdades de YHWH, os louvores de YHWH, segundo tudo o que YHWH nos concedeu, a grande bondade para com a casa de Israel, que lhe concedeu segundo suas misericórdias e a abundância de suas lealdades.",
+  "Pois disse: “Certamente são meu povo, filhos que não agirão falsamente”; e tornou-se seu Salvador.",
+  "Em toda a angústia deles, ele também foi afligido, e o anjo de sua presença os salvou; em seu amor e compaixão ele os resgatou, levantou-os e os carregou todos os dias da antiguidade.",
+  "Mas eles se rebelaram e entristeceram seu Espírito Santo; por isso ele se tornou inimigo deles e guerreou contra eles.",
+  "Então seu povo se lembrou dos dias antigos, de Moisés: “Onde está aquele que os fez subir do mar com os pastores de seu rebanho? Onde está aquele que pôs no meio deles seu Espírito Santo,",
+  "que fez seu braço glorioso andar à direita de Moisés, que dividiu as águas diante deles para fazer para si um nome eterno,",
+  "que os conduziu pelas profundezas? Como cavalo no deserto, não tropeçaram.",
+  "Como o gado que desce ao vale, o Espírito de YHWH lhes deu descanso”. Assim conduziste teu povo, para fazer para ti um nome glorioso.",
+  "Olha dos céus e vê, desde tua santa e gloriosa morada. Onde estão teu zelo e teu poder? A comoção de tuas entranhas e tuas misericórdias se detêm para comigo?",
+  "Pois tu és nosso Pai, ainda que Abraão não nos conheça e Israel não nos reconheça; tu, YHWH, és nosso Pai; nosso Redentor desde a antiguidade é teu nome.",
+  "Por que, YHWH, nos fazes desviar de teus caminhos e endureces nosso coração para não te temer? Volta por amor de teus servos, das tribos de tua herança.",
+  "Por pouco tempo teu povo santo possuiu o santuário; nossos adversários o pisotearam.",
+  "Tornamo-nos como aqueles sobre quem nunca governaste, como os que nunca foram chamados pelo teu nome."
+];
