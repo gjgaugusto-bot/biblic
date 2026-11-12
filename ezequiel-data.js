@@ -537,15 +537,15 @@ window.EZEKIEL_TEXT[20] = [
   "Aceitar-vos-ei como aroma agradável quando vos tirar do meio dos povos e vos reunir das terras para onde fostes espalhados; serei santificado em vós diante das nações.",
   "Sabereis que eu sou YHWH quando vos levar à terra de Israel, à terra que levantei minha mão em juramento para dar a vossos pais.",
   "Ali vos lembrareis de vossos caminhos e de todas as vossas ações com que vos contaminastes; sentireis repugnância de vós mesmos por causa de todos os males que fizestes.",
-  "Sabereis que eu sou YHWH quando agir convosco por amor de meu nome, e não segundo vossos maus caminhos e vossas ações corruptas, casa de Israel”, diz o Senhor YHWH.",
+  "Sabereis que eu sou YHWH quando agir convosco por amor de meu nome, e não segundo vossos maus caminhos e vossas ações corruptas, casa de Israel”, diz o Senhor YHWH."
+];
+
+window.EZEKIEL_TEXT[21] = [
   "A palavra de YHWH veio a mim, dizendo:",
   "“Filho do homem, volta teu rosto para o sul, derrama tua palavra contra o sul e profetiza contra a floresta do campo do Neguebe.",
   "Dize à floresta do Neguebe: Ouve a palavra de YHWH. Assim diz o Senhor YHWH: Eis que acenderei em ti um fogo que consumirá toda árvore verde e toda árvore seca; a chama ardente não se apagará, e todos os rostos, do sul ao norte, serão queimados por ela.",
   "Toda carne verá que eu, YHWH, a acendi; não se apagará”.",
-  "Então eu disse: “Ah, Senhor YHWH! Eles dizem de mim: ‘Não fala ele por parábolas?’”"
-];
-
-window.EZEKIEL_TEXT[21] = [
+  "Então eu disse: “Ah, Senhor YHWH! Eles dizem de mim: ‘Não fala ele por parábolas?’”",
   "A palavra de YHWH veio a mim, dizendo:",
   "“Filho do homem, volta teu rosto para Jerusalém, derrama tua palavra contra os santuários e profetiza contra a terra de Israel.",
   "Dize à terra de Israel: Assim diz YHWH: Eis que sou contra ti; desembainharei minha espada e eliminarei de ti o justo e o perverso.",
