@@ -1663,3 +1663,55 @@ window.PSALMS_TEXT[85] = [
   "YHWH também dará o que é bom, e nossa terra produzirá sua colheita.",
   "A justiça irá diante dele e fará do caminho um trilho para seus passos."
 ];
+
+window.PSALMS_TEXT[86] = [
+  "Oração de Davi. Inclina teu ouvido, YHWH, e responde-me, pois sou aflito e necessitado.",
+  "Guarda minha alma, pois sou leal; salva teu servo, meu Deus, que confia em ti.",
+  "Tem misericórdia de mim, Senhor, pois clamo a ti o dia inteiro.",
+  "Alegra a alma de teu servo, pois a ti, Senhor, elevo minha alma.",
+  "Pois tu, Senhor, és bom e pronto a perdoar, abundante em lealdade para todos os que te invocam.",
+  "Dá ouvidos, YHWH, à minha oração; atende à voz de minhas súplicas.",
+  "No dia de minha angústia clamo a ti, pois tu me respondes.",
+  "Não há entre os deuses semelhante a ti, Senhor; não há obras como as tuas.",
+  "Todas as nações que fizeste virão e se prostrarão diante de ti, Senhor, e glorificarão teu nome.",
+  "Pois tu és grande e realizas maravilhas; somente tu és Deus.",
+  "Ensina-me teu caminho, YHWH; andarei em tua verdade. Une meu coração para temer teu nome.",
+  "Darei graças a ti, Senhor meu Deus, de todo o coração e glorificarei teu nome para sempre.",
+  "Pois grande é tua lealdade para comigo; livraste minha alma das profundezas do mundo dos mortos.",
+  "Ó Deus, homens arrogantes se levantaram contra mim; uma assembleia de violentos procura minha vida e não te põe diante de si.",
+  "Mas tu, Senhor, és Deus compassivo e gracioso, tardio em irar-se e abundante em lealdade e verdade.",
+  "Volta-te para mim e tem misericórdia; dá tua força a teu servo e salva o filho de tua serva.",
+  "Mostra-me um sinal de tua bondade, para que os que me odeiam vejam e fiquem envergonhados, pois tu, YHWH, me ajudaste e me consolaste."
+];
+
+window.PSALMS_TEXT[87] = [
+  "Dos filhos de Corá. Salmo. Cântico.",
+  "Seu fundamento está nos montes santos.",
+  "YHWH ama as portas de Sião mais que todas as moradas de Jacó.",
+  "Coisas gloriosas são ditas de ti, cidade de Deus. Selá.",
+  "Mencionarei Raabe e Babilônia entre os que me conhecem; eis a Filístia, Tiro e Cuxe: “Este nasceu ali”.",
+  "De Sião se dirá: “Este e aquele nasceram nela”, e o próprio Altíssimo a estabelecerá.",
+  "YHWH registrará ao inscrever os povos: “Este nasceu ali”. Selá."
+];
+
+window.PSALMS_TEXT[88] = [
+  "Cântico. Salmo dos filhos de Corá. Ao regente do coro. Sobre Mahalate-Leanote. Poema de Hemã, o ezraíta.",
+  "YHWH, Deus de minha salvação, clamo de dia e de noite diante de ti.",
+  "Que minha oração chegue à tua presença; inclina teu ouvido ao meu clamor.",
+  "Pois minha alma está cheia de males, e minha vida se aproxima do mundo dos mortos.",
+  "Sou contado entre os que descem à cova; tornei-me como homem sem força,",
+  "abandonado entre os mortos, como os mortos que jazem no túmulo, dos quais já não te lembras, pois foram separados de tua mão.",
+  "Puseste-me na cova mais profunda, em trevas, nas profundezas.",
+  "Tua ira pesa sobre mim, e com todas as tuas ondas me afliges. Selá.",
+  "Afastaste de mim meus conhecidos; fizeste-me abominável para eles; estou preso e não posso sair.",
+  "Meus olhos se consomem por causa da aflição. Clamo a ti todos os dias, YHWH; estendo minhas mãos para ti.",
+  "Acaso farás maravilhas pelos mortos? Os que partiram se levantarão para te louvar? Selá.",
+  "Será anunciada tua lealdade no túmulo, tua fidelidade no lugar da destruição?",
+  "Serão conhecidas tuas maravilhas nas trevas e tua justiça na terra do esquecimento?",
+  "Mas eu clamo a ti, YHWH; de manhã minha oração chega diante de ti.",
+  "Por que, YHWH, rejeitas minha alma? Por que escondes de mim teu rosto?",
+  "Sou aflito e moribundo desde a juventude; suporto teus terrores e estou desesperado.",
+  "Tua ira passou sobre mim; teus terrores me destruíram.",
+  "Cercam-me como águas o dia inteiro; juntos me envolvem por todos os lados.",
+  "Afastaste de mim amigo e companheiro; minhas relações são as trevas."
+];
