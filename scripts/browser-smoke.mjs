@@ -26,7 +26,9 @@ async function scanAccessibility(page, label) {
 try {
   const context = await browser.newContext({ viewport: { width: 1365, height: 900 }, acceptDownloads: true });
   const page = await context.newPage();
+  await page.addInitScript(() => window.addEventListener("error", event => { if (event instanceof ErrorEvent) console.error("WINDOW_ERROR", event.message, event.filename, event.lineno, event.colno); }));
   page.on("pageerror", error => pageErrors.push(error.stack || error.message));
+  page.on("console", message => { if (message.type() === "error") pageErrors.push(`CONSOLE ${JSON.stringify(message.location())}: ${message.text()}`); });
 
   const response = await page.goto(baseURL, { waitUntil: "networkidle" });
   assert.equal(response?.status(), 200, "A página inicial deve responder HTTP 200");
