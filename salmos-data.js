@@ -327,3 +327,177 @@ window.PSALMS_TEXT[20] = [
   "Eles se curvam e caem; nós, porém, nos levantamos e ficamos de pé.",
   "YHWH, salva o rei! Que ele nos responda quando clamarmos."
 ];
+
+window.PSALMS_TEXT[21] = [
+  "Ao regente do coro. Salmo de Davi.",
+  "YHWH, o rei se alegra em tua força; como exulta intensamente em tua salvação!",
+  "Concedeste-lhe o desejo de seu coração e não recusaste o pedido de seus lábios. Selá.",
+  "Pois o recebeste com bênçãos excelentes; puseste sobre sua cabeça uma coroa de ouro puro.",
+  "Pediu-te vida, e tu a concedeste: dias longos para todo o sempre.",
+  "Grande é sua glória por tua salvação; puseste sobre ele honra e majestade.",
+  "Fizeste dele uma fonte de bênçãos para sempre; enches seu coração de alegria diante de tua presença.",
+  "Pois o rei confia em YHWH, e pela lealdade do Altíssimo não será abalado.",
+  "Tua mão alcançará todos os teus inimigos; tua direita alcançará os que te odeiam.",
+  "Tu os farás como forno ardente quando apareceres; YHWH os consumirá em sua ira, e o fogo os devorará.",
+  "Eliminarás da terra sua descendência e seus filhos dentre os filhos dos homens.",
+  "Pois intentaram o mal contra ti; tramaram planos que não poderão realizar.",
+  "Tu os farás recuar, apontando teu arco contra seus rostos.",
+  "Sê exaltado, YHWH, em tua força; cantaremos e celebraremos teu poder."
+];
+
+window.PSALMS_TEXT[22] = [
+  "Ao regente do coro. Sobre a corça da aurora. Salmo de Davi.",
+  "Meu Deus, meu Deus, por que me abandonaste? Por que estás longe de me salvar, longe das palavras de meu gemido?",
+  "Meu Deus, clamo de dia, mas não respondes; também de noite, e não encontro descanso.",
+  "Contudo, tu és santo, entronizado entre os louvores de Israel.",
+  "Nossos pais confiaram em ti; confiaram, e tu os livraste.",
+  "Clamaram a ti e foram salvos; confiaram em ti e não foram envergonhados.",
+  "Mas eu sou verme, não homem, opróbrio dos homens e desprezado pelo povo.",
+  "Todos os que me veem zombam de mim; abrem os lábios e meneiam a cabeça:",
+  "“Entregou-se a YHWH; que ele o livre! Que o salve, já que tem prazer nele!”",
+  "Tu, porém, me tiraste do ventre; fizeste-me confiar junto aos seios de minha mãe.",
+  "Desde o ventre fui entregue a ti; desde o ventre de minha mãe tu és meu Deus.",
+  "Não te afastes de mim, pois a angústia está próxima, e não há quem ajude.",
+  "Muitos touros me cercam; fortes touros de Basã me rodeiam.",
+  "Abrem contra mim a boca como leão que despedaça e ruge.",
+  "Derramo-me como água, e todos os meus ossos se desconjuntam; meu coração se tornou como cera, derretendo-se dentro de mim.",
+  "Minha força secou como um caco de barro, e minha língua se apega ao céu da boca; tu me colocas no pó da morte.",
+  "Cães me cercam; um bando de malfeitores me rodeia; perfuraram minhas mãos e meus pés.",
+  "Posso contar todos os meus ossos; eles me observam e me encaram.",
+  "Repartem entre si minhas roupas e lançam sortes sobre minha veste.",
+  "Tu, porém, YHWH, não fiques distante! Minha força, apressa-te em meu auxílio.",
+  "Livra minha alma da espada, minha vida do poder dos cães.",
+  "Salva-me da boca do leão e dos chifres dos bois selvagens. Tu me respondeste!",
+  "Anunciarei teu nome a meus irmãos; no meio da assembleia te louvarei.",
+  "Vós que temeis YHWH, louvai-o! Todos os descendentes de Jacó, glorificai-o; temei-o, todos os descendentes de Israel.",
+  "Pois ele não desprezou nem abominou a aflição do aflito; não escondeu dele o rosto, mas ouviu quando clamou por socorro.",
+  "De ti vem meu louvor na grande assembleia; cumprirei meus votos diante dos que te temem.",
+  "Os pobres comerão e ficarão satisfeitos; os que buscam YHWH o louvarão. Que vosso coração viva para sempre!",
+  "Todos os confins da terra se lembrarão e voltarão a YHWH; todas as famílias das nações se prostrarão diante de ti.",
+  "Pois o reino pertence a YHWH, e ele governa sobre as nações.",
+  "Todos os prósperos da terra comerão e adorarão; diante dele se curvarão todos os que descem ao pó, aqueles que não podem preservar a própria vida.",
+  "Uma descendência o servirá; falar-se-á do Senhor à geração seguinte.",
+  "Virão e anunciarão sua justiça ao povo que nascerá, pois ele agiu."
+];
+
+window.PSALMS_TEXT[23] = [
+  "Salmo de Davi.",
+  "YHWH é meu pastor; nada me faltará.",
+  "Ele me faz repousar em pastos verdejantes; conduz-me a águas tranquilas.",
+  "Restaura minha alma; guia-me por caminhos de justiça por causa de seu nome.",
+  "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, pois tu estás comigo; teu bastão e teu cajado me consolam.",
+  "Preparas uma mesa diante de mim na presença de meus adversários; unges minha cabeça com óleo; meu cálice transborda.",
+  "Certamente bondade e lealdade me acompanharão todos os dias de minha vida, e habitarei na casa de YHWH por longos dias."
+];
+
+window.PSALMS_TEXT[24] = [
+  "De YHWH é a terra e tudo o que nela existe, o mundo e os que nele habitam.",
+  "Pois ele a fundou sobre os mares e a estabeleceu sobre as correntes das águas.",
+  "Quem subirá ao monte de YHWH? Quem permanecerá em seu santo lugar?",
+  "Aquele que tem mãos limpas e coração puro, que não entrega sua alma à falsidade nem jura com engano.",
+  "Esse receberá bênção de YHWH e justiça do Deus de sua salvação.",
+  "Esta é a geração dos que o buscam, dos que procuram tua face, ó Deus de Jacó. Selá.",
+  "Levantai, ó portas, vossas cabeças! Levantai-vos, portas antigas, para que entre o Rei da glória!",
+  "Quem é esse Rei da glória? YHWH, forte e poderoso; YHWH, poderoso na batalha.",
+  "Levantai, ó portas, vossas cabeças! Levantai-vos, portas antigas, para que entre o Rei da glória!",
+  "Quem é esse Rei da glória? YHWH dos Exércitos, ele é o Rei da glória. Selá."
+];
+
+window.PSALMS_TEXT[25] = [
+  "De Davi. A ti, YHWH, elevo minha alma.",
+  "Meu Deus, em ti confio; que eu não seja envergonhado, nem meus inimigos triunfem sobre mim.",
+  "Na verdade, nenhum dos que esperam em ti será envergonhado; serão envergonhados os que traem sem motivo.",
+  "Mostra-me teus caminhos, YHWH; ensina-me tuas veredas.",
+  "Guia-me em tua verdade e ensina-me, pois tu és o Deus de minha salvação; em ti espero o dia inteiro.",
+  "Lembra-te, YHWH, de tuas misericórdias e de tuas lealdades, pois existem desde a antiguidade.",
+  "Não te lembres dos pecados de minha juventude nem de minhas transgressões; lembra-te de mim segundo tua lealdade, por causa de tua bondade, YHWH.",
+  "YHWH é bom e reto; por isso ensina o caminho aos pecadores.",
+  "Guia os humildes na justiça e ensina aos humildes seu caminho.",
+  "Todos os caminhos de YHWH são lealdade e verdade para os que guardam sua aliança e seus testemunhos.",
+  "Por causa de teu nome, YHWH, perdoa minha iniquidade, pois é grande.",
+  "Quem é o homem que teme YHWH? Ele o instruirá no caminho que deve escolher.",
+  "Sua alma repousará no bem, e sua descendência herdará a terra.",
+  "A intimidade de YHWH é para os que o temem; ele lhes dará a conhecer sua aliança.",
+  "Meus olhos estão sempre voltados para YHWH, pois ele tira meus pés da rede.",
+  "Volta-te para mim e tem misericórdia, pois estou só e aflito.",
+  "As angústias de meu coração se multiplicaram; tira-me de minhas aflições.",
+  "Olha para minha aflição e meu sofrimento e perdoa todos os meus pecados.",
+  "Vê meus inimigos, pois são muitos e me odeiam com ódio violento.",
+  "Guarda minha alma e livra-me; que eu não seja envergonhado, pois em ti me refugio.",
+  "Que a integridade e a retidão me protejam, pois espero em ti.",
+  "Ó Deus, resgata Israel de todas as suas aflições!"
+];
+
+window.PSALMS_TEXT[26] = [
+  "De Davi. Faze-me justiça, YHWH, pois tenho andado em minha integridade e confiado em YHWH sem vacilar.",
+  "Examina-me, YHWH, e prova-me; depura meus pensamentos e meu coração.",
+  "Pois tua lealdade está diante de meus olhos, e tenho andado em tua verdade.",
+  "Não me associo a homens falsos, nem caminho com os dissimulados.",
+  "Odeio a assembleia dos malfeitores e não me sento com os perversos.",
+  "Lavo minhas mãos em inocência e caminho ao redor de teu altar, YHWH,",
+  "para fazer ouvir a voz de louvor e contar todas as tuas maravilhas.",
+  "YHWH, amo a morada de tua casa e o lugar onde habita tua glória.",
+  "Não recolhas minha alma com os pecadores, nem minha vida com os homens sanguinários,",
+  "em cujas mãos há planos perversos e cuja direita está cheia de suborno.",
+  "Eu, porém, ando em minha integridade; resgata-me e tem misericórdia de mim.",
+  "Meu pé está em terreno plano; nas assembleias bendirei YHWH."
+];
+
+window.PSALMS_TEXT[27] = [
+  "De Davi. YHWH é minha luz e minha salvação; de quem terei medo? YHWH é a fortaleza de minha vida; de quem terei pavor?",
+  "Quando os malfeitores se aproximam para devorar minha carne, meus adversários e inimigos tropeçam e caem.",
+  "Ainda que um exército acampe contra mim, meu coração não temerá; ainda que a guerra se levante contra mim, mesmo assim estarei confiante.",
+  "Uma coisa pedi a YHWH e a buscarei: que eu habite na casa de YHWH todos os dias de minha vida, para contemplar a beleza de YHWH e meditar em seu templo.",
+  "Pois no dia da calamidade ele me esconderá em seu abrigo; no esconderijo de sua tenda me ocultará; sobre uma rocha me elevará.",
+  "Agora minha cabeça se ergue acima dos inimigos que me cercam; oferecerei em sua tenda sacrifícios com gritos de alegria; cantarei e louvarei a YHWH.",
+  "Ouve, YHWH, minha voz quando clamo; tem misericórdia de mim e responde-me.",
+  "Meu coração diz de ti: “Buscai minha face!” Tua face, YHWH, buscarei.",
+  "Não escondas de mim teu rosto; não rejeites com ira teu servo. Tu tens sido meu auxílio; não me deixes nem me abandones, Deus de minha salvação.",
+  "Ainda que meu pai e minha mãe me abandonem, YHWH me acolherá.",
+  "Ensina-me teu caminho, YHWH, e guia-me por vereda plana por causa dos que me espreitam.",
+  "Não me entregues ao desejo de meus adversários, pois falsas testemunhas se levantaram contra mim e respiram violência.",
+  "Creio que verei a bondade de YHWH na terra dos viventes.",
+  "Espera por YHWH; sê forte, e fortaleça-se teu coração. Sim, espera por YHWH."
+];
+
+window.PSALMS_TEXT[28] = [
+  "De Davi. A ti clamo, YHWH, minha Rocha; não fiques em silêncio para comigo, para que eu não me torne como os que descem à cova.",
+  "Ouve a voz de minhas súplicas quando clamo a ti, quando levanto minhas mãos em direção ao teu santo santuário.",
+  "Não me arrastes com os perversos e com os que praticam a iniquidade, que falam de paz com o próximo, mas têm maldade no coração.",
+  "Dá-lhes segundo suas obras e segundo a maldade de seus atos; retribui-lhes conforme o que fizeram com as próprias mãos.",
+  "Pois não consideram as obras de YHWH nem o trabalho de suas mãos; ele os derrubará e não os reconstruirá.",
+  "Bendito seja YHWH, pois ouviu a voz de minhas súplicas.",
+  "YHWH é minha força e meu escudo; nele meu coração confia, e recebo ajuda. Por isso meu coração exulta, e com meu cântico lhe darei graças.",
+  "YHWH é a força de seu povo; ele é fortaleza de salvação para seu ungido.",
+  "Salva teu povo e abençoa tua herança; apascenta-os e sustenta-os para sempre."
+];
+
+window.PSALMS_TEXT[29] = [
+  "Salmo de Davi. Atribuí a YHWH, ó filhos de Deus, atribuí a YHWH glória e força.",
+  "Atribuí a YHWH a glória devida a seu nome; prostrai-vos diante de YHWH na beleza da santidade.",
+  "A voz de YHWH está sobre as águas; o Deus da glória troveja; YHWH está sobre as muitas águas.",
+  "A voz de YHWH é poderosa; a voz de YHWH é majestosa.",
+  "A voz de YHWH quebra os cedros; YHWH despedaça os cedros do Líbano.",
+  "Faz o Líbano saltar como bezerro, e o Siriom como jovem boi selvagem.",
+  "A voz de YHWH lança chamas de fogo.",
+  "A voz de YHWH faz tremer o deserto; YHWH faz tremer o deserto de Cades.",
+  "A voz de YHWH faz as corças parirem e desnuda as florestas; em seu templo todos dizem: “Glória!”",
+  "YHWH se assentou sobre o dilúvio; YHWH se assenta como Rei para sempre.",
+  "YHWH dará força a seu povo; YHWH abençoará seu povo com paz."
+];
+
+window.PSALMS_TEXT[30] = [
+  "Salmo. Cântico para a dedicação da casa. De Davi.",
+  "Eu te exaltarei, YHWH, pois me levantaste e não permitiste que meus inimigos se alegrassem sobre mim.",
+  "YHWH, meu Deus, clamei a ti, e tu me curaste.",
+  "YHWH, fizeste subir minha alma do mundo dos mortos; preservaste-me a vida entre os que descem à cova.",
+  "Cantai louvores a YHWH, vós que sois leais a ele; dai graças à memória de sua santidade.",
+  "Pois sua ira dura apenas um instante, mas seu favor dura a vida toda. Ao anoitecer vem o choro, mas pela manhã chega a alegria.",
+  "Quanto a mim, em minha prosperidade eu dizia: “Jamais serei abalado”.",
+  "YHWH, por teu favor firmaste minha montanha; escondeste teu rosto, e fiquei perturbado.",
+  "A ti, YHWH, clamei; ao Senhor supliquei:",
+  "“Que proveito há em meu sangue, se desço à cova? O pó te dará graças? Anunciará tua verdade?",
+  "Ouve, YHWH, e tem misericórdia de mim; YHWH, sê meu auxílio!”",
+  "Transformaste meu lamento em dança; tiraste meu pano de saco e me vestiste de alegria,",
+  "para que minha glória te cante louvores e não se cale. YHWH, meu Deus, eu te darei graças para sempre."
+];
