@@ -332,7 +332,13 @@ window.JEREMIAH_TEXT[11] = [
   "Tu, pois, não ores por este povo, nem levantes por eles clamor ou oração, pois não os ouvirei no tempo em que clamarem a mim por causa de sua calamidade.",
   "Que direito tem minha amada em minha casa, visto que praticou muitos atos perversos? Acaso votos e carne santa afastarão de ti a calamidade? Então poderás exultar.",
   "YHWH chamou teu nome: “Oliveira verde, bela, com fruto formoso”. Com o ruído de grande tumulto acendeu fogo contra ela, e seus ramos foram quebrados.",
-  "YHWH dos Exércitos, que te plantou, pronunciou calamidade contra ti, por causa da maldade da casa de Israel e da casa de Judá, que fizeram para si, provocando-me à ira, queimando incenso a Baal."
+  "YHWH dos Exércitos, que te plantou, pronunciou calamidade contra ti, por causa da maldade da casa de Israel e da casa de Judá, que fizeram para si, provocando-me à ira, queimando incenso a Baal.",
+  "YHWH me fez saber, e eu soube; então me mostraste suas ações.",
+  "Eu era como cordeiro manso levado ao matadouro; não sabia que tramavam planos contra mim, dizendo: “Destruamos a árvore com seu fruto; cortemo-lo da terra dos viventes, para que seu nome não seja mais lembrado”.",
+  "Mas tu, YHWH dos Exércitos, que julgas com justiça e provas os rins e o coração, permite que eu veja tua vingança contra eles, pois a ti revelei minha causa.",
+  "Por isso assim diz YHWH acerca dos homens de Anatote, que procuram tirar minha vida e dizem: “Não profetizes em nome de YHWH, para que não morras por nossa mão”.",
+  "Por isso assim diz YHWH dos Exércitos: “Eis que os castigarei; os jovens morrerão à espada, e seus filhos e suas filhas morrerão de fome.",
+  "Não haverá remanescente para eles, pois trarei calamidade sobre os homens de Anatote, no ano de sua visitação”."
 ];
 
 window.JEREMIAH_TEXT[12] = [
