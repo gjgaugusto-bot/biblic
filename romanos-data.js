@@ -479,8 +479,8 @@ window.ROMANS_TEXT[16] = [
   "Timóteo, meu cooperador, saúda vocês; também Lúcio, Jasom e Sosípatro, meus parentes.",
   "Eu, Tércio, que escrevi esta carta, saúdo vocês no Senhor.",
   "Gaio, que me hospeda, e toda a igreja, saúda vocês. Erasto, tesoureiro da cidade, e o irmão Quarto saúdam vocês.",
-  "[A bênção de Romanos 16:24 não consta do texto crítico SBLGNT; aparece em parte da tradição manuscrita.]",
-  "Àquele que pode fortalecê-los segundo meu evangelho e a proclamação de Jesus Cristo, conforme a revelação do mistério mantido em silêncio por tempos eternos,",
-  "mas agora manifestado e, por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, dado a conhecer a todas as nações para a obediência da fé,",
-  "ao único Deus sábio, por meio de Jesus Cristo, seja a glória para sempre. Amém."
+  "A graça de nosso Senhor Jesus Cristo esteja com todos vocês. Amém.",
+  "[A doxologia tradicional de Romanos 16:25–27 não consta do texto crítico SBLGNT; é preservada aqui como variante textual, não como texto-base.]",
+  "[Continuação da doxologia tradicional de Romanos 16:25–27: variante manuscrita ausente do texto crítico SBLGNT.]",
+  "[Conclusão da doxologia tradicional de Romanos 16:25–27: variante manuscrita ausente do texto crítico SBLGNT.]"
 ];
