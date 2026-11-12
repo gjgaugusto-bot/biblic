@@ -987,3 +987,28 @@ window.FIRST_CHRONICLES_TEXT[27] = [
   "Aitofel era conselheiro do rei; Husai, o arquita, era amigo do rei.",
   "Depois de Aitofel vieram Joiada, filho de Benaia, e Abiatar. Joabe era o comandante do exército do rei."
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[28] = [
+  "Davi reuniu em Jerusalém todos os chefes de Israel: os chefes das tribos, os comandantes das divisões que serviam ao rei, os comandantes de mil e de cem, os administradores de todos os bens e rebanhos do rei e de seus filhos, juntamente com os oficiais da corte, os guerreiros e todos os homens valentes.",
+  "O rei Davi se pôs de pé e disse: “Ouvi-me, meus irmãos e meu povo. Eu tinha no coração construir uma casa de repouso para a arca da aliança do Senhor e para o estrado dos pés de nosso Deus; fiz preparativos para a construção.",
+  "Mas Deus me disse: ‘Não construirás uma casa para o meu nome, porque és homem de guerra e derramaste sangue.’",
+  "Contudo, o Senhor, Deus de Israel, escolheu-me dentre toda a casa de meu pai para ser rei sobre Israel para sempre. Pois escolheu Judá para governar; e, entre a casa de Judá, escolheu a casa de meu pai; e, entre os filhos de meu pai, teve prazer em mim para me fazer rei sobre todo Israel.",
+  "E, dentre todos os meus filhos — pois o Senhor me deu muitos filhos —, escolheu meu filho Salomão para sentar-se no trono do reino do Senhor sobre Israel.",
+  "Ele me disse: ‘Salomão, teu filho, construirá minha casa e meus pátios, pois eu o escolhi para ser meu filho, e eu serei seu pai.",
+  "Estabelecerei seu reino para sempre, se ele se mantiver firme em cumprir meus mandamentos e minhas ordenanças, como faz hoje.’",
+  "Agora, diante de todo o Israel, a assembleia do Senhor, e aos ouvidos de nosso Deus, guardai e buscai todos os mandamentos do Senhor, vosso Deus, para que possuais esta boa terra e a deixeis como herança a vossos filhos depois de vós para sempre.",
+  "E tu, Salomão, meu filho, conhece o Deus de teu pai e serve-o de coração íntegro e com alma disposta, pois o Senhor examina todos os corações e compreende todas as intenções dos pensamentos. Se o buscares, ele se deixará encontrar por ti; mas, se o abandonares, ele te rejeitará para sempre.",
+  "Vê, pois: o Senhor te escolheu para construíres uma casa como santuário. Sê forte e faze a obra.",
+  "Então Davi entregou a Salomão, seu filho, o plano do pórtico, dos edifícios, dos depósitos, dos aposentos superiores, das câmaras interiores e do lugar da expiação;",
+  "o plano de tudo o que tinha recebido pelo Espírito: dos pátios da casa do Senhor, de todas as câmaras ao redor, dos tesouros da casa de Deus e dos tesouros das coisas consagradas;",
+  "das divisões dos sacerdotes e dos levitas, de todo o serviço da casa do Senhor e de todos os utensílios usados no serviço da casa do Senhor;",
+  "o peso do ouro para os utensílios de ouro, para cada utensílio e cada serviço; o peso da prata para todos os utensílios de prata, para cada utensílio e cada serviço;",
+  "o peso do ouro para os candelabros de ouro e suas lâmpadas, conforme o peso de cada candelabro e de suas lâmpadas; o peso da prata para os candelabros de prata, conforme o uso de cada candelabro e de suas lâmpadas;",
+  "o peso do ouro para cada mesa dos pães da proposição e da prata para as mesas de prata;",
+  "o ouro puro para os garfos, as bacias e os jarros; o peso do ouro para cada taça de ouro e de prata para cada taça de prata;",
+  "o ouro refinado para o altar do incenso e o modelo do carro, isto é, dos querubins de ouro que estendem as asas e cobrem a arca da aliança do Senhor.",
+  "Tudo isso — disse Davi — me foi explicado por escrito pela mão do Senhor, que me deu entendimento para todas as obras do modelo.",
+  "Davi disse ainda a Salomão, seu filho: “Sê forte e corajoso, e faze a obra. Não temas nem desanimes, pois o Senhor Deus, meu Deus, está contigo. Ele não te deixará nem te abandonará até que toda a obra do serviço da casa do Senhor esteja concluída.",
+  "Estão aqui as divisões dos sacerdotes e dos levitas para todo o serviço da casa de Deus. Tens contigo, para todo o trabalho, homens dispostos e hábeis em toda espécie de serviço, e também os chefes e todo o povo, prontos para cumprir tuas ordens.”"
+];
