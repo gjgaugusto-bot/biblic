@@ -1791,3 +1791,89 @@ window.PSALMS_TEXT[90] = [
   "Que tua obra apareça a teus servos, e tua majestade, a seus filhos.",
   "Que o favor do Senhor, nosso Deus, esteja sobre nós; confirma para nós a obra de nossas mãos; sim, confirma a obra de nossas mãos."
 ];
+
+window.PSALMS_TEXT[91] = [
+  "Aquele que habita no esconderijo do Altíssimo descansará à sombra do Todo-Poderoso.",
+  "Direi a YHWH: “Meu refúgio e minha fortaleza, meu Deus, em quem confio”.",
+  "Pois ele te livrará do laço do caçador e da peste destruidora.",
+  "Cobrir-te-á com suas penas, e debaixo de suas asas encontrarás abrigo; sua fidelidade será escudo e proteção.",
+  "Não temerás o terror da noite, nem a flecha que voa de dia,",
+  "nem a peste que anda nas trevas, nem a destruição que assola ao meio-dia.",
+  "Mil cairão ao teu lado e dez mil à tua direita, mas tu não serás atingido.",
+  "Somente com teus olhos contemplarás e verás a retribuição dos perversos.",
+  "Pois fizeste de YHWH teu refúgio; do Altíssimo fizeste tua morada.",
+  "Nenhum mal te sucederá, e nenhuma praga chegará à tua tenda.",
+  "Pois ele dará ordens a seus anjos a teu respeito, para te guardarem em todos os teus caminhos.",
+  "Eles te sustentarão nas mãos, para que não tropeces em alguma pedra.",
+  "Pisarás o leão e a cobra; esmagarás o leão jovem e a serpente.",
+  "“Porque se apegou a mim, eu o livrarei; eu o colocarei em lugar alto, pois conhece meu nome.",
+  "Ele me invocará, e eu lhe responderei; estarei com ele na angústia; eu o livrarei e o honrarei.",
+  "Eu o saciarei com longa vida e lhe mostrarei minha salvação”."
+];
+
+window.PSALMS_TEXT[92] = [
+  "Salmo. Cântico para o dia de sábado.",
+  "É bom dar graças a YHWH e cantar louvores ao teu nome, ó Altíssimo,",
+  "anunciar de manhã tua lealdade e de noite tua fidelidade,",
+  "com instrumento de dez cordas e com a lira, ao som suave da harpa.",
+  "Pois me alegraste, YHWH, com teus feitos; exultarei nas obras de tuas mãos.",
+  "Quão grandes são tuas obras, YHWH! Profundos são teus pensamentos.",
+  "O homem insensato não conhece, e o tolo não compreende isto:",
+  "quando os perversos brotam como a relva e florescem todos os que praticam a iniquidade, é para serem destruídos para sempre.",
+  "Mas tu, YHWH, és exaltado para sempre.",
+  "Pois eis que teus inimigos, YHWH, eis que teus inimigos perecerão; serão dispersos todos os que praticam a iniquidade.",
+  "Mas tu exaltas meu poder como o do boi selvagem; derramas sobre mim óleo fresco.",
+  "Meus olhos veem a derrota dos que me espreitam; meus ouvidos ouvem o destino dos malfeitores que se levantam contra mim.",
+  "O justo florescerá como a palmeira; crescerá como o cedro do Líbano.",
+  "Plantados na casa de YHWH, florescerão nos pátios de nosso Deus.",
+  "Na velhice ainda darão frutos; serão cheios de seiva e verdes,",
+  "para anunciar que YHWH é reto; ele é minha Rocha, e nele não há injustiça."
+];
+
+window.PSALMS_TEXT[93] = [
+  "YHWH reina; está vestido de majestade. YHWH está vestido e cingido de força; o mundo também está firme e não será abalado.",
+  "Teu trono está estabelecido desde a antiguidade; tu és desde a eternidade.",
+  "Os rios levantaram, YHWH, os rios levantaram sua voz; os rios levantam seu estrondo.",
+  "Mais que o estrondo de muitas águas, mais que as ondas poderosas do mar, YHWH nas alturas é poderoso.",
+  "Teus testemunhos são inteiramente fiéis; a santidade convém à tua casa, YHWH, por todos os dias."
+];
+
+window.PSALMS_TEXT[94] = [
+  "Deus das vinganças, YHWH, Deus das vinganças, resplandece!",
+  "Levanta-te, juiz da terra; dá aos soberbos o que merecem.",
+  "Até quando os perversos, YHWH, até quando os perversos exultarão?",
+  "Despejam palavras arrogantes; todos os que praticam a iniquidade se vangloriam.",
+  "Esmagam teu povo, YHWH, e afligem tua herança.",
+  "Matam a viúva e o estrangeiro e assassinam os órfãos.",
+  "Dizem: “YHWH não vê; o Deus de Jacó não percebe”.",
+  "Entendei, insensatos entre o povo; e vós, tolos, quando sereis sábios?",
+  "Aquele que fez o ouvido não ouvirá? Aquele que formou o olho não verá?",
+  "Aquele que disciplina as nações não corrigirá? Aquele que ensina conhecimento ao homem?",
+  "YHWH conhece os pensamentos do homem, que são apenas sopro.",
+  "Feliz o homem a quem tu disciplinas, YHWH, e a quem ensinas por tua instrução,",
+  "para lhe dar descanso dos dias maus, até que se cave uma cova para o perverso.",
+  "Pois YHWH não rejeitará seu povo, nem abandonará sua herança.",
+  "O julgamento voltará à justiça, e todos os retos de coração o seguirão.",
+  "Quem se levantará por mim contra os malfeitores? Quem ficará ao meu lado contra os que praticam a iniquidade?",
+  "Se YHWH não fosse meu auxílio, minha alma logo habitaria no silêncio.",
+  "Quando digo: “Meu pé vacila”, tua lealdade, YHWH, me sustenta.",
+  "Quando as inquietações se multiplicam dentro de mim, tuas consolações alegram minha alma.",
+  "Poderá o trono da injustiça estar em aliança contigo, aquele que cria opressão por decreto?",
+  "Reúnem-se contra a alma do justo e condenam o sangue inocente.",
+  "Mas YHWH é meu alto refúgio; meu Deus é a rocha de meu abrigo.",
+  "Ele fará recair sobre eles sua própria iniquidade e os destruirá por sua maldade; YHWH, nosso Deus, os destruirá."
+];
+
+window.PSALMS_TEXT[95] = [
+  "Vinde, cantemos com alegria a YHWH; aclamemos a Rocha de nossa salvação.",
+  "Vamos à sua presença com ação de graças; aclamemo-lo com cânticos.",
+  "Pois YHWH é grande Deus e grande Rei acima de todos os deuses.",
+  "Em sua mão estão as profundezas da terra, e dele são os cumes dos montes.",
+  "Seu é o mar, pois ele o fez; suas mãos formaram a terra seca.",
+  "Vinde, adoremos e prostremo-nos; ajoelhemos diante de YHWH, nosso Criador.",
+  "Pois ele é nosso Deus, e nós somos o povo de seu pasto e ovelhas de sua mão. Hoje, se ouvirdes sua voz,",
+  "não endureçais o coração como em Meribá, como no dia de Massá, no deserto,",
+  "quando vossos pais me puseram à prova e me examinaram, embora tivessem visto minha obra.",
+  "Durante quarenta anos tive repugnância daquela geração e disse: “São povo cujo coração se desvia; não conhecem meus caminhos”.",
+  "Por isso jurei em minha ira: “Não entrarão no meu descanso”."
+];
