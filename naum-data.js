@@ -19,11 +19,11 @@ window.NAHUM_TEXT[1] = [
   "De ti saiu aquele que planeja o mal contra YHWH, conselheiro de perversidade.",
   "Assim diz YHWH: “Ainda que estejam seguros e numerosos, serão cortados e desaparecerão. Embora eu te tenha afligido, não te afligirei mais.",
   "Agora quebrarei o jugo que está sobre ti e romperei tuas correntes”.",
-  "YHWH deu ordem a teu respeito: “Não haverá mais descendente com teu nome; da casa de teus deuses eliminarei imagens esculpidas e fundidas. Prepararei tua sepultura, pois és desprezível”.",
-  "Eis sobre os montes os pés daquele que anuncia boas notícias, daquele que proclama a paz! Celebra tuas festas, Judá, cumpre teus votos, pois o perverso não passará mais por ti; foi completamente eliminado."
+  "YHWH deu ordem a teu respeito: “Não haverá mais descendente com teu nome; da casa de teus deuses eliminarei imagens esculpidas e fundidas. Prepararei tua sepultura, pois és desprezível”."
 ];
 
 window.NAHUM_TEXT[2] = [
+  "Eis sobre os montes os pés daquele que anuncia boas notícias, daquele que proclama a paz! Celebra tuas festas, Judá, cumpre teus votos, pois o perverso não passará mais por ti; foi completamente eliminado.",
   "O destruidor sobe contra ti; guarda a fortaleza, vigia o caminho, fortalece os lombos, reúne toda a tua força.",
   "Pois YHWH restaurará a glória de Jacó, como a glória de Israel, embora saqueadores os tenham saqueado e destruído seus ramos.",
   "Os escudos de seus guerreiros são vermelhos; seus homens de guerra vestem escarlate. Os carros brilham como fogo de aço no dia em que se aprontam, e as lanças de cipreste são agitadas.",
