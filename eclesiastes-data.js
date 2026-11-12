@@ -136,3 +136,76 @@ window.ECCLESIASTES_TEXT[6] = [
   "Quanto mais palavras, mais vaidade; que vantagem tem o homem?",
   "Pois quem sabe o que é bom para o homem durante os poucos dias de sua vida vã, que ele passa como sombra? Quem poderá dizer ao homem o que acontecerá debaixo do sol depois dele?"
 ];
+
+window.ECCLESIASTES_TEXT[7] = [
+  "Melhor é o bom nome do que o bom perfume, e o dia da morte, melhor do que o dia do nascimento.",
+  "Melhor é ir à casa de luto do que à casa de banquete, pois aquele é o fim de todo homem, e os vivos devem levar isso ao coração.",
+  "Melhor é a tristeza do que o riso, pois pela tristeza do rosto o coração se torna melhor.",
+  "O coração dos sábios está na casa de luto, mas o coração dos insensatos, na casa de alegria.",
+  "Melhor é ouvir a repreensão do sábio do que ouvir o canto dos insensatos.",
+  "Pois como o crepitar dos espinhos debaixo da panela, assim é o riso do insensato; também isso é vaidade.",
+  "Certamente a opressão enlouquece o sábio, e o suborno corrompe o coração.",
+  "Melhor é o fim de uma coisa do que seu começo; melhor é o paciente de espírito do que o arrogante.",
+  "Não te apresses em teu espírito a irar-te, pois a ira repousa no íntimo dos insensatos.",
+  "Não digas: “Por que os dias passados foram melhores do que estes?” Pois não é pela sabedoria que perguntas isso.",
+  "Boa é a sabedoria junto com uma herança, e é proveitosa para os que veem o sol.",
+  "Pois a sabedoria oferece proteção, assim como o dinheiro oferece proteção; mas a vantagem do conhecimento é que a sabedoria preserva a vida de quem a possui.",
+  "Considera a obra de Deus: quem poderá endireitar o que ele fez torto?",
+  "No dia da prosperidade, desfruta o bem; no dia da adversidade, considera: Deus fez tanto um como o outro, para que o homem não descubra nada do que virá depois dele.",
+  "Vi tudo isso nos dias de minha vaidade: há justo que perece em sua justiça, e há perverso que prolonga a vida em sua maldade.",
+  "Não sejas justo em excesso, nem te faças sábio demais; por que te destruirias?",
+  "Não sejas perverso em excesso, nem insensato; por que morrerias antes do tempo?",
+  "É bom que retenhas uma coisa e também não retires a mão da outra, pois quem teme a Deus sairá bem em ambas.",
+  "A sabedoria fortalece o sábio mais do que dez governantes que há numa cidade.",
+  "Pois não há na terra homem justo que faça o bem e nunca peque.",
+  "Também não prestes atenção a todas as palavras que se dizem, para que não ouças teu servo te amaldiçoar.",
+  "Pois teu coração sabe que muitas vezes tu mesmo amaldiçoaste outros.",
+  "Tudo isso provei pela sabedoria. Disse: “Serei sábio”, mas a sabedoria ficou longe de mim.",
+  "O que existe está longe e é muito profundo; quem poderá alcançá-lo?",
+  "Voltei meu coração para conhecer, investigar e buscar sabedoria e a razão das coisas, e para reconhecer que a perversidade é insensatez e a insensatez, loucura.",
+  "Encontrei algo mais amargo que a morte: a mulher cujo coração são armadilhas e redes e cujas mãos são grilhões. Quem agrada a Deus escapará dela, mas o pecador será preso por ela.",
+  "“Eis o que encontrei”, diz o Pregador, “comparando uma coisa com outra para descobrir a razão das coisas”,",
+  "o que minha alma ainda procura sem encontrar: encontrei um homem entre mil, mas uma mulher entre todas essas não encontrei.",
+  "Eis somente o que encontrei: Deus fez o homem reto, mas eles buscaram muitos artifícios."
+];
+
+window.ECCLESIASTES_TEXT[8] = [
+  "Quem é como o sábio? Quem conhece a interpretação das coisas? A sabedoria do homem ilumina seu rosto e suaviza a dureza de sua expressão.",
+  "Eu digo: guarda a ordem do rei, por causa do juramento feito a Deus.",
+  "Não te apresses em sair de sua presença, nem persistas numa coisa má, pois ele faz tudo o que deseja.",
+  "Pois a palavra do rei tem autoridade; quem lhe dirá: “Que fazes?”",
+  "Quem guarda o mandamento não conhecerá coisa má, e o coração do sábio conhece o tempo e o julgamento.",
+  "Pois para todo propósito há tempo e julgamento, embora a aflição do homem pese sobre ele.",
+  "Ele não sabe o que acontecerá; pois quem lhe dirá como acontecerá?",
+  "Não há homem que tenha poder sobre o espírito para reter o espírito, nem poder sobre o dia da morte; não há dispensa nessa guerra, e a perversidade não livrará quem a pratica.",
+  "Tudo isso vi quando apliquei meu coração a toda obra que se faz debaixo do sol, no tempo em que um homem domina outro homem para seu próprio dano.",
+  "Vi também os perversos serem sepultados e entrarem no repouso, enquanto os que praticavam o bem saíam do lugar santo e eram esquecidos na cidade. Também isso é vaidade.",
+  "Como a sentença contra uma obra má não é executada depressa, o coração dos filhos dos homens se enche de disposição para praticar o mal.",
+  "Embora o pecador faça o mal cem vezes e prolongue seus dias, sei que será bom para os que temem a Deus, porque temem diante dele.",
+  "Mas não será bom para o perverso, e seus dias não se prolongarão como a sombra, porque não teme diante de Deus.",
+  "Há uma vaidade que se faz na terra: há justos a quem acontece segundo a obra dos perversos, e há perversos a quem acontece segundo a obra dos justos. Disse que também isso é vaidade.",
+  "Então louvei a alegria, pois não há bem para o homem debaixo do sol senão comer, beber e alegrar-se; isso o acompanhará em seu trabalho durante os dias de vida que Deus lhe concede debaixo do sol.",
+  "Quando apliquei meu coração a conhecer a sabedoria e a observar o trabalho que se faz sobre a terra — pois os olhos do homem não veem sono de dia nem de noite —,",
+  "vi toda a obra de Deus, que o homem não pode descobrir, a obra que se faz debaixo do sol. Por mais que o homem trabalhe para buscá-la, não a encontrará; e, ainda que o sábio diga que a conhece, não poderá descobri-la."
+];
+
+window.ECCLESIASTES_TEXT[9] = [
+  "Pois apliquei tudo isso ao meu coração para investigar tudo: que os justos, os sábios e suas obras estão nas mãos de Deus. O homem não sabe se é amor ou ódio o que está diante dele.",
+  "Tudo acontece igualmente a todos: o mesmo destino para o justo e para o perverso, para o bom e para o puro e para o impuro, para quem oferece sacrifício e para quem não oferece. O bom é como o pecador, e o que jura é como o que teme jurar.",
+  "Este é o mal em tudo o que se faz debaixo do sol: que o mesmo destino alcança a todos. Além disso, o coração dos filhos dos homens está cheio de maldade; há loucura em seu coração enquanto vivem, e depois seguem para os mortos.",
+  "Pois para quem está unido aos vivos há esperança; melhor é um cão vivo do que um leão morto.",
+  "Os vivos sabem que morrerão, mas os mortos nada sabem; não recebem mais recompensa, pois sua memória foi esquecida.",
+  "Seu amor, seu ódio e sua inveja já pereceram; nunca mais terão parte em coisa alguma que se faz debaixo do sol.",
+  "Vai, come teu pão com alegria e bebe teu vinho com coração contente, pois Deus já se agradou de tuas obras.",
+  "Que tuas vestes sejam sempre brancas, e que não falte óleo sobre tua cabeça.",
+  "Desfruta a vida com a mulher que amas, todos os dias de tua vida vã que Deus te concedeu debaixo do sol; pois essa é tua porção na vida e no trabalho com que te afadigas debaixo do sol.",
+  "Tudo o que tua mão encontrar para fazer, faze-o conforme tuas forças, pois no mundo dos mortos, para onde vais, não há obra, nem projeto, nem conhecimento, nem sabedoria.",
+  "Voltei-me e vi debaixo do sol que a corrida não é dos velozes, nem a batalha dos fortes, nem o pão dos sábios, nem a riqueza dos entendidos, nem o favor dos conhecedores; pois o tempo e o acaso sobrevêm a todos.",
+  "Pois o homem também não conhece seu tempo. Como peixes apanhados numa rede traiçoeira e pássaros presos numa armadilha, assim os filhos dos homens são enredados no tempo da calamidade, quando ela cai de repente sobre eles.",
+  "Também vi debaixo do sol esta sabedoria, que me pareceu grande:",
+  "havia uma pequena cidade, com poucos homens nela; veio contra ela um grande rei, cercou-a e construiu contra ela grandes baluartes.",
+  "Encontrou-se nela um homem pobre e sábio, que salvou a cidade por sua sabedoria; mas ninguém se lembrou daquele homem pobre.",
+  "Então eu disse: “Melhor é a sabedoria do que a força”; contudo, a sabedoria do pobre é desprezada, e suas palavras não são ouvidas.",
+  "As palavras dos sábios, ouvidas em tranquilidade, são melhores do que os gritos de quem governa entre os insensatos.",
+  "A sabedoria é melhor do que armas de guerra, mas um só pecador destrói muitos bens."
+];
