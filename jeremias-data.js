@@ -1,0 +1,95 @@
+/* Jeremias — tradução de trabalho própria em português, baseada no hebraico massorético.
+ * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, versions/he/wlc/books/Jer.json.
+ * Progresso: capítulos 1–3 de 52; 81 versículos. Não publicar até concluir e conferir os 52 capítulos.
+ * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
+ */
+window.JEREMIAH_TEXT = window.JEREMIAH_TEXT || {};
+
+window.JEREMIAH_TEXT[1] = [
+  "Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim.",
+  "A palavra de YHWH veio a ele nos dias de Josias, filho de Amom, rei de Judá, no décimo terceiro ano de seu reinado.",
+  "Também veio nos dias de Jeoaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano de Zedequias, filho de Josias, rei de Judá, até o exílio de Jerusalém no quinto mês.",
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Antes que eu te formasse no ventre, eu te conheci; antes que saísses da madre, eu te consagrei; fiz de ti profeta para as nações”.",
+  "Então eu disse: “Ah, Senhor YHWH! Eis que não sei falar, pois sou jovem”.",
+  "Mas YHWH me disse: “Não digas: ‘Sou jovem’, pois irás a todos a quem eu te enviar e falarás tudo o que eu te ordenar.",
+  "Não tenhas medo deles, pois estou contigo para te livrar”, diz YHWH.",
+  "Então YHWH estendeu a mão, tocou minha boca e me disse: “Eis que ponho minhas palavras em tua boca.",
+  "Vê, hoje te estabeleço sobre as nações e sobre os reinos, para arrancar e derrubar, destruir e demolir, edificar e plantar”.",
+  "A palavra de YHWH veio a mim, dizendo: “Que vês, Jeremias?” Respondi: “Vejo um ramo de amendoeira”.",
+  "YHWH me disse: “Viste bem, pois estou atento à minha palavra para cumpri-la”.",
+  "A palavra de YHWH veio a mim pela segunda vez, dizendo: “Que vês?” Respondi: “Vejo uma panela fervente, cuja boca está voltada do norte”.",
+  "YHWH me disse: “Do norte se derramará a calamidade sobre todos os habitantes da terra.",
+  "Pois eis que convoco todas as famílias dos reinos do norte”, diz YHWH. “Virão, e cada um colocará seu trono à entrada das portas de Jerusalém, contra todos os seus muros ao redor e contra todas as cidades de Judá.",
+  "Pronunciarei meus julgamentos contra eles por toda a sua maldade, porque me abandonaram, queimaram incenso a outros deuses e se prostraram diante das obras de suas mãos.",
+  "Tu, pois, cinge teus lombos, levanta-te e dize-lhes tudo o que eu te ordenar. Não te espantes diante deles, para que eu não te faça ficar espantado diante deles.",
+  "Eis que hoje te faço cidade fortificada, coluna de ferro e muros de bronze contra toda a terra, contra os reis de Judá, seus príncipes, seus sacerdotes e o povo da terra.",
+  "Eles lutarão contra ti, mas não prevalecerão, pois estou contigo”, diz YHWH, “para te livrar”."
+];
+
+window.JEREMIAH_TEXT[2] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Vai e proclama aos ouvidos de Jerusalém: Assim diz YHWH: Lembro-me de ti, da lealdade de tua juventude, do amor de teu noivado, quando me seguias no deserto, numa terra não semeada.",
+  "Israel era santo para YHWH, as primícias de sua colheita; todos os que o devoravam eram culpados, e a calamidade vinha sobre eles”, diz YHWH.",
+  "Ouvi a palavra de YHWH, casa de Jacó e todas as famílias da casa de Israel.",
+  "Assim diz YHWH: “Que injustiça vossos pais encontraram em mim, para que se afastassem de mim, seguissem a vaidade e se tornassem vazios?",
+  "Não disseram: ‘Onde está YHWH, que nos fez subir da terra do Egito, que nos conduziu pelo deserto, por uma terra de ermos e covas, por uma terra de seca e sombra de morte, por uma terra pela qual ninguém passa e onde nenhum homem habita?’",
+  "Eu vos trouxe a uma terra fértil, para comerdes seu fruto e seus bens; mas, quando entrastes, contaminastes minha terra e fizestes de minha herança uma abominação.",
+  "Os sacerdotes não disseram: ‘Onde está YHWH?’ Os que lidavam com a instrução não me conheceram; os pastores se rebelaram contra mim, e os profetas profetizaram por Baal e seguiram coisas sem proveito.",
+  "Por isso ainda contenderei convosco”, diz YHWH, “e contenderei com os filhos de vossos filhos.",
+  "Passai às ilhas de Quitim e vede; enviai mensageiros a Quedar e observai cuidadosamente; vede se aconteceu coisa semelhante.",
+  "Acaso uma nação trocou seus deuses, embora não sejam deuses? Mas meu povo trocou sua glória por aquilo que não tem proveito.",
+  "Espantai-vos com isso, ó céus; tremei e ficai profundamente horrorizados”, diz YHWH.",
+  "“Pois meu povo cometeu dois males: abandonou a mim, fonte de águas vivas, e cavou para si cisternas, cisternas rachadas que não retêm água.",
+  "Acaso Israel é escravo? Nasceu como servo? Por que se tornou presa?",
+  "Leões jovens rugiram contra ele e levantaram sua voz; fizeram de sua terra uma desolação; suas cidades foram queimadas, sem habitantes.",
+  "Até os filhos de Nofe e de Tafnes raparam o alto de tua cabeça.",
+  "Não fizeste isso a ti mesmo ao abandonares YHWH, teu Deus, quando ele te conduzia pelo caminho?",
+  "Agora, que tens a ganhar indo ao Egito para beber as águas do Nilo? E que tens a ganhar indo à Assíria para beber as águas do Eufrates?",
+  "Tua própria maldade te castigará, e tuas apostasias te repreenderão. Sabe e vê como é mau e amargo abandonares YHWH, teu Deus, e não teres temor de mim”, diz o Senhor YHWH dos Exércitos.",
+  "“Pois há muito quebrei teu jugo e rompi tuas correntes; mas disseste: ‘Não servirei!’ Sobre toda colina elevada e debaixo de toda árvore verde te deitaste como prostituta.",
+  "Eu te plantei como videira escolhida, toda de semente verdadeira; como, então, te transformaste para mim em ramos degenerados de videira estranha?",
+  "Ainda que te lavasses com soda e usasses muito sabão, tua iniquidade permaneceria marcada diante de mim”, diz o Senhor YHWH.",
+  "“Como podes dizer: ‘Não me contaminei; não fui atrás dos baalins’? Olha teu caminho no vale; reconhece o que fizeste, dromedária veloz que cruza seus caminhos,",
+  "jumenta selvagem acostumada ao deserto, que fareja o vento em seu desejo; quem poderá conter sua paixão? Todos os que a procuram não precisam cansar-se; no tempo dela a encontrarão.",
+  "Guarda teu pé de ficar descalço e tua garganta de ficar sedenta. Mas disseste: ‘Não há esperança! Não! Pois amo os estrangeiros e irei atrás deles’.",
+  "Como ladrão fica envergonhado quando é apanhado, assim será envergonhada a casa de Israel: eles, seus reis, seus príncipes, seus sacerdotes e seus profetas,",
+  "que dizem a um pedaço de madeira: ‘Tu és meu pai’, e à pedra: ‘Tu me geraste’. Voltaram para mim as costas, e não o rosto; mas, no tempo da calamidade, dizem: ‘Levanta-te e salva-nos!’",
+  "Onde estão teus deuses que fizeste para ti? Que se levantem, se puderem salvar-te no tempo de tua calamidade; pois teus deuses, Judá, são tantos quantas tuas cidades.",
+  "Por que contendais comigo? Todos vós vos rebelastes contra mim”, diz YHWH.",
+  "“Em vão feri vossos filhos; não aceitaram disciplina. Vossa própria espada devorou vossos profetas como leão destruidor.",
+  "Ó geração, considerai a palavra de YHWH: Fui eu um deserto para Israel ou uma terra de trevas? Por que meu povo diz: ‘Somos livres; não voltaremos a ti’?",
+  "Acaso uma virgem se esquece de seus adornos, ou uma noiva, de seus enfeites? Contudo, meu povo se esqueceu de mim por incontáveis dias.",
+  "Como preparas bem teu caminho para procurar amor! Por isso até às mulheres perversas ensinaste teus caminhos.",
+  "Também em tuas vestes se encontrou o sangue de pobres inocentes; não os encontrei arrombando casas, mas em todas essas coisas.",
+  "Ainda dizes: ‘Sou inocente; certamente sua ira se desviou de mim’. Eis que entrarei em julgamento contigo, porque dizes: ‘Não pequei’.",
+  "Por que corres tanto para mudar teu caminho? Também do Egito serás envergonhada, como foste envergonhada da Assíria.",
+  "Também sairás dali com as mãos sobre a cabeça, pois YHWH rejeitou aqueles em quem confiaste, e não prosperarás por meio deles."
+];
+
+window.JEREMIAH_TEXT[3] = [
+  "Dizem: “Se um homem despedir sua mulher, e ela se afastar dele e se tornar de outro homem, poderá ele voltar a ela?” Não ficaria aquela terra totalmente contaminada? Tu, porém, te prostituíste com muitos amantes; ainda assim, volta para mim”, diz YHWH.",
+  "Levanta os olhos para as alturas desnudas e vê: onde não foste violada? Sentaste-te nos caminhos à espera deles, como árabe no deserto; contaminaste a terra com tuas prostituições e tua maldade.",
+  "Por isso as chuvas foram retidas, e não houve chuva tardia; ainda assim tens testa de prostituta e recusas envergonhar-te.",
+  "Não me chamarás desde agora: “Meu pai, tu és o amigo de minha juventude”?",
+  "“Guardará ele sua ira para sempre? Continuará ressentido até o fim?” Eis que falaste assim, mas fizeste todo o mal que pudeste.",
+  "YHWH me disse nos dias do rei Josias: “Viste o que fez a infiel Israel? Foi a todo monte alto e debaixo de toda árvore verde e ali se prostituiu.",
+  "Eu disse, depois de ela fazer tudo isso: ‘Volta para mim’, mas ela não voltou. Sua irmã traiçoeira Judá viu isso.",
+  "Vi que, por causa de todos os adultérios da infiel Israel, eu a despedi e lhe dei carta de divórcio; contudo, sua irmã traiçoeira Judá não temeu, mas também foi e se prostituiu.",
+  "A leviandade de sua prostituição contaminou a terra; adulterou com pedra e madeira.",
+  "Apesar de tudo isso, sua irmã traiçoeira Judá não voltou para mim de todo o coração, mas fingidamente”, diz YHWH.",
+  "YHWH me disse: “A infiel Israel mostrou-se mais justa do que a traiçoeira Judá.",
+  "Vai e proclama estas palavras para o norte: Volta, ó infiel Israel”, diz YHWH. “Não farei cair sobre vós meu rosto irado, pois sou leal”, diz YHWH. “Não guardarei ira para sempre.",
+  "Somente reconhece tua iniquidade: rebelaste-te contra YHWH, teu Deus, espalhaste teus caminhos aos estrangeiros debaixo de toda árvore verde e não ouvistes minha voz”, diz YHWH.",
+  "Voltai, filhos rebeldes”, diz YHWH, “pois eu sou vosso senhor; tomarei um de cada cidade e dois de cada família e vos levarei a Sião.",
+  "Dar-vos-ei pastores segundo meu coração, que vos apascentarão com conhecimento e entendimento.",
+  "Quando vos multiplicardes e crescerdes na terra, naqueles dias”, diz YHWH, “não dirão mais: ‘A arca da aliança de YHWH’. Ela não lhes virá ao coração, não se lembrarão dela nem sentirão sua falta; tampouco será feita outra.",
+  "Naquele tempo chamarão Jerusalém de trono de YHWH, e todas as nações se reunirão a ela, ao nome de YHWH, em Jerusalém; não andarão mais segundo a obstinação de seu coração mau.",
+  "Naqueles dias a casa de Judá caminhará com a casa de Israel; virão juntas da terra do norte para a terra que dei como herança a vossos pais.",
+  "Eu disse: Como te colocarei entre os filhos e te darei uma terra desejável, a mais bela herança das nações? Pensei que me chamarias: ‘Meu pai’, e não te afastarias de mim.",
+  "Mas, como uma mulher trai seu companheiro, assim agistes traiçoeiramente comigo, casa de Israel”, diz YHWH.",
+  "Ouve-se uma voz sobre as alturas desnudas: o choro e as súplicas dos filhos de Israel, porque perverteram seu caminho e se esqueceram de YHWH, seu Deus.",
+  "Voltai, filhos rebeldes; eu curarei vossas rebeldias. “Eis-nos aqui, viemos a ti, pois tu és YHWH, nosso Deus.",
+  "Certamente a salvação de Israel está em YHWH, nosso Deus. Mas a vergonha consumiu o trabalho de nossos pais desde nossa juventude: seus rebanhos e seus bois, seus filhos e suas filhas.",
+  "Deitemo-nos em nossa vergonha, e que nossa desonra nos cubra, pois pecamos contra YHWH, nosso Deus, nós e nossos pais, desde nossa juventude até hoje; não ouvimos a voz de YHWH, nosso Deus”."
+];
