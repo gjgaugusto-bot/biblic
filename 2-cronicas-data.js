@@ -1,6 +1,6 @@
 /* 2 Crônicas — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS 2Chr.
- * Progresso: capítulos 1–24 de 36; 510 versículos. Não publicar até concluir e conferir os 36 capítulos.
+ * Progresso: capítulos 1–27 de 36; 570 versículos. Não publicar até concluir e conferir os 36 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.SECOND_CHRONICLES_TEXT = window.SECOND_CHRONICLES_TEXT || {};
@@ -585,4 +585,73 @@ window.SECOND_CHRONICLES_TEXT[24] = [
   "Quando os sírios se retiraram — deixaram Joás gravemente ferido —, seus próprios servos conspiraram contra ele por causa do sangue dos filhos do sacerdote Joiada. Mataram-no em seu leito, e ele morreu. Sepultaram-no na Cidade de Davi, mas não nos túmulos dos reis.",
   "Os que conspiraram contra ele foram Zabade, filho de Simeate, a amonita, e Jeozabade, filho de Sinrite, a moabita.",
   "Quanto a seus filhos, às muitas profecias contra ele e à restauração da casa de Deus, tudo está escrito no comentário do Livro dos Reis. Amazias, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[25] = [
+  "Amazias tinha vinte e cinco anos quando começou a reinar e reinou vinte e nove anos em Jerusalém. O nome de sua mãe era Jeoadã, de Jerusalém.",
+  "Ele fez o que era correto aos olhos de YHWH, mas não com coração íntegro.",
+  "Quando o reino se firmou em suas mãos, matou os servos que haviam assassinado o rei, seu pai.",
+  "Mas não matou os filhos deles, pois estava escrito na Lei, no Livro de Moisés, conforme YHWH havia ordenado: “Os pais não morrerão por causa dos filhos, nem os filhos morrerão por causa dos pais; cada um morrerá por seu próprio pecado”.",
+  "Amazias reuniu Judá e organizou-os segundo as casas paternas, sob comandantes de mil e de cem, em todo Judá e Benjamim. Fez o recenseamento dos homens de vinte anos para cima e encontrou trezentos mil homens escolhidos, aptos para o serviço militar, capazes de manejar lança e escudo.",
+  "Também contratou de Israel cem mil guerreiros valentes por cem talentos de prata.",
+  "Mas um homem de Deus foi até ele e disse: “Ó rei, não deixes que o exército de Israel vá contigo, pois YHWH não está com Israel, nem com nenhum dos filhos de Efraim.",
+  "Se fores com eles, mesmo que te mostres forte na batalha, Deus te fará cair diante do inimigo, pois Deus tem poder para ajudar e para fazer cair”.",
+  "Amazias perguntou ao homem de Deus: “E que faremos dos cem talentos que paguei à tropa de Israel?” O homem de Deus respondeu: “YHWH pode dar-te muito mais do que isso”.",
+  "Amazias separou a tropa que viera de Efraim para que voltasse ao seu lugar. Eles ficaram muito irados contra Judá e retornaram para casa ardendo de raiva.",
+  "Amazias tomou coragem, conduziu seu povo ao vale do Sal e matou dez mil homens de Seir.",
+  "Os homens de Judá capturaram vivos outros dez mil, levaram-nos ao alto de um rochedo e os lançaram de lá; todos foram despedaçados.",
+  "Os homens da tropa que Amazias havia mandado voltar, para que não fossem à guerra com ele, atacaram as cidades de Judá, desde Samaria até Bete-Horom. Mataram três mil pessoas e levaram grande despojo.",
+  "Depois que Amazias voltou da matança dos edomitas, trouxe os deuses dos filhos de Seir, colocou-os como seus deuses, prostrou-se diante deles e lhes queimou incenso.",
+  "A ira de YHWH se acendeu contra Amazias. Ele enviou um profeta que lhe disse: “Por que procuraste os deuses desse povo, que não puderam livrar seu próprio povo de tuas mãos?”",
+  "Enquanto o profeta falava, Amazias o interrompeu: “Por acaso te fizemos conselheiro do rei? Para! Por que queres ser ferido?” O profeta parou, mas disse: “Sei que Deus decidiu destruir-te, porque fizeste isso e não deste ouvidos ao meu conselho”.",
+  "Amazias, rei de Judá, consultou seus conselheiros e enviou uma mensagem a Joás, filho de Jeoacaz, filho de Jeú, rei de Israel: “Vem, vamos nos enfrentar”.",
+  "Joás, rei de Israel, respondeu a Amazias, rei de Judá: “O espinheiro que está no Líbano mandou dizer ao cedro que está no Líbano: ‘Dá tua filha por mulher a meu filho’. Mas um animal selvagem do Líbano passou e pisoteou o espinheiro.",
+  "Dizes a ti mesmo: ‘Venci Edom’; por isso teu coração se encheu de orgulho. Fica em casa! Por que provocar uma calamidade para tua própria ruína e para a de Judá contigo?”",
+  "Amazias, porém, não deu ouvidos, pois isso vinha de Deus, para entregá-los nas mãos do inimigo, porque haviam buscado os deuses de Edom.",
+  "Joás, rei de Israel, subiu; ele e Amazias, rei de Judá, enfrentaram-se em Bete-Semes, que pertence a Judá.",
+  "Judá foi derrotado por Israel, e cada homem fugiu para sua tenda.",
+  "Joás, rei de Israel, capturou em Bete-Semes Amazias, rei de Judá, filho de Joás, filho de Jeoacaz. Levou-o a Jerusalém e derrubou quatrocentos côvados da muralha de Jerusalém, desde a Porta de Efraim até a Porta da Esquina.",
+  "Tomou todo o ouro, a prata e todos os utensílios que encontrou na casa de Deus, sob os cuidados de Obede-Edom, os tesouros do palácio real e reféns; depois voltou para Samaria.",
+  "Amazias, filho de Joás, rei de Judá, viveu quinze anos depois da morte de Joás, filho de Jeoacaz, rei de Israel.",
+  "Os demais feitos de Amazias, dos primeiros aos últimos, não estão escritos no Livro dos Reis de Judá e de Israel?",
+  "Desde o tempo em que Amazias se desviou de seguir YHWH, conspiraram contra ele em Jerusalém. Ele fugiu para Laquis, mas enviaram homens atrás dele até Laquis e ali o mataram.",
+  "Levaram-no sobre cavalos e o sepultaram com seus pais na Cidade de Judá."
+];
+
+window.SECOND_CHRONICLES_TEXT[26] = [
+  "Todo o povo de Judá tomou Uzias, que tinha dezesseis anos, e o fez rei em lugar de seu pai Amazias.",
+  "Ele reconstruiu Elote e a restituiu a Judá, depois que o rei repousou com seus pais.",
+  "Uzias tinha dezesseis anos quando começou a reinar e reinou cinquenta e dois anos em Jerusalém. O nome de sua mãe era Jecolias, de Jerusalém.",
+  "Fez o que era correto aos olhos de YHWH, conforme tudo o que Amazias, seu pai, havia feito.",
+  "Buscou a Deus nos dias de Zacarias, que o instruía no temor de Deus; enquanto buscou YHWH, Deus o fez prosperar.",
+  "Saiu e guerreou contra os filisteus. Derrubou a muralha de Gate, a muralha de Jabné e a muralha de Asdode. Construiu cidades na região de Asdode e entre os filisteus.",
+  "Deus o ajudou contra os filisteus, contra os árabes que habitavam em Gur-Baal e contra os meunitas.",
+  "Os amonitas pagavam tributo a Uzias, e sua fama se espalhou até a entrada do Egito, pois ele se tornou muito poderoso.",
+  "Uzias construiu torres em Jerusalém, junto à Porta da Esquina, à Porta do Vale e ao Ângulo, e as fortificou.",
+  "Construiu também torres no deserto e cavou muitas cisternas, pois possuía muitos rebanhos na planície e no planalto. Tinha lavradores e vinhateiros nas montanhas e no Carmelo, pois gostava da agricultura.",
+  "Uzias tinha um exército preparado para a guerra, que saía em campanhas, organizado em tropas segundo o recenseamento feito pelo secretário Jeiel e pelo oficial Maaseias, sob a direção de Hananias, um dos comandantes do rei.",
+  "O total dos chefes das casas paternas dos guerreiros valentes era de dois mil e seiscentos.",
+  "Sob seu comando havia um exército de trezentos e sete mil e quinhentos homens aptos para a guerra, uma força poderosa para ajudar o rei contra o inimigo.",
+  "Uzias preparou para todo o exército escudos, lanças, capacetes, couraças, arcos e pedras para as fundas.",
+  "Em Jerusalém, fez máquinas engenhosas, inventadas por especialistas, para serem colocadas nas torres e nos ângulos das muralhas, a fim de disparar flechas e lançar grandes pedras. Sua fama se espalhou para longe, pois recebeu ajuda extraordinária e se tornou poderoso.",
+  "Mas, quando se tornou poderoso, seu coração se exaltou para sua própria ruína. Foi infiel a YHWH, seu Deus, entrando no templo de YHWH para queimar incenso no altar do incenso.",
+  "O sacerdote Azarias entrou atrás dele, acompanhado de oitenta sacerdotes de YHWH, homens valentes.",
+  "Eles se colocaram diante do rei Uzias e lhe disseram: “Não cabe a ti, Uzias, queimar incenso a YHWH, mas aos sacerdotes, filhos de Arão, que foram consagrados para queimar incenso. Sai do santuário, pois foste infiel; isso não te trará honra diante de YHWH Deus”.",
+  "Uzias ficou indignado. Tinha na mão um incensário para queimar incenso e, enquanto se irava contra os sacerdotes, surgiu lepra em sua testa, diante dos sacerdotes, na casa de YHWH, junto ao altar do incenso.",
+  "Azarias, o sumo sacerdote, e todos os sacerdotes olharam para ele e viram que estava leproso na testa. Apressaram-se em fazê-lo sair dali; ele próprio se apressou em sair, pois YHWH o havia ferido.",
+  "O rei Uzias ficou leproso até o dia de sua morte. Viveu isolado numa casa separada, leproso e excluído da casa de YHWH. Jotão, seu filho, administrava o palácio e julgava o povo da terra.",
+  "Os demais feitos de Uzias, dos primeiros aos últimos, foram escritos pelo profeta Isaías, filho de Amoz.",
+  "Uzias repousou com seus pais e o sepultaram junto a eles no campo dos sepulcros dos reis, pois disseram: “Ele é leproso”. Jotão, seu filho, reinou em seu lugar."
+];
+
+window.SECOND_CHRONICLES_TEXT[27] = [
+  "Jotão tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém. O nome de sua mãe era Jerusa, filha de Zadoque.",
+  "Fez o que era correto aos olhos de YHWH, conforme tudo o que Uzias, seu pai, havia feito; contudo, não entrou no templo de YHWH. O povo, porém, continuava agindo corruptamente.",
+  "Construiu a Porta Superior da casa de YHWH e fez muitas obras na muralha de Ofel.",
+  "Construiu cidades na região montanhosa de Judá e fortalezas e torres nas florestas.",
+  "Guerreou contra o rei dos filhos de Amom e prevaleceu sobre eles. Naquele ano, os amonitas lhe deram cem talentos de prata, dez mil coros de trigo e dez mil coros de cevada. Os amonitas lhe pagaram o mesmo no segundo e no terceiro ano.",
+  "Jotão se fortaleceu, porque dirigiu seus caminhos diante de YHWH, seu Deus.",
+  "Os demais feitos de Jotão, todas as suas guerras e seus caminhos, estão escritos no Livro dos Reis de Israel e de Judá.",
+  "Tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém.",
+  "Jotão repousou com seus pais e foi sepultado na Cidade de Davi. Acaz, seu filho, reinou em seu lugar."
 ];
