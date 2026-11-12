@@ -1,6 +1,6 @@
 /* Esdras — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ezra.
- * Progresso: capítulos 1–3 de 10; 94 versículos. Não publicar até concluir e conferir os 10 capítulos.
+ * Progresso: capítulos 1–6 de 10; 157 versículos. Não publicar até concluir e conferir os 10 capítulos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.EZRA_TEXT = window.EZRA_TEXT || {};
@@ -106,4 +106,76 @@ window.EZRA_TEXT[3] = [
   "Cantavam em louvor e ação de graças a YHWH: “Porque ele é bom, porque sua lealdade para com Israel dura para sempre”. Todo o povo soltou um grande grito de louvor a YHWH, porque os fundamentos da casa de YHWH haviam sido lançados.",
   "Muitos sacerdotes, levitas e chefes de casas paternas, já idosos, que haviam visto a primeira casa, choravam em alta voz ao verem os fundamentos desta casa; muitos outros gritavam de alegria, levantando a voz.",
   "O povo não conseguia distinguir o som dos gritos de alegria do som do choro, pois o povo gritava muito alto, e o som podia ser ouvido de longe."
+];
+
+window.EZRA_TEXT[4] = [
+  "Quando os adversários de Judá e Benjamim souberam que os que haviam voltado do cativeiro estavam construindo um templo para YHWH, Deus de Israel,",
+  "aproximaram-se de Zorobabel e dos chefes das casas paternas e lhes disseram: “Deixai-nos construir convosco, pois também buscamos vosso Deus e oferecemos sacrifícios a ele desde os dias de Esar-Hadom, rei da Assíria, que nos trouxe para cá”.",
+  "Zorobabel, Jesua e os demais chefes das casas paternas de Israel lhes responderam: “Não cabe a vós construir conosco uma casa para nosso Deus. Nós mesmos a construiremos para YHWH, Deus de Israel, conforme nos ordenou Ciro, rei da Pérsia”.",
+  "Então o povo da terra desanimava o povo de Judá e o intimidava para que não construísse.",
+  "Contrataram conselheiros contra eles para frustrar seus planos durante todos os dias de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia.",
+  "No início do reinado de Assuero, escreveram uma acusação contra os habitantes de Judá e de Jerusalém.",
+  "Nos dias de Artaxerxes, Bislam, Mitredate, Tabeel e os demais companheiros escreveram a Artaxerxes, rei da Pérsia. A carta foi escrita em caracteres aramaicos e traduzida para o aramaico.",
+  "Reum, o comandante, e Sinsai, o escriba, escreveram uma carta contra Jerusalém ao rei Artaxerxes, nestes termos:",
+  "“Reum, o comandante, Sinsai, o escriba, e os demais companheiros — os juízes, os oficiais, os funcionários persas, os habitantes de Ereque, os babilônios, os habitantes de Susã, isto é, os elamitas,",
+  "e as demais nações que o grande e ilustre Assurbanípal deportou e estabeleceu na cidade de Samaria e no restante da região a oeste do Eufrates —,",
+  "esta é a cópia da carta que lhe enviaram: ‘Ao rei Artaxerxes, de teus servos, os homens da região a oeste do Eufrates. Agora, pois:",
+  "Saiba o rei que os judeus que vieram de tua parte até nós chegaram a Jerusalém. Estão reconstruindo a cidade rebelde e perversa, levantando suas muralhas e reparando seus fundamentos.",
+  "Saiba ainda o rei que, se essa cidade for reconstruída e suas muralhas forem concluídas, eles não pagarão tributo, imposto nem pedágio, e assim prejudicarão os interesses dos reis.",
+  "Agora, visto que comemos o sal do palácio e não nos convém assistir à desonra do rei, enviamos esta mensagem ao rei para que seja informado,",
+  "a fim de que se faça uma investigação nos registros de teus antepassados. Nesses registros encontrarás e saberás que essa cidade é rebelde, prejudicial aos reis e às províncias, e que desde tempos antigos nela se promovem revoltas. Por isso a cidade foi destruída.",
+  "Informamos ao rei que, se essa cidade for reconstruída e suas muralhas forem concluídas, não terás mais domínio sobre a região a oeste do Eufrates’”.",
+  "O rei enviou esta resposta: “A Reum, o comandante, a Sinsai, o escriba, e aos demais companheiros que habitam em Samaria e no restante da região a oeste do Eufrates: saudações. Agora, pois:",
+  "A carta que nos enviastes foi traduzida e lida diante de mim.",
+  "Dei ordem para que se fizesse uma investigação, e se descobriu que essa cidade, desde tempos antigos, se levantou contra os reis, e nela houve rebeliões e revoltas.",
+  "Houve reis poderosos em Jerusalém que governaram toda a região a oeste do Eufrates, e a eles se pagavam tributos, impostos e pedágios.",
+  "Agora, pois, ordenai que aqueles homens parem, para que essa cidade não seja reconstruída até que eu dê uma nova ordem.",
+  "Tende cuidado para não agir com negligência neste assunto, para que o prejuízo aos interesses dos reis não aumente”.",
+  "Assim que a cópia do documento do rei Artaxerxes foi lida diante de Reum, de Sinsai, o escriba, e de seus companheiros, eles foram depressa a Jerusalém, aos judeus, e os obrigaram a parar a obra pela força das armas.",
+  "Então a obra da casa de Deus em Jerusalém foi interrompida e permaneceu parada até o segundo ano do reinado de Dario, rei da Pérsia."
+];
+
+window.EZRA_TEXT[5] = [
+  "Então os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel, que estava sobre eles.",
+  "Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, levantaram-se e começaram a reconstruir a casa de Deus em Jerusalém; e os profetas de Deus estavam com eles, ajudando-os.",
+  "Naquela ocasião, Tatenai, governador da região a oeste do Eufrates, Setar-Bozenai e seus companheiros foram até eles e perguntaram: “Quem vos deu ordem para construir esta casa e concluir esta estrutura?”",
+  "Também lhes perguntaram: “Quais são os nomes dos homens que estão construindo este edifício?”",
+  "Mas os olhos de Deus estavam sobre os anciãos dos judeus, e não os fizeram parar até que o assunto chegasse a Dario e voltasse uma resposta oficial por escrito.",
+  "Esta é a cópia da carta que Tatenai, governador da região a oeste do Eufrates, Setar-Bozenai e seus companheiros, os oficiais da região, enviaram ao rei Dario.",
+  "Enviaram-lhe um relatório no qual estava escrito: “Ao rei Dario: toda a paz!",
+  "Saiba o rei que fomos à província de Judá, à casa do grande Deus. Ela está sendo construída com grandes pedras, e vigas de madeira estão sendo colocadas nas paredes. A obra está sendo realizada com diligência e prospera nas mãos deles.",
+  "Então perguntamos aos anciãos: ‘Quem vos deu ordem para construir esta casa e concluir esta estrutura?’",
+  "Também lhes perguntamos seus nomes, para te informar, a fim de registrar os nomes dos homens que estão à frente deles.",
+  "Eles nos deram esta resposta: ‘Somos servos do Deus dos céus e da terra e estamos reconstruindo a casa que havia sido construída muitos anos atrás. Um grande rei de Israel a construiu e a concluiu.",
+  "Mas, porque nossos pais provocaram a ira do Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei da Babilônia, o caldeu, que destruiu esta casa e levou o povo cativo para a Babilônia.",
+  "Contudo, no primeiro ano de Ciro, rei da Babilônia, o rei Ciro emitiu uma ordem para reconstruir esta casa de Deus.",
+  "Além disso, os utensílios de ouro e prata da casa de Deus, que Nabucodonosor havia retirado do templo de Jerusalém e levado para o templo da Babilônia, o rei Ciro retirou do templo da Babilônia e os entregou a Sesbazar, a quem havia nomeado governador.",
+  "Disse-lhe: “Toma estes utensílios, vai e coloca-os no templo que está em Jerusalém; e que a casa de Deus seja reconstruída em seu lugar”.",
+  "Então esse Sesbazar veio e lançou os fundamentos da casa de Deus em Jerusalém. Desde aquele tempo até agora ela está sendo reconstruída, mas ainda não foi concluída’.",
+  "Agora, pois, se parecer bem ao rei, que se faça uma busca nos arquivos reais da Babilônia para verificar se o rei Ciro emitiu uma ordem para reconstruir esta casa de Deus em Jerusalém. Que o rei nos envie sua decisão sobre este assunto”."
+];
+
+window.EZRA_TEXT[6] = [
+  "Então o rei Dario deu ordem, e fizeram uma investigação nos arquivos da casa dos registros, onde se guardavam os tesouros na Babilônia.",
+  "Encontrou-se um rolo na fortaleza de Ecbátana, na província da Média, no qual estava escrito o seguinte registro:",
+  "“No primeiro ano do rei Ciro, o rei Ciro deu esta ordem a respeito da casa de Deus em Jerusalém: Que a casa seja reconstruída como lugar onde se oferecem sacrifícios, e que seus fundamentos sejam lançados. Sua altura será de sessenta côvados e sua largura de sessenta côvados.",
+  "Haverá três fileiras de grandes pedras e uma fileira de madeira nova. A despesa será paga pela casa do rei.",
+  "Além disso, os utensílios de ouro e prata da casa de Deus, que Nabucodonosor retirou do templo de Jerusalém e levou para a Babilônia, sejam devolvidos e levados ao templo de Jerusalém, cada um ao seu lugar; e sejam colocados na casa de Deus”.",
+  "“Agora, pois, Tatenai, governador da região a oeste do Eufrates, Setar-Bozenai e vossos companheiros, os oficiais dessa região, afastai-vos dali.",
+  "Deixai em paz a obra desta casa de Deus. Que o governador dos judeus e os anciãos dos judeus reconstruam esta casa de Deus em seu lugar.",
+  "Também decreto o que deveis fazer pelos anciãos dos judeus para a reconstrução desta casa de Deus: as despesas desses homens serão pagas integralmente pelos recursos do rei, provenientes dos tributos da região a oeste do Eufrates, sem interrupção.",
+  "Tudo de que necessitarem — novilhos, carneiros e cordeiros para os holocaustos ao Deus dos céus, trigo, sal, vinho e azeite — seja fornecido diariamente, sem falta, conforme a indicação dos sacerdotes que estão em Jerusalém,",
+  "para que ofereçam sacrifícios de aroma agradável ao Deus dos céus e orem pela vida do rei e de seus filhos.",
+  "Também decreto que, se alguém alterar este edito, seja retirada uma viga de sua casa, nela seja fincado e ele seja suspenso nela; e sua casa seja transformada em monturo por causa disso.",
+  "Que o Deus que fez habitar ali o seu nome derrube qualquer rei ou povo que estenda a mão para alterar esta ordem e destruir esta casa de Deus em Jerusalém. Eu, Dario, emito este decreto; que seja cumprido com diligência”.",
+  "Então Tatenai, governador da região a oeste do Eufrates, Setar-Bozenai e seus companheiros fizeram exatamente conforme a ordem que o rei Dario havia enviado.",
+  "Os anciãos dos judeus continuaram a construir e prosperar, segundo a profecia do profeta Ageu e de Zacarias, filho de Ido. Concluíram a construção conforme a ordem do Deus de Israel e os decretos de Ciro, Dario e Artaxerxes, reis da Pérsia.",
+  "A casa foi concluída no terceiro dia do mês de Adar, no sexto ano do reinado de Dario, o rei.",
+  "Os filhos de Israel, os sacerdotes, os levitas e os demais que haviam voltado do cativeiro celebraram com alegria a dedicação desta casa de Deus.",
+  "Na dedicação desta casa de Deus ofereceram cem novilhos, duzentos carneiros e quatrocentos cordeiros; e, como oferta pelo pecado de todo o Israel, doze bodes, segundo o número das tribos de Israel.",
+  "Estabeleceram os sacerdotes em suas divisões e os levitas em suas classes para o serviço de Deus em Jerusalém, conforme está escrito no Livro de Moisés.",
+  "Os que haviam voltado do cativeiro celebraram a Páscoa no décimo quarto dia do primeiro mês.",
+  "Os sacerdotes e os levitas haviam se purificado como um só grupo; todos estavam puros. Abateram o cordeiro da Páscoa por todos os que haviam voltado do cativeiro, por seus irmãos sacerdotes e por si mesmos.",
+  "Os filhos de Israel que haviam voltado do cativeiro comeram a Páscoa, juntamente com todos os que se haviam separado da impureza das nações da terra para buscar YHWH, Deus de Israel.",
+  "Celebraram a Festa dos Pães sem Fermento durante sete dias, com alegria, pois YHWH os havia alegrado e havia inclinado o coração do rei da Assíria para ajudá-los na obra da casa de Deus, o Deus de Israel."
 ];
