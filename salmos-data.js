@@ -1423,3 +1423,43 @@ window.PSALMS_TEXT[75] = [
   "Eu, porém, anunciarei isso para sempre; cantarei louvores ao Deus de Jacó.",
   "Ele quebrará todo o poder dos perversos, mas o poder dos justos será exaltado."
 ];
+
+window.PSALMS_TEXT[76] = [
+  "Ao regente do coro. Com instrumentos de cordas. Salmo de Asafe. Cântico.",
+  "Deus é conhecido em Judá; seu nome é grande em Israel.",
+  "Em Salém está sua tenda, e sua morada em Sião.",
+  "Ali quebrou as flechas do arco, o escudo, a espada e as armas de guerra. Selá.",
+  "Resplandecente és, mais glorioso que os montes de presa.",
+  "Os valentes foram despojados; dormiram seu sono, e nenhum dos guerreiros pôde usar as mãos.",
+  "À tua repreensão, ó Deus de Jacó, cavaleiro e cavalo caem em sono profundo.",
+  "Tu, sim, tu és temível; quem poderá permanecer diante de ti quando tua ira se acende?",
+  "Dos céus fizeste ouvir o julgamento; a terra temeu e ficou em silêncio,",
+  "quando Deus se levantou para julgar, para salvar todos os humildes da terra. Selá.",
+  "Pois até a ira humana te louvará; com o restante da ira te cingirás.",
+  "Fazei votos a YHWH, vosso Deus, e cumpri-os; todos os que o rodeiam tragam presentes ao Temível.",
+  "Ele abate o espírito dos príncipes; é temido pelos reis da terra."
+];
+
+window.PSALMS_TEXT[77] = [
+  "Ao regente do coro. Sobre Jedutum. Salmo de Asafe.",
+  "Minha voz se dirige a Deus, e clamo; minha voz se dirige a Deus, para que me ouça.",
+  "No dia de minha angústia busco o Senhor; de noite minha mão fica estendida e não se cansa; minha alma recusa consolo.",
+  "Lembro-me de Deus e gemo; medito, e meu espírito desfalece. Selá.",
+  "Manténs abertos meus olhos; estou tão perturbado que não posso falar.",
+  "Penso nos dias antigos, nos anos de tempos passados.",
+  "De noite lembro-me de meu cântico; medito em meu coração, e meu espírito investiga:",
+  "“Acaso o Senhor rejeitará para sempre? Nunca mais voltará a mostrar favor?",
+  "Sua lealdade acabou para sempre? Sua promessa falhou por todas as gerações?",
+  "Deus se esqueceu de ser gracioso? Em sua ira fechou suas misericórdias?” Selá.",
+  "Então digo: “Esta é minha aflição: mudou-se a mão direita do Altíssimo”.",
+  "Lembro-me dos feitos de YHWH; sim, lembro-me de tuas maravilhas da antiguidade.",
+  "Medito em todas as tuas obras e considero teus feitos.",
+  "Teu caminho, ó Deus, é santo. Que deus é grande como Deus?",
+  "Tu és o Deus que realiza maravilhas; fizeste conhecer teu poder entre os povos.",
+  "Com teu braço resgataste teu povo, os filhos de Jacó e de José. Selá.",
+  "As águas te viram, ó Deus; as águas te viram e tremeram; até os abismos estremeceram.",
+  "As nuvens derramaram água, os céus fizeram ouvir trovão; tuas flechas também cruzaram de um lado a outro.",
+  "O estrondo de teu trovão estava no redemoinho; os relâmpagos iluminaram o mundo; a terra tremeu e se abalou.",
+  "Teu caminho passou pelo mar, tuas veredas pelas muitas águas; teus passos não foram conhecidos.",
+  "Guiaste teu povo como rebanho, pela mão de Moisés e Arão."
+];
