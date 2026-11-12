@@ -1141,10 +1141,7 @@ window.JOB_TEXT[40] = [
   "Deita-se debaixo dos lótus, no esconderijo dos juncos e do brejo.",
   "Os lótus o cobrem com sua sombra; os salgueiros do ribeiro o cercam.",
   "Se o rio transborda, ele não se assusta; permanece tranquilo, mesmo que o Jordão se precipite contra sua boca.",
-  "Alguém poderá capturá-lo enquanto ele vigia? Poderá furar seu nariz com um laço?"
-];
-
-window.JOB_TEXT[41] = [
+  "Alguém poderá capturá-lo enquanto ele vigia? Poderá furar seu nariz com um laço?",
   "“Poderás pescar o Leviatã com anzol ou prender sua língua com uma corda?",
   "Poderás passar uma corda por suas narinas ou furar sua mandíbula com um gancho?",
   "Acaso te fará muitas súplicas ou te dirigirá palavras suaves?",
@@ -1152,7 +1149,10 @@ window.JOB_TEXT[41] = [
   "Brincarás com ele como com um pássaro ou o prenderás para tuas meninas?",
   "Os pescadores farão comércio dele? Reparti-lo-ão entre os mercadores?",
   "Poderás encher sua pele de arpões ou sua cabeça de lanças de pesca?",
-  "Põe tua mão sobre ele; lembra-te da batalha e não tornarás a fazê-lo.",
+  "Põe tua mão sobre ele; lembra-te da batalha e não tornarás a fazê-lo."
+];
+
+window.JOB_TEXT[41] = [
   "Eis que a esperança de capturá-lo é falsa; só de vê-lo alguém desmaia.",
   "Ninguém é tão ousado que se atreva a despertá-lo. Quem, então, poderá permanecer diante de mim?",
   "Quem primeiro me deu alguma coisa, para que eu tenha de retribuir? Tudo o que há debaixo dos céus é meu.",
