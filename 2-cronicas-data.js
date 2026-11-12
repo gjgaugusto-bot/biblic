@@ -83,7 +83,7 @@ window.SECOND_CHRONICLES_TEXT[4] = [
   "fez também as bases e as bacias sobre as bases;",
   "o único mar e os doze bois que ficavam debaixo dele;",
   "as panelas, as pás, os garfos e todos os seus utensílios. Hurão-Abi os fez para o rei Salomão, para a casa de YHWH, em bronze polido.",
-  "O rei os fundiu na planície do Jordão, na terra argilosa entre Sucote e Zer data.",
+  "O rei os fundiu na planície do Jordão, na terra argilosa entre Sucote e Zeredata.",
   "Salomão fez todos esses utensílios em grande quantidade; o peso do bronze não foi calculado.",
   "Salomão fez todos os utensílios destinados à casa de Deus: o altar de ouro e as mesas sobre as quais ficava o pão da Presença;",
   "os candelabros e suas lâmpadas, de ouro puro, para que ardessem conforme a ordem estabelecida diante do santuário interno;",
@@ -109,7 +109,7 @@ window.SECOND_CHRONICLES_TEXT[5] = [
 ];
 
 window.SECOND_CHRONICLES_TEXT[6] = [
-  "Então Salomão declarou: “YHWH disse que habitaria na escuridão espessa.",
+  "Então Salomão declarou: “YHWH disse que habitaria na escuridão espessa”.",
   "Eu, porém, construí para ti uma casa de habitação, um lugar para que nela permaneças para sempre”.",
   "O rei voltou o rosto e abençoou toda a assembleia de Israel; toda a assembleia de Israel estava de pé.",
   "Ele disse: “Bendito seja YHWH, Deus de Israel, que falou com sua própria boca a Davi, meu pai, e cumpriu com suas próprias mãos o que prometeu:",
