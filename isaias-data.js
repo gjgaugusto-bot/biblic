@@ -1463,7 +1463,8 @@ window.ISAIAH_TEXT[65] = [
   "Construirão casas e nelas habitarão; plantarão vinhas e comerão seu fruto.",
   "Não construirão para que outro habite, nem plantarão para que outro coma; pois os dias de meu povo serão como os dias de uma árvore, e meus escolhidos desfrutarão por longo tempo a obra de suas mãos.",
   "Não trabalharão em vão, nem gerarão filhos para calamidade; pois serão descendência dos benditos de YHWH, e seus descendentes estarão com eles.",
-  "Antes que clamem, eu responderei; enquanto ainda estiverem falando, eu ouvirei."
+  "Antes que clamem, eu responderei; enquanto ainda estiverem falando, eu ouvirei.",
+  "O lobo e o cordeiro pastarão juntos, o leão comerá palha como o boi, e o pó será o alimento da serpente. Não farão mal nem destruirão em todo o meu santo monte, diz YHWH."
 ];
 
 window.ISAIAH_TEXT[66] = [
