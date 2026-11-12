@@ -58,3 +58,56 @@ window.SONG_OF_SONGS_TEXT[3] = [
   "Fez suas colunas de prata, seu encosto de ouro, seu assento de púrpura; seu interior foi adornado com amor pelas filhas de Jerusalém.",
   "Saí, filhas de Sião, e contemplai o rei Salomão com a coroa com que sua mãe o coroou no dia de seu casamento, no dia da alegria de seu coração."
 ];
+
+window.SONG_OF_SONGS_TEXT[4] = [
+  "Como és bela, minha amada! Como és bela! Teus olhos por trás do véu são como pombas; teus cabelos são como rebanho de cabras que descem pelas encostas de Gileade.",
+  "Teus dentes são como rebanho de ovelhas tosquiadas que sobem do banho; todas têm gêmeas, e nenhuma delas perdeu sua cria.",
+  "Teus lábios são como fio escarlate, e tua boca é encantadora; tuas faces por trás do véu são como metades de romã.",
+  "Teu pescoço é como a torre de Davi, construída para arsenal; mil escudos estão pendurados nela, todos escudos de guerreiros.",
+  "Teus dois seios são como dois filhotes, gêmeos de gazela, que pastam entre os lírios.",
+  "Até que sopre a brisa do dia e fujam as sombras, irei ao monte da mirra e à colina do incenso.",
+  "Tu és toda bela, minha amada; não há defeito em ti.",
+  "Vem comigo do Líbano, minha noiva; vem comigo do Líbano. Desce do cume de Amana, do alto de Senir e Hermom, das moradas dos leões, dos montes dos leopardos.",
+  "Roubaste meu coração, minha irmã, minha noiva; roubaste meu coração com um só olhar de teus olhos, com uma só joia de teu colar.",
+  "Quão belo é teu amor, minha irmã, minha noiva! Quanto melhor é teu amor que o vinho, e o aroma de teus perfumes, mais que todos os aromas!",
+  "Teus lábios, minha noiva, destilam mel; há mel e leite debaixo de tua língua, e o perfume de tuas vestes é como o perfume do Líbano.",
+  "Jardim fechado és tu, minha irmã, minha noiva; fonte fechada, nascente selada.",
+  "Teus brotos são pomar de romãs com frutos excelentes, hena e nardo,",
+  "nardo e açafrão, cálamo e canela, com todas as árvores de incenso, mirra e aloés, com todos os melhores aromas.",
+  "És fonte dos jardins, poço de águas vivas que descem do Líbano.",
+  "Desperta, vento norte, e vem, vento sul! Soprai sobre meu jardim, para que seus aromas se espalhem. Que meu amado venha ao seu jardim e coma de seus frutos excelentes."
+];
+
+window.SONG_OF_SONGS_TEXT[5] = [
+  "Entrei em meu jardim, minha irmã, minha noiva; colhi minha mirra com meu bálsamo, comi meu favo e meu mel, bebi meu vinho e meu leite. Comei, amigos; bebei e embriagai-vos de amor!",
+  "Eu dormia, mas meu coração estava desperto. Eis a voz de meu amado que bate: “Abre-me, minha irmã, minha amada, minha pomba, minha perfeita, pois minha cabeça está coberta de orvalho, e minhas madeixas, das gotas da noite”.",
+  "“Já tirei minha túnica; como tornarei a vesti-la? Já lavei meus pés; como os tornarei a sujar?”",
+  "Meu amado estendeu a mão pela abertura, e meu íntimo se comoveu por causa dele.",
+  "Levantei-me para abrir a meu amado; minhas mãos gotejavam mirra, meus dedos, mirra líquida, sobre as maçanetas do ferrolho.",
+  "Abri a meu amado, mas meu amado já havia se retirado e partido. Minha alma desfaleceu quando ele falou. Busquei-o, mas não o encontrei; chamei-o, mas ele não me respondeu.",
+  "Encontraram-me os guardas que percorrem a cidade; espancaram-me e feriram-me. Os guardas dos muros tiraram de mim meu manto.",
+  "Conjuro-vos, filhas de Jerusalém: se encontrardes meu amado, que lhe direis? Que estou doente de amor.",
+  "Que tem teu amado a mais que os outros, ó mais bela entre as mulheres? Que tem teu amado a mais que os outros, para que assim nos conjures?",
+  "Meu amado é radiante e corado, distinguido entre dez mil.",
+  "Sua cabeça é ouro puro; seus cabelos são ondulados, negros como o corvo.",
+  "Seus olhos são como pombas junto a correntes de água, banhados em leite, assentados em plenitude.",
+  "Suas faces são como canteiros de bálsamo, torres de perfumes; seus lábios são lírios que destilam mirra líquida.",
+  "Suas mãos são cilindros de ouro incrustados de berilo; seu ventre é marfim polido coberto de safiras.",
+  "Suas pernas são colunas de mármore assentadas sobre bases de ouro puro; sua aparência é como o Líbano, majestoso como os cedros.",
+  "Sua boca é doçura, e ele é inteiramente desejável. Este é meu amado, este é meu querido, ó filhas de Jerusalém."
+];
+
+window.SONG_OF_SONGS_TEXT[6] = [
+  "Para onde foi teu amado, ó mais bela entre as mulheres? Para onde se voltou teu amado, para que o busquemos contigo?",
+  "Meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar nos jardins e colher lírios.",
+  "Eu sou de meu amado, e meu amado é meu; ele apascenta entre os lírios.",
+  "Tu és bela, minha amada, como Tirza, encantadora como Jerusalém, imponente como exércitos com bandeiras.",
+  "Desvia de mim teus olhos, pois eles me perturbam. Teus cabelos são como rebanho de cabras que descem de Gileade.",
+  "Teus dentes são como rebanho de ovelhas que sobem do banho; todas têm gêmeas, e nenhuma delas perdeu sua cria.",
+  "Tuas faces por trás do véu são como metades de romã.",
+  "Há sessenta rainhas, oitenta concubinas e jovens sem número;",
+  "mas uma só é minha pomba, minha perfeita; ela é a única de sua mãe, a escolhida daquela que a deu à luz. As jovens a veem e a chamam feliz; as rainhas e as concubinas a louvam.",
+  "Quem é esta que aparece como a aurora, bela como a lua, brilhante como o sol, imponente como exércitos com bandeiras?",
+  "Desci ao jardim das nogueiras para ver os brotos do vale, para ver se a videira florescia e se as romãs brotavam.",
+  "Antes que eu percebesse, meu desejo me colocou entre os carros de meu povo principesco."
+];
