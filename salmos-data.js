@@ -1,6 +1,6 @@
 /* Salmos — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: Westminster Leningrad Codex (WLC), Midvash/bible-data, livro OSIS Ps.
- * Progresso: salmos 1–118 concluídos; Salmo 119 em andamento (132/176 versículos). Não publicar até concluir e conferir os 150 salmos.
+ * Progresso: salmos 1–118 concluídos; Salmo 119 concluído (176/176 versículos); salmos 1–119 concluídos. Não publicar até concluir e conferir os 150 salmos.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.PSALMS_TEXT = window.PSALMS_TEXT || {};
@@ -2514,5 +2514,49 @@ window.PSALMS_TEXT[119] = [
   "Por isso considero retos todos os teus preceitos e odeio todo caminho de falsidade.",
   "Maravilhosos são teus testemunhos; por isso minha alma os guarda.",
   "A abertura de tuas palavras ilumina e dá entendimento aos simples.",
-  "Abro a boca e suspiro, pois anseio por teus mandamentos."
+  "Abro a boca e suspiro, pois anseio por teus mandamentos.",
+  "Firma meus passos por tua palavra, e que nenhuma iniquidade me domine.",
+  "Livra-me da opressão dos homens, e guardarei teus preceitos.",
+  "Faze resplandecer teu rosto sobre teu servo e ensina-me teus estatutos.",
+  "Rios de águas descem de meus olhos, porque não guardam tua instrução.",
+  "Justo és tu, YHWH, e retos são teus julgamentos.",
+  "Ordenaste teus testemunhos em justiça e grande fidelidade.",
+  "Meu zelo me consome, pois meus adversários se esquecem de tuas palavras.",
+  "Tua palavra é inteiramente pura, e teu servo a ama.",
+  "Sou pequeno e desprezado, mas não me esqueço de teus preceitos.",
+  "Tua justiça é justiça eterna, e tua instrução é verdade.",
+  "Angústia e aflição me alcançaram, mas teus mandamentos são meu prazer.",
+  "Teus testemunhos são justos para sempre; dá-me entendimento, e viverei.",
+  "Clamo de todo o coração; responde-me, YHWH, e guardarei teus estatutos.",
+  "Clamo a ti; salva-me, e guardarei teus testemunhos.",
+  "Antecipando a aurora, clamo por socorro; espero em tua palavra.",
+  "Meus olhos se antecipam às vigílias da noite, para meditar em tua palavra.",
+  "Ouve minha voz segundo tua lealdade; vivifica-me, YHWH, segundo teu julgamento.",
+  "Aproximam-se os que seguem a maldade; estão longe de tua instrução.",
+  "Tu, porém, estás perto, YHWH, e todos os teus mandamentos são verdade.",
+  "Há muito sei, por teus testemunhos, que os estabeleceste para sempre.",
+  "Olha para minha aflição e livra-me, pois não me esqueci de tua instrução.",
+  "Defende minha causa e resgata-me; vivifica-me segundo tua palavra.",
+  "A salvação está longe dos perversos, pois não buscam teus estatutos.",
+  "Grandes são tuas misericórdias, YHWH; vivifica-me segundo teus julgamentos.",
+  "Muitos são meus perseguidores e adversários, mas não me desvio de teus testemunhos.",
+  "Vejo os traidores e sinto repugnância, pois não guardam tua palavra.",
+  "Vê como amo teus preceitos; vivifica-me, YHWH, segundo tua lealdade.",
+  "A essência de tua palavra é verdade, e cada um de teus justos julgamentos dura para sempre.",
+  "Príncipes me perseguem sem motivo, mas meu coração teme tuas palavras.",
+  "Alegro-me com tua palavra como quem encontra grande despojo.",
+  "Odeio e abomino a falsidade, mas amo tua instrução.",
+  "Louvo-te sete vezes ao dia por teus justos julgamentos.",
+  "Grande paz têm os que amam tua instrução; nada os faz tropeçar.",
+  "Espero por tua salvação, YHWH, e pratico teus mandamentos.",
+  "Minha alma guarda teus testemunhos; eu os amo profundamente.",
+  "Guardo teus preceitos e teus testemunhos, pois todos os meus caminhos estão diante de ti.",
+  "Que meu clamor chegue diante de ti, YHWH; dá-me entendimento segundo tua palavra.",
+  "Que minha súplica chegue à tua presença; livra-me conforme tua promessa.",
+  "Meus lábios transbordarão louvor, pois me ensinas teus estatutos.",
+  "Minha língua cantará tua palavra, pois todos os teus mandamentos são justos.",
+  "Que tua mão venha em meu auxílio, pois escolhi teus preceitos.",
+  "Anseio por tua salvação, YHWH, e tua instrução é meu prazer.",
+  "Que minha alma viva e te louve; que teus julgamentos me ajudem.",
+  "Ando errante como ovelha perdida; busca teu servo, pois não me esqueci de teus mandamentos."
 ];
