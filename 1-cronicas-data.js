@@ -721,3 +721,70 @@ window.FIRST_CHRONICLES_TEXT[18] = [
   "Zadoque, filho de Aitube, e Abimeleque, filho de Abiatar, eram sacerdotes; Sausa era secretário;",
   "Benaia, filho de Joiada, comandava os quereteus e peleteus; e os filhos de Davi eram os primeiros ao lado do rei."
 ];
+
+
+window.FIRST_CHRONICLES_TEXT[19] = [
+  "Depois disso, Naás, rei dos amonitas, morreu, e seu filho reinou em seu lugar.",
+  "Davi disse: “Mostrarei bondade a Hanum, filho de Naás, pois seu pai me tratou com bondade.” Davi enviou mensageiros para consolá-lo pela morte de seu pai. Os servos de Davi chegaram à terra dos amonitas, a Hanum, para consolá-lo.",
+  "Mas os chefes dos amonitas disseram a Hanum: “Pensarás que Davi está honrando teu pai porque enviou consoladores? Não vieram seus servos para investigar, espionar e explorar a terra?”",
+  "Então Hanum tomou os servos de Davi, raspou-lhes a barba, cortou suas roupas pela metade, até as nádegas, e os mandou embora.",
+  "Eles partiram e contaram a Davi o que havia acontecido com aqueles homens. Davi mandou mensageiros ao encontro deles, pois estavam muito envergonhados, e o rei lhes disse: “Fiquem em Jericó até que a barba cresça; depois voltem.”",
+  "Quando os amonitas viram que haviam se tornado odiosos para Davi, Hanum e os amonitas enviaram mil talentos de prata para contratar carros e cavaleiros da Mesopotâmia, da Síria de Maacá e de Zobá.",
+  "Contrataram trinta e dois mil carros, além do rei de Maacá e seu povo. Eles vieram e acamparam diante de Medeba. Os amonitas também se reuniram de suas cidades e foram para a batalha.",
+  "Davi soube disso e enviou Joabe com todo o exército dos guerreiros.",
+  "Os amonitas saíram e se dispuseram em formação de batalha à entrada da cidade, enquanto os reis que haviam vindo ficaram à parte, no campo.",
+  "Joabe viu que a batalha estava preparada contra ele pela frente e pela retaguarda. Então escolheu alguns dos melhores homens de Israel e os dispôs contra os arameus.",
+  "Entregou o restante do povo ao comando de seu irmão Abisai, e eles se dispuseram contra os amonitas.",
+  "Joabe disse: “Se os arameus forem mais fortes do que eu, virás em meu auxílio; mas, se os amonitas forem mais fortes do que tu, eu te ajudarei.",
+  "Sê forte! Lutemos com coragem por nosso povo e pelas cidades de nosso Deus. E que o Senhor faça o que lhe parecer bom.”",
+  "Joabe e o povo que estava com ele avançaram contra os arameus para a batalha, e estes fugiram diante dele.",
+  "Quando os amonitas viram que os arameus haviam fugido, também fugiram diante de Abisai, irmão de Joabe, e entraram na cidade. Então Joabe voltou para Jerusalém.",
+  "Os arameus viram que haviam sido derrotados por Israel e enviaram mensageiros para trazer os arameus que estavam além do rio Eufrates. Sofaque, comandante do exército de Hadadezer, ia à frente deles.",
+  "Quando Davi foi informado, reuniu todo o Israel, atravessou o Jordão, chegou até eles e dispôs suas tropas para a batalha. Davi organizou suas forças contra os arameus, e eles lutaram contra ele.",
+  "Os arameus fugiram diante de Israel. Davi matou dos arameus sete mil condutores de carros e quarenta mil soldados de infantaria; também matou Sofaque, comandante do exército.",
+  "Quando os servos de Hadadezer viram que haviam sido derrotados por Israel, fizeram paz com Davi e se tornaram seus servos. E os arameus não quiseram mais ajudar os amonitas."
+];
+
+window.FIRST_CHRONICLES_TEXT[20] = [
+  "Na época em que os reis costumavam sair para a guerra, Joabe conduziu o exército e devastou a terra dos amonitas. Foi até Rabá e a sitiou, enquanto Davi permaneceu em Jerusalém. Joabe atacou Rabá e a destruiu.",
+  "Davi tirou da cabeça do rei deles a coroa, que pesava um talento de ouro e tinha uma pedra preciosa; ela foi colocada na cabeça de Davi. Ele também retirou da cidade uma enorme quantidade de despojos.",
+  "Levou os habitantes da cidade e os submeteu ao trabalho com serras, picaretas de ferro e machados. Davi fez o mesmo com todas as cidades dos amonitas. Depois, Davi e todo o povo voltaram a Jerusalém.",
+  "Depois disso, houve guerra contra os filisteus em Gezer. Sibecai, o husatita, matou Sipai, descendente dos refains, e eles foram subjugados.",
+  "Houve ainda outra guerra contra os filisteus. Elanã, filho de Jair, matou Lami, irmão de Golias, o geteu; a haste de sua lança era como o eixo de um tear.",
+  "Houve ainda guerra em Gate. Havia ali um homem de grande estatura, que tinha seis dedos em cada mão e em cada pé, vinte e quatro ao todo; ele também era descendente dos refains.",
+  "Ele desafiou Israel, mas Jônatas, filho de Simeia, irmão de Davi, o matou.",
+  "Esses nasceram dos refains em Gate e caíram pelas mãos de Davi e de seus servos."
+];
+
+window.FIRST_CHRONICLES_TEXT[21] = [
+  "Satanás se levantou contra Israel e incitou Davi a fazer o recenseamento de Israel.",
+  "Davi disse a Joabe e aos chefes do povo: “Ide, contai Israel desde Berseba até Dã e trazei-me o resultado, para que eu saiba o número deles.”",
+  "Joabe respondeu: “Que o Senhor acrescente ao seu povo cem vezes mais! Meu senhor, o rei, não são todos eles servos de meu senhor? Por que meu senhor deseja fazer isso? Por que trazer culpa sobre Israel?”",
+  "Mas a ordem do rei prevaleceu sobre Joabe. Joabe saiu e percorreu todo Israel; depois voltou a Jerusalém.",
+  "Joabe entregou a Davi o resultado do recenseamento do povo: em todo Israel havia um milhão e cem mil homens que manejavam a espada; em Judá, quatrocentos e setenta mil homens que manejavam a espada.",
+  "Joabe não incluiu Levi e Benjamim no recenseamento, pois a ordem do rei lhe pareceu abominável.",
+  "Essa ordem desagradou a Deus, e ele feriu Israel.",
+  "Davi disse a Deus: “Pequei gravemente ao fazer isso. Agora, peço-te que retires a culpa de teu servo, pois agi com muita insensatez.”",
+  "O Senhor falou a Gade, vidente de Davi, dizendo:",
+  "“Vai e fala a Davi: Assim diz o Senhor: Ponho diante de ti três opções; escolhe uma delas, e eu a executarei contra ti.”",
+  "Gade foi a Davi e lhe disse: “Assim diz o Senhor: Escolhe para ti:",
+  "ou três anos de fome; ou três meses sendo perseguido e destruído diante de teus adversários, enquanto a espada de teus inimigos te alcança; ou três dias da espada do Senhor, isto é, peste na terra, com o anjo do Senhor trazendo destruição por todo o território de Israel. Agora, decide que resposta darei àquele que me enviou.”",
+  "Davi respondeu a Gade: “Estou em grande angústia. Prefiro cair nas mãos do Senhor, pois suas misericórdias são muito grandes; não quero cair nas mãos dos homens.”",
+  "Então o Senhor enviou uma peste sobre Israel, e setenta mil homens de Israel morreram.",
+  "Deus enviou um anjo a Jerusalém para destruí-la. Mas, quando o anjo estava prestes a destruí-la, o Senhor olhou e se arrependeu daquele mal. Disse ao anjo destruidor: “Basta! Retira agora a tua mão.” O anjo do Senhor estava junto à eira de Ornã, o jebuseu.",
+  "Davi levantou os olhos e viu o anjo do Senhor entre a terra e o céu, com a espada desembainhada na mão, estendida sobre Jerusalém. Então Davi e os anciãos, vestidos de pano de saco, prostraram-se com o rosto em terra.",
+  "Davi disse a Deus: “Não fui eu que ordenei o recenseamento do povo? Eu mesmo pequei e pratiquei o mal. Mas estas ovelhas, que fizeram? Senhor, meu Deus, que tua mão caia sobre mim e sobre a casa de meu pai, mas não sobre teu povo, para destruí-lo com a peste!”",
+  "Então o anjo do Senhor ordenou a Gade que dissesse a Davi para subir e construir um altar ao Senhor na eira de Ornã, o jebuseu.",
+  "Davi subiu conforme a palavra que Gade havia falado em nome do Senhor.",
+  "Ornã se voltou e viu o anjo; seus quatro filhos estavam com ele e se esconderam. Ornã estava debulhando trigo.",
+  "Davi chegou até Ornã. Ornã olhou e viu Davi; saiu da eira e se prostrou diante de Davi, com o rosto em terra.",
+  "Davi disse a Ornã: “Dá-me o terreno da eira, para que eu construa nele um altar ao Senhor. Dá-o a mim pelo preço integral, para que cesse a praga sobre o povo.”",
+  "Ornã respondeu a Davi: “Toma-o para ti, e que meu senhor, o rei, faça o que lhe parecer bom. Dou também os bois para os holocaustos, os trilhos para a lenha e o trigo para a oferta de cereal; dou tudo isso.”",
+  "Mas o rei Davi disse a Ornã: “Não! Quero comprá-lo pelo preço integral. Não tomarei para o Senhor o que é teu, nem oferecerei um holocausto que nada me custe.”",
+  "Davi pagou a Ornã pelo terreno seiscentos siclos de ouro, por peso.",
+  "Davi construiu ali um altar ao Senhor, ofereceu holocaustos e sacrifícios de comunhão e invocou o Senhor. O Senhor lhe respondeu com fogo vindo do céu sobre o altar do holocausto.",
+  "Então o Senhor ordenou ao anjo, e ele recolocou a espada na bainha.",
+  "Naquele tempo, quando Davi viu que o Senhor lhe havia respondido na eira de Ornã, o jebuseu, ofereceu sacrifícios ali.",
+  "O tabernáculo do Senhor, que Moisés havia feito no deserto, e o altar dos holocaustos estavam naquele tempo no lugar alto de Gibeão.",
+  "Davi não podia ir até lá para consultar a Deus, pois estava aterrorizado por causa da espada do anjo do Senhor."
+];
