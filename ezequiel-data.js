@@ -135,3 +135,68 @@ window.EZEKIEL_TEXT[6] = [
   "Saberão que eu sou YHWH, quando seus mortos estiverem entre seus ídolos, ao redor de seus altares, sobre todo monte alto, em todos os cumes das colinas e debaixo de toda árvore verde e de todo carvalho frondoso, nos lugares onde ofereceram aroma agradável a todos os seus ídolos.",
   "Estenderei minha mão contra eles e farei da terra uma desolação e um espanto, desde o deserto até Dibla, em todas as suas moradas; saberão que eu sou YHWH”."
 ];
+
+window.EZEKIEL_TEXT[7] = [
+  "A palavra de YHWH veio a mim, dizendo:",
+  "“Tu, filho do homem, assim diz o Senhor YHWH à terra de Israel: O fim! O fim chegou aos quatro cantos da terra.",
+  "Agora o fim está sobre ti; enviarei minha ira contra ti, julgar-te-ei segundo teus caminhos e trarei sobre ti todas as tuas abominações.",
+  "Meu olho não poupará, nem terei compaixão; farei recair sobre ti teus caminhos, e tuas abominações estarão no meio de ti; sabereis que eu sou YHWH.",
+  "Assim diz o Senhor YHWH: Uma calamidade, uma calamidade única, eis que vem!",
+  "O fim vem; o fim vem, despertou contra ti; eis que vem!",
+  "Tua sentença chegou a ti, habitante da terra; chegou o tempo, o dia está próximo; há tumulto, e não alegria, sobre os montes.",
+  "Agora, em breve derramarei meu furor sobre ti, satisfarei minha ira contra ti, julgar-te-ei segundo teus caminhos e trarei sobre ti todas as tuas abominações.",
+  "Meu olho não poupará, nem terei compaixão; segundo teus caminhos farei recair sobre ti, e tuas abominações estarão no meio de ti; sabereis que eu, YHWH, sou quem fere.",
+  "Eis o dia! Eis que vem! Tua sentença saiu; a vara floresceu, a arrogância brotou.",
+  "A violência se levantou como vara de maldade; nada restará deles, nem de sua multidão, nem de seu tumulto, nem haverá lamento por eles.",
+  "Chegou o tempo, o dia se aproxima; não se alegre o comprador, nem se entristeça o vendedor, pois o furor está sobre toda a multidão.",
+  "Pois o vendedor não voltará ao que vendeu, ainda que permaneça vivo; a visão contra toda a multidão não será revogada, e ninguém fortalecerá sua vida por causa de sua iniquidade.",
+  "Tocaram a trombeta e prepararam tudo, mas ninguém vai à batalha, pois meu furor está contra toda a multidão.",
+  "A espada está fora, a peste e a fome dentro; quem estiver no campo morrerá à espada, e quem estiver na cidade será consumido pela fome e pela peste.",
+  "Os que escaparem deles fugirão e estarão nos montes como pombas dos vales; todos gemerão, cada um por sua iniquidade.",
+  "Todas as mãos ficarão fracas, e todos os joelhos se tornarão como água.",
+  "Cingir-se-ão de pano de saco, e o terror os cobrirá; haverá vergonha em todos os rostos e calvície em todas as cabeças.",
+  "Lançarão sua prata pelas ruas, e seu ouro será como coisa impura; sua prata e seu ouro não poderão livrá-los no dia do furor de YHWH; não saciarão sua alma nem encherão seu ventre, pois foram tropeço de sua iniquidade.",
+  "Transformaram a beleza de seus ornamentos em orgulho e fizeram deles imagens de suas abominações e coisas repugnantes; por isso farei que sejam para eles coisa impura.",
+  "Entregá-los-ei nas mãos de estrangeiros como despojo e aos perversos da terra como presa; eles os profanarão.",
+  "Desviarei deles meu rosto, e profanarão meu tesouro; ladrões entrarão nele e o profanarão.",
+  "Faze uma corrente, pois a terra está cheia de julgamentos de sangue, e a cidade está cheia de violência.",
+  "Trarei as piores nações, e elas tomarão suas casas; farei cessar o orgulho dos poderosos, e seus lugares santos serão profanados.",
+  "Vem a destruição; buscarão paz, mas não haverá.",
+  "Virão calamidade sobre calamidade, e rumor sobre rumor; procurarão visão do profeta, mas a instrução perecerá do sacerdote, e o conselho, dos anciãos.",
+  "O rei lamentará, o príncipe se vestirá de desolação, e as mãos do povo da terra tremerão. Agirei com eles segundo seu caminho e os julgarei segundo seus julgamentos; saberão que eu sou YHWH”."
+];
+
+window.EZEKIEL_TEXT[8] = [
+  "No sexto ano, no sexto mês, no quinto dia do mês, eu estava sentado em minha casa, e os anciãos de Judá estavam sentados diante de mim; ali a mão do Senhor YHWH caiu sobre mim.",
+  "Olhei, e eis uma figura com aparência de fogo; desde a aparência de seus lombos para baixo era fogo, e desde seus lombos para cima havia algo como brilho, como metal reluzente.",
+  "Ele estendeu algo semelhante a uma mão e me tomou por uma mecha de meus cabelos; o Espírito me levantou entre a terra e os céus e me levou em visões de Deus a Jerusalém, à entrada da porta interior que olha para o norte, onde estava o assento da imagem do ciúme, que provoca ciúme.",
+  "Eis que a glória do Deus de Israel estava ali, conforme a visão que eu vira no vale.",
+  "Ele me disse: “Filho do homem, levanta os olhos para o norte”. Levantei os olhos para o norte, e eis que ao norte da porta do altar, na entrada, estava aquela imagem do ciúme.",
+  "Ele me disse: “Filho do homem, vês o que fazem? As grandes abominações que a casa de Israel pratica aqui, para que eu me afaste de meu santuário? Mas ainda verás abominações maiores”.",
+  "Levou-me à entrada do pátio; olhei, e eis um buraco na parede.",
+  "Ele me disse: “Filho do homem, cava agora na parede”. Cavei na parede, e eis que apareceu uma entrada.",
+  "Disse-me: “Entra e vê as perversas abominações que praticam aqui”.",
+  "Entrei e olhei; eis toda espécie de répteis e animais repugnantes, e todos os ídolos da casa de Israel, pintados na parede ao redor.",
+  "Diante deles estavam setenta homens dos anciãos da casa de Israel, com Jaazanias, filho de Safã, de pé no meio deles; cada um tinha seu incensário na mão, e uma nuvem de incenso subia.",
+  "Ele me disse: “Filho do homem, viste o que os anciãos da casa de Israel fazem nas trevas, cada um em sua câmara de imagens? Pois dizem: ‘YHWH não nos vê; YHWH abandonou a terra’”.",
+  "Disse-me ainda: “Ainda verás abominações maiores que estas”.",
+  "Levou-me à entrada da porta da casa de YHWH, que olha para o norte; eis que mulheres estavam sentadas chorando por Tamuz.",
+  "Ele me disse: “Viste isso, filho do homem? Ainda verás abominações maiores que estas”.",
+  "Levou-me ao pátio interior da casa de YHWH; eis que à entrada do templo de YHWH, entre o pórtico e o altar, havia cerca de vinte e cinco homens, de costas para o templo de YHWH e com o rosto voltado para o Oriente; prostravam-se para o sol, voltados para o Oriente.",
+  "Ele me disse: “Viste isso, filho do homem? Acaso é coisa leve para a casa de Judá praticar as abominações que praticam aqui? Pois encheram a terra de violência e voltam a provocar-me à ira; eis que levam o ramo ao nariz.",
+  "Também eu agirei com furor; meu olho não poupará, nem terei compaixão. Ainda que gritem aos meus ouvidos em alta voz, não os ouvirei”."
+];
+
+window.EZEKIEL_TEXT[9] = [
+  "Então ele clamou aos meus ouvidos em alta voz, dizendo: “Aproximai-vos, vós que sois encarregados da cidade, cada um com sua arma destruidora na mão”.",
+  "Eis que vinham seis homens pelo caminho da porta superior, que olha para o norte, cada um com sua arma de destruição na mão; entre eles havia um homem vestido de linho, com um estojo de escriba à cintura. Entraram e ficaram ao lado do altar de bronze.",
+  "A glória do Deus de Israel se levantou de sobre o querubim, sobre o qual estivera, em direção à entrada do templo. YHWH chamou o homem vestido de linho, que tinha o estojo de escriba à cintura,",
+  "e lhe disse: “Passa pelo meio da cidade, pelo meio de Jerusalém, e marca um sinal na testa dos homens que suspiram e gemem por causa de todas as abominações que se praticam no meio dela”.",
+  "Aos outros, ouvi-o dizer: “Passai pela cidade atrás dele e feri; que vosso olho não poupe, nem tenhais compaixão.",
+  "Matai velhos, jovens, virgens, crianças e mulheres, até exterminá-los; mas não vos aproximeis de nenhum homem sobre quem estiver o sinal. Começai pelo meu santuário”. Então começaram pelos anciãos que estavam diante do templo.",
+  "Ele lhes disse: “Contaminai o templo e enchei os pátios de mortos; saí!” Eles saíram e feriram na cidade.",
+  "Enquanto feriam, fiquei sozinho; caí com o rosto em terra e clamei: “Ah, Senhor YHWH! Destruirás todo o remanescente de Israel ao derramar teu furor sobre Jerusalém?”",
+  "Ele me respondeu: “A iniquidade da casa de Israel e de Judá é extremamente grande; a terra está cheia de sangue, e a cidade, de perversão; pois dizem: ‘YHWH abandonou a terra; YHWH não vê’.",
+  "Também meu olho não poupará, nem terei compaixão; farei recair sobre sua cabeça o caminho deles”.",
+  "Eis que o homem vestido de linho, com o estojo à cintura, trouxe a resposta, dizendo: “Fiz como me ordenaste”."
+];
