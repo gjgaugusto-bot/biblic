@@ -620,3 +620,60 @@ window.JOB_TEXT[22] = [
   "Quando os homens forem abatidos, dirás: ‘Há elevação!’ Deus salvará o humilde.",
   "Ele livrará até aquele que não é inocente; será libertado pela pureza de tuas mãos”."
 ];
+
+window.JOB_TEXT[23] = [
+  "Jó respondeu:",
+  "“Ainda hoje minha queixa é amarga; minha mão pesa sobre meu gemido.",
+  "Quem dera eu soubesse onde encontrá-lo! Eu iria até seu lugar.",
+  "Apresentaria minha causa diante dele e encheria minha boca de argumentos.",
+  "Saberia as palavras com que me responderia e entenderia o que me diria.",
+  "Contenderia ele comigo com a grandeza de seu poder? Não; ele me daria atenção.",
+  "Ali o íntegro poderia argumentar com ele, e eu seria libertado para sempre de meu juiz.",
+  "Mas, se vou para o oriente, ele não está lá; se vou para o ocidente, não o percebo.",
+  "Quando age no norte, não o vejo; quando se volta para o sul, não o encontro.",
+  "Mas ele conhece o caminho que sigo; se me provar, sairei como ouro.",
+  "Meu pé seguiu firmemente suas pegadas; guardei seu caminho e não me desviei.",
+  "Não me afastei do mandamento de seus lábios; guardei as palavras de sua boca mais que meu alimento necessário.",
+  "Mas ele é único; quem poderá fazê-lo mudar? O que sua alma deseja, isso ele faz.",
+  "Pois cumprirá o que está determinado a meu respeito, e muitas coisas semelhantes estão com ele.",
+  "Por isso fico perturbado diante dele; quando penso nisso, tenho medo dele.",
+  "Deus fez meu coração desfalecer; o Todo-Poderoso me encheu de terror.",
+  "Pois não fui destruído pelas trevas, nem a escuridão cobriu meu rosto."
+];
+
+window.JOB_TEXT[24] = [
+  "“Por que o Todo-Poderoso não reserva tempos de julgamento? Por que os que o conhecem não veem seus dias?",
+  "Há quem remova os marcos de propriedade; roubam rebanhos e os apascentam.",
+  "Levam o jumento dos órfãos e tomam como penhor o boi da viúva.",
+  "Desviam os necessitados do caminho; os pobres da terra se escondem juntos.",
+  "Como jumentos selvagens no deserto, saem para seu trabalho, procurando alimento; o ermo lhes dá pão para os filhos.",
+  "Colhem forragem no campo e rebuscam a vinha do perverso.",
+  "Passam a noite nus, sem roupa, e não têm cobertura contra o frio.",
+  "São encharcados pelas chuvas das montanhas e, sem abrigo, abraçam-se às rochas.",
+  "Há quem arranque o órfão do peito materno e tome como penhor o filho do pobre.",
+  "Andam nus, sem roupa, e carregam feixes enquanto passam fome.",
+  "Entre os muros dos perversos, espremem azeite; pisam lagares, mas têm sede.",
+  "Da cidade sobem os gemidos dos moribundos, e a alma dos feridos clama por socorro; Deus, porém, não considera isso uma injustiça.",
+  "Outros se rebelam contra a luz; não conhecem seus caminhos nem permanecem em suas veredas.",
+  "O assassino se levanta ao amanhecer, mata o pobre e o necessitado, e à noite age como ladrão.",
+  "O olho do adúltero espera o crepúsculo; pensa: ‘Ninguém me verá’, e cobre o rosto.",
+  "No escuro, arrombam casas; durante o dia se escondem; não conhecem a luz.",
+  "Pois para todos eles a manhã é como sombra de morte; quando a luz chega, reconhecem os terrores da sombra da morte.",
+  "São rápidos sobre a superfície das águas; sua porção na terra é amaldiçoada; não seguem o caminho das vinhas.",
+  "A seca e o calor levam embora as águas da neve; assim o mundo dos mortos leva os que pecaram.",
+  "O ventre que o gerou o esquece; os vermes se alimentam dele; ninguém mais se lembra dele. A injustiça é quebrada como árvore.",
+  "Ele maltrata a mulher estéril que não dá à luz e não faz o bem à viúva.",
+  "Mas Deus prolonga a vida dos poderosos por sua força; eles se levantam quando já não esperavam viver.",
+  "Ele lhes dá segurança, e eles se apoiam nela; seus olhos estão sobre os caminhos deles.",
+  "São exaltados por um pouco, depois desaparecem; são abatidos e recolhidos como todos os outros; são cortados como espigas.",
+  "Se não é assim, quem poderá provar que minto e reduzir minhas palavras a nada?”"
+];
+
+window.JOB_TEXT[25] = [
+  "Então Bildade, o suíta, respondeu:",
+  "“O domínio e o temor pertencem a Deus; ele estabelece a paz nas alturas.",
+  "Pode-se contar seus exércitos? Sobre quem não se levanta sua luz?",
+  "Como, então, pode o homem ser justo diante de Deus? Como pode ser puro aquele que nasce de mulher?",
+  "Até a lua não tem brilho, e as estrelas não são puras aos olhos dele;",
+  "quanto menos o homem, que é um verme, e o filho do homem, que é um verme pequeno!”"
+];
