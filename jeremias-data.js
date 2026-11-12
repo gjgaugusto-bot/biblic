@@ -90,7 +90,8 @@ window.JEREMIAH_TEXT[3] = [
   "Mas, como uma mulher trai seu companheiro, assim agistes traiçoeiramente comigo, casa de Israel”, diz YHWH.",
   "Ouve-se uma voz sobre as alturas desnudas: o choro e as súplicas dos filhos de Israel, porque perverteram seu caminho e se esqueceram de YHWH, seu Deus.",
   "Voltai, filhos rebeldes; eu curarei vossas rebeldias. “Eis-nos aqui, viemos a ti, pois tu és YHWH, nosso Deus.",
-  "Certamente a salvação de Israel está em YHWH, nosso Deus. Mas a vergonha consumiu o trabalho de nossos pais desde nossa juventude: seus rebanhos e seus bois, seus filhos e suas filhas.",
+  "Certamente a salvação de Israel está em YHWH, nosso Deus.",
+  "Mas a vergonha consumiu o trabalho de nossos pais desde nossa juventude: seus rebanhos e seus bois, seus filhos e suas filhas.",
   "Deitemo-nos em nossa vergonha, e que nossa desonra nos cubra, pois pecamos contra YHWH, nosso Deus, nós e nossos pais, desde nossa juventude até hoje; não ouvimos a voz de YHWH, nosso Deus”."
 ];
 
@@ -124,7 +125,8 @@ window.JEREMIAH_TEXT[4] = [
   "Pois assim diz YHWH: “Toda a terra ficará desolada, embora eu não a destrua completamente.",
   "Por isso a terra lamentará, e os céus acima ficarão escuros, porque falei, planejei e não me arrependi, nem voltarei atrás”.",
   "Ao ouvir o ruído dos cavaleiros e dos arqueiros, toda cidade foge; entram nos matagais e sobem pelas rochas. Todas as cidades estão abandonadas, e ninguém habita nelas.",
-  "E tu, devastada, que farás? Ainda que te vistas de escarlate, te adornes com joias de ouro e aumentes teus olhos com pintura, em vão te embelezas; teus amantes te desprezam, procuram tua vida."
+  "E tu, devastada, que farás? Ainda que te vistas de escarlate, te adornes com joias de ouro e aumentes teus olhos com pintura, em vão te embelezas; teus amantes te desprezam, procuram tua vida.",
+  "Pois ouvi uma voz como a de mulher em trabalho de parto, angústia como a da que dá à luz seu primeiro filho: a voz da filha de Sião, que geme e estende as mãos, dizendo: “Ai de mim, pois minha alma desfalece diante dos assassinos”."
 ];
 
 window.JEREMIAH_TEXT[5] = [
@@ -253,11 +255,11 @@ window.JEREMIAH_TEXT[8] = [
   "Eis a voz do clamor da filha de meu povo, de uma terra distante: “Acaso YHWH não está em Sião? Acaso seu Rei não está nela?” “Por que me provocaram à ira com suas imagens esculpidas, com ídolos estrangeiros?”",
   "“Passou a colheita, terminou o verão, e nós não fomos salvos”.",
   "Por causa da ferida da filha de meu povo estou ferido; ando de luto; o espanto se apoderou de mim.",
-  "Acaso não há bálsamo em Gileade? Não há ali médico? Por que, então, não se realizou a cura da filha de meu povo?"
+  "Acaso não há bálsamo em Gileade? Não há ali médico? Por que, então, não se realizou a cura da filha de meu povo?",
+  "Quem dera minha cabeça fosse cheia de água e meus olhos, fonte de lágrimas! Eu choraria dia e noite pelos mortos da filha de meu povo."
 ];
 
 window.JEREMIAH_TEXT[9] = [
-  "Quem dera minha cabeça fosse cheia de água e meus olhos, fonte de lágrimas! Eu choraria dia e noite pelos mortos da filha de meu povo.",
   "Quem dera eu tivesse no deserto um abrigo de viajantes, para deixar meu povo e me afastar deles! Pois todos são adúlteros, assembleia de traidores.",
   "“Estendem sua língua como arco; a mentira, e não a verdade, prevalece na terra; avançam de mal em mal e não me conhecem”, diz YHWH.",
   "“Guardai-vos cada um de seu próximo e não confieis em nenhum irmão, pois todo irmão engana, e todo próximo anda como caluniador.",
@@ -281,5 +283,6 @@ window.JEREMIAH_TEXT[9] = [
   "Fala: Assim diz YHWH: “Os cadáveres dos homens cairão como esterco sobre a superfície do campo e como feixes atrás do ceifeiro, sem que ninguém os recolha”.",
   "Assim diz YHWH: “Não se glorie o sábio em sua sabedoria, nem o poderoso em seu poder, nem o rico em sua riqueza;",
   "mas aquele que se gloria glorie-se nisto: em ter entendimento e me conhecer, que eu sou YHWH, que pratico lealdade, justiça e retidão na terra; pois dessas coisas me agrado”, diz YHWH.",
-  "“Eis que vêm dias em que castigarei todos os circuncidados que permanecem incircuncisos: o Egito, Judá, Edom, os filhos de Amom, Moabe e todos os que cortam os cantos do cabelo, que habitam no deserto. Pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração”."
+  "Eis que vêm dias, diz YHWH, em que castigarei todos os circuncidados que permanecem incircuncisos.",
+  "Castigarei o Egito, Judá, Edom, os filhos de Amom, Moabe e todos os que cortam os cantos do cabelo, que habitam no deserto; pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração."
 ];
