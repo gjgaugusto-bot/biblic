@@ -1106,3 +1106,77 @@ window.PSALMS_TEXT[60] = [
   "Dá-nos auxílio contra o adversário, pois inútil é a ajuda do homem.",
   "Com Deus faremos proezas; ele pisará nossos adversários."
 ];
+
+window.PSALMS_TEXT[61] = [
+  "Ao regente do coro. Sobre instrumentos de cordas. De Davi.",
+  "Ouve, ó Deus, meu clamor; atende à minha oração.",
+  "Dos confins da terra clamo a ti, quando meu coração desfalece; leva-me à rocha que é mais alta que eu.",
+  "Pois tu tens sido meu refúgio, torre forte contra o inimigo.",
+  "Que eu habite para sempre em tua tenda e me abrigue à sombra de tuas asas. Selá.",
+  "Pois tu, ó Deus, ouviste meus votos; deste a herança dos que temem teu nome.",
+  "Acrescenta dias aos dias do rei; que seus anos se estendam por muitas gerações.",
+  "Que ele permaneça para sempre diante de Deus; designa lealdade e verdade para guardá-lo.",
+  "Assim cantarei louvores ao teu nome para sempre, cumprindo meus votos dia após dia."
+];
+
+window.PSALMS_TEXT[62] = [
+  "Ao regente do coro. Sobre Jedutum. Salmo de Davi.",
+  "Somente em Deus minha alma encontra descanso; dele vem minha salvação.",
+  "Somente ele é minha rocha e minha salvação, meu alto refúgio; não serei muito abalado.",
+  "Até quando investireis contra um homem, tentando derrubá-lo, todos vós, como parede inclinada, como muro prestes a cair?",
+  "Planejam derrubá-lo de sua posição elevada; deleitam-se na mentira; com a boca abençoam, mas no íntimo amaldiçoam. Selá.",
+  "Somente em Deus, minha alma, encontra descanso, pois dele vem minha esperança.",
+  "Somente ele é minha rocha e minha salvação, meu alto refúgio; não serei abalado.",
+  "Em Deus está minha salvação e minha glória; Deus é minha rocha forte e meu refúgio.",
+  "Confiai nele em todo tempo, ó povo; derramai diante dele vosso coração. Deus é nosso refúgio. Selá.",
+  "Os filhos dos homens são apenas sopro; os filhos da humanidade são uma mentira. Postos na balança, juntos são mais leves que o sopro.",
+  "Não confieis na opressão, nem vos iludais com o roubo; se as riquezas aumentarem, não ponhais nelas o coração.",
+  "Uma vez Deus falou; duas vezes ouvi isto: que o poder pertence a Deus,",
+  "e que a ti, Senhor, pertence a lealdade; pois retribuis a cada um segundo suas obras."
+];
+
+window.PSALMS_TEXT[63] = [
+  "Salmo de Davi, quando estava no deserto de Judá.",
+  "Ó Deus, tu és meu Deus; eu te busco intensamente. Minha alma tem sede de ti; meu corpo desfalece por ti, numa terra seca e exausta, sem água.",
+  "Assim te contemplei no santuário, para ver teu poder e tua glória.",
+  "Pois tua lealdade é melhor que a vida; meus lábios te louvarão.",
+  "Assim te bendirei enquanto viver; em teu nome levantarei minhas mãos.",
+  "Minha alma se fartará como de banquete e alimento abundante; com lábios jubilosos minha boca te louvará,",
+  "quando me lembro de ti em meu leito e medito em ti nas vigílias da noite.",
+  "Pois tu tens sido meu auxílio; à sombra de tuas asas canto de alegria.",
+  "Minha alma se apega a ti; tua mão direita me sustenta.",
+  "Mas os que procuram destruir minha vida descerão às profundezas da terra.",
+  "Serão entregues ao poder da espada e se tornarão presa dos chacais.",
+  "O rei, porém, se alegrará em Deus; todos os que juram por ele se gloriarão, pois será fechada a boca dos que falam mentira."
+];
+
+window.PSALMS_TEXT[64] = [
+  "Ao regente do coro. Salmo de Davi.",
+  "Ouve, ó Deus, minha voz em minha queixa; preserva minha vida do terror do inimigo.",
+  "Esconde-me da conspiração dos perversos, do tumulto dos que praticam a iniquidade,",
+  "que afiam a língua como espada e apontam palavras amargas como flechas,",
+  "para atirar contra o inocente às escondidas; atiram de repente e não temem.",
+  "Firmam-se em seu plano perverso; conversam sobre esconder armadilhas e dizem: “Quem as verá?”",
+  "Planejam injustiças e dizem: “Concluímos um plano perfeito!” O íntimo e o coração de cada um são profundos.",
+  "Mas Deus os atingirá com uma flecha; de repente serão feridos.",
+  "Sua própria língua os fará tropeçar; todos os que os virem menearão a cabeça.",
+  "Todos os homens temerão e anunciarão a obra de Deus; considerarão o que ele fez.",
+  "O justo se alegrará em YHWH e nele se refugiará; todos os retos de coração se gloriarão."
+];
+
+window.PSALMS_TEXT[65] = [
+  "Ao regente do coro. Salmo de Davi. Cântico.",
+  "A ti, ó Deus, convém o louvor em Sião, e a ti se cumprirão os votos.",
+  "Tu ouves a oração; a ti virá toda a humanidade.",
+  "As iniquidades prevaleceram contra mim; tu, porém, cobres nossas transgressões.",
+  "Feliz aquele que escolhes e aproximas para habitar em teus pátios. Seremos saciados com o bem de tua casa, de teu santo templo.",
+  "Com feitos temíveis e justiça nos respondes, ó Deus de nossa salvação, esperança de todos os confins da terra e dos mares distantes.",
+  "Tu firmaste os montes com tua força, cingido de poder.",
+  "Acalmas o bramido dos mares, o bramido de suas ondas e o tumulto dos povos.",
+  "Os habitantes dos confins da terra temem diante de teus sinais; fazes exultar as saídas da manhã e da tarde.",
+  "Visitas a terra e a regas; enriqueces grandemente. O rio de Deus está cheio de água; preparas o cereal, pois assim preparas a terra.",
+  "Encharcas seus sulcos, aplainas seus torrões; amoleces a terra com chuvas e abençoas seus brotos.",
+  "Coroas o ano com tua bondade, e teus caminhos destilam abundância.",
+  "Os pastos do deserto transbordam, e as colinas se cingem de alegria.",
+  "Os campos se vestem de rebanhos, e os vales se cobrem de cereal; gritam de alegria e cantam."
+];
