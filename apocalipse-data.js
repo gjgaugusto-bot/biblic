@@ -57,28 +57,28 @@ window.REVELATION_TEXT = {
 "Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
 ],
 3: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"“Ao anjo da igreja em Sardes escreva: Assim diz aquele que tem os sete Espíritos de Deus e as sete estrelas: Conheço suas obras; você tem fama de estar vivo, mas está morto.",
+"Esteja vigilante e fortaleça o que resta e estava para morrer, pois não achei completas as suas obras diante do meu Deus.",
+"Lembre-se do que você recebeu e ouviu; guarde-o e arrependa-se. Se não vigiar, virei como ladrão, e você não saberá a que hora virei contra você.",
+"Contudo, você tem em Sardes algumas pessoas que não contaminaram suas roupas. Elas andarão comigo vestidas de branco, pois são dignas.",
+"O vencedor será vestido de roupas brancas; de modo algum apagarei seu nome do livro da vida, mas confessarei seu nome diante de meu Pai e dos seus anjos.",
+"Quem tem ouvidos, ouça o que o Espírito diz às igrejas.",
+"“Ao anjo da igreja em Filadélfia escreva: Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fecha, e fecha e ninguém abre:",
+"Conheço suas obras. Eis que coloquei diante de você uma porta aberta, que ninguém pode fechar. Sei que você tem pouca força, mas guardou minha palavra e não negou meu nome.",
+"Eis que farei alguns da sinagoga de Satanás, dos que se dizem judeus e não são, mas mentem, virem e se prostrarem diante de seus pés; e saberão que eu o amei.",
+"Porque você guardou a palavra da minha perseverança, também eu o guardarei da hora da provação que está para vir sobre o mundo inteiro, para pôr à prova os que habitam na terra.",
+"Venho sem demora. Segure firmemente o que você tem, para que ninguém tome sua coroa.",
+"Ao vencedor farei coluna no santuário do meu Deus, e dali jamais sairá. Escreverei sobre ele o nome do meu Deus, o nome da cidade do meu Deus, a nova Jerusalém que desce do céu, da parte do meu Deus, e também meu novo nome.",
+"Quem tem ouvidos, ouça o que o Espírito diz às igrejas.",
+"“Ao anjo da igreja em Laodiceia escreva: Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:",
+"Conheço suas obras: você não é frio nem quente. Quem dera fosse frio ou quente!",
+"Assim, porque você é morno, e não é quente nem frio, estou a ponto de vomitá-lo da minha boca.",
+"Você diz: ‘Sou rico, enriqueci e não preciso de nada’, mas não percebe que é miserável, digno de compaixão, pobre, cego e nu.",
+"Aconselho que compre de mim ouro refinado pelo fogo, para que se torne rico; roupas brancas, para que se vista e não fique exposta a vergonha da sua nudez; e colírio para ungir os olhos, para que possa ver.",
+"Eu repreendo e disciplino aqueles a quem amo. Portanto, seja zeloso e arrependa-se.",
+"Eis que estou à porta e bato. Se alguém ouvir minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.",
+"Ao vencedor darei o direito de sentar-se comigo em meu trono, assim como também venci e me sentei com meu Pai em seu trono.",
+"Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
 ],
 4: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2], pendingChapters: Array.from({length:20}, (_,i)=>i+3), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3], pendingChapters: Array.from({length:19}, (_,i)=>i+4), versePositions: 405, complete: false };
