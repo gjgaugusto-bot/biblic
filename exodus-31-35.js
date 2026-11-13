@@ -6,7 +6,7 @@ window.EXODUS_TEXT[31] = [
 "Vê: chamei pelo nome Bezalel, filho de Uri, filho de Hur, da tribo de Judá.",
 "Enchi-o do espírito de Deus, com sabedoria, entendimento, conhecimento e toda espécie de habilidade artesanal,",
 "para conceber projetos e trabalhar em ouro, prata e bronze,",
-"para lapidar pedras de engaste, entalhar madeira e realizar todo tipo de trabalho.",
+"para trabalhar pedras e engastá-las, entalhar madeira e realizar todo tipo de trabalho.",
 "Eis que lhe dei como companheiro Ooliabe, filho de Aisamaque, da tribo de Dã; também coloquei habilidade no coração de todos os que têm coração sábio, para que façam tudo o que te ordenei:",
 "a tenda do encontro, a arca do testemunho, a cobertura que está sobre ela e todos os utensílios da tenda;",
 "a mesa e seus utensílios, o candelabro puro e todos os seus utensílios, o altar do incenso;",
@@ -22,7 +22,7 @@ window.EXODUS_TEXT[31] = [
 "Quando terminou de falar com Moisés no monte Sinai, deu-lhe as duas tábuas do testemunho, tábuas de pedra escritas pelo dedo de Deus."
 ];
 window.EXODUS_TEXT[32] = [
-"O povo viu que Moisés demorava a descer do monte. Reuniu-se em torno de Arão e lhe disse: Levanta-te, faze para nós deuses que caminhem à nossa frente, pois não sabemos o que aconteceu a esse Moisés, o homem que nos tirou da terra do Egito.",
+"O povo viu que Moisés demorava a descer do monte. Reuniu-se contra Arão e lhe disse: Levanta-te, faze para nós deuses que caminhem à nossa frente, pois não sabemos o que aconteceu a esse Moisés, o homem que nos tirou da terra do Egito.",
 "Arão lhes respondeu: Tirai os brincos de ouro das orelhas de vossas mulheres, filhos e filhas e trazei-os a mim.",
 "Todo o povo tirou os brincos de ouro das orelhas e os levou a Arão.",
 "Ele recebeu o ouro de suas mãos, moldou-o com uma ferramenta e fez dele um bezerro fundido. Então disseram: Israel, estes são teus deuses, que te fizeram subir da terra do Egito.",
@@ -52,10 +52,10 @@ window.EXODUS_TEXT[32] = [
 "Os filhos de Levi fizeram conforme a palavra de Moisés; naquele dia caíram do povo cerca de três mil homens.",
 "Moisés disse: Hoje fostes consagrados para YHWH, cada um à custa de seu filho e de seu irmão, para que hoje vos seja concedida uma bênção.",
 "No dia seguinte, Moisés disse ao povo: Cometestes um grande pecado. Agora subirei a YHWH; talvez eu possa fazer expiação pelo vosso pecado.",
-"Moisés voltou a YHWH e disse: Ah! Este povo cometeu um grande pecado: fez para si deuses de ouro.",
+"Moisés voltou a YHWH e disse: Ah! Este povo cometeu um grande pecado: fez para si uma divindade de ouro.",
 "Agora, se perdoares o pecado deles...; mas, se não, apaga-me, peço-te, do livro que escreveste.",
 "YHWH respondeu a Moisés: Aquele que pecou contra mim, a esse apagarei do meu livro.",
-"Agora vai, conduz o povo ao lugar de que te falei. Meu mensageiro irá à tua frente; mas, no dia em que eu fizer prestação de contas, punirei o pecado deles.",
+"Agora vai, conduz o povo ao lugar de que te falei. Meu mensageiro irá à tua frente; mas, no dia em que eu os visitar, punirei o pecado deles.",
 "YHWH feriu o povo por causa do bezerro que Arão havia feito."
 ];
 window.EXODUS_TEXT[33] = [
@@ -64,11 +64,11 @@ window.EXODUS_TEXT[33] = [
 "Irás para uma terra que mana leite e mel. Eu, porém, não subirei no meio de ti, para que não te consuma no caminho, pois és um povo obstinado.",
 "Quando o povo ouviu essa palavra severa, ficou de luto, e ninguém pôs seus ornamentos.",
 "YHWH dissera a Moisés: Dize aos filhos de Israel: Sois um povo obstinado. Se eu subisse no meio de ti, ainda que por um instante, eu te consumiria. Agora, tira teus ornamentos, e saberei o que fazer contigo.",
-"Assim, os filhos de Israel deixaram seus ornamentos desde o monte Horebe.",
+"Assim, os filhos de Israel se despojaram de seus ornamentos desde o monte Horebe.",
 "Moisés costumava tomar a tenda e armá-la fora do acampamento, longe dele; chamou-a tenda do encontro. Todo aquele que buscava YHWH saía à tenda do encontro, que ficava fora do acampamento.",
 "Quando Moisés saía em direção à tenda, todo o povo se levantava; cada um ficava à entrada de sua própria tenda e observava Moisés até que entrasse na tenda.",
 "Quando Moisés entrava na tenda, a coluna de nuvem descia e ficava à entrada, enquanto YHWH falava com Moisés.",
-"Todo o povo via a coluna de nuvem parada à entrada da tenda; então cada um se levantava e se inclinava à entrada de sua própria tenda.",
+"Todo o povo via a coluna de nuvem parada à entrada da tenda; então cada um se levantava e se prostrava à entrada de sua própria tenda.",
 "YHWH falava com Moisés face a face, como alguém fala com seu companheiro. Depois Moisés voltava ao acampamento; seu auxiliar, o jovem Josué, filho de Num, não se afastava do interior da tenda.",
 "Moisés disse a YHWH: Vê, tu me dizes: Faze subir este povo; mas não me deste a conhecer quem enviarás comigo. Contudo, disseste: Conheço-te pelo nome e também encontraste favor aos meus olhos.",
 "Agora, se encontrei favor aos teus olhos, peço-te que me faças conhecer teus caminhos, para que eu te conheça e continue a encontrar favor aos teus olhos. Considera também que esta nação é teu povo.",
@@ -131,7 +131,7 @@ window.EXODUS_TEXT[35] = [
 "óleo para a iluminação, especiarias para o óleo da unção e para o incenso aromático;",
 "pedras de ônix e pedras de engaste para o éfode e para o peitoral.",
 "Venham todos os que têm coração sábio dentre vós e façam tudo o que YHWH ordenou:",
-"o tabernáculo, sua tenda e sua cobertura, seus colchetes, armações, travessas, colunas e bases;",
+"o tabernáculo, sua tenda e sua cobertura, seus ganchos, armações, travessas, colunas e bases;",
 "a arca e seus varais, a cobertura e o véu da divisão;",
 "a mesa, seus varais e todos os seus utensílios, e o pão da Presença;",
 "o candelabro da iluminação, seus utensílios e suas lâmpadas, e o óleo para a iluminação;",
@@ -144,8 +144,8 @@ window.EXODUS_TEXT[35] = [
 "Todos aqueles cujo coração os moveu e cujo espírito os dispôs vieram trazendo a contribuição para YHWH, para a obra da tenda do encontro, para todo o seu serviço e para as vestes sagradas.",
 "Vieram homens e mulheres, todos os que estavam dispostos de coração; trouxeram broches, brincos, anéis, colares e todo tipo de objeto de ouro. Cada um apresentou uma oferta de ouro a YHWH.",
 "Todos os que possuíam tecido azul, púrpura, escarlate, linho fino, pelos de cabra, peles de carneiro tingidas de vermelho ou peles de tahash os trouxeram.",
-"Todos os que podiam oferecer prata ou bronze trouxeram a contribuição para YHWH; e todos os que possuíam madeira de acácia adequada para qualquer trabalho a trouxeram.",
-"Todas as mulheres habilidosas fiaram com as mãos e trouxeram o que haviam fiado: tecido azul, púrpura, escarlate e linho fino.",
+"Todos os que separaram uma contribuição de prata ou bronze trouxeram a contribuição para YHWH; e todos os que possuíam madeira de acácia adequada para qualquer trabalho a trouxeram.",
+"Todas as mulheres habilidosas fiaram com as mãos e trouxeram o que haviam fiado: fio azul, púrpura e escarlate, e linho fino.",
 "Todas as mulheres cujo coração as moveu com habilidade fiaram os pelos de cabra.",
 "Os chefes trouxeram pedras de ônix e pedras de engaste para o éfode e para o peitoral,",
 "especiarias e óleo para a iluminação, para o óleo da unção e para o incenso aromático.",
@@ -153,7 +153,7 @@ window.EXODUS_TEXT[35] = [
 "Moisés disse aos filhos de Israel: Vede, YHWH chamou pelo nome Bezalel, filho de Uri, filho de Hur, da tribo de Judá.",
 "Encheu-o do espírito de Deus, com sabedoria, entendimento, conhecimento e toda espécie de habilidade,",
 "para conceber projetos e trabalhar em ouro, prata e bronze,",
-"para lapidar pedras de engaste, entalhar madeira e realizar todo tipo de trabalho artístico.",
+"para trabalhar pedras e engastá-las, entalhar madeira e realizar todo tipo de trabalho artístico.",
 "Também lhe deu capacidade para ensinar, a ele e a Ooliabe, filho de Aisamaque, da tribo de Dã.",
 "Encheu-os de habilidade para executar toda espécie de trabalho de entalhador, desenhista, bordador em tecido azul, púrpura, escarlate e linho fino, e de tecelão; são capazes de realizar todo tipo de trabalho e conceber projetos."
 ];
