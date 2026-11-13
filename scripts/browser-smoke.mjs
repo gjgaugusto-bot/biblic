@@ -58,8 +58,8 @@ try {
     await page.locator("#editChapter").selectOption("1");
     const editorText = await page.locator("#chapterVerses").inputValue();
     assert.ok(editorText.split(/\r?\n/).filter(line => line.trim()).length > 0, `O editor deve carregar o texto padrão do livro ${index}`);
-    await page.locator('.navbtn[data-view="home"]').click();
   }
+  await page.locator('.navbtn[data-view="home"]').click();
 
   await page.locator(".book").nth(58).click();
   const jamesCounts = [27,26,18,17,20];
