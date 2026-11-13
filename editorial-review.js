@@ -54,6 +54,34 @@
     });
   }
 
+  function markLegacyChaptersReviewed(bookIndex, chapters, chapterNumbers, source, observation) {
+    if (!chapters || typeof chapters !== "object") return;
+    chapterNumbers.forEach(function (chapter) {
+      const verses = chapters[chapter];
+      if (!Array.isArray(verses)) return;
+      verses.forEach(function (_, index) {
+        const key = bookIndex + "-" + chapter + "-" + (index + 1);
+        const previous = BASE[key];
+        if (!previous || previous.status !== "em_revisao") return;
+        const event = {
+          from: previous.status,
+          to: "revisado",
+          at: "2026-11-06",
+          source: source,
+          observation: observation,
+          reason: "Segunda conferência comparativa concluída; transição editorial registrada com fonte e observação."
+        };
+        BASE[key] = Object.assign({}, previous, {
+          status: "revisado",
+          updatedAt: "2026-11-06",
+          source: source,
+          observation: observation,
+          history: (previous.history || []).concat(event)
+        });
+      });
+    });
+  }
+
   try {
     if (typeof GENESIS_TEXT !== "undefined") {
       addLegacyBook(
@@ -99,6 +127,41 @@
     "REVISAO-EXODO.md — registro anterior dos capítulos 1–40",
     "Estado anterior preservado: os capítulos estão integrados e registrados em revisão. A conferência acadêmica versículo por versículo com o hebraico continua pendente; integração técnica não equivale a aprovação textual."
   );
+
+  markLegacyChaptersReviewed(
+    1,
+    window.EXODUS_TEXT,
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "Texto Massorético (Mechon-Mamre, Êxodo 1–10); Sefaria (Êxodo 2–10); NET Bible (Êxodo 2:10; 9:14); estudos acadêmicos citados em REVISAO-EXODO.md",
+    "Segunda conferência comparativa versículo por versículo dos capítulos 1–10; conferidas sequência e fidelidade ao texto hebraico, escolhas de tradução, nomes próprios e notas lexicais. Correções e notas específicas foram registradas em Êxodo 5:16, 7:20, 8:5, 9:14 e 10:24; ambiguidades relevantes foram preservadas e documentadas. Não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente."
+  );
+  function reopenLegacyVerse(key, source, observation) {
+    const previous = BASE[key];
+    if (!previous || previous.status !== "revisado") return;
+    const event = {
+      from: previous.status,
+      to: "reaberto",
+      at: "2026-11-13",
+      source: source,
+      observation: observation,
+      reason: "Nova conferência encontrou uma distinção lexical concreta que exige reavaliação deste versículo."
+    };
+    BASE[key] = Object.assign({}, previous, {
+      status: "reaberto",
+      updatedAt: "2026-11-13",
+      source: source,
+      observation: observation,
+      reopenReason: observation,
+      history: (previous.history || []).concat(event)
+    });
+  }
+
+  reopenLegacyVerse(
+    "1-1-7",
+    "OSHB / Westminster Leningrad Codex, Êxodo 1:7; revisão lexical de 2026-11-13",
+    "Reaberto após a distinção entre שרץ (pulular/enxamear), רבה (multiplicar-se) e עצם (tornar-se forte/numeroso). A nova redação preserva a sequência verbal e deve permanecer em revisão até a conferência final do capítulo."
+  );
+
 
   function readOverrides() {
     try {

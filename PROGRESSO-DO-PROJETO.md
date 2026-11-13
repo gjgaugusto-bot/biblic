@@ -521,3 +521,11 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Smoke test em navegador passou, incluindo navegação, carregamento do editor para todos os livros, backup e acessibilidade.
 - **Pendente:** proteção administrativa de `main`; manifestos independentes de contagem canônica de versículos para todos os capítulos; revisão lexical, gramatical, sintática, textual, tradutória e exegética de todos os textos e notas.
 - Não rotular nenhuma tradução como revisada apenas porque passou nos testes técnicos.
+
+
+## Consolidação editorial de Êxodo — 2026-11-13
+
+- Preservada a primeira conferência detalhada dos capítulos 1–40, com correções e notas em arquivos de texto e módulos próprios.
+- Incorporada a segunda conferência comparativa de Êxodo 1–10; o versículo 1:7 foi reaberto após nova correção lexical baseada no OSHB/WLC.
+- Êxodo 11–40 continua em revisão. A consolidação não marca automaticamente esses capítulos como aprovados.
+- A migração automática de estados locais de Êxodo proposta em uma branch antiga foi deliberadamente excluída para não sobrescrever dados de navegador.

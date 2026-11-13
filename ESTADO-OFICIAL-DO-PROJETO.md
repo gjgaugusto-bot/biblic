@@ -174,3 +174,11 @@ Fonte textual dos novos livros: texto hebraico massorético (WLC), com traduçã
 - Workflow GitHub Pages: run `43349123196`, concluído com sucesso em 2026-11-13 02:02:54Z.
 - A integração técnica e a publicação não significam que as traduções estejam revisadas. Apocalipse e os demais livros continuam exigindo auditoria editorial integral.
 - A proteção administrativa da branch `main` continua não confirmada: a última leitura retornou `protected=false` e nenhum ruleset. O bloqueio de deploy por CI não substitui a proteção administrativa.
+
+
+## Êxodo — situação editorial consolidada (2026-11-13)
+
+- A primeira conferência documentada dos capítulos 1–40 foi preservada em REVISAO-EXODO.md, junto com correções e notas lexicais.
+- A segunda conferência comparativa dos capítulos 1–10 está registrada; 1:7 foi reaberto em 2026-11-13 após nova evidência lexical. Os demais versículos 1–10 permanecem registrados como revisados.
+- Êxodo 11–40 permanece em revisão; as correções e notas existentes não equivalem a aprovação final de todo o livro.
+- Não foi aplicada a migração automática de localStorage proposta em uma branch antiga. Estados do usuário não são sobrescritos por esta consolidação.

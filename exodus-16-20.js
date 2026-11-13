@@ -16,7 +16,7 @@ window.EXODUS_TEXT[16] = [
   "YHWH falou a Moisés, dizendo:",
   "«Ouvi as murmurações dos filhos de Israel. Fale com eles: ao entardecer vocês comerão carne, e pela manhã se fartarão de pão; então saberão que eu sou YHWH, seu Deus».",
   "À tarde subiram codornizes e cobriram o acampamento; pela manhã havia uma camada de orvalho ao redor do acampamento.",
-  "Quando a camada de orvalho se evaporou, eis que sobre a superfície do deserto havia algo fino e granuloso, fino como a geada sobre a terra.",
+  "Quando a camada de orvalho se evaporou, eis que sobre a superfície do deserto havia algo fino e em flocos, fino como a geada sobre a terra.",
   "Os filhos de Israel viram aquilo e disseram uns aos outros: «Que é isto?» Pois não sabiam o que era. Moisés lhes disse: «Este é o pão que YHWH lhes deu para comer.",
   "Esta é a ordem que YHWH deu: cada um recolha dele quanto precisar para comer, um ômer por pessoa, conforme o número de pessoas de sua tenda».",
   "Os filhos de Israel fizeram assim: uns recolheram mais, outros menos.",
@@ -57,7 +57,7 @@ window.EXODUS_TEXT[17] = [
   "Josué derrotou Amaleque e seu povo ao fio da espada.",
   "YHWH disse a Moisés: «Escreva isto num livro como memorial e declare-o aos ouvidos de Josué: apagarei completamente a memória de Amaleque de debaixo dos céus».",
   "Moisés construiu um altar e lhe deu o nome de YHWH-Nissi.",
-  "E disse: «Porque uma mão se levantou contra o trono de Yah, YHWH terá guerra contra Amaleque de geração em geração»."
+  "E disse: «Pois uma mão está sobre o trono de Yah: YHWH terá guerra contra Amaleque de geração em geração»."
 ];
 
 window.EXODUS_TEXT[18] = [
@@ -143,6 +143,6 @@ window.EXODUS_TEXT[20] = [
   "YHWH disse a Moisés: «Assim dirá aos filhos de Israel: Vocês viram que falei com vocês desde os céus.",
   "Não façam deuses de prata para estar comigo, nem façam para si deuses de ouro.",
   "Faça para mim um altar de terra e ofereça sobre ele seus holocaustos e suas ofertas de comunhão, suas ovelhas e seus bois. Em todo lugar onde eu fizer com que meu nome seja lembrado, virei a você e o abençoarei.",
-  "Se fizer para mim um altar de pedras, não o construa com pedras lavradas; pois, se passar sua ferramenta sobre elas, você as profanará.",
+  "Se fizer para mim um altar de pedras, não o construa com pedras lavradas; pois, se erguer sua ferramenta sobre ele, você o profanará.",
   "Não suba ao meu altar por degraus, para que sua nudez não seja exposta sobre ele»."
 ];

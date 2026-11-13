@@ -46,6 +46,63 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
+  // Auditoria de regressão para as correções e notas consolidadas de Êxodo 1–10.
+  await page.locator(".book").nth(1).click();
+  await page.locator('#chapterLinks [data-chapter-number="1"]').click();
+  let exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("pulularam"), "Êxodo 1:7 deve preservar o verbo שרץ");
+  const exodusVerseNote = page.locator('[data-lexical-note="1-1-7"]');
+  const exodusNoteDebug = await page.evaluate(() => ({ data: window.TRANSLATION_NOTES?.[1]?.[1]?.[7], rendered: Boolean(document.querySelector('[data-lexical-note="1-1-7"]')) }));
+  assert.equal(await exodusVerseNote.count(), 1, `A nota lexical de Êxodo 1:7 deve ser renderizada: ${JSON.stringify(exodusNoteDebug)}`);
+  assert.ok((await exodusVerseNote.innerText()).includes("Verbo da raiz"), "A nota lexical de Êxodo 1:7 deve estar disponível");
+  assert.ok(exodusReaderText.includes("parteiras hebreias"), "Êxodo 1:15 deve seguir a leitura massorética registrada");
+  assert.ok(exodusReaderText.includes("o povo se multiplicou e se tornou muito poderoso"), "Êxodo 1:20 deve distinguir os verbos de multiplicação e fortalecimento");
+  assert.ok(exodusReaderText.includes("A leitura mais direta da vocalização massorética"), "A nota de Êxodo 1:15 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="2"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("O pai das filhas é chamado Reuel"), "Êxodo 2:18 deve explicar a variação dos nomes");
+  assert.ok(exodusReaderText.includes("o enterrou na areia"), "Êxodo 2:12 deve refletir o sentido contextual de טמן");
+  assert.ok(exodusReaderText.includes("esconder ou enterrar"), "A nota lexical de Êxodo 2:12 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="3"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("Vou me desviar para ver essa grande visão"), "Êxodo 3:3 deve preservar o sentido de סור");
+  assert.ok(exodusReaderText.includes("se desviara para olhar"), "Êxodo 3:4 deve manter a mesma nuance verbal");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="4"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("Quem deu ao ser humano uma boca?"), "Êxodo 4:11 deve refletir o verbo hebraico usado");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="5"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("e a culpa é do teu próprio povo"), "Êxodo 5:16 deve preservar a conjunção aditiva");
+  assert.ok(exodusReaderText.includes("A oração final é concisa"), "A nota gramatical de Êxodo 5:16 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="6"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("não fui conhecido por eles"), "Êxodo 6:3 deve refletir a forma nifal");
+  assert.ok(exodusReaderText.includes("Estes são Arão e Moisés"), "Êxodo 6:26 deve manter a construção nominal natural");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="7"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("O verbo está na terceira pessoa do singular"), "A nota de Êxodo 7:20 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="8"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("A expressão é literalmente próxima"), "A nota idiomática de Êxodo 8:5 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="9"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("Literalmente, “ao teu coração”"), "A nota de Êxodo 9:14 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="10"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("vossos rebanhos e vosso gado"), "Êxodo 10:24 deve preservar o coletivo de pequenos animais");
+  assert.ok(exodusReaderText.includes("Tson é um coletivo"), "A nota lexical de Êxodo 10:24 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="11"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), "Êxodo 11:5 deve preservar a referência às duas pedras do moinho");
+  assert.ok(exodusReaderText.includes("substantivo dual"), "A nota lexical de Êxodo 11:5 deve explicar רֵחָיִם");
+  await page.locator('.navbtn[data-view="home"]').click();
+
   // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação integrada à main.
   await page.locator(".book").nth(65).click();
   const revelationCounts = [20,29,22,11,14,17,17,13,21,11,19,18,18,20,8,21,18,24,21,15,27,21];
@@ -64,6 +121,10 @@ try {
   }
   assert.equal(revelationTotal, 405, "Apocalipse deve preservar 405 posições de versículo");
   await page.locator('.navbtn[data-view="admin"]').click();
+  await page.locator("#editBook").selectOption("1");
+  await page.locator("#editChapter").selectOption("1");
+  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(), "Revisado", "Êxodo 1:1 deve refletir a segunda conferência");
+  assert.equal(await page.locator('[data-review-row="1-1-7"] .review-state').first().innerText(), "Reaberto", "Êxodo 1:7 deve permanecer reaberto após nova evidência lexical");
   await page.locator("#editBook").selectOption("65");
   await page.locator("#editChapter").selectOption("22");
   assert.ok((await page.locator("#chapterVerses").inputValue()).includes("A graça do Senhor Jesus"), "O editor deve carregar Apocalipse 22");
@@ -154,7 +215,6 @@ try {
     assert.ok((await page.locator("#reader").innerText()).length > 100, `Atos ${chapter} deve carregar conteúdo`);
   }
 
-  await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="home"]').click();
   await page.locator(".book").nth(44).click();
   const romansPositions = [32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27];
@@ -291,26 +351,26 @@ try {
   assert.ok(await page.locator("#editorialReviewPanel").innerText().then(text => text.includes("Revisado:")),"O painel deve mostrar o estado migrado de Gênesis");
   assert.equal(await page.locator('[data-review-row="0-4-1"] .review-state').first().innerText(),"Revisado","Gênesis deve preservar o estado revisado anterior");
   await page.locator("#editBook").selectOption("1");
-  await page.locator("#editChapter").selectOption("1");
-  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Em revisão","Êxodo deve preservar o estado anterior em revisão");
-  const firstReviewRow = page.locator('[data-review-row="1-1-1"]');
+  await page.locator("#editChapter").selectOption("11");
+  assert.equal(await page.locator('[data-review-row="1-11-1"] .review-state').first().innerText(),"Em revisão","Êxodo 11:1 deve permanecer em revisão após a segunda conferência limitada a 1–10");
+  const firstReviewRow = page.locator('[data-review-row="1-11-1"]');
   await firstReviewRow.locator("details").evaluate(element => element.open = true);
   await firstReviewRow.locator("[data-review-target]").selectOption("revisado");
   await firstReviewRow.locator("[data-review-source]").fill("Fonte de teste — não editorial");
   await firstReviewRow.locator("[data-review-observation]").fill("Conferência simulada para teste automatizado.");
   await firstReviewRow.locator("[data-review-apply]").click();
-  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Revisado","A transição Em revisão → Revisado deve funcionar com evidência");
+  assert.equal(await page.locator('[data-review-row="1-11-1"] .review-state').first().innerText(),"Revisado","A transição Em revisão → Revisado deve funcionar com evidência");
   assert.equal(await firstReviewRow.locator("[data-review-target] option[value=pendente]").count(),0,"Um trecho revisado não pode voltar a Pendente");
-  await page.locator('[data-review-row="1-1-1"] details').evaluate(element => element.open = true);
-  await page.locator('[data-review-row="1-1-1"] [data-review-target]').selectOption("reaberto");
-  await page.locator('[data-review-row="1-1-1"] [data-review-source]').fill("Nova fonte de teste");
-  await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("");
-  await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
-  assert.ok((await page.locator('[data-review-row="1-1-1"] [data-review-message]').innerText()).includes("motivo concreto"),"A reabertura sem justificativa deve ser bloqueada");
-  await page.locator('[data-review-row="1-1-1"] [data-review-reason]').fill("Erro concreto simulado para validar a reabertura.");
-  await page.locator('[data-review-row="1-1-1"] [data-review-apply]').click();
-  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(),"Reaberto","A reabertura exige e registra fonte e motivo");
-  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-1-1"].history.length),3,"O histórico de transições deve preservar a migração e as duas mudanças");
+  await page.locator('[data-review-row="1-11-1"] details').evaluate(element => element.open = true);
+  await page.locator('[data-review-row="1-11-1"] [data-review-target]').selectOption("reaberto");
+  await page.locator('[data-review-row="1-11-1"] [data-review-source]').fill("Nova fonte de teste");
+  await page.locator('[data-review-row="1-11-1"] [data-review-reason]').fill("");
+  await page.locator('[data-review-row="1-11-1"] [data-review-apply]').click();
+  assert.ok((await page.locator('[data-review-row="1-11-1"] [data-review-message]').innerText()).includes("motivo concreto"),"A reabertura sem justificativa deve ser bloqueada");
+  await page.locator('[data-review-row="1-11-1"] [data-review-reason]').fill("Erro concreto simulado para validar a reabertura.");
+  await page.locator('[data-review-row="1-11-1"] [data-review-apply]').click();
+  assert.equal(await page.locator('[data-review-row="1-11-1"] .review-state').first().innerText(),"Reaberto","A reabertura exige e registra fonte e motivo");
+  assert.equal(await page.evaluate(() => JSON.parse(localStorage.getItem("encBibEditorialReviewsV1"))["1-11-1"].history.length),3,"O histórico de transições deve preservar a migração e as duas mudanças");
   await page.locator("#editBook").selectOption("0");
   await page.locator("#editChapter").selectOption("4");
   const marker = "Teste automático de persistência — não é conteúdo editorial.";
@@ -358,7 +418,7 @@ try {
   for await (const chunk of exportStream) exportChunks.push(chunk);
   const exportedBackup = JSON.parse(Buffer.concat(exportChunks).toString("utf8"));
   assert.equal(exportedBackup.studyCategories["Símbolos"].title, categoryTitle, "O backup exportado deve incluir as categorias personalizadas");
-  assert.ok(exportedBackup.editorialReviews && exportedBackup.editorialReviews["1-1-1"], "O backup exportado deve incluir o histórico editorial por versículo");
+  assert.ok(exportedBackup.editorialReviews && exportedBackup.editorialReviews["1-11-1"], "O backup exportado deve incluir o histórico editorial por versículo");
 
   const importData = {
     edits: { "0-4": { title: "Título restaurado pelo teste" } },
