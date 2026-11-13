@@ -5,10 +5,13 @@ Object.assign(window.TRANSLATION_NOTES[1], {
   16: {
     1: {term:"מִדְבַּר־סִין (midbar-Sin)",text:"Topônimo tradicionalmente transliterado “deserto de Sin”. Não deve ser confundido com o Sinai; o texto distingue a região e o monte."},
     4: {term:"לֶחֶם (lechem)",text:"“Pão” pode designar alimento em sentido amplo. A narrativa usa a imagem de pão vindo do céu para o maná."},
-    15: {term:"מָן הוּא (man hu)",text:"A expressão é associada à pergunta “que é isto?”. O próprio texto populariza a designação maná; a etimologia exata é discutida."},
+    14: {term:"דַּק מְחֻסְפָּס (daq mechuspas)",text:"Expressão rara, tradicionalmente entendida como algo fino, em flocos/escamas. O termo aparece apenas aqui; “em flocos” evita a ideia de grãos arredondados, que não é exigida pelo hebraico."},
+    15: {term:"מָן הוּא (man hu)",text:"A expressão é associada à pergunta “que é isto?”. O próprio texto populariza a designação maná; a etimologia exata é discutida. A forma מָן (*man*) não é a palavra hebraica usual para “o quê” (מַה, *mah*); propostas incluem empréstimo aramaico/siríaco, egípcio ou uma etimologia popular baseada no som."},
     16: {term:"עֹמֶר (omer)",text:"Medida de capacidade para cereais e alimentos secos. O versículo a relaciona à porção individual; não equivale a uma medida moderna exata sem contexto."},
     23: {term:"שַׁבָּתוֹן (shabbaton)",text:"Termo que indica repouso solene ou observância sabática. Aqui aparece ligado ao sétimo dia."},
-    31: {term:"מָן (man)",text:"O maná é descrito por cor, aparência e sabor. A descrição não permite identificá-lo com segurança com uma substância natural específica."}
+    31: {term:"מָן (man)",text:"O maná é descrito por cor, aparência e sabor. A descrição não permite identificá-lo com segurança com uma substância natural específica."},
+    33: {term:"צִנְצֶנֶת (tsintsenet)",text:"Substantivo raro que ocorre apenas aqui. Designa um recipiente/jarro; a tradição targúmica e Rashi o entendem como vaso de barro. “Recipiente” é uma tradução neutra, sem impor material ou formato exato."},
+    36: {term:"עֹמֶר עֲשִׂרִית הָאֵיפָה (omer asirit ha'efah)",text:"O versículo define a relação entre as medidas: um ômer corresponde a um décimo de efá. A proporção é explícita, mas a conversão para litros varia conforme a reconstrução histórica das medidas antigas."}
   },
   17: {
     2: {term:"רִיב (riv)",text:"Verbo de disputar, contender ou apresentar uma queixa. A narrativa faz jogo com o nome Meribá, ligado à contenda."},
@@ -21,7 +24,9 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     1: {term:"כֹּהֵן (kohen)",text:"“Sacerdote” ou oficiante cultual. Jetro é identificado como sacerdote de Midiã; o texto não detalha aqui suas funções."},
     3: {term:"גֵּרְשֹׁם (Gershom)",text:"O próprio versículo faz um jogo entre גֵּר (ger, “residente estrangeiro”) e שָׁם (sham, “ali”): “fui estrangeiro ali, em terra alheia”. É uma explicação narrativa do nome, não necessariamente sua etimologia histórica."},
     11: {term:"זָדוּ (zadu)",text:"Forma verbal ligada a agir arrogantemente ou tratar alguém com insolência. O final do versículo é sintaticamente difícil e admite diferentes traduções."},
-    21: {term:"אַנְשֵׁי־חַיִל (anshei-chayil)",text:"Literalmente “homens de força/capacidade”. No contexto administrativo, descreve pessoas competentes, não apenas força física; o mesmo versículo também exige que rejeitem o ganho desonesto (betsa)."}
+    19: {term:"הֱיֵה אַתָּה לָעָם מוּל הָאֱלֹהִים (heyeh attah la'am mul haElohim)",text:"Literalmente, “sê tu pelo povo diante de Deus”. A frase pode indicar representação/intercessão: Moisés apresenta os assuntos do povo a Deus e leva as decisões de Deus ao povo. “Representa o povo diante de Deus” explicita essa função."},
+    21: {term:"אַנְשֵׁי־חַיִל (anshei-chayil)",text:"Literalmente “homens de força/capacidade”. No contexto administrativo, descreve pessoas competentes, não apenas força física; o mesmo versículo também exige que rejeitem o ganho desonesto (betsa)."},
+    23: {term:"וְצִוְּךָ אֱלֹהִים (vetsivvekha Elohim)",text:"A expressão significa “e Deus te ordenar”. Ela se coordena com a condição iniciada por אִם (*im*, “se”) no começo do versículo. A tradução pode explicitar a condição global (“se fizeres isso e Deus te ordenar”), sem tratar o segundo verbo como uma condição independente."}
   },
   19: {
     5: {term:"סְגֻלָּה (segullah)",text:"Propriedade particular, tesouro especial ou posse preciosa. A palavra descreve uma relação especial, sem significar que os demais povos deixem de pertencer a Deus."},
@@ -29,7 +34,8 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     10: {term:"קִדַּשׁ (qiddesh)",text:"Verbo “consagrar/santificar”, isto é, separar para uma condição especial. A preparação envolve o povo e suas roupas."},
     13: {term:"יֹבֵל (yovel)",text:"Termo relacionado ao toque do chifre de carneiro; em outros contextos dá origem à designação do jubileu. Aqui sinaliza o momento autorizado para avançar."},
     15: {term:"אַל־תִּגְּשׁוּ אֶל־אִשָּׁה (al-tiggeshu el-ishah)",text:"Literalmente, “não vos aproximeis de mulher”. No contexto de preparação ritual para a manifestação no Sinai, a expressão é entendida como abstinência de relações sexuais durante o período de consagração; o texto não usa aqui um termo técnico para o ato sexual."},
-    18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."}
+    18: {term:"כִּבְשָׁן (kivshan)",text:"Forno ou fornalha de calcinação. A comparação descreve a fumaça do monte, não oferece uma explicação física do fenômeno."},
+    22: {term:"יִפְרֹץ בָּהֶם (yifrotz bahem)",text:"Da raiz פרץ (*parats*), “abrir brecha/irromper”. A imagem é a de YHWH irrompendo contra os transgressores, isto é, agindo destrutivamente; “irrompa contra eles” conserva a metáfora hebraica."}
   },
   20: {
     3: {term:"עַל־פָּנָי (al-panai)",text:"Literalmente “diante de minha face”. A expressão pode significar “além de mim”, “em minha presença” ou “em oposição a mim”; a tradução evita reduzir a nuance."},
@@ -40,6 +46,7 @@ Object.assign(window.TRANSLATION_NOTES[1], {
     13: {term:"רָצַח (ratsach)",text:"Verbo para matar/assassinar, frequentemente usado para homicídio ilícito. Não é o verbo hebraico genérico mais amplo para qualquer morte."},
     17: {term:"חָמַד (chamad)",text:"Desejar ou cobiçar. O verbo descreve desejo voltado ao que pertence ao próximo; a lista inclui pessoas, bens e animais."},
     21: {term:"עֲרָפֶל (arafel)",text:"Escuridão espessa ou nuvem densa. A palavra descreve a manifestação no monte como algo encoberto e temível."},
-    24: {term:"מִזְבַּח אֲדָמָה (mizbach adamah)",text:"“Altar de terra”. O termo adamah é solo/terra cultivável; a instrução contrasta com a construção de pedras lavradas."}
+    24: {term:"מִזְבַּח אֲדָמָה (mizbach adamah)",text:"“Altar de terra”. O termo adamah é solo/terra cultivável; a instrução contrasta com a construção de pedras lavradas."},
+    25: {term:"חַרְבְּךָ הֵנַפְתָּ עָלֶיהָ (charbekha henaf'ta aleha)",text:"חַרְבְּךָ (*charbekha*) significa literalmente “tua espada”, mas no contexto de construção do altar é entendido metonimicamente como ferramenta/chisel de trabalho. הֵנַפְתָּ (*henaf'ta*) é “erguer/brandir”. O sufixo singular de עָלֶיהָ (*aleha*) e וַתְּחַלְּלֶהָ (*vatechalleleha*, “tu o profanarás”) refere-se ao altar, por isso a tradução usa “sobre ele/o profanará”, não “sobre elas/as profanará”."}
   }
 });
