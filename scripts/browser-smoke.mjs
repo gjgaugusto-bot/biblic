@@ -40,6 +40,8 @@ try {
     await page.locator(".book").nth(index).click();
     await page.locator("#readerView").waitFor({ state: "visible" });
     assert.equal(await page.locator("#chapterLinks [data-chapter-number]").count(), expectedChapterCounts[index], `A contagem de capítulos de ${index + 1} deve ser correta`);
+    await page.locator('#chapterLinks [data-chapter-number="1"]').click();
+    assert.ok(await page.locator("#reader .verse-entry").count() > 0, `O capítulo 1 do livro ${index + 1} deve carregar texto no leitor`);
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
