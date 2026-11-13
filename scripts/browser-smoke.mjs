@@ -46,6 +46,36 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
+  // Auditoria de regressão para as correções e notas consolidadas de Êxodo 1–10.
+  await page.locator(".book").nth(1).click();
+  await page.locator('#chapterLinks [data-chapter-number="1"]').click();
+  let exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("pulularam"), "Êxodo 1:7 deve preservar o verbo שרץ");
+  assert.ok(exodusReaderText.includes("Verbo da raiz שׁרץ"), "A nota lexical de Êxodo 1:7 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="2"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("O pai das filhas é chamado Reuel"), "Êxodo 2:18 deve explicar a variação dos nomes");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="5"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("e a culpa é do teu próprio povo"), "Êxodo 5:16 deve preservar a conjunção aditiva");
+  assert.ok(exodusReaderText.includes("A oração final é concisa"), "A nota gramatical de Êxodo 5:16 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="7"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("O verbo está na terceira pessoa do singular"), "A nota de Êxodo 7:20 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="8"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("A expressão é literalmente próxima"), "A nota idiomática de Êxodo 8:5 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="9"]').click();
+  assert.ok((await page.locator("#reader").innerText()).includes("Literalmente, “ao teu coração”"), "A nota de Êxodo 9:14 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="10"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("vossos rebanhos e vosso gado"), "Êxodo 10:24 deve preservar o coletivo de pequenos animais");
+  assert.ok(exodusReaderText.includes("Tson é um coletivo"), "A nota lexical de Êxodo 10:24 deve estar disponível");
+  await page.locator('.navbtn[data-view="home"]').click();
+
   // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação integrada à main.
   await page.locator(".book").nth(65).click();
   const revelationCounts = [20,29,22,11,14,17,17,13,21,11,19,18,18,20,8,21,18,24,21,15,27,21];
@@ -64,6 +94,10 @@ try {
   }
   assert.equal(revelationTotal, 405, "Apocalipse deve preservar 405 posições de versículo");
   await page.locator('.navbtn[data-view="admin"]').click();
+  await page.locator("#editBook").selectOption("1");
+  await page.locator("#editChapter").selectOption("1");
+  assert.equal(await page.locator('[data-review-row="1-1-1"] .review-state').first().innerText(), "Revisado", "Êxodo 1:1 deve refletir a segunda conferência");
+  assert.equal(await page.locator('[data-review-row="1-1-7"] .review-state').first().innerText(), "Reaberto", "Êxodo 1:7 deve permanecer reaberto após nova evidência lexical");
   await page.locator("#editBook").selectOption("65");
   await page.locator("#editChapter").selectOption("22");
   assert.ok((await page.locator("#chapterVerses").inputValue()).includes("A graça do Senhor Jesus"), "O editor deve carregar Apocalipse 22");
