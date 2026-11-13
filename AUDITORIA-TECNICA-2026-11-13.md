@@ -42,7 +42,7 @@ Auditoria estática do repositório `gjgaugusto-bot/biblic`, branch `main`, comm
 ### T8 — Pull requests antigos e sobrepostos mantinham propostas obsoletas abertas
 **Severidade: baixa (governança).** Foram encontrados PRs antigos baseados em branches e estados anteriores, incluindo uma redação parcial de Atos já substituída pela versão completa e propostas antigas de hardening de abas.
 
-**Limpeza realizada:** fechados PRs #81 (Atos parcial/branch empilhada já superada), #26–#29 (hardening de abas/cache já refletido na `main`) e #1 (teste/formatação obsoletos). PR #83 permanece aberto porque contém correção de metadados que agora também está nesta branch; PRs #37 e #40 permanecem abertos para não descartar trabalho de revisão de Êxodo.
+**Limpeza realizada:** fechados PRs #81 (Atos parcial/branch empilhada já superada), #26–#29 (hardening de abas/cache já refletido na `main`) e #1 (teste/formatação obsoletos). PR #83 foi fechado como superado pelo PR #116, que contém a correção de metadados; PRs #37 e #40 permanecem abertos para preservar trabalho de revisão de Êxodo.
 
 ## Verificações positivas nesta inspeção
 
