@@ -59,7 +59,7 @@ window.TRANSLATION_NOTES = {
   },
   1: {
     1: {
-      7: {term:"וַיִּשְׁרְצוּ (vayishretsu)",text:"Verbo da raiz שׁרץ, que pode descrever enxamear, pulular ou multiplicar-se abundantemente. A sequência de verbos intensifica a imagem do crescimento de Israel; “multiplicaram-se abundantemente” transmite o sentido, embora não reproduza a imagem de “pulular”."}
+      7: {term:"וַיִּשְׁרְצוּ (vayishretsu)",text:"Verbo da raiz שׁרץ, com sentido de enxamear, pulular ou proliferar. “Pulularam” preserva a imagem verbal, distinta dos verbos seguintes: רבה (multiplicar-se) e עצם (tornar-se forte/numeroso). A sequência de quatro verbos intensifica a descrição do crescimento de Israel."}
     },
     2: {
       10: {term:"מֹשֶׁה (Moshe) / מְשִׁיתִהוּ (meshitihu)",text:"O versículo associa o nome Moshe ao verbo hebraico משה (mashah, “tirar/puxar para fora”), em um jogo de palavras com “eu o tirei das águas”. Isso explica a narrativa do nome, mas não encerra a discussão sobre sua origem histórica, que também foi relacionada ao egípcio."},
