@@ -30,7 +30,7 @@ window.JAMES_TEXT = {
     "Mas quem examina atentamente a lei perfeita, a lei da liberdade, e nela persevera, não sendo ouvinte esquecido, mas praticante da obra, será feliz no que fizer.",
     "Se alguém pensa ser religioso, mas não refreia a língua e engana o próprio coração, sua religião é inútil.",
     "A religião pura e sem mancha diante de Deus, o Pai, é esta: cuidar dos órfãos e das viúvas em suas aflições e guardar-se incontaminado pelo mundo."
-  ]
+  ],
 
   2: [
     "Meus irmãos, não misturem a fé em nosso Senhor Jesus Cristo, Senhor da glória, com favoritismo.",
