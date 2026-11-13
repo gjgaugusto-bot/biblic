@@ -57,7 +57,7 @@ window.EXODUS_TEXT = {
 "Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Midiã. Conduziu o rebanho para além do deserto e chegou ao Horebe, monte de Deus.",
 "O mensageiro de YHWH apareceu-lhe numa chama de fogo, do meio de uma sarça. Moisés olhou, e eis que a sarça ardia no fogo, mas não era consumida.",
 "Moisés disse: «Vou me desviar para ver essa grande visão: por que a sarça não se queima?»",
-"YHWH viu que ele se desviara para olhar. Deus o chamou do meio da sarça: «Moisés, Moisés!» Ele respondeu: «Aqui estou».,
+"YHWH viu que ele se desviara para olhar. Deus o chamou do meio da sarça: «Moisés, Moisés!» Ele respondeu: «Aqui estou».",
 "Deus disse: «Não te aproximes daqui. Tira as sandálias dos pés, pois o lugar em que estás é solo sagrado».",
 "E disse: «Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó». Moisés escondeu o rosto, pois teve medo de olhar para Deus.",
 "YHWH disse: «Certamente vi a aflição do meu povo que está no Egito e ouvi seu clamor por causa de seus opressores; conheço seus sofrimentos.",
