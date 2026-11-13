@@ -129,38 +129,38 @@ window.REVELATION_TEXT = {
 "pois chegou o grande dia da ira deles, e quem pode permanecer em pé?”"
 ],
 7: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Depois disso, vi quatro anjos em pé nos quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.",
+"Vi outro anjo que subia do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos a quem fora dado danificar a terra e o mar,",
+"dizendo: “Não danifiquem a terra, nem o mar, nem as árvores, até que tenhamos marcado com selo a testa dos servos do nosso Deus”.",
+"Ouvi o número dos que foram selados: cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel.",
+"Da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;",
+"da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;",
+"da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;",
+"da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil selados.",
+"Depois dessas coisas, vi uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestidos de roupas brancas, com palmas nas mãos.",
+"Clamavam em alta voz: “A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro!”",
+"Todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes. Prostraram-se diante do trono, com o rosto em terra, e adoraram a Deus,",
+"dizendo: “Amém! O louvor, a glória, a sabedoria, as ações de graças, a honra, o poder e a força pertencem ao nosso Deus para todo o sempre. Amém!”",
+"Um dos anciãos tomou a palavra e me perguntou: “Quem são estes vestidos de roupas brancas e de onde vieram?”",
+"Respondi: “Meu senhor, tu sabes”. Ele me disse: “Estes são os que vêm da grande tribulação. Lavaram suas roupas e as alvejaram no sangue do Cordeiro.",
+"Por isso estão diante do trono de Deus e o servem dia e noite em seu santuário; aquele que está sentado no trono estenderá sobre eles sua tenda.",
+"Jamais terão fome nem sede; o sol não os atingirá, nem calor algum,",
+"pois o Cordeiro que está no meio do trono será seu pastor e os conduzirá às fontes das águas da vida. E Deus enxugará dos olhos deles toda lágrima”."
 ],
 8: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
+"Vi os sete anjos que estão em pé diante de Deus, e foram-lhes dadas sete trombetas.",
+"Outro anjo veio e ficou junto ao altar, com um incensário de ouro. Foi-lhe dado muito incenso para oferecê-lo, com as orações de todos os santos, sobre o altar de ouro que está diante do trono.",
+"A fumaça do incenso, com as orações dos santos, subiu da mão do anjo diante de Deus.",
+"Então o anjo tomou o incensário, encheu-o com fogo do altar e o lançou sobre a terra. Houve trovões, vozes, relâmpagos e um terremoto.",
+"Os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.",
+"O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, que foram lançados sobre a terra. Um terço da terra foi queimado, um terço das árvores foi queimado, e toda a erva verde foi queimada.",
+"O segundo anjo tocou a trombeta, e algo semelhante a uma grande montanha em chamas foi lançado no mar. Um terço do mar tornou-se sangue,",
+"morreu um terço das criaturas que viviam no mar, e um terço dos navios foi destruído.",
+"O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como tocha; caiu sobre um terço dos rios e sobre as fontes das águas.",
+"O nome da estrela era Absinto. Um terço das águas tornou-se absinto, e muitas pessoas morreram por causa das águas, porque se tornaram amargas.",
+"O quarto anjo tocou a trombeta, e foi atingido um terço do sol, um terço da lua e um terço das estrelas, de modo que um terço deles escureceu. Um terço do dia ficou sem luz, e também um terço da noite.",
+"Vi e ouvi uma águia que voava pelo meio do céu, dizendo em alta voz: “Ai, ai, ai dos que habitam na terra, por causa dos toques restantes da trombeta dos três anjos que ainda vão tocar!”"
 ],
 9: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6], pendingChapters: Array.from({length:16}, (_,i)=>i+7), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6,7,8], pendingChapters: Array.from({length:14}, (_,i)=>i+9), versePositions: 405, complete: false };
