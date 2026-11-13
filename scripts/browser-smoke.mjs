@@ -211,6 +211,10 @@ try {
   }
 
   await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="11"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), "Êxodo 11:5 deve preservar a referência às duas pedras do moinho");
+  assert.ok(exodusReaderText.includes("substantivo dual"), "A nota lexical de Êxodo 11:5 deve explicar רֵחָיִם");
   await page.locator('.navbtn[data-view="home"]').click();
   await page.locator(".book").nth(44).click();
   const romansPositions = [32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27];
