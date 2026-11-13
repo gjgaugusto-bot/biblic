@@ -43,6 +43,19 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
+  // Confere leitura e carregamento do texto padrão no editor para os cinco livros históricos corrigidos.
+  for (const index of [5, 6, 7, 8, 9]) {
+    await page.locator(".book").nth(index).click();
+    await page.locator("#chapterLinks [data-chapter-number=\"1\"]").click();
+    assert.ok(await page.locator("#reader .verse-entry").count() > 0, `O leitor deve carregar o capítulo 1 do livro ${index}`);
+    await page.locator('.navbtn[data-view="admin"]').click();
+    await page.locator("#editBook").selectOption(String(index));
+    await page.locator("#editChapter").selectOption("1");
+    const editorText = await page.locator("#chapterVerses").inputValue();
+    assert.ok(editorText.split(/\\r?\\n/).filter(line => line.trim()).length > 0, `O editor deve carregar o texto padrão do livro ${index}`);
+    await page.locator('.navbtn[data-view="home"]').click();
+  }
+
   await page.locator(".book").nth(58).click();
   const jamesCounts = [27,26,18,17,20];
   for (let chapter = 1; chapter <= 5; chapter++) {
