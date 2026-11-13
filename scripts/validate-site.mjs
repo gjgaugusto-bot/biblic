@@ -187,7 +187,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("Os estilos da ficha bibliográfica estão ausentes");
 }
 // Confere se os dados carregados cobrem todos os capítulos de cada livro integrado.
-// Gênesis é validado acima; os demais 65 livros têm dados externos, incluindo a primeira redação de Apocalipse.
+// Gênesis é validado acima; Apocalipse permanece em PR separado até a revisão textual.
 if (existsSync("index.html") && existsSync("app.js")) {
   const htmlForData = readFileSync("index.html", "utf8");
   const appForData = readFileSync("app.js", "utf8");
@@ -205,7 +205,18 @@ if (existsSync("index.html") && existsSync("app.js")) {
       }
       const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
-      if (routes.size !== 65) fail("Esperadas 65 rotas de dados externos (livros 2–66); encontradas " + routes.size);
+      const hasRevelationModule = scriptFiles.includes("apocalipse-data.js");
+      const expectedExternalBooks = booksForData.length - 1 - (hasRevelationModule ? 0 : 1); // Gênesis é embutido; Apocalipse ainda pode estar em PR separado.
+      if (routes.size !== expectedExternalBooks) fail("Esperadas " + expectedExternalBooks + " rotas externas; encontradas " + routes.size);
+      const editorRoutes = new Map([...appForData.matchAll(/book===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[chapter\]\|\|\[\]\)/g)]
+        .map((match) => [Number(match[1]), match[2]]));
+      if (editorRoutes.size !== expectedExternalBooks) fail("Esperadas " + expectedExternalBooks + " rotas de dados no editor; encontradas " + editorRoutes.size);
+      for (const [index, key] of routes) {
+        if (editorRoutes.get(index) !== key) fail("Rota do editor ausente ou divergente para " + (booksForData[index]?.name || "índice " + index));
+      }
+      for (const [index] of editorRoutes) {
+        if (!routes.has(index)) fail("O editor possui rota sem correspondente no leitor: índice " + index);
+      }
       for (const [index, key] of routes) {
         const book = booksForData[index];
         const chapters = dataWindow[key];
