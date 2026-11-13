@@ -57,6 +57,20 @@ try {
   assert.ok((await page.locator("#chapterVerses").inputValue()).includes("Elias era humano como nós"), "O editor deve carregar Tiago 5");
   await page.locator('.navbtn[data-view="home"]').click();
 
+  await page.locator(".book").nth(59).click();
+  const firstPeterCounts = [25,25,22,19,14];
+  for (let chapter = 1; chapter <= 5; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), firstPeterCounts[chapter - 1], `1 Pedro ${chapter}: quantidade de versículos`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `1 Pedro ${chapter}: conteúdo carregado`);
+  }
+  await page.locator('.navbtn[data-view="admin"]').click();
+  await page.locator("#editBook").selectOption("59");
+  await page.locator("#editChapter").selectOption("5");
+  assert.ok((await page.locator("#chapterVerses").inputValue()).includes("Silvano"), "O editor deve carregar 1 Pedro 5");
+  await page.locator('.navbtn[data-view="home"]').click();
+
   await scanAccessibility(page, "início");
   assert.match(await page.locator(".translation-notice").innerText(), /textos traduzidos disponíveis.*estágio de revisão variam conforme o livro/i, "O aviso deve deixar claro que a disponibilidade e a revisão variam por livro");
   await page.locator('.navbtn[data-view="symbols"]').click();
