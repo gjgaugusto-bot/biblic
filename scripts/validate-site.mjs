@@ -205,7 +205,8 @@ if (existsSync("index.html") && existsSync("app.js")) {
       }
       const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
-      const expectedExternalBooks = booksForData.length - 1; // Gênesis usa dados embutidos no app.js.
+      const hasRevelationModule = scriptFiles.includes("apocalipse-data.js");
+      const expectedExternalBooks = booksForData.length - 1 - (hasRevelationModule ? 0 : 1); // Gênesis é embutido; Apocalipse ainda pode estar em PR separado.
       if (routes.size !== expectedExternalBooks) fail("Esperadas " + expectedExternalBooks + " rotas externas; encontradas " + routes.size);
       const editorRoutes = new Map([...appForData.matchAll(/book===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[chapter\]\|\|\[\]\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
