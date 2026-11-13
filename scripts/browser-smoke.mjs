@@ -207,6 +207,16 @@ try {
   await page.locator(`#chapterLinks [data-chapter-number="1"]`).click();
   assert.equal(await page.locator("#reader .verse-entry").count(), 25, "Filemom: estrutura de versículos");
   assert.ok((await page.locator("#reader").innerText()).length > 100, "Filemom: conteúdo carregado");
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(57).click();
+  const hebrewsCounts = [14,18,19,16,14,20,28,13,28,39,40,29,25];
+  for (let chapter = 1; chapter <= 13; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), hebrewsCounts[chapter - 1], `Hebreus ${chapter}: estrutura de versículos`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `Hebreus ${chapter}: conteúdo carregado`);
+  }
+
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
