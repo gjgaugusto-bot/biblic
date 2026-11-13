@@ -414,7 +414,7 @@ try {
   for await (const chunk of exportStream) exportChunks.push(chunk);
   const exportedBackup = JSON.parse(Buffer.concat(exportChunks).toString("utf8"));
   assert.equal(exportedBackup.studyCategories["Símbolos"].title, categoryTitle, "O backup exportado deve incluir as categorias personalizadas");
-  assert.ok(exportedBackup.editorialReviews && exportedBackup.editorialReviews["1-1-1"], "O backup exportado deve incluir o histórico editorial por versículo");
+  assert.ok(exportedBackup.editorialReviews && exportedBackup.editorialReviews["1-11-1"], "O backup exportado deve incluir o histórico editorial por versículo");
 
   const importData = {
     edits: { "0-4": { title: "Título restaurado pelo teste" } },
