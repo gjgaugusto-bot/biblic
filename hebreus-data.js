@@ -1,6 +1,6 @@
 // Hebreus — primeira redação de trabalho em português baseada no SBLGNT.
 // Conferência estrutural: MorphGNT/SBLGNT, 13 capítulos e 303 posições de versículo.
-// Este arquivo está em construção; somente o capítulo 1 foi redigido nesta etapa.
+// Redação preliminar dos 13 capítulos; revisão lexical, gramatical, textual e exegética pendente.
 // Revisão lexical, gramatical, textual e exegética permanece pendente.
 window.HEBREWS_TEXT = {
   1: [
@@ -20,6 +20,104 @@ window.HEBREWS_TEXT = {
     "Não são todos eles espíritos a serviço de Deus, enviados para servir em favor daqueles que hão de herdar a salvação?"
   ],
 
+
+  2: [
+    "Por isso, devemos prestar ainda mais atenção ao que ouvimos, para que jamais nos desviemos.",
+    "Pois, se a palavra anunciada por meio de anjos mostrou-se firme, e toda transgressão e desobediência recebeu justa retribuição,",
+    "como escaparemos nós, se negligenciarmos tão grande salvação? Ela começou a ser anunciada pelo Senhor e foi confirmada a nós pelos que a ouviram,",
+    "enquanto Deus também dava testemunho por sinais, maravilhas, vários atos poderosos e distribuições do Espírito Santo, segundo a sua vontade.",
+    "Pois não foi aos anjos que Deus sujeitou o mundo futuro, do qual estamos falando.",
+    "Alguém, em certo lugar, testemunhou: “Que é o ser humano, para que dele te lembres? Ou o filho do homem, para que o visites?",
+    "Tu o fizeste por um pouco menor que os anjos; de glória e honra o coroaste;",
+    "todas as coisas sujeitaste debaixo dos seus pés”. Ao sujeitar-lhe todas as coisas, nada deixou fora do seu domínio. Contudo, ainda não vemos todas as coisas sujeitas a ele.",
+    "Vemos, porém, Jesus, que por um pouco foi feito menor que os anjos, agora coroado de glória e honra por causa do sofrimento da morte, para que, pela graça de Deus, provasse a morte em favor de todos.",
+    "Pois convinha que aquele por causa de quem e por meio de quem existem todas as coisas, ao conduzir muitos filhos à glória, aperfeiçoasse, por meio dos sofrimentos, o autor da salvação deles.",
+    "Tanto aquele que santifica como os que são santificados vêm todos de um só. Por isso, ele não se envergonha de chamá-los irmãos,",
+    "dizendo: “Anunciarei o teu nome a meus irmãos; no meio da assembleia cantarei louvores a ti”.",
+    "E novamente: “Eu porei nele a minha confiança”. E ainda: “Eis-me aqui, com os filhos que Deus me deu”.",
+    "Visto, portanto, que os filhos participam de carne e sangue, ele também participou dessas mesmas coisas, para que, por meio da morte, destruísse aquele que tem o poder da morte, isto é, o diabo,",
+    "e libertasse todos os que, pelo medo da morte, estavam sujeitos à escravidão durante toda a vida.",
+    "Pois certamente não é aos anjos que ele socorre, mas à descendência de Abraão.",
+    "Por isso, era necessário que se tornasse semelhante aos irmãos em todos os aspectos, para ser misericordioso e fiel sumo sacerdote nas coisas referentes a Deus, a fim de fazer propiciação pelos pecados do povo.",
+    "Pois, tendo ele mesmo sofrido quando foi tentado, é capaz de socorrer os que são tentados."
+  ],
+  3: [
+    "Por isso, irmãos santos, participantes da vocação celestial, considerem atentamente Jesus, o apóstolo e sumo sacerdote da nossa confissão.",
+    "Ele foi fiel àquele que o constituiu, assim como também Moisés foi fiel em toda a casa de Deus.",
+    "Jesus, porém, foi considerado digno de maior glória do que Moisés, assim como aquele que constrói a casa tem mais honra do que a própria casa.",
+    "Pois toda casa é construída por alguém, mas aquele que construiu todas as coisas é Deus.",
+    "Moisés foi fiel em toda a casa de Deus como servo, para testemunhar acerca das coisas que seriam anunciadas;",
+    "Cristo, porém, foi fiel como Filho sobre a casa de Deus. E nós somos essa casa, se mantivermos firme até o fim a confiança e a esperança de que nos gloriamos.",
+    "Por isso, como diz o Espírito Santo: “Hoje, se ouvirem a sua voz,",
+    "não endureçam o coração como na rebelião, no dia da provação no deserto,",
+    "onde os pais de vocês me puseram à prova, testando-me, embora tivessem visto as minhas obras",
+    "durante quarenta anos. Por isso me indignei contra aquela geração e disse: ‘Sempre se desviam no coração; não conheceram os meus caminhos’.",
+    "Assim jurei na minha ira: ‘Não entrarão no meu descanso’”.",
+    "Tenham cuidado, irmãos, para que nunca haja em algum de vocês coração perverso e incrédulo, que os afaste do Deus vivo.",
+    "Pelo contrário, encorajem uns aos outros todos os dias, enquanto ainda se diz “Hoje”, para que nenhum de vocês seja endurecido pelo engano do pecado.",
+    "Pois nos tornamos participantes de Cristo, se de fato mantivermos firme até o fim a confiança que tínhamos no princípio.",
+    "Quando se diz: “Hoje, se ouvirem a sua voz, não endureçam o coração como na rebelião”,",
+    "quem foram os que ouviram e se rebelaram? Não foram todos os que saíram do Egito sob a liderança de Moisés?",
+    "E contra quem Deus se indignou durante quarenta anos? Não foi contra os que pecaram, cujos corpos caíram no deserto?",
+    "E a quem jurou que não entrariam no seu descanso, senão aos que foram desobedientes?",
+    "Vemos, portanto, que não puderam entrar por causa da incredulidade."
+  ],
+  4: [
+    "Temamos, portanto, para que, permanecendo a promessa de entrar no descanso de Deus, ninguém entre vocês pareça ter ficado para trás.",
+    "Pois também recebemos as boas-novas, assim como eles; mas a mensagem que ouviram não lhes trouxe proveito, porque não foi acolhida com fé por aqueles que a ouviram.",
+    "Nós, porém, que cremos, entramos no descanso, conforme Deus disse: “Assim jurei na minha ira: ‘Não entrarão no meu descanso’”, embora as suas obras estivessem concluídas desde a fundação do mundo.",
+    "Pois, em certo lugar, ele falou assim sobre o sétimo dia: “E Deus descansou, no sétimo dia, de todas as suas obras”.",
+    "E novamente, neste trecho: “Não entrarão no meu descanso”.",
+    "Portanto, visto que ainda resta que alguns entrem nele, e que os primeiros a receber as boas-novas não entraram por causa da desobediência,",
+    "Deus novamente determina certo dia, chamado “Hoje”, falando muito tempo depois por meio de Davi, como já foi dito: “Hoje, se ouvirem a sua voz, não endureçam o coração”.",
+    "Pois, se Josué lhes tivesse dado descanso, Deus não falaria posteriormente a respeito de outro dia.",
+    "Assim, resta um descanso sabático para o povo de Deus.",
+    "Pois aquele que entrou no descanso de Deus também descansou de suas obras, assim como Deus descansou das suas.",
+    "Esforcemo-nos, portanto, para entrar naquele descanso, a fim de que ninguém caia seguindo o mesmo exemplo de desobediência.",
+    "Pois a palavra de Deus é viva e eficaz, mais afiada do que qualquer espada de dois gumes; penetra até dividir alma e espírito, juntas e medulas, e julga os pensamentos e intenções do coração.",
+    "E não há criatura alguma escondida diante dele; todas as coisas estão descobertas e expostas aos olhos daquele a quem devemos prestar contas.",
+    "Portanto, visto que temos um grande sumo sacerdote que atravessou os céus, Jesus, o Filho de Deus, mantenhamos firme a nossa confissão.",
+    "Pois não temos um sumo sacerdote incapaz de compadecer-se das nossas fraquezas; pelo contrário, ele foi tentado em todas as coisas, à nossa semelhança, mas sem pecado.",
+    "Aproximemo-nos, portanto, com confiança do trono da graça, para receber misericórdia e encontrar graça para ajuda no momento oportuno."
+  ],
+  5: [
+    "Todo sumo sacerdote, escolhido dentre os seres humanos, é constituído em favor deles nas coisas referentes a Deus, para oferecer dons e sacrifícios pelos pecados.",
+    "Ele pode tratar com compaixão os ignorantes e os que se desviam, pois também está cercado de fraqueza.",
+    "Por essa razão, deve oferecer sacrifícios pelos pecados tanto em favor do povo como também de si mesmo.",
+    "Ninguém toma para si essa honra; recebe-a somente quando é chamado por Deus, como aconteceu com Arão.",
+    "Assim também Cristo não tomou para si a glória de tornar-se sumo sacerdote; foi aquele que lhe disse: “Tu és meu Filho; hoje eu te gerei”.",
+    "Como também diz em outro lugar: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque”.",
+    "Durante os dias de sua vida humana, Jesus ofereceu orações e súplicas, com forte clamor e lágrimas, àquele que podia salvá-lo da morte; e foi ouvido por causa de sua reverência.",
+    "Embora fosse Filho, aprendeu a obediência por meio das coisas que sofreu.",
+    "E, tendo sido aperfeiçoado, tornou-se fonte de salvação eterna para todos os que lhe obedecem,",
+    "sendo designado por Deus sumo sacerdote segundo a ordem de Melquisedeque.",
+    "A respeito disso temos muito a dizer, e é difícil explicar, porque vocês se tornaram lentos para ouvir.",
+    "Pois, embora pelo tempo já devessem ser mestres, vocês precisam novamente que alguém lhes ensine os princípios elementares dos oráculos de Deus. Voltaram a precisar de leite, e não de alimento sólido.",
+    "Ora, todo aquele que se alimenta de leite é inexperiente na palavra da justiça, pois é criança.",
+    "Mas o alimento sólido é para os adultos, para aqueles que, pela prática, têm as faculdades exercitadas para discernir tanto o bem como o mal."
+  ],
+  6: [
+    "Por isso, deixando os ensinamentos elementares a respeito de Cristo, avancemos para a maturidade, sem lançar novamente o fundamento do arrependimento de obras mortas, da fé em Deus,",
+    "do ensino sobre batismos, da imposição de mãos, da ressurreição dos mortos e do juízo eterno.",
+    "E faremos isso, se Deus permitir.",
+    "Pois é impossível renovar novamente para o arrependimento aqueles que uma vez foram iluminados, provaram o dom celestial, tornaram-se participantes do Espírito Santo",
+    "e provaram a boa palavra de Deus e os poderes da era futura,",
+    "e depois caíram, pois crucificam novamente para si mesmos o Filho de Deus e o expõem à vergonha pública.",
+    "Pois a terra que absorve a chuva que frequentemente cai sobre ela e produz vegetação útil para aqueles por quem é cultivada recebe bênção de Deus.",
+    "Mas, se produz espinhos e cardos, é rejeitada e está perto da maldição; seu fim é ser queimada.",
+    "Quanto a vocês, amados, estamos convencidos de coisas melhores, próprias da salvação, embora falemos assim.",
+    "Pois Deus não é injusto para esquecer o trabalho de vocês e o amor que demonstraram pelo seu nome, servindo aos santos e continuando a servi-los.",
+    "Desejamos que cada um de vocês demonstre o mesmo empenho, para alcançar plena certeza da esperança até o fim,",
+    "a fim de que não se tornem preguiçosos, mas imitadores daqueles que, pela fé e pela perseverança, herdam as promessas.",
+    "Quando Deus fez a promessa a Abraão, como não havia ninguém maior por quem jurar, jurou por si mesmo,",
+    "dizendo: “Certamente o abençoarei e o multiplicarei”.",
+    "E assim, depois de esperar com perseverança, Abraão alcançou a promessa.",
+    "Pois as pessoas juram por alguém maior do que elas, e o juramento, como confirmação, põe fim a toda controvérsia.",
+    "Por isso, querendo Deus demonstrar ainda mais claramente aos herdeiros da promessa a imutabilidade do seu propósito, garantiu-a com juramento,",
+    "para que, por meio de duas coisas imutáveis, nas quais é impossível que Deus minta, nós, que buscamos refúgio, tenhamos forte encorajamento para nos apegarmos à esperança que nos foi proposta.",
+    "Temos essa esperança como âncora da alma, segura e firme, que entra até o interior do véu,",
+    "onde Jesus entrou por nós como precursor, tornando-se sumo sacerdote para sempre, segundo a ordem de Melquisedeque."
+  ],
   7: [
     "Esse Melquisedeque era rei de Salém e sacerdote do Deus Altíssimo. Ele encontrou Abraão quando este voltava da derrota dos reis e o abençoou.",
     "Abraão lhe entregou o dízimo de tudo. Seu nome significa, em primeiro lugar, “rei de justiça”; além disso, ele é rei de Salém, isto é, “rei de paz”.",
