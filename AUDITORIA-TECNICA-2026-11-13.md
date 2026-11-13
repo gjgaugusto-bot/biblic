@@ -74,3 +74,13 @@ Auditoria estática do repositório `gjgaugusto-bot/biblic`, branch `main`, comm
 3. Integrar Apocalipse somente após checks aprovados e decisão editorial explícita; em seguida publicar e verificar o Pages.
 4. Expandir testes de contagens canônicas e de editor para os 66 livros.
 5. Executar a revisão editorial integral: texto original, variantes, léxico, gramática, sintaxe, português, notas e referências, registrando cada correção por versículo.
+
+
+## Acompanhamento após a auditoria inicial — 2026-11-13
+
+- **T1 corrigido e integrado:** PR #116 colocou validação estrutural e smoke test como dependência obrigatória do deploy. Se os testes falham, o GitHub Pages não publica.
+- **T3 resolvido tecnicamente:** PR #117 integrou Apocalipse ao leitor e editor. A primeira redação contém 22 capítulos e 405 posições; revisão editorial continua pendente.
+- **T4 parcialmente ampliado:** o validador compara rotas do leitor/editor e o smoke test percorre os 66 livros, verificando carregamento de capítulos, editor, backup e acessibilidade. Ainda falta manifesto independente de contagens canônicas de versículos para todos os capítulos.
+- **Publicação confirmada:** commit `344e2ea59c48313e6f1b57649b126bd016e0d03f`; deploy run `43349123196` sucesso; proteção/smoke run `43349123205` sucesso.
+- **T2 permanece pendente:** `main.protected=false` e nenhum ruleset na última consulta; é necessária configuração administrativa no GitHub.
+- **Auditoria editorial permanece pendente:** fidelidade ao original, variantes, léxico, morfologia, gramática, sintaxe, português, notas, referências e exegese verso a verso.

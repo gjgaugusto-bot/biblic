@@ -163,3 +163,14 @@ Fonte textual dos novos livros: texto hebraico massorético (WLC), com traduçã
 - A consulta atual ao GitHub retornou `main.protected=false` e nenhum ruleset. A proteção da branch não está comprovada e deve ser configurada administrativamente.
 - A auditoria técnica detalhada está em `AUDITORIA-TECNICA-2026-11-13.md`; a correção para bloquear deploy sem testes está nesta branch de auditoria.
 - As traduções e notas continuam exigindo revisão gramatical, lexical, sintática, textual e exegética. Contagens e testes de carregamento não são aprovação de tradução.
+
+
+## Estado confirmado após integração de Apocalipse — 2026-11-13
+
+- PR #116 integrado: o workflow de GitHub Pages agora depende da validação estrutural e do smoke test Playwright/Chromium; falha de validação bloqueia o deploy.
+- PR #117 integrado: Apocalipse adicionado ao leitor e editor, com 22 capítulos e 405 posições da primeira redação. O catálogo agora está tecnicamente integrado com 66 livros e 1.189 capítulos.
+- Commit publicado na `main`: `344e2ea59c48313e6f1b57649b126bd016e0d03f`.
+- Workflow de proteção do site: run `43349123205`, concluído com sucesso.
+- Workflow GitHub Pages: run `43349123196`, concluído com sucesso em 2026-11-13 02:02:54Z.
+- A integração técnica e a publicação não significam que as traduções estejam revisadas. Apocalipse e os demais livros continuam exigindo auditoria editorial integral.
+- A proteção administrativa da branch `main` continua não confirmada: a última leitura retornou `protected=false` e nenhum ruleset. O bloqueio de deploy por CI não substitui a proteção administrativa.

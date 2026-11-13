@@ -510,3 +510,14 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - Foram identificados pontos técnicos na auditoria: deploy não estava condicionado aos testes; proteção administrativa da `main` não foi confirmada; testes de contagem canônica de versículos ainda são incompletos; documentação de status estava desatualizada.
 - Ver detalhes e correções propostas em `AUDITORIA-TECNICA-2026-11-13.md`.
 - Não iniciar publicação global nem marcar textos como revisados com base apenas em testes de estrutura. A revisão dos 66 livros e das notas será uma etapa editorial própria, com fontes originais e registro de cada decisão.
+
+
+## Atualização após publicação dos 66 livros — 2026-11-13
+
+- PR #116 integrado: deploy condicionado a validação de sintaxe, estrutura e testes de navegador.
+- PR #117 integrado: Apocalipse (22 capítulos, 405 posições de primeira redação) conectado ao leitor e editor.
+- Todos os 66 livros / 1.189 capítulos estão tecnicamente integrados na `main`.
+- Publicação confirmada: commit `344e2ea59c48313e6f1b57649b126bd016e0d03f`; workflow de deploy `43349123196` concluído com sucesso.
+- Smoke test em navegador passou, incluindo navegação, carregamento do editor para todos os livros, backup e acessibilidade.
+- **Pendente:** proteção administrativa de `main`; manifestos independentes de contagem canônica de versículos para todos os capítulos; revisão lexical, gramatical, sintática, textual, tradutória e exegética de todos os textos e notas.
+- Não rotular nenhuma tradução como revisada apenas porque passou nos testes técnicos.
