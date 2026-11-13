@@ -1,6 +1,6 @@
 /* Joel — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: WLC, Midvash/bible-data, versions/he/wlc/books/Joel.json.
- * Livro completo: 3 capítulos e 73 versículos na divisão usada pelo catálogo do aplicativo. O texto-base WLC divide Joel em 4 capítulos; os capítulos 2–3 do WLC foram reunidos no capítulo 2, e o capítulo 4 do WLC corresponde ao capítulo 3 no aplicativo.
+ * Livro completo: 4 capítulos e 73 versículos; contagem conferida capítulo a capítulo.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.JOEL_TEXT = window.JOEL_TEXT || {};
@@ -55,8 +55,10 @@ window.JOEL_TEXT[2] = [
   "As eiras se encherão de trigo, e os lagares transbordarão de vinho novo e azeite.",
   "Restituirei os anos que o gafanhoto cortador, o migrador, o devorador e o destruidor consumiram — meu grande exército que enviei contra vós.",
   "Comereis abundantemente e vos fartareis; louvareis o nome de YHWH, vosso Deus, que fez maravilhas em vosso favor; meu povo nunca mais será envergonhado.",
-  "Sabereis que estou no meio de Israel, que eu sou YHWH, vosso Deus, e não há outro; meu povo nunca mais será envergonhado.",
+  "Sabereis que estou no meio de Israel, que eu sou YHWH, vosso Deus, e não há outro; meu povo nunca mais será envergonhado."
+];
 
+window.JOEL_TEXT[3] = [
   "Depois disso, derramarei meu Espírito sobre toda a humanidade; vossos filhos e vossas filhas profetizarão, vossos anciãos terão sonhos, e vossos jovens terão visões.",
   "Também sobre os servos e sobre as servas derramarei meu Espírito naqueles dias.",
   "Farei aparecer sinais nos céus e na terra: sangue, fogo e colunas de fumaça.",
@@ -64,8 +66,7 @@ window.JOEL_TEXT[2] = [
   "Acontecerá que todo aquele que invocar o nome de YHWH será salvo; pois no monte Sião e em Jerusalém haverá livramento, como YHWH disse, entre os sobreviventes que YHWH chamar."
 ];
 
-window.JOEL_TEXT[3] = [
-
+window.JOEL_TEXT[4] = [
   "Pois eis que, naqueles dias e naquele tempo, quando eu restaurar o destino de Judá e Jerusalém,",
   "reunirei todas as nações e as farei descer ao vale de Josafá; ali entrarei em julgamento com elas por causa de meu povo e de minha herança Israel, que espalharam entre as nações e cuja terra dividiram.",
   "Lançaram sortes sobre meu povo; deram um menino em troca de uma prostituta e venderam uma menina por vinho para beber.",
@@ -88,8 +89,3 @@ window.JOEL_TEXT[3] = [
   "Judá, porém, será habitada para sempre, e Jerusalém, de geração em geração.",
   "Eu vingarei seu sangue, que ainda não vinguei; YHWH habitará em Sião."
 ];
-
-
-
-
-
