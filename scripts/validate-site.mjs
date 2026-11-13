@@ -205,7 +205,18 @@ if (existsSync("index.html") && existsSync("app.js")) {
       }
       const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
-      if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (livros 2–65); encontradas " + routes.size);
+      const hasRevelationModule = scriptFiles.includes("apocalipse-data.js");
+      const expectedExternalBooks = booksForData.length - 1 - (hasRevelationModule ? 0 : 1); // Gênesis é embutido; Apocalipse ainda pode estar em PR separado.
+      if (routes.size !== expectedExternalBooks) fail("Esperadas " + expectedExternalBooks + " rotas externas; encontradas " + routes.size);
+      const editorRoutes = new Map([...appForData.matchAll(/book===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[chapter\]\|\|\[\]\)/g)]
+        .map((match) => [Number(match[1]), match[2]]));
+      if (editorRoutes.size !== expectedExternalBooks) fail("Esperadas " + expectedExternalBooks + " rotas de dados no editor; encontradas " + editorRoutes.size);
+      for (const [index, key] of routes) {
+        if (editorRoutes.get(index) !== key) fail("Rota do editor ausente ou divergente para " + (booksForData[index]?.name || "índice " + index));
+      }
+      for (const [index] of editorRoutes) {
+        if (!routes.has(index)) fail("O editor possui rota sem correspondente no leitor: índice " + index);
+      }
       for (const [index, key] of routes) {
         const book = booksForData[index];
         const chapters = dataWindow[key];

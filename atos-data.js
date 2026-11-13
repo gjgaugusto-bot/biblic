@@ -4,7 +4,7 @@
  * Fonte textual e licenças: https://www.sbl-site.org/resources/digital-texts/sbl-greek-new-testament/
  * https://github.com/morphgnt/sblgnt (arquivo 65-Ac-morphgnt.txt; DOI 10.5281/zenodo.376200).
  * Esta redação é uma tradução independente de trabalho; não é endossada pelos detentores do SBLGNT.
- * Conferência lexical: MorphGNT SBLGNT v6.12, arquivo 65-Ac-morphgnt.txt; formas superficiais, lemas e códigos morfológicos agrupados por versículo.
+ * Conferência estrutural: IDs de capítulo e versículo comparados com MorphGNT SBLGNT v6.12. Auditoria lexical e gramatical palavra a palavra permanece pendente.
  * Progresso de redação: 28 de 28 capítulos; 1.006 posições de versículo, incluindo marcadores explícitos para variantes/ausências do texto crítico. Tradução de trabalho; conferência exegética e revisão versículo a versículo ainda pendentes.
  */
 window.ACTS_TEXT = window.ACTS_TEXT || {};

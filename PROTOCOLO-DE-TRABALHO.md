@@ -116,3 +116,10 @@ Ao encerrar cada etapa, atualizar o registro de progresso. Não depender apenas 
 - Êxodo 1–40 já está integrado; continuar a revisão acadêmica verso a verso a partir dos registros existentes, sem reconstruir ou refazer a integração.
 - Ao concluir cada etapa, registrar o próximo ponto genuinamente pendente no estado oficial. A fila deve avançar em ordem até Apocalipse.
 - Não integrar PR nem publicar no site sem autorização explícita do proprietário.
+
+
+## Atualização de segurança — 2026-11-13
+
+A configuração administrativa da branch `main` deve ser tratada como **não confirmada**: a leitura atual do GitHub retornou `protected=false` e nenhum ruleset. Não afirmar que push direto, force push ou exclusão estão bloqueados até que a regra seja criada e verificada na interface/API. A proteção de CI por workflow não é, por si só, proteção de branch.
+
+O workflow de publicação deve executar a mesma validação estrutural e de navegador antes do deploy. Nesta branch de auditoria, o job `deploy` depende de `needs: validate`; a mudança só estará ativa no site após integração da branch.
