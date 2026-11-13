@@ -152,3 +152,14 @@ Fonte textual dos novos livros: texto hebraico massorético (WLC), com traduçã
 - Workflow de proteção #805 e workflow GitHub Pages #805 concluídos com sucesso. O site foi publicado.
 - 2 Samuel: branch `feat/2-samuel-texto-wlc-2026-11-07`; capítulos 1–12 concluídos, 295/695 versículos. Contagens por capítulo conferidas contra WLC; capítulo 6:7 teve correção de sintaxe antes da validação final.
 - Não integrar nem publicar 2 Samuel até completar os 24 capítulos.
+
+
+## Estado atualizado — 2026-11-13 (prevalece sobre a fila histórica acima)
+
+- Branch principal observada: `main`, commit `72401db7daaaf98a2107ad263113231acd2b42ab`.
+- O catálogo lista 66 livros e 1.189 capítulos, mas Apocalipse ainda não está integrado à `main`; o PR #115 está aberto. Portanto, não afirmar que os 66 livros estão publicados.
+- Os cinco livros históricos já tiveram a correção do editor integrada.
+- A publicação mais recente da `main` observada teve workflow de proteção e deploy concluídos com sucesso. Isso não substitui a auditoria textual.
+- A consulta atual ao GitHub retornou `main.protected=false` e nenhum ruleset. A proteção da branch não está comprovada e deve ser configurada administrativamente.
+- A auditoria técnica detalhada está em `AUDITORIA-TECNICA-2026-11-13.md`; a correção para bloquear deploy sem testes está nesta branch de auditoria.
+- As traduções e notas continuam exigindo revisão gramatical, lexical, sintática, textual e exegética. Contagens e testes de carregamento não são aprovação de tradução.
