@@ -42,16 +42,11 @@ try {
     assert.equal(await page.locator("#chapterLinks [data-chapter-number]").count(), expectedChapterCounts[index], `A contagem de capítulos de ${index + 1} deve ser correta`);
     await page.locator('#chapterLinks [data-chapter-number="1"]').click();
     const chapterOneEntries = await page.locator("#reader .verse-entry").count();
-    if (index === 65 && chapterOneEntries === 0) {
-      // Apocalipse permanece em PR separado até a revisão textual; não exigir sua presença na main antes do merge.
-      console.log("Apocalipse ainda não integrado à main; conteúdo validado separadamente no PR #111.");
-    } else {
-      assert.ok(chapterOneEntries > 0, `O capítulo 1 do livro ${index + 1} deve carregar texto no leitor`);
-    }
+    assert.ok(chapterOneEntries > 0, `O capítulo 1 do livro ${index + 1} deve carregar texto no leitor`);
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
-  // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação no PR dedicado.
+  // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação integrada à main.
   await page.locator(".book").nth(65).click();
   const revelationCounts = [20,29,22,11,14,17,17,13,21,11,19,18,18,20,8,21,18,24,21,15,27,21];
   let revelationTotal = 0;
@@ -75,8 +70,8 @@ try {
   await page.locator('.navbtn[data-view="home"]').click();
 
 
-  // Confere todos os livros integrados nesta revisão. Apocalipse entra quando seu módulo está carregado.
-  const lastIntegratedBook = await page.evaluate(() => window.REVELATION_TEXT ? 65 : 64);
+  // Confere os 66 livros do catálogo; ausência de qualquer módulo deve falhar no teste.
+  const lastIntegratedBook = expectedChapterCounts.length - 1;
   await page.locator('.navbtn[data-view="admin"]').click();
   for (let index = 0; index <= lastIntegratedBook; index++) {
     await page.locator("#editBook").selectOption(String(index));
