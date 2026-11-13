@@ -1211,3 +1211,13 @@ A segunda conferência comparativa foi documentada separadamente para os capítu
 
 
 **Preservação de dados locais:** esta consolidação atualiza apenas o estado-base versionado no código. Não lê, limpa nem sobrescreve registros de revisão já existentes no localStorage dos navegadores; eventuais sobreposições locais continuam sob controle do usuário e devem ser exportadas/avaliadas separadamente.
+
+
+### Êxodo 11:5 — precisão lexical de רֵחָיִם (2026-11-13)
+
+- **Ajuste:** “atrás do moinho” foi refinado para “atrás das pedras do moinho”.
+- **Base hebraica:** הָרֵחָיִם (*harechayim*), OSHB/WLC, Êxodo 11:5; morfologia marcada como substantivo comum masculino dual absoluto (Ncmda), Strong H7347.
+- **Motivo:** רֵחָיִם é forma dual que designa as duas pedras de um moinho manual. “Moinho” isoladamente pode nomear o aparelho inteiro; “pedras do moinho” conserva a imagem lexical mais específica do hebraico.
+- **Nota:** a nota de Êxodo 11:5 foi ampliada para explicar simultaneamente בְּכוֹר (*bekhor*) e רֵחָיִם (*rechayim*), sem criar um segundo registro para o mesmo versículo.
+- **Estado:** Êxodo 11:5 continua **Em revisão**; esta correção pontual não encerra a segunda conferência do capítulo.
+- **Fonte primária:** https://github.com/openscriptures/morphhb/blob/master/wlc/Exod.xml (OSIS Exod.11.5).
