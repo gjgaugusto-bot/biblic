@@ -94,39 +94,39 @@ window.REVELATION_TEXT = {
 "“Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, pois criaste todas as coisas; por tua vontade elas existiram e foram criadas”."
 ],
 5: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Vi na mão direita daquele que estava sentado no trono um livro em forma de rolo, escrito por dentro e por fora, selado com sete selos.",
+"Vi também um anjo poderoso proclamando em voz alta: “Quem é digno de abrir o livro e romper seus selos?”",
+"Mas ninguém no céu, nem na terra, nem debaixo da terra podia abrir o livro ou olhar para ele.",
+"Eu chorava muito, porque não se achou ninguém digno de abrir o livro ou olhar para ele.",
+"Um dos anciãos, porém, me disse: “Não chore. Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e seus sete selos”.",
+"Então vi, no meio do trono e dos quatro seres viventes e entre os anciãos, um Cordeiro em pé, como que tendo sido morto. Ele tinha sete chifres e sete olhos, que são os sete Espíritos de Deus enviados por toda a terra.",
+"Ele veio e tomou o livro da mão direita daquele que estava sentado no trono.",
+"Quando tomou o livro, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro. Cada um tinha uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
+"E cantavam um cântico novo: “Digno és de tomar o livro e abrir seus selos, porque foste morto e, com teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação.",
+"Tu os constituíste reino e sacerdotes para nosso Deus, e eles reinarão sobre a terra”.",
+"Olhei e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos. O número deles era miríades de miríades e milhares de milhares,",
+"proclamando em alta voz: “Digno é o Cordeiro que foi morto de receber poder, riqueza, sabedoria, força, honra, glória e louvor!”",
+"Ouvi toda criatura que há no céu, na terra, debaixo da terra e no mar, e tudo o que neles há, dizendo: “Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio para todo o sempre!”",
+"Os quatro seres viventes diziam: “Amém!” E os anciãos prostraram-se e adoraram."
 ],
 6: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Vi quando o Cordeiro abriu o primeiro dos sete selos e ouvi um dos quatro seres viventes dizer, com voz como de trovão: “Venha!”",
+"Olhei, e eis um cavalo branco. Seu cavaleiro tinha um arco; foi-lhe dada uma coroa, e ele saiu vencendo e para vencer.",
+"Quando abriu o segundo selo, ouvi o segundo ser vivente dizer: “Venha!”",
+"Saiu outro cavalo, vermelho. Ao seu cavaleiro foi dado tirar a paz da terra, para que as pessoas se matassem umas às outras; e foi-lhe dada uma grande espada.",
+"Quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: “Venha!” Olhei, e eis um cavalo preto. Seu cavaleiro tinha uma balança na mão.",
+"Ouvi algo como uma voz no meio dos quatro seres viventes, dizendo: “Um litro de trigo por um denário, e três litros de cevada por um denário; não danifique o azeite e o vinho!”",
+"Quando abriu o quarto selo, ouvi a voz do quarto ser vivente dizer: “Venha!”",
+"Olhei, e eis um cavalo esverdeado. O nome de seu cavaleiro era Morte, e o Hades o acompanhava. Foi-lhes dada autoridade sobre a quarta parte da terra, para matar pela espada, pela fome, pela peste e pelos animais selvagens da terra.",
+"Quando abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus e do testemunho que mantinham.",
+"Clamaram em alta voz: “Até quando, Soberano Senhor, santo e verdadeiro, deixarás de julgar e vingar nosso sangue dos que habitam na terra?”",
+"A cada um deles foi dada uma veste branca, e foi-lhes dito que descansassem ainda por pouco tempo, até que se completasse o número de seus conservos e irmãos, que também seriam mortos como eles.",
+"Vi quando abriu o sexto selo. Houve um grande terremoto; o sol ficou negro como pano de crina, e a lua inteira tornou-se como sangue.",
+"As estrelas do céu caíram sobre a terra, como a figueira deixa cair seus figos verdes quando sacudida por forte vento.",
+"O céu recolheu-se como um rolo que se enrola, e todos os montes e ilhas foram removidos de seus lugares.",
+"Os reis da terra, os grandes, os comandantes, os ricos, os poderosos e todos, escravos e livres, esconderam-se nas cavernas e entre as rochas dos montes.",
+"Diziam aos montes e às rochas: “Caiam sobre nós e escondam-nos da face daquele que está sentado no trono e da ira do Cordeiro,",
+"pois chegou o grande dia da ira deles, e quem pode permanecer em pé?”"
 ],
 7: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4], pendingChapters: Array.from({length:18}, (_,i)=>i+5), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6], pendingChapters: Array.from({length:16}, (_,i)=>i+7), versePositions: 405, complete: false };
