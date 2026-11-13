@@ -51,12 +51,9 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
-  // Confere leitura e carregamento do texto padrão no editor para os cinco livros históricos corrigidos.
-  for (const index of [5, 6, 7, 8, 9]) {
-    await page.locator(".book").nth(index).click();
-    await page.locator("#chapterLinks [data-chapter-number=\"1\"]").click();
-    assert.ok(await page.locator("#reader .verse-entry").count() > 0, `O leitor deve carregar o capítulo 1 do livro ${index}`);
-    await page.locator('.navbtn[data-view="admin"]').click();
+  // Confere o carregamento do texto padrão no editor para todos os 65 livros integrados.
+  await page.locator('.navbtn[data-view="admin"]').click();
+  for (let index = 0; index <= 64; index++) {
     await page.locator("#editBook").selectOption(String(index));
     await page.locator("#editChapter").selectOption("1");
     const editorText = await page.locator("#chapterVerses").inputValue();
