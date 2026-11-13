@@ -213,7 +213,8 @@ try {
   await page.locator("#chapterList").click();
   await page.locator('#chapterLinks [data-chapter-number="11"]').click();
   exodusReaderText = await page.locator("#reader").innerText();
-  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), "Êxodo 11:5 deve preservar a referência às duas pedras do moinho");
+  const exodusChapter11Debug = await page.evaluate(() => ({ verse5: window.EXODUS_TEXT?.[11]?.[4], script: document.querySelector('script[src*="exodus-11-15.js"]')?.src }));
+  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), `Êxodo 11:5 deve preservar a referência às duas pedras do moinho; diagnóstico: ${JSON.stringify({ text: exodusReaderText, ...exodusChapter11Debug })}`);
   assert.ok(exodusReaderText.includes("substantivo dual"), "A nota lexical de Êxodo 11:5 deve explicar רֵחָיִם");
   await page.locator('.navbtn[data-view="home"]').click();
   await page.locator(".book").nth(44).click();
