@@ -81,17 +81,17 @@ window.REVELATION_TEXT = {
 "Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
 ],
 4: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Depois dessas coisas, olhei, e eis que havia uma porta aberta no céu. A primeira voz que eu tinha ouvido, como som de trombeta falando comigo, disse: “Suba até aqui, e mostrarei a você o que deve acontecer depois destas coisas”.",
+"Imediatamente, achei-me em espírito, e eis que havia um trono no céu, e alguém estava sentado no trono.",
+"Aquele que estava sentado tinha aparência semelhante à pedra de jaspe e de sardônio; ao redor do trono havia um arco-íris com aparência de esmeralda.",
+"Ao redor do trono havia vinte e quatro tronos, e neles estavam sentados vinte e quatro anciãos, vestidos de branco, com coroas de ouro sobre a cabeça.",
+"Do trono saíam relâmpagos, vozes e trovões. Diante do trono ardiam sete tochas de fogo, que são os sete Espíritos de Deus.",
+"Diante do trono havia algo semelhante a um mar de vidro, como cristal. No centro, ao redor do trono, havia quatro seres viventes, cheios de olhos na frente e atrás.",
+"O primeiro ser vivente era semelhante a um leão; o segundo, a um novilho; o terceiro tinha rosto como de ser humano; e o quarto era semelhante a uma águia em voo.",
+"Os quatro seres viventes tinham, cada um, seis asas e eram cheios de olhos ao redor e por dentro. Dia e noite não cessavam de dizer: “Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem”.",
+"Quando os seres viventes dão glória, honra e ações de graças àquele que está sentado no trono, que vive para todo o sempre,",
+"os vinte e quatro anciãos se prostram diante daquele que está sentado no trono, adoram aquele que vive para todo o sempre e depositam suas coroas diante do trono, dizendo:",
+"“Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, pois criaste todas as coisas; por tua vontade elas existiram e foram criadas”."
 ],
 5: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3], pendingChapters: Array.from({length:19}, (_,i)=>i+4), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4], pendingChapters: Array.from({length:18}, (_,i)=>i+5), versePositions: 405, complete: false };
