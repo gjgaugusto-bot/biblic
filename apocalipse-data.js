@@ -282,37 +282,37 @@ window.REVELATION_TEXT = {
 "O lagar foi pisado fora da cidade, e dele saiu sangue até os freios dos cavalos, por mil e seiscentos estádios."
 ],
 15: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Vi no céu outro sinal, grande e admirável: sete anjos com as sete últimas pragas, pois nelas se consuma a ira de Deus.",
+"Vi algo semelhante a um mar de vidro misturado com fogo e os que venceram a besta, sua imagem e o número de seu nome, em pé junto ao mar de vidro, segurando harpas de Deus.",
+"Eles cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro: “Grandes e admiráveis são tuas obras, Senhor Deus, Todo-Poderoso! Justos e verdadeiros são teus caminhos, Rei das nações!",
+"Quem não temerá, Senhor, e não glorificará teu nome? Pois só tu és santo. Todas as nações virão e adorarão diante de ti, porque teus atos justos foram manifestados”.",
+"Depois dessas coisas, olhei, e abriu-se no céu o santuário da tenda do testemunho.",
+"Saíram do santuário os sete anjos que tinham as sete pragas, vestidos de linho puro e resplandecente, com faixas de ouro ao redor do peito.",
+"Um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive para todo o sempre.",
+"O santuário encheu-se de fumaça por causa da glória de Deus e do seu poder, e ninguém podia entrar no santuário até que se completassem as sete pragas dos sete anjos."
 ],
 16: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Ouvi uma voz forte que vinha do santuário, dizendo aos sete anjos: “Vão e derramem sobre a terra as sete taças da ira de Deus”.",
+"O primeiro saiu e derramou sua taça sobre a terra. Surgiram feridas malignas e dolorosas nas pessoas que tinham a marca da besta e adoravam sua imagem.",
+"O segundo anjo derramou sua taça no mar, e ele se tornou sangue como de morto; morreu toda criatura que vivia no mar.",
+"O terceiro derramou sua taça nos rios e nas fontes das águas, e eles se tornaram sangue.",
+"Ouvi o anjo das águas dizer: “Justo és tu, aquele que é e que era, o Santo, porque julgaste estas coisas;",
+"pois derramaram o sangue dos santos e dos profetas, e sangue lhes deste a beber; eles o merecem”.",
+"Ouvi o altar dizer: “Sim, Senhor Deus, Todo-Poderoso, verdadeiros e justos são teus juízos”.",
+"O quarto anjo derramou sua taça sobre o sol, e foi-lhe permitido queimar as pessoas com fogo.",
+"Elas foram queimadas por grande calor e blasfemaram o nome de Deus, que tem autoridade sobre essas pragas; não se arrependeram para lhe dar glória.",
+"O quinto anjo derramou sua taça sobre o trono da besta, e seu reino ficou em trevas. As pessoas mordiam a língua de dor",
+"e blasfemavam o Deus do céu por causa das dores e das feridas, mas não se arrependeram de suas obras.",
+"O sexto anjo derramou sua taça sobre o grande rio Eufrates, e suas águas secaram, para que se preparasse o caminho dos reis do Oriente.",
+"Vi sair da boca do dragão, da boca da besta e da boca do falso profeta três espíritos impuros, semelhantes a rãs.",
+"São espíritos de demônios que realizam sinais e vão aos reis de todo o mundo, a fim de reuni-los para a batalha do grande dia de Deus, o Todo-Poderoso.",
+"Eis que venho como ladrão. Feliz aquele que vigia e guarda suas roupas, para que não ande nu e não vejam sua vergonha.",
+"Os espíritos os reuniram no lugar que em hebraico se chama Armagedom.",
+"O sétimo anjo derramou sua taça no ar, e saiu do santuário, do trono, uma voz forte que dizia: “Está feito!”",
+"Houve relâmpagos, vozes e trovões, e um grande terremoto, tão forte como nunca houve desde que existem pessoas sobre a terra, um terremoto tão grande e intenso.",
+"A grande cidade dividiu-se em três partes, e as cidades das nações caíram. Deus se lembrou da grande Babilônia, para lhe dar o cálice do vinho do furor da sua ira.",
+"Todas as ilhas fugiram, e os montes não foram encontrados.",
+"Granizo enorme, pedras de cerca de um talento, caiu do céu sobre as pessoas; elas blasfemaram contra Deus por causa da praga do granizo, pois sua praga era extremamente grande."
 ],
 17: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6,7,8,9,10,11,12,13,14], pendingChapters: Array.from({length:8}, (_,i)=>i+15), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16], pendingChapters: Array.from({length:6}, (_,i)=>i+17), versePositions: 405, complete: false };
