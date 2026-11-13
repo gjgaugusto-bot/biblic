@@ -1,6 +1,6 @@
 /* Malaquias — tradução de trabalho própria em português, baseada no hebraico massorético.
  * Texto-base: WLC, Midvash/bible-data, versions/he/wlc/books/Mal.json.
- * Livro completo: 3 capítulos e 55 versículos; contagem conferida capítulo a capítulo.
+ * Livro completo: 4 capítulos e 55 versículos na divisão usada pelo catálogo do aplicativo. O texto-base WLC agrupa os últimos 6 versículos no capítulo 3; aqui eles aparecem como capítulo 4 para corresponder à divisão comum em português.
  * Revisão editorial e exegética aprofundada reservada à etapa global dos 66 livros.
  */
 window.MALACHI_TEXT = window.MALACHI_TEXT || {};
@@ -61,6 +61,9 @@ window.MALACHI_TEXT[3] = [
   "Então os que temiam YHWH falaram uns aos outros, e YHWH prestou atenção e ouviu; um livro memorial foi escrito diante dele para os que temem YHWH e consideram seu nome.",
   "“Eles serão meus”, diz YHWH dos Exércitos, “minha propriedade particular no dia em que eu agir; terei compaixão deles como um homem tem compaixão do filho que o serve.",
   "Então voltareis a distinguir entre o justo e o perverso, entre quem serve a Deus e quem não o serve.",
+];
+
+window.MALACHI_TEXT[4] = [
   "Pois eis que vem o dia, ardente como fornalha; todos os arrogantes e todos os que praticam a maldade serão como palha. O dia que vem os queimará”, diz YHWH dos Exércitos, “sem lhes deixar raiz nem ramo.",
   "Mas para vós que temeis meu nome nascerá o sol da justiça, trazendo cura em suas asas; saireis e saltareis como bezerros do curral.",
   "Pisareis os perversos, pois serão como cinzas sob as plantas de vossos pés no dia em que eu agir”, diz YHWH dos Exércitos.",

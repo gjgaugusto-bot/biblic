@@ -186,6 +186,50 @@ if (existsSync("index.html") && existsSync("app.js")) {
   if (!css.includes(".book-info") || !css.includes(".book-info-grid"))
     fail("Os estilos da ficha bibliográfica estão ausentes");
 }
+// Confere se os dados carregados cobrem todos os capítulos de cada livro integrado.
+// Gênesis é validado acima; Apocalipse permanece em PR separado até a revisão textual.
+if (existsSync("index.html") && existsSync("app.js")) {
+  const htmlForData = readFileSync("index.html", "utf8");
+  const appForData = readFileSync("app.js", "utf8");
+  const booksMatchForData = appForData.match(/const BOOKS=(\[[\s\S]*?\]);/);
+  if (booksMatchForData) {
+    try {
+      const booksForData = JSON.parse(booksMatchForData[1]);
+      const dataWindow = {};
+      const scriptFiles = [...htmlForData.matchAll(/<script[^>]+src=["']([^"']+)["']/g)]
+        .map((match) => match[1].split("?")[0])
+        .filter((file) => file.endsWith("-data.js") || /^exodus-\d+-\d+\.js$/.test(file));
+      for (const file of scriptFiles) {
+        if (!existsSync(file)) throw new Error("Arquivo de dados ausente: " + file);
+        runInNewContext(readFileSync(file, "utf8"), { window: dataWindow }, { filename: file });
+      }
+      const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
+        .map((match) => [Number(match[1]), match[2]]));
+      if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (livros 2–65); encontradas " + routes.size);
+      for (const [index, key] of routes) {
+        const book = booksForData[index];
+        const chapters = dataWindow[key];
+        if (!book || !chapters || typeof chapters !== "object") {
+          fail(book ? book.name + ": objeto de texto ausente (" + key + ")" : "Índice de livro inválido: " + index);
+          continue;
+        }
+        const chapterNumbers = Object.keys(chapters).filter((value) => /^\d+$/.test(value)).map(Number).sort((a, b) => a - b);
+        if (chapterNumbers.length !== book.chapters || chapterNumbers.some((chapter, position) => chapter !== position + 1))
+          fail(book.name + ": esperados capítulos 1–" + book.chapters + "; encontrados " + chapterNumbers.join(", "));
+        for (let chapter = 1; chapter <= book.chapters; chapter++) {
+          const verses = chapters[chapter];
+          if (!Array.isArray(verses) || verses.length === 0)
+            fail(book.name + " " + chapter + ": capítulo sem entradas de versículos");
+          else if (verses.some((verse) => typeof verse !== "string" || !verse.trim()))
+            fail(book.name + " " + chapter + ": há entrada de versículo vazia ou inválida");
+        }
+      }
+    } catch (error) {
+      fail("Falha na auditoria de cobertura dos capítulos: " + error.message);
+    }
+  }
+}
+
 if (existsSync("scripts/browser-smoke.mjs")) {
   const browserTests = readFileSync("scripts/browser-smoke.mjs", "utf8");
   if (!browserTests.includes("new AxeBuilder") || !browserTests.includes("clearData") || !browserTests.includes("exportData"))
