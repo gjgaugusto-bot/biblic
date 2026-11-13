@@ -500,3 +500,13 @@ Referências de consulta: Society for Old Testament Study, [Exodus](https://www.
 - 1 Samuel foi publicado no site após merge do PR #45; proteção e deploy passaram.
 - 2 Samuel avançou em branch exclusivo até o capítulo 12: 295 de 695 versículos (12/24 capítulos).
 - A regra de publicação permanece: somente integrar o livro após todos os capítulos estarem completos e conferidos.
+
+
+## Atualização de estado — 2026-11-13
+
+- Commit da `main` conferido: `72401db7daaaf98a2107ad263113231acd2b42ab`.
+- Catálogo: 66 livros / 1.189 capítulos. Apocalipse não está na `main`; PR #115 segue aberto e precisa de checks e integração antes de o site poder ser considerado completo.
+- Correção do editor para Josué, Juízes, Rute, 1 Samuel e 2 Samuel já integrada.
+- Foram identificados pontos técnicos na auditoria: deploy não estava condicionado aos testes; proteção administrativa da `main` não foi confirmada; testes de contagem canônica de versículos ainda são incompletos; documentação de status estava desatualizada.
+- Ver detalhes e correções propostas em `AUDITORIA-TECNICA-2026-11-13.md`.
+- Não iniciar publicação global nem marcar textos como revisados com base apenas em testes de estrutura. A revisão dos 66 livros e das notas será uma etapa editorial própria, com fontes originais e registro de cada decisão.
