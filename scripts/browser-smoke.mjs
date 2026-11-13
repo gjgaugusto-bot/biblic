@@ -120,6 +120,16 @@ try {
     assert.ok((await page.locator("#reader").innerText()).length > 100, `2 Coríntios ${chapter}: conteúdo carregado`);
   }
   await page.locator("#chapterList").click();
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(47).click();
+  const galatiansCounts = [24,21,29,31,26,18];
+  for (let chapter = 1; chapter <= 6; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), galatiansCounts[chapter - 1], `Gálatas ${chapter}: estrutura de versículos`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `Gálatas ${chapter}: conteúdo carregado`);
+  }
+  await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
