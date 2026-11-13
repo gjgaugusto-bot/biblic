@@ -9,7 +9,7 @@ window.EXODUS_TEXT = {
 "Dã e Naftali, Gade e Aser.",
 "O total dos descendentes de Jacó era de setenta pessoas; José, porém, já estava no Egito.",
 "José morreu, assim como todos os seus irmãos e toda aquela geração.",
-"Os filhos de Israel foram fecundos, multiplicaram-se abundantemente, tornaram-se numerosos e muito poderosos; e a terra ficou cheia deles.",
+"Os filhos de Israel foram fecundos, pulularam, multiplicaram-se e se fortaleceram muitíssimo; e a terra ficou cheia deles.",
 "Então se levantou sobre o Egito um novo rei, que não conhecera José.",
 "Ele disse ao seu povo: «Vejam: o povo dos filhos de Israel é mais numeroso e mais forte do que nós.",
 "Vamos agir com astúcia em relação a ele, para que não se multiplique; caso haja guerra, ele também poderá juntar-se aos nossos inimigos, lutar contra nós e sair da terra».",
