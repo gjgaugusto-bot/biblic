@@ -163,40 +163,40 @@ window.REVELATION_TEXT = {
 "Vi e ouvi uma águia que voava pelo meio do céu, dizendo em alta voz: “Ai, ai, ai dos que habitam na terra, por causa dos toques restantes da trombeta dos três anjos que ainda vão tocar!”"
 ],
 9: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"O quinto anjo tocou a trombeta, e vi uma estrela que havia caído do céu sobre a terra. Foi-lhe dada a chave do poço do abismo.",
+"Ela abriu o poço do abismo, e subiu fumaça do poço como fumaça de uma grande fornalha; o sol e o ar escureceram por causa da fumaça do poço.",
+"Da fumaça saíram gafanhotos sobre a terra, e foi-lhes dado poder semelhante ao dos escorpiões da terra.",
+"Foi-lhes ordenado que não danificassem a erva da terra, nem coisa verde alguma, nem árvore alguma, mas somente as pessoas que não tinham o selo de Deus na testa.",
+"Não lhes foi permitido matá-las, mas atormentá-las durante cinco meses. O tormento era como o de escorpião quando fere alguém.",
+"Naqueles dias, as pessoas procurarão a morte, mas não a encontrarão; desejarão morrer, mas a morte fugirá delas.",
+"Os gafanhotos pareciam cavalos preparados para a batalha. Sobre a cabeça tinham algo como coroas semelhantes a ouro, e o rosto era como rosto humano.",
+"Tinham cabelos como cabelos de mulheres, e os dentes eram como os de leões.",
+"Tinham couraças como couraças de ferro, e o ruído de suas asas era como o ruído de muitos carros e cavalos correndo para a batalha.",
+"Tinham caudas semelhantes às de escorpiões, com ferrões; nas caudas estava seu poder para ferir as pessoas durante cinco meses.",
+"Tinham sobre si como rei o anjo do abismo, cujo nome em hebraico é Abadom e, em grego, Apoliom.",
+"O primeiro ai passou. Eis que depois dessas coisas ainda vêm dois ais.",
+"O sexto anjo tocou a trombeta, e ouvi uma voz que vinha dos quatro chifres do altar de ouro que está diante de Deus,",
+"dizendo ao sexto anjo que tinha a trombeta: “Solte os quatro anjos que estão presos junto ao grande rio Eufrates”.",
+"Foram soltos os quatro anjos que estavam preparados para aquela hora, dia, mês e ano, a fim de matar um terço da humanidade.",
+"O número dos exércitos de cavalaria era de duzentos milhões; ouvi o número deles.",
+"Assim vi os cavalos e os cavaleiros na visão: tinham couraças cor de fogo, azul-fumaça e amarelo-enxofre; as cabeças dos cavalos eram como cabeças de leões, e de suas bocas saíam fogo, fumaça e enxofre.",
+"Por estas três pragas foi morto um terço da humanidade: pelo fogo, pela fumaça e pelo enxofre que saíam de suas bocas.",
+"Pois o poder dos cavalos está em sua boca e em suas caudas; suas caudas são semelhantes a serpentes, têm cabeças e com elas causam dano.",
+"Os demais seres humanos, que não foram mortos por essas pragas, não se arrependeram das obras de suas mãos: não deixaram de adorar demônios e ídolos de ouro, prata, bronze, pedra e madeira, que não podem ver, ouvir nem andar.",
+"Também não se arrependeram de seus homicídios, feitiçarias, imoralidade sexual e roubos."
 ],
 10: [
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"Vi outro anjo poderoso descendo do céu, envolto numa nuvem, com o arco-íris sobre a cabeça. Seu rosto era como o sol, e suas pernas como colunas de fogo.",
+"Tinha na mão um livrinho aberto. Pôs o pé direito sobre o mar e o esquerdo sobre a terra,",
+"e clamou em alta voz, como ruge um leão. Quando clamou, os sete trovões fizeram ouvir suas próprias vozes.",
+"Quando os sete trovões falaram, eu estava prestes a escrever, mas ouvi uma voz do céu dizendo: “Sele o que os sete trovões disseram e não escreva”.",
+"Então o anjo que vi em pé sobre o mar e sobre a terra levantou a mão direita para o céu",
+"e jurou por aquele que vive para todo o sempre, que criou o céu e tudo o que nele há, a terra e tudo o que nela há, e o mar e tudo o que nele há: “Já não haverá demora!",
+"Mas, nos dias da voz do sétimo anjo, quando ele estiver para tocar a trombeta, o mistério de Deus será consumado, conforme anunciou a seus servos, os profetas”.",
+"A voz que eu tinha ouvido do céu falou novamente comigo: “Vá, tome o livrinho aberto da mão do anjo que está em pé sobre o mar e sobre a terra”.",
+"Fui até o anjo e lhe pedi que me desse o livrinho. Ele me disse: “Tome-o e coma-o. Ele será amargo no seu estômago, mas na sua boca será doce como mel”.",
+"Tomei o livrinho da mão do anjo e o comi. Na boca era doce como mel; depois que o comi, meu estômago ficou amargo.",
+"Então me disseram: “É necessário que você profetize novamente a respeito de muitos povos, nações, línguas e reis”."
 ],
 11: [
 "",
@@ -453,4 +453,4 @@ window.REVELATION_TEXT = {
 ""
 ]
 };
-window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6,7,8], pendingChapters: Array.from({length:14}, (_,i)=>i+9), versePositions: 405, complete: false };
+window.REVELATION_DRAFT_STATUS = { translatedChapters: [1,2,3,4,5,6,7,8,9,10], pendingChapters: Array.from({length:12}, (_,i)=>i+11), versePositions: 405, complete: false };
