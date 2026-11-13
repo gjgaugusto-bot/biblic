@@ -24,7 +24,7 @@ Auditoria estática do repositório `gjgaugusto-bot/biblic`, branch `main`, comm
 ### T4 — A cobertura de testes de navegador é desigual
 **Severidade: média.** O validador estrutural carrega os módulos externos e verifica a existência de todos os capítulos e de arrays não vazios para cada livro integrado. Entretanto, a contagem canônica de versículos é conferida no validador para Gênesis; os testes de navegador fazem conferência detalhada de todos os capítulos apenas em Tiago e 1 Pedro, e verificam carregamento no editor dos cinco livros históricos corrigidos. Não existe ainda conferência automatizada independente de contagens canônicas de versículos para todos os capítulos de todos os livros.
 
-**Ação:** ampliar manifestos de contagens por capítulo, com fonte e edição identificadas, e testar leitor/editor contra eles. Não inferir correção textual apenas de uma contagem coincidente.
+**Correção parcial nesta branch:** o validador agora compara as 64 rotas externas do leitor com as 64 rotas do editor e falha se houver divergência. O smoke test também percorre os 65 livros atualmente integrados (Gênesis–Judas) e verifica o carregamento do primeiro capítulo no editor. **Pendente:** ampliar manifestos de contagens canônicas de versículos por capítulo, com fonte e edição identificadas, e testar leitor/editor contra eles. Não inferir correção textual apenas de uma contagem coincidente.
 
 ### T5 — Documentação de estado estava desatualizada
 **Severidade: média.** `ESTADO-OFICIAL-DO-PROJETO.md` e `PROGRESSO-DO-PROJETO.md` mantinham como estado corrente uma fila de novembro de 6, incluindo 1 Samuel como aguardando PR e a próxima tarefa como 2 Samuel, embora o catálogo atual já contenha a maior parte dos livros e o trabalho tenha avançado até Apocalipse.
