@@ -96,6 +96,11 @@ try {
   exodusReaderText = await page.locator("#reader").innerText();
   assert.ok(exodusReaderText.includes("vossos rebanhos e vosso gado"), "Êxodo 10:24 deve preservar o coletivo de pequenos animais");
   assert.ok(exodusReaderText.includes("Tson é um coletivo"), "A nota lexical de Êxodo 10:24 deve estar disponível");
+  await page.locator("#chapterList").click();
+  await page.locator('#chapterLinks [data-chapter-number="11"]').click();
+  exodusReaderText = await page.locator("#reader").innerText();
+  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), "Êxodo 11:5 deve preservar a referência às duas pedras do moinho");
+  assert.ok(exodusReaderText.includes("substantivo dual"), "A nota lexical de Êxodo 11:5 deve explicar רֵחָיִם");
   await page.locator('.navbtn[data-view="home"]').click();
 
   // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação integrada à main.
@@ -210,12 +215,6 @@ try {
     assert.ok((await page.locator("#reader").innerText()).length > 100, `Atos ${chapter} deve carregar conteúdo`);
   }
 
-  await page.locator("#chapterList").click();
-  await page.locator('#chapterLinks [data-chapter-number="11"]').click();
-  exodusReaderText = await page.locator("#reader").innerText();
-  const exodusChapter11Debug = await page.evaluate(() => ({ verse5: window.EXODUS_TEXT?.[11]?.[4], script: document.querySelector('script[src*="exodus-11-15.js"]')?.src }));
-  assert.ok(exodusReaderText.includes("atrás das pedras do moinho"), `Êxodo 11:5 deve preservar a referência às duas pedras do moinho; diagnóstico: ${JSON.stringify({ text: exodusReaderText, ...exodusChapter11Debug })}`);
-  assert.ok(exodusReaderText.includes("substantivo dual"), "A nota lexical de Êxodo 11:5 deve explicar רֵחָיִם");
   await page.locator('.navbtn[data-view="home"]').click();
   await page.locator(".book").nth(44).click();
   const romansPositions = [32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27];
