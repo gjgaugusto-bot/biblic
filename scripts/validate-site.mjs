@@ -191,19 +191,19 @@ if (existsSync("index.html") && existsSync("app.js")) {
 if (existsSync("index.html") && existsSync("app.js")) {
   const htmlForData = readFileSync("index.html", "utf8");
   const appForData = readFileSync("app.js", "utf8");
-  const booksMatchForData = appForData.match(/const BOOKS=(\\[[\\s\\S]*?\\]);/);
+  const booksMatchForData = appForData.match(/const BOOKS=(\[[\s\S]*?\]);/);
   if (booksMatchForData) {
     try {
       const booksForData = JSON.parse(booksMatchForData[1]);
       const dataWindow = {};
       const scriptFiles = [...htmlForData.matchAll(/<script[^>]+src=["']([^"']+)["']/g)]
         .map((match) => match[1].split("?")[0])
-        .filter((file) => file.endsWith("-data.js") || /^exodus-\\d+-\\d+\\.js$/.test(file));
+        .filter((file) => file.endsWith("-data.js") || /^exodus-\d+-\d+\.js$/.test(file));
       for (const file of scriptFiles) {
         if (!existsSync(file)) throw new Error("Arquivo de dados ausente: " + file);
         runInNewContext(readFileSync(file, "utf8"), { window: dataWindow }, { filename: file });
       }
-      const routes = new Map([...appForData.matchAll(/currentBook===(\\d+)\\?\\(window\\.([A-Z0-9_]+)\\?\\.\\[c\\]\\|\\|null\\)/g)]
+      const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
       if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (livros 2–65); encontradas " + routes.size);
       for (const [index, key] of routes) {
@@ -213,7 +213,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
           fail(book ? book.name + ": objeto de texto ausente (" + key + ")" : "Índice de livro inválido: " + index);
           continue;
         }
-        const chapterNumbers = Object.keys(chapters).filter((value) => /^\\d+$/.test(value)).map(Number).sort((a, b) => a - b);
+        const chapterNumbers = Object.keys(chapters).filter((value) => /^\d+$/.test(value)).map(Number).sort((a, b) => a - b);
         if (chapterNumbers.length !== book.chapters || chapterNumbers.some((chapter, position) => chapter !== position + 1))
           fail(book.name + ": esperados capítulos 1–" + book.chapters + "; encontrados " + chapterNumbers.join(", "));
         for (let chapter = 1; chapter <= book.chapters; chapter++) {
