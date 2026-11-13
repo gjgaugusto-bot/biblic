@@ -52,7 +52,7 @@ try {
     await page.locator("#editBook").selectOption(String(index));
     await page.locator("#editChapter").selectOption("1");
     const editorText = await page.locator("#chapterVerses").inputValue();
-    assert.ok(editorText.split(/\\r?\\n/).filter(line => line.trim()).length > 0, `O editor deve carregar o texto padrão do livro ${index}`);
+    assert.ok(editorText.split(/\r?\n/).filter(line => line.trim()).length > 0, `O editor deve carregar o texto padrão do livro ${index}`);
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
