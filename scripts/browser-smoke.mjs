@@ -110,7 +110,6 @@ try {
     assert.ok((await page.locator("#reader").innerText()).length > 100, `1 Coríntios ${chapter}: conteúdo carregado`);
   }
   await page.locator("#chapterList").click();
-  await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="home"]').click();
   await page.locator(".book").nth(46).click();
   const corinthians2Counts = [24,17,18,18,21,18,16,24,15,18,33,21,13];
