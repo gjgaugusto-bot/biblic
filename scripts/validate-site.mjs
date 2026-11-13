@@ -187,7 +187,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
     fail("Os estilos da ficha bibliográfica estão ausentes");
 }
 // Confere se os dados carregados cobrem todos os capítulos de cada livro integrado.
-// Gênesis é validado acima; Apocalipse permanece em PR separado até a revisão textual.
+// Gênesis é validado acima; os demais 65 livros têm dados externos, incluindo a primeira redação de Apocalipse.
 if (existsSync("index.html") && existsSync("app.js")) {
   const htmlForData = readFileSync("index.html", "utf8");
   const appForData = readFileSync("app.js", "utf8");
@@ -205,7 +205,7 @@ if (existsSync("index.html") && existsSync("app.js")) {
       }
       const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
-      if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (livros 2–65); encontradas " + routes.size);
+      if (routes.size !== 65) fail("Esperadas 65 rotas de dados externos (livros 2–66); encontradas " + routes.size);
       for (const [index, key] of routes) {
         const book = booksForData[index];
         const chapters = dataWindow[key];
