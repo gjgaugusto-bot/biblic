@@ -51,6 +51,30 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
+  // Apocalipse: conferir os 22 capítulos e as 405 posições da primeira redação no PR dedicado.
+  await page.locator(".book").nth(65).click();
+  const revelationCounts = [20,29,22,11,14,17,17,13,21,11,19,18,18,20,8,21,18,24,21,15,27,21];
+  let revelationTotal = 0;
+  for (let chapter = 1; chapter <= 22; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    const actual = await page.locator("#reader .verse-entry").count();
+    assert.equal(actual, revelationCounts[chapter - 1], `Apocalipse ${chapter}: estrutura de versículos`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `Apocalipse ${chapter}: conteúdo carregado`);
+    if (chapter === 1) {
+      assert.match(await page.locator(".translation-note strong").innerText(), /Apocalipse/);
+      assert.match(await page.locator(".translation-note span").innerText(), /revisão lexical.*pendente/);
+    }
+    revelationTotal += actual;
+  }
+  assert.equal(revelationTotal, 405, "Apocalipse deve preservar 405 posições de versículo");
+  await page.locator('.navbtn[data-view="admin"]').click();
+  await page.locator("#editBook").selectOption("65");
+  await page.locator("#editChapter").selectOption("22");
+  assert.ok((await page.locator("#chapterVerses").inputValue()).includes("A graça do Senhor Jesus"), "O editor deve carregar Apocalipse 22");
+  await page.locator('.navbtn[data-view="home"]').click();
+
+
   // Confere todos os livros integrados nesta revisão. Apocalipse entra quando seu módulo está carregado.
   const lastIntegratedBook = await page.evaluate(() => window.REVELATION_TEXT ? 65 : 64);
   await page.locator('.navbtn[data-view="admin"]').click();
