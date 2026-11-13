@@ -1169,7 +1169,7 @@ A segunda conferência comparativa foi documentada separadamente para os capítu
 - **Êxodo 2:10:** mantida a distinção entre o jogo de palavras hebraico com מְשִׁיתִהוּ (*meshitihu*, “eu o tirei”) e a origem histórica do nome Moshe. A pesquisa recente continua apresentando hipóteses egípcias, não uma etimologia consensual.
 - **Êxodo 4:24–26:** mantida a nota de ambiguidade. A literatura acadêmica confirma que os pronomes, o objeto do ataque, os “pés” e a ação de Zípora são discutidos; nenhuma hipótese foi promovida a certeza na tradução.
 - Nos demais versículos dos capítulos 1–5 não foi identificada, nesta segunda conferência, omissão ou alteração objetiva que exigisse mudança no texto.
-- **Estado editorial:** capítulos 1–5 estão **Revisados** no controle por versículo (122 registros), com fonte e observação; capítulos 6–10 permanecem **Em revisão**. A marcação não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente.
+- **Estado editorial nesta etapa:** capítulos 1–5 estão **Revisados** no controle por versículo (122 registros), com fonte e observação. Na data desta anotação, a segunda conferência de 6–10 ainda estava em andamento; sua conclusão está registrada na seção seguinte. A marcação não equivale a colação crítica integral de manuscritos nem a certificação acadêmica independente.
 
 #### Fontes desta segunda conferência
 
