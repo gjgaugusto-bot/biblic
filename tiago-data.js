@@ -80,4 +80,46 @@ window.JAMES_TEXT = {
     "A sabedoria que vem do alto é, antes de tudo, pura; depois, pacífica, amável, compreensiva, cheia de misericórdia e de bons frutos, imparcial e sincera.",
     "O fruto da justiça é semeado em paz pelos que promovem a paz."
   ],
+
+  4: [
+    "De onde vêm as guerras e as brigas entre vocês? Não vêm dos desejos que lutam dentro de vocês?",
+    "Vocês desejam e não têm; matam e invejam, mas não conseguem obter. Brigam e guerreiam. Não têm porque não pedem.",
+    "Pedem e não recebem, porque pedem com más intenções, para gastar em seus próprios prazeres.",
+    "Adúlteros! Não sabem que a amizade com o mundo é inimizade contra Deus? Portanto, quem quiser ser amigo do mundo constitui-se inimigo de Deus.",
+    "Ou vocês pensam que a Escritura diz sem razão que o Espírito que ele fez habitar em nós anseia com ciúme?",
+    "Mas ele concede graça ainda maior. Por isso diz: “Deus se opõe aos orgulhosos, mas concede graça aos humildes”.",
+    "Sujeitem-se, portanto, a Deus; resistam ao diabo, e ele fugirá de vocês.",
+    "Aproximem-se de Deus, e ele se aproximará de vocês. Limpem as mãos, pecadores, e purifiquem o coração, vocês que têm ânimo dividido.",
+    "Reconheçam sua miséria, lamentem e chorem. Que o riso de vocês se transforme em lamento, e a alegria, em tristeza.",
+    "Humilhem-se diante do Senhor, e ele os exaltará.",
+    "Irmãos, não falem mal uns dos outros. Quem fala mal de um irmão ou julga seu irmão fala mal da lei e julga a lei. Se você julga a lei, não é praticante dela, mas juiz.",
+    "Um só é Legislador e Juiz, aquele que pode salvar e destruir. Quem é você para julgar o próximo?",
+    "Agora, vocês que dizem: “Hoje ou amanhã iremos a tal cidade, passaremos ali um ano, negociaremos e teremos lucro”,",
+    "vocês não sabem o que acontecerá amanhã. O que é a vida de vocês? Vocês são como neblina que aparece por pouco tempo e depois desaparece.",
+    "Em vez disso, deveriam dizer: “Se o Senhor quiser, viveremos e faremos isto ou aquilo”.",
+    "Agora, porém, vocês se orgulham de suas arrogantes pretensões. Todo orgulho assim é mau.",
+    "Portanto, quem sabe fazer o bem e não o faz comete pecado."
+  ],
+  5: [
+    "Agora, ricos, chorem e lamentem por causa das desgraças que estão para vir sobre vocês.",
+    "As suas riquezas apodreceram, e as suas roupas foram comidas pelas traças.",
+    "O ouro e a prata de vocês enferrujaram, e a ferrugem deles será testemunha contra vocês e consumirá a carne de vocês como fogo. Vocês acumularam tesouros nos últimos dias.",
+    "Vejam! O salário dos trabalhadores que colheram os campos de vocês, retido por fraude, clama; e os clamores dos ceifeiros chegaram aos ouvidos do Senhor dos Exércitos.",
+    "Vocês viveram na terra em luxo e prazer; engordaram o coração para o dia da matança.",
+    "Condenaram e mataram o justo, sem que ele lhes oferecesse resistência.",
+    "Portanto, irmãos, sejam pacientes até a vinda do Senhor. Vejam como o agricultor espera o precioso fruto da terra, aguardando com paciência as chuvas do outono e da primavera.",
+    "Sejam também pacientes e fortaleçam o coração, pois a vinda do Senhor está próxima.",
+    "Irmãos, não se queixem uns dos outros, para que não sejam julgados. Eis que o Juiz está às portas.",
+    "Irmãos, tomem como exemplo de sofrimento e paciência os profetas que falaram em nome do Senhor.",
+    "Vejam: consideramos felizes os que perseveraram. Vocês ouviram falar da perseverança de Jó e viram o propósito do Senhor, pois o Senhor é cheio de compaixão e misericórdia.",
+    "Acima de tudo, meus irmãos, não jurem, nem pelo céu, nem pela terra, nem por qualquer outro juramento. Que o sim de vocês seja sim, e o não seja não, para que não caiam em condenação.",
+    "Alguém entre vocês está sofrendo? Ore. Alguém está alegre? Cante louvores.",
+    "Alguém entre vocês está doente? Chame os presbíteros da igreja, e eles orem sobre ele, ungindo-o com óleo em nome do Senhor.",
+    "A oração da fé salvará o doente, e o Senhor o levantará; e, se tiver cometido pecados, será perdoado.",
+    "Portanto, confessem os pecados uns aos outros e orem uns pelos outros, para que sejam curados. A súplica de uma pessoa justa é muito poderosa em sua atuação.",
+    "Elias era humano como nós. Ele orou fervorosamente para que não chovesse, e não choveu sobre a terra durante três anos e seis meses.",
+    "Depois orou novamente, e o céu deu chuva, e a terra produziu seu fruto.",
+    "Meus irmãos, se alguém entre vocês se desviar da verdade e outra pessoa o fizer voltar,",
+    "saiba que quem traz de volta um pecador do caminho errado salvará a vida dele da morte e cobrirá uma multidão de pecados."
+  ]
 };
