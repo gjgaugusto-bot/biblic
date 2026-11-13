@@ -61,6 +61,10 @@ try {
     const actual = await page.locator("#reader .verse-entry").count();
     assert.equal(actual, revelationCounts[chapter - 1], `Apocalipse ${chapter}: estrutura de versículos`);
     assert.ok((await page.locator("#reader").innerText()).length > 100, `Apocalipse ${chapter}: conteúdo carregado`);
+    if (chapter === 1) {
+      assert.match(await page.locator(".translation-note strong").innerText(), /Apocalipse/);
+      assert.match(await page.locator(".translation-note span").innerText(), /revisão lexical.*pendente/);
+    }
     revelationTotal += actual;
   }
   assert.equal(revelationTotal, 405, "Apocalipse deve preservar 405 posições de versículo");
