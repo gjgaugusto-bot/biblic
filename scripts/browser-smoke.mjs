@@ -51,9 +51,10 @@ try {
     await page.locator('.navbtn[data-view="home"]').click();
   }
 
-  // Confere o carregamento do texto padrão no editor para todos os 65 livros integrados.
+  // Confere todos os livros integrados nesta revisão. Apocalipse entra quando seu módulo está carregado.
+  const lastIntegratedBook = await page.evaluate(() => window.REVELATION_TEXT ? 65 : 64);
   await page.locator('.navbtn[data-view="admin"]').click();
-  for (let index = 0; index <= 64; index++) {
+  for (let index = 0; index <= lastIntegratedBook; index++) {
     await page.locator("#editBook").selectOption(String(index));
     await page.locator("#editChapter").selectOption("1");
     const editorText = await page.locator("#chapterVerses").inputValue();
