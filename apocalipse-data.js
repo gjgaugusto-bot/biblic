@@ -1,7 +1,7 @@
 // Apocalipse — estrutura de trabalho baseada nos identificadores SBLGNT/MorphGNT.
 // Contagens por capítulo: 20, 29, 22, 11, 14, 17, 17, 13, 21, 11, 19, 18, 18, 20, 8, 21, 18, 24, 21, 15, 27, 21 (405 posições).
-// ATENÇÃO: primeira redação parcial. Capítulo 1 redigido; capítulos 2–22 ainda sem tradução.
-// Não publicar como livro concluído. Revisão lexical, gramatical, textual e exegética pendente.
+// ATENÇÃO: primeira redação de trabalho presente nos 22 capítulos (405 posições de versículo).
+// Esta redação ainda não foi auditada nem aprovada para publicação. Revisão lexical, gramatical, sintática, textual e exegética pendente.
 window.REVELATION_TEXT = {
 1: [
 "Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer. Ele a comunicou, enviando seu anjo, ao seu servo João,",
