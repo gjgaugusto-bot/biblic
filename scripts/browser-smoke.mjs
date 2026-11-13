@@ -202,6 +202,11 @@ try {
     assert.equal(await page.locator("#reader .verse-entry").count(), titusCounts[chapter - 1], `Tito ${chapter}: estrutura de versículos`);
     assert.ok((await page.locator("#reader").innerText()).length > 100, `Tito ${chapter}: conteúdo carregado`);
   }
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(56).click();
+  await page.locator(`#chapterLinks [data-chapter-number="1"]`).click();
+  assert.equal(await page.locator("#reader .verse-entry").count(), 25, "Filemom: estrutura de versículos");
+  assert.ok((await page.locator("#reader").innerText()).length > 100, "Filemom: conteúdo carregado");
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
