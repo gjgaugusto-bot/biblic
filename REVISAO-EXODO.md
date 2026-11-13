@@ -13,7 +13,7 @@ Este arquivo acompanha a revisão textual e lexical da tradução de trabalho. �
 
 | Capítulos | Estado | Observações |
 |---|---|---|
-| 1–5 | Revisado | Segunda conferência concluída; 122 versículos registrados. Êxodo 1:7 reaberto por nova evidência lexical. |
+| 1–5 | Revisado (1:7 reaberto) | Segunda conferência concluída; 121 versículos permanecem revisados e Êxodo 1:7 está reaberto por nova evidência lexical. |
 | 6–10 | Revisado | Segunda conferência concluída; 151 versículos registrados. |
 | 11–15 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
 | 16–20 | Em revisão | Integração estrutural já verificada anteriormente; revisão textual independente pendente. |
