@@ -25,7 +25,7 @@ window.EXODUS_TEXT[21] = [
   "Quando alguém ferir seu servo ou sua serva com um bastão, e este morrer sob sua mão, será punido.",
   "Mas, se sobreviver um ou dois dias, não será punido, pois é propriedade de seu senhor.",
   "Quando homens brigarem e atingirem uma mulher grávida, e ela der à luz prematuramente, mas não houver dano grave, o responsável pagará a multa que o marido exigir, conforme a decisão dos juízes.",
-  "Mas, se houver dano grave, pagarás vida por vida,",
+  "Mas, se houver dano, pagarás vida por vida,",
   "olho por olho, dente por dente, mão por mão, pé por pé,",
   "queimadura por queimadura, ferida por ferida, golpe por golpe.",
   "Quando alguém ferir o olho de seu servo ou de sua serva e o destruir, deverá deixá-lo livre por causa do olho.",
@@ -70,7 +70,7 @@ window.EXODUS_TEXT[22] = [
   "Se tomares como penhor a roupa do teu próximo, devolverás a ele antes do pôr do sol,",
   "pois essa roupa é sua única cobertura; é a veste de seu corpo. Em que se deitará? Quando clamar a mim, eu o ouvirei, pois sou misericordioso.",
   "Não insultes a Deus nem amaldiçoes o chefe do teu povo.",
-  "Não demores a oferecer o que enche teus celeiros e teus lagares. Darás a mim o primogênito de teus filhos.",
+  "Não demores a oferecer a abundância de tua colheita e o produto de teus lagares. Darás a mim o primogênito de teus filhos.",
   "Farás o mesmo com teus bois e tuas ovelhas: ficará sete dias com sua mãe; no oitavo dia o darás a mim.",
   "Vocês serão homens consagrados a mim. Não comam carne de animal despedaçado no campo; lancem-na aos cães."
 ];
@@ -161,7 +161,7 @@ window.EXODUS_TEXT[25] = [
   "Farás para ela quatro argolas de ouro e colocarás as argolas nos quatro cantos, junto aos seus quatro pés.",
   "As argolas ficarão perto da borda, como encaixes para os varais usados para carregar a mesa.",
   "Farás os varais de madeira de acácia e os revestirás de ouro; com eles a mesa será carregada.",
-  "Farás seus pratos, suas colheres, suas taças e suas jarras para as libações; farás tudo de ouro puro.",
+  "Farás seus pratos e colheres, bem como suas jarras e taças para as libações; farás tudo de ouro puro.",
   "Colocarás sobre a mesa o pão da Presença, continuamente diante de mim.",
   "Farás um candelabro de ouro puro. O candelabro será feito de ouro batido: sua base, sua haste, seus cálices, seus botões e suas flores formarão uma só peça.",
   "Seis braços sairão de seus lados: três braços do candelabro de um lado e três do outro.",
@@ -170,7 +170,7 @@ window.EXODUS_TEXT[25] = [
   "Haverá um botão debaixo de cada par dos seis braços que saem do candelabro.",
   "Seus botões e seus braços formarão uma só peça com ele; tudo será uma só peça de ouro puro, batido.",
   "Farás também sete lâmpadas para ele; suas lâmpadas serão colocadas de modo a iluminar a parte dianteira.",
-  "Suas espevitadeiras e seus apagadores serão de ouro puro.",
+  "Suas espevitadeiras e suas bandejas para recolher as cinzas serão de ouro puro.",
   "Será feito com um talento de ouro puro, juntamente com todos esses utensílios.",
   "Vê, pois, e faze tudo conforme o modelo que te foi mostrado no monte."
 ];
