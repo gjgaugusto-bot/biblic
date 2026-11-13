@@ -175,6 +175,15 @@ try {
     assert.equal(await page.locator("#reader .verse-entry").count(), thessalonians2Counts[chapter - 1], `2 Tessalonicenses ${chapter}: estrutura de versículos`);
     assert.ok((await page.locator("#reader").innerText()).length > 100, `2 Tessalonicenses ${chapter}: conteúdo carregado`);
   }
+  await page.locator('.navbtn[data-view="home"]').click();
+  await page.locator(".book").nth(53).click();
+  const timothy1Counts = [20,15,16,16,25,21];
+  for (let chapter = 1; chapter <= 6; chapter++) {
+    if (chapter > 1) await page.locator("#chapterList").click();
+    await page.locator(`#chapterLinks [data-chapter-number="${chapter}"]`).click();
+    assert.equal(await page.locator("#reader .verse-entry").count(), timothy1Counts[chapter - 1], `1 Timóteo ${chapter}: estrutura de versículos`);
+    assert.ok((await page.locator("#reader").innerText()).length > 100, `1 Timóteo ${chapter}: conteúdo carregado`);
+  }
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
