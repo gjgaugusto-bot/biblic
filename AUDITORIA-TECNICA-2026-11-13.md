@@ -43,6 +43,11 @@ Auditoria estática do repositório `gjgaugusto-bot/biblic`, branch `main`, comm
 - O fluxo de backup local documenta corretamente que localStorage não sincroniza automaticamente com GitHub nem entre dispositivos.
 - O controle editorial separa estados de revisão da integração técnica e declara que não verifica hebraico/grego automaticamente.
 
+## Lacuna editorial já identificada para a etapa seguinte
+
+- A página carrega módulos de notas lexicais para Gênesis, Êxodo, Levítico, Números, Deuteronômio e Josué. Nesta inspeção, não foram identificados módulos equivalentes para os demais livros integrados. Isso não prova que não existam outras notas em campos de estudo, mas indica que a cobertura de notas lexicais é desigual e precisa de inventário por livro/capítulo/versículo antes da revisão editorial.
+- As notas existentes também precisam ser auditadas contra o texto hebraico/grego, com atenção à forma original, transliteração, campo semântico, contexto, variantes e afirmações gramaticais.
+
 ## Não verificado nesta rodada
 
 - Correção gramatical, lexical, sintática ou exegética de cada versículo.
