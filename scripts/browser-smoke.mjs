@@ -140,7 +140,6 @@ try {
     assert.ok((await page.locator("#reader").innerText()).length > 100, `Efésios ${chapter}: conteúdo carregado`);
   }
   await page.locator("#chapterList").click();
-  await page.locator("#chapterList").click();
   await page.locator('.navbtn[data-view="admin"]').click();
   await page.locator("#adminView").waitFor({ state: "visible" });
   assert.ok((await page.locator("#adminView").innerText()).includes("livros que já possuem esse material"), "A orientação do editor lexical deve abranger todos os livros com notas");
