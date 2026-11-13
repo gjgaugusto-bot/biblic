@@ -113,3 +113,13 @@ Fontes consultadas: Mechon-Mamre, Êxodo 28 e 39; texto hebraico massorético.
 - **Êxodo 38:8:** ampliada a nota sobre as mulheres junto à entrada da tenda. O verbo צבא pode indicar reunião em grupos ou serviço organizado; a função exata permanece incerta.
 
 - **Êxodo 4:24–26:** corrigida a nota explicativa: o sujeito de “procurou matá-lo” é explicitamente YHWH no hebraico; a ambiguidade está no objeto do verbo e nos referentes de “pés” e “a ele”.
+
+
+### Êxodo 1:7 — conferência lexical pontual (2026-11-13)
+
+- **Correção aplicada:** “multiplicaram-se abundantemente, tornaram-se numerosos e muito poderosos” foi substituído por “pulularam, multiplicaram-se e se fortaleceram muitíssimo”.
+- **Base:** OSHB / Westminster Leningrad Codex, Êxodo 1:7. O versículo contém a sequência פָּרוּ (*paru*, פרה), וַיִּשְׁרְצוּ (*vayyishretsu*, שרץ), וַיִּרְבּוּ (*vayyirbu*, רבה), וַיַּעַצְמוּ (*vayya'atsmu*, עצם), seguida da intensificação בִּמְאֹד מְאֹד (*bime'od me'od*).
+- **Motivo:** a redação anterior condensava שרץ (“pulular/enxamear”) em “multiplicaram-se abundantemente” e deslocava a ideia de רבה para “tornaram-se numerosos”. “Muito poderosos” também podia sugerir poder político ou militar; “se fortaleceram muitíssimo” fica mais próximo de עצם no contexto.
+- **Nota lexical:** atualizada para distinguir explicitamente os três verbos e registrar a imagem de שרץ.
+- **Escopo:** revisão lexical pontual de Êxodo 1:7. Não encerra a revisão do capítulo 1 nem dos capítulos 1–10.
+- **Fonte primária:** Open Scriptures Hebrew Bible / Westminster Leningrad Codex, arquivo wlc/Exod.xml, OSIS Exod.1.7, https://github.com/openscriptures/morphhb/blob/master/wlc/Exod.xml . O arquivo declara a licença CC BY 4.0 para os dados OSHB; o WLC é identificado como domínio público.
