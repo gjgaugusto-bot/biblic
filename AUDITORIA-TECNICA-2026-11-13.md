@@ -34,6 +34,16 @@ Auditoria estática do repositório `gjgaugusto-bot/biblic`, branch `main`, comm
 ### T6 — Documentação afirmava proteção da main sem evidência atual
 **Severidade: alta.** O protocolo afirmava que o ruleset estava ativo e bloqueava push direto, mas a leitura atual retornou `protected=false` e nenhum ruleset. A afirmação foi corrigida no texto de continuidade desta branch; a configuração administrativa ainda precisa ser feita no GitHub.
 
+### T7 — Metadados de Atos exageravam o nível de conferência
+**Severidade: média (rastreabilidade editorial).** O cabeçalho de `atos-data.js` afirmava conferência lexical baseada no MorphGNT, embora o procedimento documentado tivesse conferido IDs/estrutura de capítulo e versículo, não análise lexical palavra a palavra.
+
+**Correção nesta branch:** substituído por declaração precisa de conferência estrutural e explicitado que auditoria lexical e gramatical permanece pendente.
+
+### T8 — Pull requests antigos e sobrepostos mantinham propostas obsoletas abertas
+**Severidade: baixa (governança).** Foram encontrados PRs antigos baseados em branches e estados anteriores, incluindo uma redação parcial de Atos já substituída pela versão completa e propostas antigas de hardening de abas.
+
+**Limpeza realizada:** fechados PRs #81 (Atos parcial/branch empilhada já superada), #26–#29 (hardening de abas/cache já refletido na `main`) e #1 (teste/formatação obsoletos). PR #83 permanece aberto porque contém correção de metadados que agora também está nesta branch; PRs #37 e #40 permanecem abertos para não descartar trabalho de revisão de Êxodo.
+
 ## Verificações positivas nesta inspeção
 
 - Catálogo contém 66 livros, com 1.189 capítulos previstos.
