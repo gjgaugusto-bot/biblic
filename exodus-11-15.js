@@ -6,7 +6,7 @@ window.EXODUS_TEXT[11] = [
 "Fala, por favor, aos ouvidos do povo: que cada homem peça ao seu vizinho, e cada mulher à sua vizinha, objetos de prata e objetos de ouro».",
 "YHWH concedeu ao povo favor aos olhos dos egípcios. Além disso, o próprio Moisés era muito estimado na terra do Egito, aos olhos dos servos do faraó e aos olhos do povo.",
 "Moisés disse: «Assim diz YHWH: Por volta da meia-noite sairei pelo meio do Egito.",
-"Todo primogênito na terra do Egito morrerá, desde o primogênito do faraó, que se assenta em seu trono, até o primogênito da serva que está atrás do moinho, e todo primogênito dos animais.",
+"Todo primogênito na terra do Egito morrerá, desde o primogênito do faraó, que se assenta em seu trono, até o primogênito da serva que está atrás das pedras do moinho, e todo primogênito dos animais.",
 "Haverá grande clamor em toda a terra do Egito, como nunca houve e como jamais voltará a haver.",
 "Mas contra nenhum dos filhos de Israel um cão sequer afiará a língua, nem contra homem nem contra animal, para que saibais que YHWH faz distinção entre o Egito e Israel.",
 "Então todos estes teus servos descerão até mim, se prostrarão diante de mim e dirão: ‘Sai, tu e todo o povo que te segue’. Depois disso, sairei». E Moisés saiu da presença do faraó ardendo em ira.",
