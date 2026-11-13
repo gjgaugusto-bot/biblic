@@ -1154,11 +1154,11 @@ Demais versículos (40:1–8, 40:12–33 e 40:34–38): conferidos quanto à ord
 
 ---
 
-## Fechamento da primeira revisão integral de Êxodo 1–40
+## Primeira conferência textual e lexical de Êxodo 1–40 — registro histórico (2026-11-06)
 
-Em 2026-11-06, os quarenta capítulos de Êxodo foram conferidos em primeira passada textual e lexical contra o Texto Massorético, com comparação de traduções e comentários de referência. As correções e notas específicas estão registradas por capítulo acima. O estado editorial do livro passa a **Revisado** no controle por versículo.
+Em 2026-11-06, os quarenta capítulos de Êxodo passaram por uma primeira conferência textual e lexical contra o Texto Massorético, com comparação de traduções e comentários de referência. As correções, ambiguidades e notas específicas estão registradas por capítulo acima. Esta primeira passada é um registro de trabalho e **não transfere automaticamente os versículos para o estado Revisado**.
 
-“Revisado” significa que a tradução passou pela conferência editorial documentada e está aprovada para a versão atual; não significa que toda dificuldade textual ou interpretativa desapareceu. Ambiguidades legítimas permanecem assinaladas nas notas. Uma reabertura futura exige erro concreto ou fonte relevante, com justificativa registrada. Não reiniciar a revisão por mudança de conversa, sessão ou ferramenta.
+A segunda conferência comparativa foi documentada separadamente para os capítulos 1–10. Após nova evidência lexical, Êxodo 1:7 foi reaberto em 2026-11-13. Os demais versículos dos capítulos 1–10 permanecem registrados como Revisados; os capítulos 11–40 permanecem Em revisão até uma conferência posterior e uma transição explícita no controle.
 
 
 ### Êxodo 1–5 — segunda conferência comparativa (2026-11-06)
@@ -1208,3 +1208,6 @@ Em 2026-11-06, os quarenta capítulos de Êxodo foram conferidos em primeira pas
 - A tradução atual “pulularam, multiplicaram-se e se fortaleceram muitíssimo” e a nota lexical foram adicionadas após cotejo com OSHB/WLC, OSIS Exod.1.7.
 - O versículo 1:7 foi explicitamente reaberto no controle editorial; os demais versículos de Êxodo 1–10 mantêm o estado da segunda conferência.
 - Fonte: https://github.com/openscriptures/morphhb/blob/master/wlc/Exod.xml .
+
+
+**Preservação de dados locais:** esta consolidação atualiza apenas o estado-base versionado no código. Não lê, limpa nem sobrescreve registros de revisão já existentes no localStorage dos navegadores; eventuais sobreposições locais continuam sob controle do usuário e devem ser exportadas/avaliadas separadamente.
