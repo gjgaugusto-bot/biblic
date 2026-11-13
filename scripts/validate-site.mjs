@@ -205,7 +205,16 @@ if (existsSync("index.html") && existsSync("app.js")) {
       }
       const routes = new Map([...appForData.matchAll(/currentBook===(\d+)\?\(window\.([A-Z0-9_]+)\?\.\[c\]\|\|null\)/g)]
         .map((match) => [Number(match[1]), match[2]]));
-      if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (livros 2–65); encontradas " + routes.size);
+      if (routes.size !== 64) fail("Esperadas 64 rotas de dados externos (índices 1–64); encontradas " + routes.size);
+      const editorRoutes = new Map([...appForData.matchAll(/book===(\\d+)\\?\\(window\\.([A-Z0-9_]+)\\?\\.\\[chapter\\]\\|\\|\\[\\]\\)/g)]
+        .map((match) => [Number(match[1]), match[2]]));
+      if (editorRoutes.size !== 64) fail("Esperadas 64 rotas de dados no editor (índices 1–64); encontradas " + editorRoutes.size);
+      for (const [index, key] of routes) {
+        if (editorRoutes.get(index) !== key) fail("Rota do editor ausente ou divergente para " + (booksForData[index]?.name || "índice " + index));
+      }
+      for (const [index] of editorRoutes) {
+        if (!routes.has(index)) fail("O editor possui rota sem correspondente no leitor: índice " + index);
+      }
       for (const [index, key] of routes) {
         const book = booksForData[index];
         const chapters = dataWindow[key];
